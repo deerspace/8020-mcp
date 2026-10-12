@@ -114,6 +114,14 @@
     "weight_lb_per_in": 0.016,
     "max_length_in": 145
    }
+  },
+  {
+   "part_number": "TEST-PANEL",
+   "name": "Synthetic acrylic panel",
+   "category": "panel",
+   "series": [
+    "F"
+   ]
   }
  ]
 }

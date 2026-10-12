@@ -136,7 +136,7 @@ server.registerTool(
   {
     title: "Build bill of materials",
     description:
-      "Price a parts list. Profiles need length_in (cut-to-length price + cut charge per piece). Returns line totals, weight, and warnings such as fasteners a bracket needs that are sold separately.",
+      "Price a parts list. Profiles and other cut-to-length parts need length_in (price per inch + cut charge per piece); panels sold by the square foot need width_in and height_in. Returns line totals, weight, and warnings such as fasteners a bracket needs that are sold separately.",
     inputSchema: {
       items: z
         .array(
@@ -144,6 +144,8 @@ server.registerTool(
             part_number: z.string(),
             qty: z.number().int().positive(),
             length_in: z.number().positive().optional(),
+            width_in: z.number().positive().optional(),
+            height_in: z.number().positive().optional(),
           }),
         )
         .min(1),

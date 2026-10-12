@@ -13,7 +13,7 @@ An MCP server with a local catalog of **80/20 fractional 15 series** T-slot part
 | `get_part` | Full record for one or more parts: specs, dimensions, section properties, suggested mounting hardware, catalog page, price if checked. |
 | `recommend_profile` | Every 15 series profile and orientation stiff and strong enough for a span and load, lightest first. |
 | `beam_deflection` | Deflection, bending stress and safety factor for a chosen profile, span, load and support. |
-| `build_bom` | Price a parts list (cut-to-length profiles include the per-piece cut charge) and list the mounting hardware each bracket needs. |
+| `build_bom` | Price a parts list: cut-to-length parts by the inch plus a cut charge per piece, panels by the square foot, everything else per piece. Lists the mounting hardware each bracket needs. |
 | `optimize_cuts` | Pack cut pieces into stock bars to minimize waste when you cut your own. |
 
 ## Setup
@@ -47,7 +47,8 @@ claude mcp add 8020 -- node "$(pwd)/dist/index.js"
 ## Data
 
 - `data/catalog.json`: parts, specs and suggested hardware, extracted from the 80/20 catalog PDF.
-- `data/prices.json`: list prices read from 8020.net, each with the date it was checked. The PDF has no prices, so most parts are unpriced until added here; `build_bom` reports which lines are unpriced.
+- `data/prices.json`: 8020.net list prices for 2,179 of the 2,388 parts, checked 2026-10-12: price per piece, per inch (with the cut charge per piece) or per square foot for panels (with the cut charge, waived at the stock sheet size). Unpriced: the 188 machining services, which 8020.net prices while configuring an order, and 21 parts with no product page of their own (fixed-length variants, framed mesh panels, guarding posts). `build_bom` lists any unpriced lines.
+- `data/sources/`: the raw price rows and unit overrides `prices.json` is built from.
 - `data/raw/`: the per-chunk extraction output that `catalog.json` is merged from.
 
 Series badges as printed in the catalog: `15` = 15 series, `F` = fractional hardware (fits 10 and 15 series), `RT` = Ready Tube, `QF` = Quick Frame, `P` = pipe. A few parts badged only `10` or `M` (metric) are included because 15 series parts list them as suggested or included hardware. Bolt assembly tables print no badge, so their series comes from the thread size (5/16-18 = 15).
@@ -83,6 +84,14 @@ python3 -I scripts/catalog/merge.py data/raw data/catalog.json
 ```
 
 `check.py` confirms every part number and spec value appears in the page text and that every badged row was extracted. `merge.py` deduplicates parts that appear on several pages.
+
+### Refreshing prices
+
+Prices were read in a browser on 8020.net (its storefront blocks plain HTTP clients): batched catalog searches give each part's price and whether it is per inch, and product pages give the cut charge. Panels show "Price Per SQFT" on the page although their structured data says per inch, so `price-units-*.txt` overrides them. To rebuild `prices.json` from a new collection:
+
+```bash
+python3 -I scripts/catalog/import_prices.py data/sources/prices-2026-10-12.txt 2026-10-12 --units data/sources/price-units-2026-10-12.txt
+```
 
 ### Data quality
 

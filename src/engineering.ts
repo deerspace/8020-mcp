@@ -80,7 +80,11 @@ function deflectionGuidance(L: number, d: number): string {
 export interface BomItem {
   part_number: string;
   qty: number;
+  /** Cut length for parts sold by the inch. */
   length_in?: number;
+  /** Panel size for parts sold by the square foot. */
+  width_in?: number;
+  height_in?: number;
 }
 
 export function buildBom(catalog: Catalog, items: BomItem[]) {
@@ -100,10 +104,10 @@ export function buildBom(catalog: Catalog, items: BomItem[]) {
     }
 
     const geometry = part.profile ?? part.shape;
-    const perInch = part.price ? part.price.price_unit === "per_inch" : !!geometry;
+    const priceUnit = part.price?.price_unit ?? (geometry ? "per_inch" : "each");
     let unit: number | null = null;
     let lineWeight: number | null = null;
-    if (perInch) {
+    if (priceUnit === "per_inch") {
       if (item.length_in == null) {
         warnings.push(`${part.part_number}: is cut to length, so it needs length_in.`);
       } else {
@@ -111,6 +115,18 @@ export function buildBom(catalog: Catalog, items: BomItem[]) {
         if (max && item.length_in > max) warnings.push(`${part.part_number}: ${item.length_in}" is longer than the ${max}" longest stock length.`);
         if (part.price) unit = part.price.price * item.length_in + (part.price.cut_charge ?? 0);
         if (geometry?.weight_lb_per_in) lineWeight = geometry.weight_lb_per_in * item.length_in * item.qty;
+      }
+    } else if (priceUnit === "per_sqft") {
+      if (item.width_in == null || item.height_in == null) {
+        warnings.push(`${part.part_number}: is sold by the square foot, so it needs width_in and height_in.`);
+      } else if (part.price) {
+        const stock = part.price.stock_sheet_in;
+        const isStock =
+          !!stock &&
+          ((item.width_in === stock[0] && item.height_in === stock[1]) || (item.width_in === stock[1] && item.height_in === stock[0]));
+        if (stock && Math.max(item.width_in, item.height_in) > Math.max(...stock) + 1e-9)
+          warnings.push(`${part.part_number}: ${item.width_in}" x ${item.height_in}" is larger than the ${stock[0]}" x ${stock[1]}" stock sheet.`);
+        unit = part.price.price * ((item.width_in * item.height_in) / 144) + (isStock ? 0 : part.price.cut_charge ?? 0);
       }
     } else {
       if (part.price) unit = part.price.price;
@@ -137,6 +153,7 @@ export function buildBom(catalog: Catalog, items: BomItem[]) {
       name: part.name,
       qty: item.qty,
       length_in: item.length_in,
+      size_in: item.width_in != null && item.height_in != null ? `${item.width_in} x ${item.height_in}` : undefined,
       unit_price: unit == null ? null : round(unit, 2),
       line_total: lineTotal,
       weight_lb: lineWeight == null ? null : round(lineWeight, 2),
@@ -152,6 +169,7 @@ export function buildBom(catalog: Catalog, items: BomItem[]) {
     warnings,
     note:
       "Prices are 8020.net list prices on the date shown, before tax, shipping and machining (taps, counterbores, access holes). " +
+      "Cut-to-length lines include one cut charge per piece; panels include the cut charge unless ordered at the stock sheet size. " +
       "The subtotal covers priced lines only; get current prices for unpriced_parts on 8020.net.",
   };
 }

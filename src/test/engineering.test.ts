@@ -56,6 +56,18 @@ test("BOM prices cut-to-length profiles, flags unpriced and unknown parts, lists
   assert.ok(r.warnings.some((w) => w.includes("longer than the 242")));
 });
 
+test("panels are priced per square foot, with the cut charge waived at the stock sheet size", () => {
+  const r = buildBom(catalog, [
+    { part_number: "TEST-PANEL", qty: 2, width_in: 24, height_in: 36 },
+    { part_number: "TEST-PANEL", qty: 1, width_in: 96, height_in: 48 },
+    { part_number: "TEST-PANEL", qty: 1 },
+  ]);
+  assert.equal(r.lines[0].line_total, Math.round(2 * (10.2 * 6 + 16.13) * 100) / 100);
+  assert.equal(r.lines[1].line_total, Math.round(10.2 * 32 * 100) / 100);
+  assert.equal(r.lines[2].line_total, null);
+  assert.ok(r.warnings.some((w) => w.includes("width_in and height_in")));
+});
+
 test("recommend_profile returns only profiles that pass, lightest first, one per color family", () => {
   const fits = recommendProfiles(catalog, { length_in: 48, load_lb: 100, support: "simply_supported", load_type: "uniform", min_span_ratio: 360, min_safety_factor: 3 });
   assert.ok(fits.every((f) => (f.span_over_deflection ?? 0) >= 360));

@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, resolve } from "node:path";
 
-export type PriceUnit = "each" | "per_inch";
+export type PriceUnit = "each" | "per_inch" | "per_sqft";
 
 export interface ProfileGeometry {
   /** Outer dimensions in inches, in title order (1530 = 1.50 wide x 3.00 tall). */
@@ -39,9 +39,13 @@ export interface SuggestedHardware {
 export interface Price {
   price: number;
   price_unit: PriceUnit;
-  /** Per-piece cut charge for profiles sold by the inch. */
+  /** Per-piece cut charge for parts cut to length or panels cut to size. */
   cut_charge?: number;
+  /** Panels: the stock sheet size in inches; ordering exactly this size avoids the cut charge. */
+  stock_sheet_in?: [number, number];
   url?: string;
+  /** schema.org availability when it is not InStock, e.g. "OutOfStock". */
+  availability?: string;
   /** ISO date the price was read from 8020.net. */
   verified: string;
 }
