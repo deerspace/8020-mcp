@@ -1,0 +1,1165 @@
+{
+  "chunk": "c069",
+  "pages": [
+    734,
+    735,
+    736,
+    737,
+    738,
+    739,
+    740,
+    741
+  ],
+  "parts": [
+    {
+      "part_number": "2119",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "dimension_notes": "A = overall flange width, C = top web thickness, D = overall height, E = inside width between legs, F = outside width across legs",
+      "color": "Clear",
+      "weight": ".002 lb / in.",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".395” (10.02mm)",
+        "B": ".319” (8.11mm)",
+        "C": ".035” (.89mm)",
+        "D": ".160” (4.06mm)",
+        "E": ".266” (6.76mm)",
+        "F": ".340” (8.64mm)",
+        "Length": "per inch"
+      },
+      "description": "Extruded aluminum cover that fits over a T-slot opening, in clear anodize, sold per inch.",
+      "notes": "Series badge printed as 15 and 40 for the whole table. Required Machining Services listed for this product: 7212 Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "2119-72.5",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "dimension_notes": "A = overall flange width, C = top web thickness, D = overall height, E = inside width between legs, F = outside width across legs",
+      "color": "Clear",
+      "weight": ".145 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".395” (10.02mm)",
+        "B": ".319” (8.11mm)",
+        "C": ".035” (.89mm)",
+        "D": ".160” (4.06mm)",
+        "E": ".266” (6.76mm)",
+        "F": ".340” (8.64mm)",
+        "Length": "72.500” (1841.50mm)"
+      },
+      "description": "Extruded aluminum cover that fits over a T-slot opening, in clear anodize, supplied at a fixed 72.500” length.",
+      "notes": "Series badge printed as 15 and 40 for the whole table. The weight cell also prints \"124.45 kg\" under .145 lb, which does not match the pound value (probable catalog error); only .145 lb recorded."
+    },
+    {
+      "part_number": "2119-BLACK-FB",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "dimension_notes": "A = overall flange width, C = top web thickness, D = overall height, E = inside width between legs, F = outside width across legs",
+      "color": "Black",
+      "weight": ".002 lb / in.",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".395” (10.02mm)",
+        "B": ".319” (8.11mm)",
+        "C": ".035” (.89mm)",
+        "D": ".160” (4.06mm)",
+        "E": ".266” (6.76mm)",
+        "F": ".340” (8.64mm)",
+        "Length": "per inch"
+      },
+      "description": "Extruded aluminum cover that fits over a T-slot opening, in black anodize, sold per inch.",
+      "notes": "Series badge printed as 15 and 40 for the whole table. Required Machining Services listed for this product: 7212 Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "2119-72.5-BLACK-FB",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "dimension_notes": "A = overall flange width, C = top web thickness, D = overall height, E = inside width between legs, F = outside width across legs",
+      "color": "Black",
+      "weight": ".145 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".395” (10.02mm)",
+        "B": ".319” (8.11mm)",
+        "C": ".035” (.89mm)",
+        "D": ".160” (4.06mm)",
+        "E": ".266” (6.76mm)",
+        "F": ".340” (8.64mm)",
+        "Length": "72.500” (1841.50mm)"
+      },
+      "description": "Extruded aluminum cover that fits over a T-slot opening, in black anodize, supplied at a fixed 72.500” length.",
+      "notes": "Series badge printed as 15 and 40 for the whole table. The weight cell also prints \"124.45 kg\" under .145 lb, which does not match the pound value (probable catalog error); only .145 lb recorded."
+    },
+    {
+      "part_number": "40-2119",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "dimension_notes": "A = overall flange width, C = top web thickness, D = overall height, E = inside width between legs, F = outside width across legs",
+      "color": "Clear",
+      "weight": ".06758 kg / mm",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".395” (10.02mm)",
+        "B": ".319” (8.11mm)",
+        "C": ".035” (.89mm)",
+        "D": ".160” (4.06mm)",
+        "E": ".266” (6.76mm)",
+        "F": ".340” (8.64mm)",
+        "Length": "per millimeter"
+      },
+      "description": "Extruded aluminum cover that fits over a T-slot opening, in clear anodize, ordered per millimeter (metric-length version).",
+      "notes": "Metric-length ordering version of 2119 (40- prefix), included because the merged series cell is badged 15 and 40 for all rows. Required Machining Services table lists 65-7212 Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "40-2119-BLACK-FB",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "dimension_notes": "A = overall flange width, C = top web thickness, D = overall height, E = inside width between legs, F = outside width across legs",
+      "color": "Black",
+      "weight": ".06758 kg / mm",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".395” (10.02mm)",
+        "B": ".319” (8.11mm)",
+        "C": ".035” (.89mm)",
+        "D": ".160” (4.06mm)",
+        "E": ".266” (6.76mm)",
+        "F": ".340” (8.64mm)",
+        "Length": "per millimeter"
+      },
+      "description": "Extruded aluminum cover that fits over a T-slot opening, in black anodize, ordered per millimeter (metric-length version).",
+      "notes": "Metric-length ordering version of 2119 (40- prefix), included because the merged series cell is badged 15 and 40 for all rows. Required Machining Services table lists 65-7212 Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "7212",
+      "series": [
+        "15"
+      ],
+      "name": "Cut to Length",
+      "category": "machining_service",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "description": "Cut to Length machining service listed as required for the Aluminum T-slot Cover (2119 family).",
+      "notes": "Reference page 11-2. Listed in the Required Machining Services table for the Aluminum T-slot Cover; 65-7212 is the metric counterpart."
+    },
+    {
+      "part_number": "2877",
+      "series": [
+        "15"
+      ],
+      "name": "Rubber T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-36",
+      "description": "Black rubber T-slot cover for 15 series profiles, sold per 150 foot roll.",
+      "material": "Rubber",
+      "color": "Black",
+      "weight": "6.315 lb",
+      "specs": {
+        "A": ".400”",
+        "B": ".570”",
+        "Length": "per 150 foot roll"
+      },
+      "dimension_notes": "A = overall height, B = overall width of the cap",
+      "notes": "Sold per 150 foot roll; weight is per roll."
+    },
+    {
+      "part_number": "12006",
+      "series": [
+        "15"
+      ],
+      "name": "Tread Strip",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-37",
+      "description": "Black TPV strip that inserts into the T-slot to give an anti-slip ribbed surface.",
+      "features": [
+        "Provides anti-slip ribbed surface",
+        "Sold by foot or meter"
+      ],
+      "material": "TPV",
+      "color": "Black",
+      "weight": ".1255 kg / m",
+      "specs": {
+        "A": "5.03mm",
+        "B": "31.09mm",
+        "C": "13.59mm",
+        "D": "11.99mm",
+        "E": "3.99mm",
+        "Max Single Piece Length": "20 Meters"
+      },
+      "dimension_notes": "B = overall width, C = overall height, D = width of the insert leg",
+      "notes": "Series badges printed: 15 and 40. Dimensions given in mm only. Maximum single piece length 20 meters."
+    },
+    {
+      "part_number": "13197",
+      "series": [
+        "15"
+      ],
+      "name": "Wire Housing",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-38",
+      "description": "Black PVC slotted wire housing (wire duct) with breakaway fingers that mounts to the T-slot and takes a removable cover.",
+      "features": [
+        "Removable housing cover for easy access",
+        "Breakaway fingers snap off for large wire groupings"
+      ],
+      "material": "PVC",
+      "color": "Black",
+      "weight": ".885 lb",
+      "specs": {
+        "A": "1.500\"",
+        "B": "1.502\"",
+        "C": "1.190\"",
+        "D": "1.000\"",
+        "E": "1.000\"",
+        "F": ".400\"",
+        "G": "72.000\"",
+        "H": ".750\"",
+        "J": "2.000\"",
+        "K": "4.000\"",
+        "L": ".500\"",
+        "M": ".195\""
+      },
+      "dimension_notes": "A = overall width, B = overall height, G = overall length, M = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3050",
+          "qty": 1,
+          "description": "10-32 x .500” BHSCS",
+          "context": "Mount to T-Slot (bolt, qty per hole)"
+        },
+        {
+          "part_number": "3201",
+          "qty": 1,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (T-nut, qty per hole)"
+        }
+      ],
+      "notes": "Series cell is merged across 13197 and 13199 and badged 10, 15, 25, 30, 40, 45. Suggested hardware quantity is per hole; stock length suggested quantity is 9, utilizing every other hole. Matching Wire Housing Cover 13198 (Black) is listed on the same page."
+    },
+    {
+      "part_number": "13199",
+      "series": [
+        "15"
+      ],
+      "name": "Wire Housing",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-38",
+      "description": "Gray PVC slotted wire housing (wire duct) with breakaway fingers that mounts to the T-slot and takes a removable cover.",
+      "features": [
+        "Removable housing cover for easy access",
+        "Breakaway fingers snap off for large wire groupings"
+      ],
+      "material": "PVC",
+      "color": "Gray",
+      "weight": ".885 lb",
+      "specs": {
+        "A": "1.500\"",
+        "B": "1.502\"",
+        "C": "1.190\"",
+        "D": "1.000\"",
+        "E": "1.000\"",
+        "F": ".400\"",
+        "G": "72.000\"",
+        "H": ".750\"",
+        "J": "2.000\"",
+        "K": "4.000\"",
+        "L": ".500\"",
+        "M": ".195\""
+      },
+      "dimension_notes": "A = overall width, B = overall height, G = overall length, M = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3050",
+          "qty": 1,
+          "description": "10-32 x .500” BHSCS",
+          "context": "Mount to T-Slot (bolt, qty per hole)"
+        },
+        {
+          "part_number": "3201",
+          "qty": 1,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (T-nut, qty per hole)"
+        }
+      ],
+      "notes": "Series cell is merged across 13197 and 13199 and badged 10, 15, 25, 30, 40, 45. Suggested hardware quantity is per hole; stock length suggested quantity is 9, utilizing every other hole. Matching Wire Housing Cover 13200 (Gray) is listed on the same page."
+    },
+    {
+      "part_number": "13198",
+      "series": [
+        "15"
+      ],
+      "name": "Wire Housing Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-38",
+      "description": "Black removable cover for the Wire Housing, 72.000\" long.",
+      "features": [
+        "Removable housing cover for easy access",
+        "Breakaway fingers snap off for large wire groupings"
+      ],
+      "material": "Rigid PVD Flexible PVC",
+      "color": "Black",
+      "weight": ".385 lb",
+      "specs": {
+        "A": ".283\"",
+        "B": "1.500\"",
+        "C": "72.000\""
+      },
+      "dimension_notes": "C = overall length",
+      "notes": "Series cell is merged across 13198 and 13200 and badged 10, 15, 25, 30, 40, 45. Material printed as \"Rigid PVD Flexible PVC\" (PVD likely a typo for PVC). Pairs with Wire Housing 13197 (Black)."
+    },
+    {
+      "part_number": "13200",
+      "series": [
+        "15"
+      ],
+      "name": "Wire Housing Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-38",
+      "description": "Gray removable cover for the Wire Housing, 72.000\" long.",
+      "features": [
+        "Removable housing cover for easy access",
+        "Breakaway fingers snap off for large wire groupings"
+      ],
+      "material": "Rigid PVD Flexible PVC",
+      "color": "Gray",
+      "weight": ".385 lb",
+      "specs": {
+        "A": ".283\"",
+        "B": "1.500\"",
+        "C": "72.000\""
+      },
+      "dimension_notes": "C = overall length",
+      "notes": "Series cell is merged across 13198 and 13200 and badged 10, 15, 25, 30, 40, 45. Material printed as \"Rigid PVD Flexible PVC\" (PVD likely a typo for PVC). Pairs with Wire Housing 13199 (Gray)."
+    },
+    {
+      "part_number": "2899",
+      "series": [
+        "15"
+      ],
+      "name": "Wiring Duct",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-39",
+      "description": "Medium gray molded plastic wiring duct with overlapping fingers that interlock for end-to-end attachment; mounts to the T-slot.",
+      "features": [
+        "Includes overlapping fingers that interlock for end-to-end attachment"
+      ],
+      "material": "Plastic",
+      "finish": "Matte",
+      "color": "Medium Gray",
+      "weight": ".136 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "1.370”",
+        "B": "1.320”",
+        "C": "20.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3487",
+          "qty": 4,
+          "description": "10-32 x .500” BHSCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15. Suggested hardware 3487 is listed as one part number covering both the bolt and the slide-in T-nut."
+    },
+    {
+      "part_number": "12316",
+      "series": [
+        "15"
+      ],
+      "name": "Cable Tie Mounting Block",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-39",
+      "description": "Reusable black nylon block that twists into the T-slot to lock in place and lets cable ties attach in two directions.",
+      "features": [
+        "Reusable; cable ties attach in two directions",
+        "Block twists into the T-slot to lock in place"
+      ],
+      "material": "Nylon",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".0045 kg",
+      "specs": {
+        "Grade": "PA6 GF30",
+        "Process": "Molded",
+        "A": "10.00mm",
+        "B": "22.00mm",
+        "C": "7.00mm",
+        "D": "2.00mm",
+        "E": "4.29mm",
+        "F": "16.00mm",
+        "G": "11.00mm"
+      },
+      "notes": "Series badges printed: 15 and 40. Dimensions given in mm only."
+    },
+    {
+      "part_number": "2893",
+      "series": [
+        "15"
+      ],
+      "name": "Cable Tie Mounting Pad",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-40",
+      "description": "Black nylon square cable tie mounting pad with a self-adhesive backing, used to anchor cable ties.",
+      "features": [
+        "Available with self-adhesive backing",
+        "Sold in packs of 100"
+      ],
+      "material": "Nylon",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".002 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".740”",
+        "B": ".740”",
+        "C": ".130”",
+        "D": ".050”",
+        "E": ".200”",
+        "F": ".190”"
+      },
+      "dimension_notes": "A x B = pad footprint, C = center hole diameter",
+      "notes": "Part number printed with an asterisk: \"* Includes a self-adhesive backing.\" Sold in packs of 100. Series badges printed: 10, 15, 20, 25, 30, 40, 45."
+    },
+    {
+      "part_number": "2894",
+      "series": [
+        "15"
+      ],
+      "name": "Cable Tie Mounting Pad",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-40",
+      "description": "Black nylon square cable tie mounting pad with a self-adhesive backing, used to anchor cable ties.",
+      "features": [
+        "Available with self-adhesive backing",
+        "Sold in packs of 100"
+      ],
+      "material": "Nylon",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".003 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".990”",
+        "B": ".990”",
+        "C": ".215”",
+        "D": ".060”",
+        "E": ".200”",
+        "F": ".200”"
+      },
+      "dimension_notes": "A x B = pad footprint, C = center hole diameter",
+      "notes": "Part number printed with an asterisk: \"* Includes a self-adhesive backing.\" Sold in packs of 100. Series badges printed: 10, 15, 25, 30, 40, 45."
+    },
+    {
+      "part_number": "2895",
+      "series": [
+        "15"
+      ],
+      "name": "Cable Tie Mounting Pad (T-slot Mount)",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-40",
+      "description": "Black nylon cable tie mount with a through hole that bolts to the T-slot with the suggested hardware.",
+      "features": [
+        "Available with self-adhesive backing",
+        "Sold in packs of 100"
+      ],
+      "material": "Nylon",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".003 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".628”",
+        "B": ".898”",
+        "C": ".270”",
+        "D": ".380”",
+        "E": ".490”",
+        "F": ".130”",
+        "G": ".125”",
+        "H": ".328”"
+      },
+      "dimension_notes": "C = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3061",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” BHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 1,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Printed in the second table under the Cable Tie Mounting Pad / Cable Tie title (no separate title bar). Page bullets say sold in packs of 100. 2895 is not asterisked, so the \"Includes a self-adhesive backing\" footnote (for 2893*/2894*) does not apply to it; it mounts with the suggested T-slot hardware. Series badges printed: 10, 15, 25, 30, 40, 45."
+    },
+    {
+      "part_number": "12319",
+      "series": [
+        "15"
+      ],
+      "name": "Drop-In Cable & Tube Clip",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-41",
+      "description": "Reusable black nylon clip that twists into the T-slot to lock in place and holds cables, wires or tubes.",
+      "features": [
+        "Reusable to reposition; add or remove cables or wires",
+        "Clip twists into the T-slot to lock in place"
+      ],
+      "material": "Nylon",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".0077 kg",
+      "specs": {
+        "Grade": "PA6 GF30",
+        "Process": "Molded",
+        "A": "20.20mm",
+        "B": "4.50mm",
+        "C": "8.00mm",
+        "D": "32.33mm",
+        "E": "16.00mm"
+      },
+      "dimension_notes": "A = clip body height (base of body up to where the top arms meet), D = overall body width, C = width of the T-slot neck",
+      "notes": "Series badges printed: 15 and 40. Cable pocket 11.50mm x 10.50mm (Maximum 3/8” cable diameter). Dimensions in mm only."
+    },
+    {
+      "part_number": "12026",
+      "series": [
+        "15"
+      ],
+      "name": "Cable & Tube Clip",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-41",
+      "description": "Reusable black nylon cable and tube clip that mounts to the T-slot with the suggested screw and drop-in T-nut.",
+      "features": [
+        "Reusable to reposition; add or remove cables or wires",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Nylon",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".0100 kg",
+      "specs": {
+        "Grade": "PA6 GF30",
+        "Process": "Molded",
+        "A": "20.20mm",
+        "B": "2.00mm",
+        "C": "4.30mm",
+        "D": "32.60mm",
+        "E": "16.00mm",
+        "F": "8.00mm"
+      },
+      "dimension_notes": "A = clip body height (base of body up to where the top arms meet), D = overall body width, C = width of the T-slot neck",
+      "suggested_hardware": [
+        {
+          "part_number": "11-4512",
+          "qty": 1,
+          "description": "M4 x 12mm SHCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "13113",
+          "qty": 1,
+          "description": "Drop-In T-Nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30 and 40. Cable pocket 11.50mm x 10.50mm (Maximum 3/8” cable diameter). Dimensions in mm only."
+    },
+    {
+      "part_number": "2500",
+      "series": [
+        "15"
+      ],
+      "name": "Single Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-42",
+      "description": "Stackable black polypropylene single cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".004 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".472”",
+        "B": "1.772”",
+        "C": ".256”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".413”",
+        "G": ".079”",
+        "H": ".866”",
+        "J": ".610”",
+        "K": ".126”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, K = clamp opening width",
+      "suggested_hardware": [
+        {
+          "part_number": "3304",
+          "qty": 1,
+          "description": "1/4-20 x 3/4” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2501",
+      "series": [
+        "15"
+      ],
+      "name": "Single Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-42",
+      "description": "Stackable black polypropylene single cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".003 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".472”",
+        "B": "1.772”",
+        "C": ".256”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".413”",
+        "G": ".079”",
+        "H": ".866”",
+        "J": ".610”",
+        "K": ".250”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, K = clamp opening width",
+      "suggested_hardware": [
+        {
+          "part_number": "3304",
+          "qty": 1,
+          "description": "1/4-20 x 3/4” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2502",
+      "series": [
+        "15"
+      ],
+      "name": "Single Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-42",
+      "description": "Stackable black polypropylene single cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".007 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".630”",
+        "B": "2.165”",
+        "C": ".276”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".591”",
+        "G": ".079”",
+        "H": "1.063”",
+        "J": ".709”",
+        "K": ".374”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, K = clamp opening width",
+      "suggested_hardware": [
+        {
+          "part_number": "3306",
+          "qty": 1,
+          "description": "1/4-20 x 1.0” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2503",
+      "series": [
+        "15"
+      ],
+      "name": "Single Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-42",
+      "description": "Stackable black polypropylene single cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".015 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".787”",
+        "B": "2.717”",
+        "C": ".276”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".886”",
+        "G": ".079”",
+        "H": "1.339”",
+        "J": ".866”",
+        "K": ".500”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, K = clamp opening width",
+      "suggested_hardware": [
+        {
+          "part_number": "3307",
+          "qty": 1,
+          "description": "1/4-20 x 1.25” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2504",
+      "series": [
+        "15"
+      ],
+      "name": "Single Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-42",
+      "description": "Stackable black polypropylene single cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".022 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".787”",
+        "B": "3.346”",
+        "C": ".276”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": "1.181”",
+        "G": ".079”",
+        "H": "1.654”",
+        "J": "1.024”",
+        "K": ".748”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, K = clamp opening width",
+      "suggested_hardware": [
+        {
+          "part_number": "3308",
+          "qty": 1,
+          "description": "1/4-20 x 1.50” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2505",
+      "series": [
+        "15"
+      ],
+      "name": "Single Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-42",
+      "description": "Stackable black polypropylene single cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".021 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".787”",
+        "B": "3.346”",
+        "C": ".276”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": "1.181”",
+        "G": ".079”",
+        "H": "1.654”",
+        "J": "1.024”",
+        "K": "1.000”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, K = clamp opening width",
+      "suggested_hardware": [
+        {
+          "part_number": "3308",
+          "qty": 1,
+          "description": "1/4-20 x 1.50” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2506",
+      "series": [
+        "15"
+      ],
+      "name": "Double Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-43",
+      "description": "Stackable black polypropylene double cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".005 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".472”",
+        "B": "2.480”",
+        "C": ".610”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".413”",
+        "G": ".079”",
+        "H": "1.220”",
+        "J": ".709”",
+        "K": ".256”",
+        "L": ".126”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, L = clamp opening width (typical, two openings)",
+      "suggested_hardware": [
+        {
+          "part_number": "3304",
+          "qty": 1,
+          "description": "1/4-20 x 3/4” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2507",
+      "series": [
+        "15"
+      ],
+      "name": "Double Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-43",
+      "description": "Stackable black polypropylene double cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".005 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".472”",
+        "B": "2.480”",
+        "C": ".610”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".413”",
+        "G": ".079”",
+        "H": "1.220”",
+        "J": ".709”",
+        "K": ".256”",
+        "L": ".250”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, L = clamp opening width (typical, two openings)",
+      "suggested_hardware": [
+        {
+          "part_number": "3305",
+          "qty": 1,
+          "description": "1/4-20 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2508",
+      "series": [
+        "15"
+      ],
+      "name": "Double Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-43",
+      "description": "Stackable black polypropylene double cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".009 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".630”",
+        "B": "3.110”",
+        "C": ".768”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".591”",
+        "G": ".079”",
+        "H": "1.535”",
+        "J": ".866”",
+        "K": ".335”",
+        "L": ".374”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, L = clamp opening width (typical, two openings)",
+      "suggested_hardware": [
+        {
+          "part_number": "3306",
+          "qty": 1,
+          "description": "1/4-20 x 1.0” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2509",
+      "series": [
+        "15"
+      ],
+      "name": "Double Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-43",
+      "description": "Stackable black polypropylene double cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".022 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".787”",
+        "B": "4.213”",
+        "C": "1.043”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": ".886”",
+        "G": ".079”",
+        "H": "2.087”",
+        "J": "1.181”",
+        "K": ".453”",
+        "L": ".500”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, L = clamp opening width (typical, two openings)",
+      "suggested_hardware": [
+        {
+          "part_number": "3307",
+          "qty": 1,
+          "description": "1/4-20 x 1.25” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2510",
+      "series": [
+        "15"
+      ],
+      "name": "Double Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-43",
+      "description": "Stackable black polypropylene double cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".034 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".787”",
+        "B": "5.551”",
+        "C": "1.378”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": "1.181”",
+        "G": ".079”",
+        "H": "2.756”",
+        "J": "1.496”",
+        "K": ".630”",
+        "L": ".748”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, L = clamp opening width (typical, two openings)",
+      "suggested_hardware": [
+        {
+          "part_number": "3308",
+          "qty": 1,
+          "description": "1/4-20 x 1.50” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    },
+    {
+      "part_number": "2511",
+      "series": [
+        "15"
+      ],
+      "name": "Double Cable & Tube Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-43",
+      "description": "Stackable black polypropylene double cable and tube clamp that bolts to the T-slot with the suggested bolt assembly.",
+      "features": [
+        "Stackable design to add more",
+        "Mounts to T-slot with suggested hardware"
+      ],
+      "material": "Polypropylene",
+      "finish": "Black Matte",
+      "weight": ".026 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".787”",
+        "B": "5.551”",
+        "C": "1.378”",
+        "D": ".268”",
+        "E": ".276”",
+        "F": "1.181”",
+        "G": ".079”",
+        "H": "2.756”",
+        "J": "1.496”",
+        "K": ".630”",
+        "L": "1.000”"
+      },
+      "dimension_notes": "B = overall length, D and E = hole diameters, L = clamp opening width (typical, two openings)",
+      "suggested_hardware": [
+        {
+          "part_number": "3308",
+          "qty": 1,
+          "description": "1/4-20 x 1.50” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot (Bolt Assy.)"
+        }
+      ],
+      "notes": "Series badges printed: 10 and 15."
+    }
+  ],
+  "page_notes": {
+    "734": "9-36 Aluminum T-slot Cover 2119 family (merged 15/40 badge, all six rows incl. 40- per-mm versions) with required service 7212; Rubber T-slot Cover 2877 (15); 40-2877 metric skipped.",
+    "735": "9-37 Reduction T-slot Cover (12004/12003/14193/12013, metric and 10 only) skipped; Tread Strip 12006 (15/40) extracted; 2828 (10) and 25-2828 (metric) skipped.",
+    "736": "9-38 Wire Housing 13197 (Black) / 13199 (Gray) and Wire Housing Cover 13198 (Black) / 13200 (Gray) extracted; the series cell is merged across each pair and badged 10/15/25/30/40/45; housings carry 15 suggested hardware 3050/3201.",
+    "737": "9-39 Wiring Duct 2899 (10/15) with suggested hardware 3487 and Cable Tie Mounting Block 12316 (15/40) extracted; 65-2899 and other blocks (10/metric only) skipped.",
+    "738": "9-40 Cable Tie Mounting Pads 2893, 2894 and 2895 (10/15/metric) extracted, 2895 with 15 hardware 3061/3382; Cable Ties 2890-2892 have no series badge and were not extracted.",
+    "739": "9-41 Drop-In Cable & Tube Clip 12319 (15/40) and Cable & Tube Clip 12026 (15/30/40, hardware 11-4512/13113) extracted; 12321 and 12320 metric skipped.",
+    "740": "9-42 Single Cable & Tube Clamps 2500-2505 (10/15) extracted with bolt assemblies 3304-3308; 65-2500 to 65-2505 metric skipped.",
+    "741": "9-43 Double Cable & Tube Clamps 2506-2511 (10/15) extracted with bolt assemblies 3304-3308; 65-2506 to 65-2511 metric skipped."
+  },
+  "verification": {
+    "added": [
+      "13199",
+      "13200"
+    ],
+    "removed": [],
+    "corrected": [
+      "13197: notes \"Series badges printed: 10 and 15\" -> merged series cell (10, 15, 25, 30, 40, 45) shared with 13199",
+      "13198: notes \"Series badges printed: 10 and 15\" -> merged series cell (10, 15, 25, 30, 40, 45) shared with 13200",
+      "2877: description \"Black rubber cover that presses into a 15 series T-slot to close the slot opening, sold on a 150 foot roll.\" -> \"Black rubber T-slot cover for 15 series profiles, sold per 150 foot roll.\"",
+      "12319: dimension_notes \"A = overall height, D = overall width\" -> \"A = clip body height (base of body up to where the top arms meet), D = overall body width, C = width of the T-slot neck\"",
+      "12026: dimension_notes \"A = overall height, D = overall width\" -> \"A = clip body height (base of body up to where the top arms meet), D = overall body width, C = width of the T-slot neck\"",
+      "2895: notes added that the self-adhesive footnote applies only to 2893/2894; series badge list made exact"
+    ],
+    "remaining_doubts": [
+      "65-7212 (metric Cut to Length) is listed in the Required Machining Services table under the 15/40-badged 2119 table but was not extracted as a separate part; it is mentioned in the 40-2119 notes.",
+      "Cable Ties 2890, 2891, 2892 (page 9-40) have no Series column/badge, so they were not extracted although they are used with the cable tie mounts.",
+      "2119-72.5 and 2119-72.5-BLACK-FB weight cells print \"124.45 kg\" under .145 lb, which looks like a catalog error; 40-2119 weight \".06758 kg / mm\" recorded verbatim.",
+      "Wire housing suggested hardware (3050/3201) is attached to the housings 13197/13199 only, not to the covers 13198/13200."
+    ]
+  }
+}

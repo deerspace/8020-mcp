@@ -1,0 +1,748 @@
+{
+  "chunk": "c070",
+  "pages": [
+    742,
+    743,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749
+  ],
+  "parts": [
+    {
+      "part_number": "2677",
+      "series": [
+        "15"
+      ],
+      "name": "Power Strip",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-44",
+      "description": "An 8-outlet, 15 amp power strip with an illuminated power switch and resettable circuit breaker that mounts to T-slot profile with included mounting clips.",
+      "features": [
+        "Illuminated power switch with safety cover",
+        "Mounting clips included; recommend hardware (sold separately)",
+        "Resettable circuit breaker"
+      ],
+      "weight": "2.400 lb",
+      "specs": {
+        "A": "24.000”",
+        "B": "6 ft",
+        "C": "1.620”",
+        "D": "1.250”",
+        "E": "15 amp",
+        "Rated": "1800W, 120V, 15A",
+        "Outlets": "8",
+        "Plug": "NEMA 5-15R"
+      },
+      "dimension_notes": "A = overall length, B = cord length, E = circuit breaker rating",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5712",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3930",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "15 Amp NEMA 5-15R plug. Mounting clips included; mounting hardware sold separately (see suggested hardware). Series cell (10/15/metric 25/30/40/45) is merged across both power strip rows (2677 and 2678)."
+    },
+    {
+      "part_number": "2678",
+      "series": [
+        "15"
+      ],
+      "name": "Power Strip",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-44",
+      "description": "A 12-outlet, 20 amp power strip with an illuminated power switch and resettable circuit breaker that mounts to T-slot profile with included mounting clips.",
+      "features": [
+        "Illuminated power switch with safety cover",
+        "Mounting clips included; recommend hardware (sold separately)",
+        "Resettable circuit breaker"
+      ],
+      "weight": "4.850 lb",
+      "specs": {
+        "A": "36.000”",
+        "B": "15 ft",
+        "C": "1.620”",
+        "D": "1.250”",
+        "E": "20 amp",
+        "Rated": "2400W, 120 V, 20A",
+        "Outlets": "12",
+        "Plug": "NEMA 5-20P"
+      },
+      "dimension_notes": "A = overall length, B = cord length, E = circuit breaker rating",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5712",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3930",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Printed as 2678* in the table; footnote: *Two 20 Amp NEMA 5-20P outlets and 10 15 Amp NEMA 5-15R outlets. 20 Amp NEMA 5-20P plug. Mounting clips included; mounting hardware sold separately (see suggested hardware). Series cell (10/15/metric 25/30/40/45) is merged across both power strip rows (2677 and 2678)."
+    },
+    {
+      "part_number": "12328",
+      "series": [
+        "15"
+      ],
+      "name": "Anodize Breaker",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-45",
+      "description": "A steel insert that twists into the T-slot and penetrates the anodize to provide a grounded application.",
+      "features": [
+        "Penetrates anodize to provide grounded application",
+        "Twists into T-slot; tilts at a 45 degree angle",
+        "Requires 3mm ball end wrench (12-2)"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".009 lb",
+      "specs": {
+        "Grade": "C35",
+        "A": ".311”",
+        "B": ".157”",
+        "C": ".260”",
+        "D": ".386”",
+        "E": ".528”"
+      },
+      "notes": "Requires 3mm ball end wrench (12-2). Same row also badged metric 40 series."
+    },
+    {
+      "part_number": "12300",
+      "series": [
+        "15"
+      ],
+      "name": "Grounding Terminal",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-45",
+      "description": "An assembled steel and brass terminal that creates a conductive electrical connection to T-slot profile; all hardware is included.",
+      "features": [
+        "Creates conductive electrical connection to T-slot profile",
+        "All hardware is included",
+        "M6 thread rod requires 3mm ball end wrench (12-2) to adjust"
+      ],
+      "material": "Steel / Brass",
+      "finish": "Bright Zinc",
+      "weight": ".041 lb",
+      "specs": {
+        "Process": "Assembled",
+        "A": ".709”",
+        "B": ".236”",
+        "C": ".531”",
+        "D": ".984”",
+        "E": ".866”"
+      },
+      "notes": "All hardware included. M6 thread rod; adjusting requires 3mm ball end wrench (12-2). Same row also badged metric 40 series."
+    },
+    {
+      "part_number": "2230-BLU",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "A blue molded plastic storage bin that hangs from a storage bin hanger mounted to T-slot profile.",
+      "features": [
+        "Requires storage bin hanger (sold separately)",
+        "Custom length hanger, see hanger profile (10-15)"
+      ],
+      "material": "Plastic",
+      "finish": "Gloss",
+      "color": "Blue",
+      "weight": ".156 lb (.0708 kg)",
+      "specs": {
+        "Process": "Molded",
+        "A": "3.000” (76.20mm)",
+        "B": "5.375” (136.53mm)",
+        "C": "2.813” (71.45mm)",
+        "D": "4.750” (120.65mm)",
+        "E": "4.125” (104.78mm)",
+        "F": "3.438” (87.33mm)"
+      },
+      "dimension_notes": "A = overall height, B = overall length, E = overall width; C and D are interior dimensions",
+      "notes": "Inch values printed with metric equivalents beneath (shown in parentheses). Requires storage bin hanger (sold separately), e.g. 2264/2265. Same row also badged 10 series and metric 25/40."
+    },
+    {
+      "part_number": "2240-BLU",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "A blue molded plastic storage bin that hangs from a storage bin hanger mounted to T-slot profile.",
+      "features": [
+        "Requires storage bin hanger (sold separately)",
+        "Custom length hanger, see hanger profile (10-15)"
+      ],
+      "material": "Plastic",
+      "finish": "Gloss",
+      "color": "Blue",
+      "weight": ".232 lb (.1030 kg)",
+      "specs": {
+        "Process": "Molded",
+        "A": "3.000” (76.20mm)",
+        "B": "7.375” (187.33mm)",
+        "C": "2.813” (71.45mm)",
+        "D": "6.711” (170.45mm)",
+        "E": "4.125” (104.78mm)",
+        "F": "3.438” (87.33mm)"
+      },
+      "dimension_notes": "A = overall height, B = overall length, E = overall width; C and D are interior dimensions",
+      "notes": "Inch values printed with metric equivalents beneath (shown in parentheses). Requires storage bin hanger (sold separately), e.g. 2264/2265. Same row also badged 10 series and metric 25/40."
+    },
+    {
+      "part_number": "2250-BLU",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "A blue molded plastic storage bin that hangs from a storage bin hanger mounted to T-slot profile.",
+      "features": [
+        "Requires storage bin hanger (sold separately)",
+        "Custom length hanger, see hanger profile (10-15)"
+      ],
+      "material": "Plastic",
+      "finish": "Gloss",
+      "color": "Blue",
+      "weight": ".644 lb (.2083 kg)",
+      "specs": {
+        "Process": "Molded",
+        "A": "5.000” (127.00mm)",
+        "B": "10.875” (276.23mm)",
+        "C": "4.750” (120.65mm)",
+        "D": "10.250” (260.35mm)",
+        "E": "5.500” (139.70mm)",
+        "F": "4.375” (111.13mm)"
+      },
+      "dimension_notes": "A = overall height, B = overall length, E = overall width; C and D are interior dimensions",
+      "notes": "Inch values printed with metric equivalents beneath (shown in parentheses). Requires storage bin hanger (sold separately), e.g. 2264/2265. Same row also badged 10 series and metric 25/40. Printed metric weight .2083 kg does not match .644 lb (about .292 kg); verify."
+    },
+    {
+      "part_number": "2270-BLU",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "A blue molded plastic storage bin that hangs from a storage bin hanger mounted to T-slot profile.",
+      "features": [
+        "Requires storage bin hanger (sold separately)",
+        "Custom length hanger, see hanger profile (10-15)"
+      ],
+      "material": "Plastic",
+      "finish": "Gloss",
+      "color": "Blue",
+      "weight": ".984 lb (.4327 kg)",
+      "specs": {
+        "Process": "Molded",
+        "A": "5.000” (127.00mm)",
+        "B": "10.875” (276.23mm)",
+        "C": "4.750” (120.65mm)",
+        "D": "10.250” (260.35mm)",
+        "E": "11.000” (279.40mm)",
+        "F": "10.000” (254.00mm)"
+      },
+      "dimension_notes": "A = overall height, B = overall length, E = overall width; C and D are interior dimensions",
+      "notes": "Inch values printed with metric equivalents beneath (shown in parentheses). Requires storage bin hanger (sold separately), e.g. 2264/2265. Same row also badged 10 series and metric 25/40."
+    },
+    {
+      "part_number": "2264",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin Hanger",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "An aluminum hanger rail that mounts to T-slot profile to hang storage bins; mounting hardware is included.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".236 lb",
+      "specs": {
+        "Mount Holes": "2",
+        "A": "1.500”",
+        "B": ".745”",
+        "C": ".375”",
+        "D": "6.000”",
+        "E": "3.500”",
+        "F": "1/4-20",
+        "G": ".250”",
+        "H": ".100”"
+      },
+      "dimension_notes": "D = overall length, E = mounting hole spacing (typ.), F = drill-thru mounting hole",
+      "suggested_hardware": [
+        {
+          "part_number": "3400",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3405",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware included (3400, 3405 bolts and 3382 T-nuts, 2 each). Used with Storage Bins 2230-BLU, 2240-BLU, 2250-BLU, 2270-BLU. Same row also badged 10 series."
+    },
+    {
+      "part_number": "2264-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin Hanger",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "An aluminum hanger rail that mounts to T-slot profile to hang storage bins; mounting hardware is included.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".236 lb",
+      "specs": {
+        "Mount Holes": "2",
+        "A": "1.500”",
+        "B": ".745”",
+        "C": ".375”",
+        "D": "6.000”",
+        "E": "3.500”",
+        "F": "1/4-20",
+        "G": ".250”",
+        "H": ".100”"
+      },
+      "dimension_notes": "D = overall length, E = mounting hole spacing (typ.), F = drill-thru mounting hole",
+      "suggested_hardware": [
+        {
+          "part_number": "3400",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3405",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware included (3400, 3405 bolts and 3382 T-nuts, 2 each). Used with Storage Bins 2230-BLU, 2240-BLU, 2250-BLU, 2270-BLU. Same row also badged 10 series."
+    },
+    {
+      "part_number": "2265",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin Hanger",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "An aluminum hanger rail that mounts to T-slot profile to hang storage bins; mounting hardware is included.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".444 lb",
+      "specs": {
+        "Mount Holes": "3",
+        "A": "1.500”",
+        "B": ".745”",
+        "C": ".375”",
+        "D": "12.000”",
+        "E": "4.000”",
+        "F": "1/4-20",
+        "G": ".250”",
+        "H": ".100”"
+      },
+      "dimension_notes": "D = overall length, E = mounting hole spacing (typ.), F = drill-thru mounting hole",
+      "suggested_hardware": [
+        {
+          "part_number": "3400",
+          "qty": 3,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3405",
+          "qty": 3,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 3,
+          "description": "T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware included (3400, 3405 bolts and 3382 T-nuts, 3 each). Used with Storage Bins 2230-BLU, 2240-BLU, 2250-BLU, 2270-BLU. Same row also badged 10 series."
+    },
+    {
+      "part_number": "2265-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Storage Bin Hanger",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-46",
+      "description": "An aluminum hanger rail that mounts to T-slot profile to hang storage bins; mounting hardware is included.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".444 lb",
+      "specs": {
+        "Mount Holes": "3",
+        "A": "1.500”",
+        "B": ".745”",
+        "C": ".375”",
+        "D": "12.000”",
+        "E": "4.000”",
+        "F": "1/4-20",
+        "G": ".250”",
+        "H": ".100”"
+      },
+      "dimension_notes": "D = overall length, E = mounting hole spacing (typ.), F = drill-thru mounting hole",
+      "suggested_hardware": [
+        {
+          "part_number": "3400",
+          "qty": 3,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3405",
+          "qty": 3,
+          "description": "Bolt",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 3,
+          "description": "T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware included (3400, 3405 bolts and 3382 T-nuts, 3 each). Used with Storage Bins 2230-BLU, 2240-BLU, 2250-BLU, 2270-BLU. Same row also badged 10 series."
+    },
+    {
+      "part_number": "2373",
+      "series": [
+        "F"
+      ],
+      "name": "Stackable Steel Drawer with Lock",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-47",
+      "description": "A prebuilt black steel drawer with a keyed-alike lock that installs into workstations, workbenches and carts and can be stacked and bolted together.",
+      "features": [
+        "Prebuilt & Ready to Install – Quickly integrate the assembled drawer into custom or standard workstations, workbenches, and carts.",
+        "Modular & Stackable – Drawers can be stacked and bolted together to create customized storage configurations as needs change. (hardware included for stacking)",
+        "Spacious, Heavy-Duty Storage – 23” x 14” x 5” drawer size with a 75 lb. capacity for tools, components, and supplies.",
+        "Lockable Storage – Built-in keyed-alike lock helps secure valuable tools, equipment, and personal items."
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": "28.22 lb (12.80 kg)",
+      "specs": {
+        "A": "15.470” (392.89mm)",
+        "B": "5.790” (147.07mm)",
+        "C": "23.480” (596.40mm)",
+        "D": "11.810” (300.02mm)",
+        "E": ".500” (12.70mm)",
+        "F": "12.380” (314.33mm)",
+        "G": "2.760” (69.99mm)",
+        "H": "1.830” (46.43mm)"
+      },
+      "dimension_notes": "A = overall width, B = overall height, C = overall depth, D and F = mounting hole spacing, E = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3476",
+          "qty": 4,
+          "description": "5/16-18 x .750” Drop-In Stud, Hex Nut, Washer",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3261",
+          "qty": 4,
+          "description": "3/8” Flat Washer",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "4 mounting holes each on top and bottom of unit. Hardware included for stacking; T-slot mounting hardware is suggested separately. Drawer size 23” x 14” x 5”, 75 lb. capacity. Badged F and metric."
+    },
+    {
+      "part_number": "2288",
+      "series": [
+        "15"
+      ],
+      "name": "Heavy-Duty Adjustable Monitor Mount",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-48",
+      "description": "A black powder-coated steel VESA monitor arm that mounts to T-slot profile, adjusts in three dimensions and holds displays up to 44 pounds (20 kg).",
+      "features": [
+        "Compatible with the Video Electronics Standards Association (VESA) mounting patterns of 75x75, 100x100, 200x100, or 200x200; includes most displays up to 42”",
+        "Adjusts in three dimensions; rotates 360 degrees; tilts 15 degrees; swivels ± 90 degrees; extends out from 3.50 inches (88.9mm) to 18.00 inches (457.2mm): weight capacity is 44 pounds (20 kg)"
+      ],
+      "material": "Steel",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": "5.215 lb (2.3655 kg)",
+      "specs": {
+        "A": "8.875” (225.43mm)",
+        "B": "7.874\" (200.00mm)",
+        "C": "8.875\" (225.43mm)",
+        "D": "3.937\" (100.00mm)",
+        "E": "2.953\" (75.01mm)",
+        "F": "3.937” (100.00mm)",
+        "G": ".207\" (5.26mm)",
+        "H": ".334\" (8.48mm)",
+        "J": "18.056\" (458.62mm)",
+        "K": "6.378\" (162.00mm)",
+        "L": "7.992\" (203.00mm)",
+        "M": "1.285\" (32.64mm)",
+        "N": "3.175\" (80.65mm)",
+        "P": ".085” (2.16mm)",
+        "Q": "5.552” (141.02mm)",
+        "R": "4.986\" (126.64mm)",
+        "S": "1.587\" (40.31mm)",
+        "T": "1.703\" (43.26mm)",
+        "U": "3.283\" (83.39mm)",
+        "V": ".252\" (6.40mm)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "13-6312",
+          "qty": 3,
+          "description": "M6 x 12mm BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3836",
+          "qty": 3,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Weight capacity 44 pounds (20 kg); VESA 75x75, 100x100, 200x100, 200x200. Same row also badged metric 40/45."
+    },
+    {
+      "part_number": "2289",
+      "series": [
+        "15"
+      ],
+      "name": "Adjustable Monitor Mount",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-49",
+      "description": "A black steel VESA monitor arm that mounts to T-slot profile, adjusts in three dimensions and holds displays up to 33 pounds (14.97 kg).",
+      "features": [
+        "Compatible with the Video Electronics Standards Association (VESA) mounting patterns of 75mm x 75mm through 100mm x 100mm; includes most displays up to 34”",
+        "Adjusts in three dimensions; rotates 360 degrees; tilts 15 degrees; swivels ± 90 degrees; extends out from 1.75 inches (44.45mm) to 15.00 inches (381mm): weight capacity is 33 pounds (14.97 kg)"
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": "2.363 lb (1.0718 kg)",
+      "specs": {
+        "A": "4.600\" (116.84mm)",
+        "B": "3.937” (100.00mm)",
+        "C": "2.953” (75.00mm)",
+        "D": "4.600” (116.84mm)",
+        "E": ".250” (6.35mm)",
+        "F": "15.000” (381.00mm)",
+        "G": "4.940” (125.48mm)",
+        "H": "7.600” (193.04mm)",
+        "J": ".688” (17.48mm)",
+        "K": "1.750” (44.45mm)",
+        "L": ".066” (1.68mm)",
+        "M": "6.000” (152.40mm)",
+        "N": "5.116” (129.95mm)",
+        "P": ".875” (22.22mm)",
+        "Q": ".328” (8.33mm)",
+        "R": ".164” (4.17mm)",
+        "S": ".232” (5.89mm)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 2,
+          "description": "5/16-18 x .500” FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Weight capacity 33 pounds (14.97 kg); VESA 75mm x 75mm through 100mm x 100mm. Same row also badged metric 30/40/45."
+    },
+    {
+      "part_number": "2370",
+      "series": [
+        "15"
+      ],
+      "name": "Workstation Arm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-50",
+      "description": "A gray steel and aluminum workstation arm with a VESA monitor mount and fold-up keyboard holder that mounts to T-slot profile; T-slot mounting hardware is included.",
+      "features": [
+        "Monitor mounting compatible with the Video Electronics Standards Association (VESA) MIS-D mounting patterns of 75mm and 100mm; holds monitors between 4.40 to 17.64 pounds (2.0 to 8.0 kg); adjustable viewing angle and height; hardware to mount to T-slot included",
+        "Rotates 360 degree mounting flange with 1.575” (40.00mm) spacing between holes",
+        "Fold up keyboard holder for weights up to 5.50 pounds (2.5 kg) with left or right pull out shelf for mouse"
+      ],
+      "material": "Steel & Aluminum",
+      "color": "Gray",
+      "weight": "22.000 lb (9.979 kg)",
+      "specs": {
+        "A": "36.847\" (935.91mm)",
+        "B": "20.791” (528.09mm)",
+        "C": "8.213” (208.61mm)",
+        "D": "17.070” (433.58mm)",
+        "E": "3.937” (100.00mm)",
+        "F": "2.953” (75.01mm)",
+        "G": ".089” (2.261mm)",
+        "H": "3.153” (80.07mm)",
+        "J": "1.575” (40.01mm)",
+        "K": "19.000” (482.60mm)",
+        "L": ".350” (8.89mm)"
+      },
+      "suggested_hardware": [
+        {
+          "qty": 2,
+          "description": "M8 x 45mm SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "qty": 2,
+          "description": "Slide-in T-nut & Washer for 8mm slot",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "T-slot mounting hardware included (no part numbers printed): for 15 series row, M8 x 45mm SHCS (2) with slide-in T-nut & washer for 8mm slot (2). Monitor 4.40 to 17.64 pounds (2.0 to 8.0 kg); keyboard holder up to 5.50 pounds (2.5 kg). QR code on page links to a demonstration. Same row also badged metric 40/45."
+    },
+    {
+      "part_number": "2100",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Tool Hanger",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-51",
+      "description": "A molded nylon tool hanger that slides into the end of a T-slot; its hole works with the tool hanger spring hook.",
+      "features": [
+        "Slides into end of T-slot; moves with no lubrication necessary",
+        "Weight capacity of 100 pounds (68 kg.)",
+        "Hole works with spring hook"
+      ],
+      "material": "Nylon",
+      "finish": "Matte",
+      "weight": ".030 lb",
+      "specs": {
+        "Grade": "—",
+        "Process": "Molded",
+        "A": "1.250”",
+        "B": "2.900”",
+        "C": "1.670”",
+        "D": ".500”",
+        "E": "1.450”",
+        "F": ".625”",
+        "G": ".250”",
+        "H": ".250”",
+        "J": "R .098” x .472”"
+      },
+      "dimension_notes": "B = top width, C = overall height, D = center hole diameter, E = edge-to-center distance (half of B), J = slot size (typ.)",
+      "notes": "Weight capacity 100 pounds (68 kg.). Inserted from the end of the T-slot. Pairs with Tool Hanger Spring Hook 2108."
+    },
+    {
+      "part_number": "2108",
+      "series": [
+        "15"
+      ],
+      "name": "Tool Hanger Spring Hook",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-51",
+      "description": "A galvanized mild steel spring hook used with the slide-in tool hanger.",
+      "material": "Steel",
+      "finish": "Galvanized",
+      "weight": ".059 lb",
+      "specs": {
+        "Grade": "Mild",
+        "Process": "Formed",
+        "Breaking Capacity": "550 lb (374 kg)",
+        "A": ".313”",
+        "B": "2.375”",
+        "C": ".230”",
+        "D": ".313”"
+      },
+      "dimension_notes": "B = overall length",
+      "notes": "Breaking capacity 550 lb (374 kg). Works with Slide-In Tool Hanger 2100. Same row also badged 10 series."
+    }
+  ],
+  "page_notes": {
+    "742": "9-44 Power Strip: 2677 and 2678 share a merged series cell (10/15/metric 25/30/40/45); both extracted with 15-series suggested hardware (11-5712 bolt + 3930 T-nut, 2 each).",
+    "743": "9-45 Anodize Breaker 12328 and Grounding Terminal 12300, both badged 15/metric 40; extracted.",
+    "744": "9-46 Storage Bins 2230/2240/2250/2270-BLU (10/15/metric) and Storage Bin Hanger 2264/2265 clear and black (10/15) extracted with included hardware; metric 65-2264/65-2265 skipped.",
+    "745": "9-47 Stackable Steel Drawer with Lock 2373 (F/metric) extracted with 15-series suggested hardware.",
+    "746": "9-48 Heavy-Duty Adjustable Monitor Mount 2288 (15/metric) extracted with 15-series suggested hardware.",
+    "747": "9-49 Adjustable Monitor Mount 2289 (15/metric) extracted with 15-series suggested hardware.",
+    "748": "9-50 Workstation Arm 2370 (15/metric) extracted with included hardware (no part numbers printed).",
+    "749": "9-51 Slide-In Tool Hanger: only 2100 is 15 series (2099 is 10, others metric); Tool Hanger Spring Hook 2108 (10/15) extracted, 65-2108 metric skipped."
+  },
+  "verification": {
+    "added": [
+      "2678"
+    ],
+    "removed": [],
+    "corrected": [
+      "2677: notes 'Same table row also badged 10 series and metric 25' -> series cell merged across 2677 and 2678 (10/15/25/30/40/45)",
+      "742: page_notes '2678 is metric-only, skipped' -> 2678 covered by merged 15 badge cell, extracted",
+      "2100: dimension_notes 'E = bottom width' -> 'E = edge-to-center distance (half of B)' (E = B/2 on every row; drawing arrow runs from edge to hole center)"
+    ],
+    "remaining_doubts": [
+      "2678 printed as '2678*' (asterisk is a footnote marker); stored as part_number '2678' with the footnote in notes.",
+      "Storage bin weights: printed metric values do not all match the lb values (2250-BLU .644 lb vs .2083 kg; 2240-BLU and 2270-BLU slightly off); copied as printed.",
+      "Storage bin color 'Blue' is taken from the 'Blue Bin' column header and -BLU suffix; there is no color column.",
+      "2370 included hardware has no part numbers printed; suggested_hardware entries carry descriptions only."
+    ]
+  }
+}

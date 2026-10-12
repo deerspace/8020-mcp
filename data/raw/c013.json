@@ -1,0 +1,820 @@
+{
+  "chunk": "c013",
+  "pages": [
+    244,
+    245,
+    246,
+    247,
+    248,
+    250,
+    251,
+    252
+  ],
+  "parts": [
+    {
+      "part_number": "4280",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "3 Hole - Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-80",
+      "description": "Clear anodized 6063-T6 aluminum 3 hole slotted inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly. Also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".121 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": "1.312”",
+        "J": ".828”",
+        "K": ".328”",
+        "L": ".500”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing on the two-hole leg, ø G = hole diameter (typ); H, J, K, L dimension the slotted leg",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 3 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 3, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. 10 series 4250/-Black and metric 25-4250, 40-4280 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4280-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "3 Hole - Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-80",
+      "description": "Black anodized 6063-T6 aluminum 3 hole slotted inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly. Also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".121 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": "1.312”",
+        "J": ".828”",
+        "K": ".328”",
+        "L": ".500”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing on the two-hole leg, ø G = hole diameter (typ); H, J, K, L dimension the slotted leg",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 3 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 3, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. 10 series 4250/-Black and metric 25-4250, 40-4280 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4303",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-81",
+      "description": "Clear anodized 6063-T6 aluminum 4 hole wide inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".175 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3278",
+          "qty": 4,
+          "description": "Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested Hardware (Mount to T-Slot) lists bolt and T-nut separately for 15 series: 4 x 3330 bolts and 4 x 3278 Economy T-nuts. 10 series 4113/-Black and metric 20-4113, 25-4113, 30-4303, 40-4303, 45-4303 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4303-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-81",
+      "description": "Black anodized 6063-T6 aluminum 4 hole wide inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".175 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3278",
+          "qty": 4,
+          "description": "Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested Hardware (Mount to T-Slot) lists bolt and T-nut separately for 15 series: 4 x 3330 bolts and 4 x 3278 Economy T-nuts. 10 series 4113/-Black and metric 20-4113, 25-4113, 30-4303, 40-4303, 45-4303 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4301",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Tall Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-82",
+      "description": "Clear anodized 6063-T6 aluminum 4 hole tall inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly. Also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".176 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".655”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 4, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. 10 series 4115/-Black and metric 25-4115, 40-4301, 45-4301 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4301-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Tall Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-82",
+      "description": "Black anodized 6063-T6 aluminum 4 hole tall inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly. Also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".176 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".655”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 4, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. 10 series 4115/-Black and metric 25-4115, 40-4301, 45-4301 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "14080",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Inside Corner Bracket with Single Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-83",
+      "description": "Natural finish aluminum 4 hole inside corner bracket with a single support rib, badged for 15 series (and 40 mm metric) profiles; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Aluminum",
+      "finish": "Natural",
+      "weight": ".1139 kg",
+      "specs": {
+        "A": "76.00mm",
+        "B": "76.00mm",
+        "C": "—",
+        "D": "23.50mm",
+        "E": "19.00mm",
+        "F": "8.50mm",
+        "G": "23.00mm",
+        "H": "9.00mm",
+        "J": "34.50mm",
+        "K": "38.00mm",
+        "L": "—"
+      },
+      "dimension_notes": "A and B = leg lengths, K = overall bracket width; dimensions are in millimeters",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 SHCS, Slide-In T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Badged 15 and 40 (metric). Table has no alloy column. Mount to T-Slot uses 4 x 3455 (5/16-18 x 3/4 SHCS, Slide-In T-nut). 14080 shows — for C and L while 14081 lists C 3.82mm and L 8.00mm; the page does not say which part has the optional slot tab. Corner bracket covers sold separately; the only cover on this page (12299 Black Nylon Cover Cap for 90 Degree Corner) is 45 series only."
+    },
+    {
+      "part_number": "14081",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Inside Corner Bracket with Single Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-83",
+      "description": "Natural finish aluminum 4 hole inside corner bracket with a single support rib, badged for 15 series (and 40 mm metric) profiles; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Aluminum",
+      "finish": "Natural",
+      "weight": ".1121 kg",
+      "specs": {
+        "A": "76.00mm",
+        "B": "76.00mm",
+        "C": "3.82mm",
+        "D": "23.50mm",
+        "E": "19.00mm",
+        "F": "8.50mm",
+        "G": "23.00mm",
+        "H": "9.00mm",
+        "J": "34.50mm",
+        "K": "38.00mm",
+        "L": "8.00mm"
+      },
+      "dimension_notes": "A and B = leg lengths, K = overall bracket width; dimensions are in millimeters",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 SHCS, Slide-In T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Badged 15 and 40 (metric). Table has no alloy column. Mount to T-Slot uses 4 x 3455 (5/16-18 x 3/4 SHCS, Slide-In T-nut). 14080 shows — for C and L while 14081 lists C 3.82mm and L 8.00mm; the page does not say which part has the optional slot tab. Corner bracket covers sold separately; the only cover on this page (12299 Black Nylon Cover Cap for 90 Degree Corner) is 45 series only."
+    },
+    {
+      "part_number": "14103",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Inside Corner Bracket with Dual Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-84",
+      "description": "Zinc 4 hole inside corner bracket with dual support ribs and a natural finish, badged for 15 series profiles; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Zinc",
+      "finish": "Natural",
+      "weight": ".2622 kg",
+      "specs": {
+        "A": "76.00mm",
+        "B": "76.00mm",
+        "C": "—",
+        "D": "25.25mm",
+        "E": "19.00mm",
+        "F": "6.97mm",
+        "G": "21.50mm",
+        "H": "9.00mm",
+        "J": "29.50mm",
+        "K": "38.00mm",
+        "L": "—"
+      },
+      "dimension_notes": "A and B = leg lengths, K = overall bracket width; dimensions are in millimeters",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 SHCS, Slide-In T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Badged 15, 40 and 45 (metric). Table has no alloy column. Mount to T-Slot uses 4 x 3455 (5/16-18 x 3/4 SHCS, Slide-In T-nut). 14100/14099 list C 1.98mm and L 8.00mm where 14103/14098 show —; the page does not say which parts have the optional slot tab. Corner bracket covers sold separately: 12038 4 Hole - Inside Corner Bracket Cover Cap is shown on the same page."
+    },
+    {
+      "part_number": "14098",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Inside Corner Bracket with Dual Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-84",
+      "description": "Zinc 4 hole inside corner bracket with dual support ribs and a powder coat finish, badged for 15 series profiles; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Zinc",
+      "finish": "Powder Coat",
+      "weight": ".2705 kg",
+      "specs": {
+        "A": "76.00mm",
+        "B": "76.00mm",
+        "C": "—",
+        "D": "25.25mm",
+        "E": "19.00mm",
+        "F": "6.97mm",
+        "G": "21.50mm",
+        "H": "9.00mm",
+        "J": "29.50mm",
+        "K": "38.00mm",
+        "L": "—"
+      },
+      "dimension_notes": "A and B = leg lengths, K = overall bracket width; dimensions are in millimeters",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 SHCS, Slide-In T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Badged 15, 40 and 45 (metric). Powder coat color not stated. Table has no alloy column. Mount to T-Slot uses 4 x 3455 (5/16-18 x 3/4 SHCS, Slide-In T-nut). 14100/14099 list C 1.98mm and L 8.00mm where 14103/14098 show —; the page does not say which parts have the optional slot tab. Corner bracket covers sold separately: 12038 4 Hole - Inside Corner Bracket Cover Cap is shown on the same page."
+    },
+    {
+      "part_number": "14100",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Inside Corner Bracket with Dual Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-84",
+      "description": "Zinc 4 hole inside corner bracket with dual support ribs and a natural finish, badged for 15 series profiles; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Zinc",
+      "finish": "Natural",
+      "weight": ".2618 kg",
+      "specs": {
+        "A": "76.00mm",
+        "B": "76.00mm",
+        "C": "1.98mm",
+        "D": "25.25mm",
+        "E": "19.00mm",
+        "F": "6.97mm",
+        "G": "20.70mm",
+        "H": "8.20mm",
+        "J": "29.50mm",
+        "K": "38.00mm",
+        "L": "8.00mm"
+      },
+      "dimension_notes": "A and B = leg lengths, K = overall bracket width; dimensions are in millimeters",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 SHCS, Slide-In T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Badged 15 and 40 (metric). Table has no alloy column. Mount to T-Slot uses 4 x 3455 (5/16-18 x 3/4 SHCS, Slide-In T-nut). 14100/14099 list C 1.98mm and L 8.00mm where 14103/14098 show —; the page does not say which parts have the optional slot tab. Corner bracket covers sold separately: 12038 4 Hole - Inside Corner Bracket Cover Cap is shown on the same page."
+    },
+    {
+      "part_number": "14099",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Inside Corner Bracket with Dual Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-84",
+      "description": "Zinc 4 hole inside corner bracket with dual support ribs and a powder coat finish, badged for 15 series profiles; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Zinc",
+      "finish": "Powder Coat",
+      "weight": ".2068 kg",
+      "specs": {
+        "A": "76.00mm",
+        "B": "76.00mm",
+        "C": "1.98mm",
+        "D": "25.25mm",
+        "E": "19.00mm",
+        "F": "6.97mm",
+        "G": "20.70mm",
+        "H": "8.20mm",
+        "J": "29.50mm",
+        "K": "38.00mm",
+        "L": "8.00mm"
+      },
+      "dimension_notes": "A and B = leg lengths, K = overall bracket width; dimensions are in millimeters",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 SHCS, Slide-In T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Badged 15 and 40 (metric). Powder coat color not stated. Weight printed as .2068 kg, noticeably lighter than the matching natural part 14100 (.2618 kg); copied as printed. Table has no alloy column. Mount to T-Slot uses 4 x 3455 (5/16-18 x 3/4 SHCS, Slide-In T-nut). 14100/14099 list C 1.98mm and L 8.00mm where 14103/14098 show —; the page does not say which parts have the optional slot tab. Corner bracket covers sold separately: 12038 4 Hole - Inside Corner Bracket Cover Cap is shown on the same page."
+    },
+    {
+      "part_number": "12038",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Inside Corner Bracket Cover Cap",
+      "category": "accessory",
+      "section": "External Fasteners",
+      "catalog_page": "4-84",
+      "description": "PA6 GF 30 cover cap for the 4 hole inside corner bracket, badged for 15 series (and 40/45 metric).",
+      "material": "PA6 GF 30",
+      "weight": ".0173 kg",
+      "specs": {
+        "A": "14.00mm",
+        "B": "106.00mm",
+        "C": "4.00mm",
+        "D": "37.60mm"
+      },
+      "notes": "Badged 15, 40 and 45 (metric). Shown on the 4 Hole - Inside Corner Bracket with Dual Support page, whose bracket covers are sold separately. The drawing labels A, B and C only; D is not labeled in the drawing."
+    },
+    {
+      "part_number": "4290",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-86",
+      "description": "Clear anodized 6063-T6 aluminum 4 hole wide slotted inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".167 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": ".328”",
+        "G": ".500”",
+        "H": "1.500”",
+        "J": "2.812”",
+        "K": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), H = slot center-to-center spacing (typ), J = overall bracket width, ø K = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). 10 series 4260/-Black and metric 25-4260, 40-4290 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4290-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-86",
+      "description": "Black anodized 6063-T6 aluminum 4 hole wide slotted inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".167 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": ".328”",
+        "G": ".500”",
+        "H": "1.500”",
+        "J": "2.812”",
+        "K": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), H = slot center-to-center spacing (typ), J = overall bracket width, ø K = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). 10 series 4260/-Black and metric 25-4260, 40-4290 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4413",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Tall Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-87",
+      "description": "Clear anodized 6063-T6 aluminum 6 hole tall inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".260 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "1.312”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). 10 series 4013/-Black in the same table not extracted."
+    },
+    {
+      "part_number": "4413-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Tall Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-87",
+      "description": "Black anodized 6063-T6 aluminum 6 hole tall inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".260 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "1.312”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). 10 series 4013/-Black in the same table not extracted."
+    },
+    {
+      "part_number": "4375",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide 2x4 Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-88",
+      "description": "Clear anodized 6063-T6 aluminum 6 hole wide 2x4 inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".277 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".654”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). 10 series 4175/-Black and metric 25-4175, 40-4375 (and -Black) in the same table not extracted."
+    },
+    {
+      "part_number": "4375-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide 2x4 Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-88",
+      "description": "Black anodized 6063-T6 aluminum 6 hole wide 2x4 inside corner bracket for joining 15 series profiles at an inside corner; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".277 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".654”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), F = hole center-to-center spacing (typ), G = overall bracket width, ø H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). 10 series 4175/-Black and metric 25-4175, 40-4375 (and -Black) in the same table not extracted."
+    }
+  ],
+  "page_notes": {
+    "244": "3 Hole - Slotted Inside Corner Bracket (4-80): 4280 and 4280-Black (15 + RT) extracted; 10 series 4250/-Black and metric 25-4250, 40-4280 (and -Black) skipped. T-slot hardware 3320 x3 attached; Ready Tube hardware 3961 x3 (RT only) recorded in notes.",
+    "245": "4 Hole - Wide Inside Corner Bracket (4-81): 4303 and 4303-Black (15) extracted; 10 series 4113/-Black and metric 20/25-4113, 30/40/45-4303 (and -Black) skipped. Hardware table splits bolt and T-nut: 3330 x4 and 3278 x4 attached.",
+    "246": "4 Hole - Tall Inside Corner Bracket (4-82): 4301 and 4301-Black (15 + RT) extracted; 10 series 4115/-Black and metric 25-4115, 40-4301, 45-4301 (and -Black) skipped. T-slot hardware 3320 x4 attached; Ready Tube hardware 3961 x4 (RT only) recorded in notes.",
+    "247": "4 Hole - Inside Corner Bracket with Single Support (4-83): 14080 and 14081 (15 + 40) extracted; metric-only 14057, 14058 (10 + 20/25), 14068, 14070, 14086, 14088 skipped (14058 is 10 + metric, so out of scope). Hardware 3455 x4 attached. Cover cap 12299 is 45 series only, skipped.",
+    "248": "4 Hole - Inside Corner Bracket with Dual Support (4-84): 14103, 14098, 14100, 14099 (15 + metric) extracted; 14102, 14101 (45 only) skipped. Hardware 3455 x4 attached. Cover cap 12038 (15/40/45) extracted as accessory.",
+    "250": "4 Hole - Wide Slotted Inside Corner Bracket (4-86): 4290 and 4290-Black (15) extracted; 10 series 4260/-Black and metric 25-4260, 40-4290 (and -Black) skipped. Hardware 3320 x4 attached.",
+    "251": "6 Hole - Tall Inside Corner Bracket (4-87): 4413 and 4413-Black (15) extracted; 10 series 4013/-Black skipped. Hardware 3320 x6 attached.",
+    "252": "6 Hole - Wide 2x4 Inside Corner Bracket (4-88): 4375 and 4375-Black (15) extracted; 10 series 4175/-Black and metric 25-4175, 40-4375 (and -Black) skipped. Hardware 3320 x6 attached."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "14099: weight printed as .2068 kg vs .2618 kg for the matching natural part 14100; kept as printed (possible catalog typo).",
+      "4280/4280-Black and 4301/4301-Black: Ready Tube hardware 3961 (RT-only row) kept in notes only, not in suggested_hardware, per the 15/F-rows rule.",
+      "12038 cover cap: category set to accessory (no dedicated cover-cap category); its D dimension is not labeled in the drawing.",
+      "14080/14081 and 14103/14098 vs 14100/14099: the page does not state which variants carry the optional slot tab (C and L shown as — on some rows)."
+    ]
+  }
+}

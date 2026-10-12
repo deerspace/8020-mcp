@@ -1,0 +1,1275 @@
+{
+  "chunk": "c047",
+  "pages": [
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548
+  ],
+  "parts": [
+    {
+      "part_number": "2165",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-29",
+      "description": "2 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time. An extension pin helps align the plate within the T-slot to keep the profile from rotating.",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Extension pin helps align base plate within T-slot to keep profile from rotating",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".215 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.410”",
+        "C": ".750”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": ".390”",
+        "G": ".531”",
+        "H": ".500”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "D = overall width, E = edge to hole centerline, F = diameter of upper hole, G = diameter of lower (offset) hole, A/B/C = distances from top edge to the lower hole, extension pin and upper hole centers, H = thickness, J = overall length",
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. No suggested hardware table is printed for this plate. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2165-Black",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-29",
+      "description": "2 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time. An extension pin helps align the plate within the T-slot to keep the profile from rotating.",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Extension pin helps align base plate within T-slot to keep profile from rotating",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".215 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.410”",
+        "C": ".750”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": ".390”",
+        "G": ".531”",
+        "H": ".500”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "D = overall width, E = edge to hole centerline, F = diameter of upper hole, G = diameter of lower (offset) hole, A/B/C = distances from top edge to the lower hole, extension pin and upper hole centers, H = thickness, J = overall length",
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. No suggested hardware table is printed for this plate. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2170",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-30",
+      "description": "4 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time; it has a tapped hole (3/8-16). Mounting hardware helps align the plate within the T-slot to keep the profile from rotating.",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Mounting hardware helps align base plate within T-slot to keep profile from rotating",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".445 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "3/8-16",
+        "J": "5/16 SHCS",
+        "K": ".531”",
+        "L": ".750”",
+        "M": "4.500”"
+      },
+      "dimension_notes": "E = overall width, F = edge to hole centerline, D/C/B/A = distances from top edge to the first counterbored hole, tapped hole, second counterbored hole and offset hole centers, G = counterbored hole spacing, H = tapped hole thread, J = bolt size for counterbored holes, K = offset hole diameter, L = thickness, M = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2170-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-30",
+      "description": "4 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time; it has a tapped hole (3/8-16). Mounting hardware helps align the plate within the T-slot to keep the profile from rotating.",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Mounting hardware helps align base plate within T-slot to keep profile from rotating",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".445 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "3/8-16",
+        "J": "5/16 SHCS",
+        "K": ".531”",
+        "L": ".750”",
+        "M": "4.500”"
+      },
+      "dimension_notes": "E = overall width, F = edge to hole centerline, D/C/B/A = distances from top edge to the first counterbored hole, tapped hole, second counterbored hole and offset hole centers, G = counterbored hole spacing, H = tapped hole thread, J = bolt size for counterbored holes, K = offset hole diameter, L = thickness, M = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2175",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-30",
+      "description": "4 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time; it has a tapped hole (1/2-13). Mounting hardware helps align the plate within the T-slot to keep the profile from rotating.",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Mounting hardware helps align base plate within T-slot to keep profile from rotating",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".441 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1/2-13",
+        "J": "5/16 SHCS",
+        "K": ".531”",
+        "L": ".750”",
+        "M": "4.500”"
+      },
+      "dimension_notes": "E = overall width, F = edge to hole centerline, D/C/B/A = distances from top edge to the first counterbored hole, tapped hole, second counterbored hole and offset hole centers, G = counterbored hole spacing, H = tapped hole thread, J = bolt size for counterbored holes, K = offset hole diameter, L = thickness, M = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2175-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-30",
+      "description": "4 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time; it has a tapped hole (1/2-13). Mounting hardware helps align the plate within the T-slot to keep the profile from rotating.",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Mounting hardware helps align base plate within T-slot to keep profile from rotating",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".441 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1/2-13",
+        "J": "5/16 SHCS",
+        "K": ".531”",
+        "L": ".750”",
+        "M": "4.500”"
+      },
+      "dimension_notes": "E = overall width, F = edge to hole centerline, D/C/B/A = distances from top edge to the first counterbored hole, tapped hole, second counterbored hole and offset hole centers, G = counterbored hole spacing, H = tapped hole thread, J = bolt size for counterbored holes, K = offset hole diameter, L = thickness, M = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2180",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-31",
+      "description": "6 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time; it has a tapped hole (1/2-13).",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".921 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "3.000”",
+        "F": "1.500”",
+        "G": ".750”",
+        "H": "5/16 SHCS",
+        "J": "1/2-13",
+        "K": ".531”",
+        "L": "1.500”",
+        "M": ".750”",
+        "N": "4.500”"
+      },
+      "dimension_notes": "E = overall width, F = edge to plate centerline, G = edge to first hole column, L = hole column spacing, D/C/B/A = distances from top edge to the first hole row, tapped hole, second hole row and offset hole centers, H = bolt size for counterbored holes, J = tapped hole thread, K = offset hole diameter, M = thickness, N = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2180-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Leveling Anchoring Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-31",
+      "description": "6 hole base plate that mounts to a profile end and provides an offset hole so a leveling foot and floor anchor can be used at the same time; it has a tapped hole (1/2-13).",
+      "features": [
+        "Mounts to profile end; provides offset hole that allows leveling foot and floor anchor to be used at the same time",
+        "Requires tap machining service (pg. 11-3) for end mount"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".921 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "3.000”",
+        "F": "1.500”",
+        "G": ".750”",
+        "H": "5/16 SHCS",
+        "J": "1/2-13",
+        "K": ".531”",
+        "L": "1.500”",
+        "M": ".750”",
+        "N": "4.500”"
+      },
+      "dimension_notes": "E = overall width, F = edge to plate centerline, G = edge to first hole column, L = hole column spacing, D/C/B/A = distances from top edge to the first hole row, tapped hole, second hole row and offset hole centers, H = bolt size for counterbored holes, J = tapped hole thread, K = offset hole diameter, M = thickness, N = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2130",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (3/8-16) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".298 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "3/8-16",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2130-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (3/8-16) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".298 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "3/8-16",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2135",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (1/2-13) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".294 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "1/2-13",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2135-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (1/2-13) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".294 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "1/2-13",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2138",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (7/16-14) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".297 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "7/16-14",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2138-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (7/16-14) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".297 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "7/16-14",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2365",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (3/4-10) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".277 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "3/4-10",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2365-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-32",
+      "description": "3 hole aluminum base plate with a center tapped hole (3/4-10) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".277 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": "3/4-10",
+        "G": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to hole centerline, B = top edge to first counterbored hole center, A = counterbored hole spacing, E = top edge to center tapped hole, F = center hole thread, G = bolt size for counterbored holes, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-33."
+    },
+    {
+      "part_number": "2140",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-34",
+      "description": "5 hole aluminum base plate with a center tapped hole (1/2-13) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".604 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": "5/16 SHCS",
+        "J": "1/2-13",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to plate centerline, E = edge to first hole column, B = top edge to first hole row, A = top edge to center tapped hole, F = hole row spacing, G = hole column spacing, H = bolt size for counterbored holes, J = center hole thread, K = thickness, L = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-35."
+    },
+    {
+      "part_number": "2140-Black",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-34",
+      "description": "5 hole aluminum base plate with a center tapped hole (1/2-13) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".604 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": "5/16 SHCS",
+        "J": "1/2-13",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to plate centerline, E = edge to first hole column, B = top edge to first hole row, A = top edge to center tapped hole, F = hole row spacing, G = hole column spacing, H = bolt size for counterbored holes, J = center hole thread, K = thickness, L = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-35."
+    },
+    {
+      "part_number": "2145",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-34",
+      "description": "5 hole aluminum base plate with a center tapped hole (7/16-14) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".607 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": "5/16 SHCS",
+        "J": "7/16-14",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to plate centerline, E = edge to first hole column, B = top edge to first hole row, A = top edge to center tapped hole, F = hole row spacing, G = hole column spacing, H = bolt size for counterbored holes, J = center hole thread, K = thickness, L = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-35."
+    },
+    {
+      "part_number": "2145-Black",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-34",
+      "description": "5 hole aluminum base plate with a center tapped hole (7/16-14) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".607 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": "5/16 SHCS",
+        "J": "7/16-14",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to plate centerline, E = edge to first hole column, B = top edge to first hole row, A = top edge to center tapped hole, F = hole row spacing, G = hole column spacing, H = bolt size for counterbored holes, J = center hole thread, K = thickness, L = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-35."
+    },
+    {
+      "part_number": "2366",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-34",
+      "description": "5 hole aluminum base plate with a center tapped hole (3/4-10) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".588 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": "5/16 SHCS",
+        "J": "3/4-10",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to plate centerline, E = edge to first hole column, B = top edge to first hole row, A = top edge to center tapped hole, F = hole row spacing, G = hole column spacing, H = bolt size for counterbored holes, J = center hole thread, K = thickness, L = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-35."
+    },
+    {
+      "part_number": "2366-Black",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Center Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-34",
+      "description": "5 hole aluminum base plate with a center tapped hole (3/4-10) that mounts leveling feet and threaded stem casters; it can be mounted to a profile end (requires tap machining service, pg. 11-3) or to the T-slot with the suggested hardware.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Using M12 SHCS, base plate can only be mounted to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".588 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": "5/16 SHCS",
+        "J": "3/4-10",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = overall width, D = edge to plate centerline, E = edge to first hole column, B = top edge to first hole row, A = top edge to center tapped hole, F = hole row spacing, G = hole column spacing, H = bolt size for counterbored holes, J = center hole thread, K = thickness, L = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Aluminum material specifications (6063-T6, Milled, Anodize) and suggested hardware are printed on the continued page 6-35."
+    },
+    {
+      "part_number": "2141",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Offset Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-36",
+      "description": "4 hole base plate with an offset tapped hole (1/2-13) for mounting leveling feet and threaded stem casters; the offset provides greater clearance for the threaded stem.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Offset provides greater clearance for threaded stem"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".616 lb",
+      "specs": {
+        "A": ".750”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "5/16 SHCS",
+        "G": "1/2-13",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "B = overall width, C = edge to tapped hole column, A = top edge to tapped hole center, D = vertical spacing of counterbored holes, E = horizontal spacing of counterbored holes, F = bolt size for counterbored holes, G = tapped hole thread, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 3,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Suggested Mount to T-Slot hardware is qty 3 (three counterbored holes; the fourth hole is tapped); no Mount to Profile End hardware table is printed for this plate. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2141-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Offset Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-36",
+      "description": "4 hole base plate with an offset tapped hole (1/2-13) for mounting leveling feet and threaded stem casters; the offset provides greater clearance for the threaded stem.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Offset provides greater clearance for threaded stem"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".616 lb",
+      "specs": {
+        "A": ".750”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "5/16 SHCS",
+        "G": "1/2-13",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "B = overall width, C = edge to tapped hole column, A = top edge to tapped hole center, D = vertical spacing of counterbored holes, E = horizontal spacing of counterbored holes, F = bolt size for counterbored holes, G = tapped hole thread, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 3,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Suggested Mount to T-Slot hardware is qty 3 (three counterbored holes; the fourth hole is tapped); no Mount to Profile End hardware table is printed for this plate. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2367",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Offset Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-36",
+      "description": "4 hole base plate with an offset tapped hole (3/4-10) for mounting leveling feet and threaded stem casters; the offset provides greater clearance for the threaded stem.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Offset provides greater clearance for threaded stem"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".599 lb",
+      "specs": {
+        "A": ".750”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "5/16 SHCS",
+        "G": "3/4-10",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "B = overall width, C = edge to tapped hole column, A = top edge to tapped hole center, D = vertical spacing of counterbored holes, E = horizontal spacing of counterbored holes, F = bolt size for counterbored holes, G = tapped hole thread, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 3,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Suggested Mount to T-Slot hardware is qty 3 (three counterbored holes; the fourth hole is tapped); no Mount to Profile End hardware table is printed for this plate. Material: Aluminum 6063-T6, Milled, Anodize."
+    },
+    {
+      "part_number": "2367-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Offset Tap Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-36",
+      "description": "4 hole base plate with an offset tapped hole (3/4-10) for mounting leveling feet and threaded stem casters; the offset provides greater clearance for the threaded stem.",
+      "features": [
+        "Mounts leveling feet and threaded stem casters",
+        "Requires tap machining service (pg. 11-3) for end mount",
+        "Offset provides greater clearance for threaded stem"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".599 lb",
+      "specs": {
+        "A": ".750”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "5/16 SHCS",
+        "G": "3/4-10",
+        "H": ".750”",
+        "J": "3.000”"
+      },
+      "dimension_notes": "B = overall width, C = edge to tapped hole column, A = top edge to tapped hole center, D = vertical spacing of counterbored holes, E = horizontal spacing of counterbored holes, F = bolt size for counterbored holes, G = tapped hole thread, H = thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 3,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Requires Tap Profile End machining service (Machined: Mount to Profile End, reference page 11-3) for end mount; no service number is printed for it on this page. Suggested Mount to T-Slot hardware is qty 3 (three counterbored holes; the fourth hole is tapped); no Mount to Profile End hardware table is printed for this plate. Material: Aluminum 6063-T6, Milled, Anodize."
+    }
+  ],
+  "page_notes": {
+    "541": "6-29 2 Hole - Leveling Anchoring Base Plate: 15-series rows 2165, 2165-Black extracted; 10-series and metric rows skipped; Tap Profile End machining (pg. 11-3) has no service number or badge, noted on parts only.",
+    "542": "6-30 4 Hole - Leveling Anchoring Base Plate: 15-series rows 2170, 2175 (+ -Black) extracted with suggested hardware 3458 (T-slot, qty 2) and 3123 (profile end, qty 2); 10-series and metric rows skipped.",
+    "543": "6-31 6 Hole - Leveling Anchoring Base Plate: 15-series rows 2180, 2180-Black extracted with suggested hardware 3458 (qty 4) and 3123 (qty 4); 10-series and metric rows skipped.",
+    "544": "6-32 3 Hole - Center Tap Base Plate: 15-series aluminum rows 2130, 2135, 2138, 2365 (+ -Black) extracted (material Aluminum merged cell); 10/25/40-series rows skipped; specs and hardware from continued page 6-33.",
+    "545": "6-33 3 Hole - Center Tap Base Plate (Continued): only metric zinc die-cast rows (14021-14029), none extracted; page supplies Aluminum material specs and suggested hardware (3458 qty 2, 3123 qty 2) applied to the 15-series plates on 6-32.",
+    "546": "6-34 5 Hole - Center Tap Base Plate: 15-series aluminum rows 2140, 2145, 2366 (+ -Black) extracted; 10/25/40-series rows skipped; specs and hardware from continued page 6-35.",
+    "547": "6-35 5 Hole - Center Tap Base Plate (Continued): only metric zinc die-cast rows (14037-14047), none extracted; page supplies Aluminum material specs and suggested hardware (3458 qty 4, 3123 qty 4) applied to the 15-series plates on 6-34.",
+    "548": "6-36 4 Hole - Offset Tap Base Plate: 15-series rows 2141, 2367 (+ -Black) extracted with suggested hardware 3458 (T-slot, qty 3); 10/25/40-series rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2130: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2130-Black: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2135: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2135-Black: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2138: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2138-Black: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2365: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2365-Black: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2140: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2140-Black: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2145: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2145-Black: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2366: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)",
+      "2366-Black: description 'for mounting ... to the end of a profile' -> 'mounts to a profile end or to the T-slot' (page also lists Mount to T-Slot hardware)"
+    ],
+    "remaining_doubts": [
+      "Tap Profile End machining (Mount to Profile End, ref. pg. 11-3) is printed on every page without a service number or 15 badge, so it was not extracted as a machining_service part; it is recorded in each part's notes.",
+      "The 'Using M12 SHCS, base plate can only be mounted to profile end' bullet on 6-32/6-34 is kept verbatim in features for the 15-series aluminum plates, although M12 SHCS relates to the metric rows."
+    ]
+  }
+}

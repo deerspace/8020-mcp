@@ -1,0 +1,1 @@
+{ "source": "test", "prices": { "1515": { "price": 0.98, "price_unit": "per_inch", "cut_charge": 3.0, "verified": "2026-10-11" }, "TEST-PLATE": { "price": 6.0, "price_unit": "each", "verified": "2026-10-11" } } }

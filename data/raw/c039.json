@@ -1,0 +1,1118 @@
+{
+  "chunk": "c039",
+  "pages": [
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485
+  ],
+  "parts": [
+    {
+      "part_number": "2056",
+      "series": [
+        "F"
+      ],
+      "name": "Flush Plastic Panel Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-112",
+      "description": "Flush-mounted panel handle that mounts in panels .375” (10mm) or thinner. Plastic version with matte finish.",
+      "features": [
+        "Mounts in panels .375” (10mm) or thinner; requires flush handle panel milling service (pg. 11-39)"
+      ],
+      "material": "Plastic",
+      "finish": "Matte",
+      "weight": ".057 lb",
+      "specs": {
+        "Grade": "LNP™ Stat-Kon™",
+        "A": "3.180”",
+        "B": ".750”",
+        "C": "1.094”",
+        "D": ".560”",
+        "E": ".094”",
+        "F": ".409”",
+        "G": ".673”",
+        "H": ".811”",
+        "J": "30°"
+      },
+      "dimension_notes": "J = angle in degrees (J°)",
+      "notes": "Requires machining service: Flush Handle Plastic Panel Milling (part machined: Panel, reference page 11-39). Row is also badged M (metric)."
+    },
+    {
+      "part_number": "2058",
+      "series": [
+        "F"
+      ],
+      "name": "Flush Plastic Panel Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-112",
+      "description": "Flush-mounted panel handle that mounts in panels .375” (10mm) or thinner. Aluminum version with black powder coat finish.",
+      "features": [
+        "Mounts in panels .375” (10mm) or thinner; requires flush handle panel milling service (pg. 11-39)"
+      ],
+      "material": "Aluminum",
+      "finish": "Black Powder Coat",
+      "weight": ".122 lb",
+      "specs": {
+        "Grade": "—",
+        "A": "4.190”",
+        "B": ".825”",
+        "C": "1.152”",
+        "D": "1.625”",
+        "E": ".098”",
+        "F": ".409”",
+        "G": ".673”",
+        "H": ".811”",
+        "J": "12°"
+      },
+      "dimension_notes": "J = angle in degrees (J°)",
+      "notes": "Requires machining service: Flush Handle Plastic Panel Milling (part machined: Panel, reference page 11-39). Row is also badged M (metric)."
+    },
+    {
+      "part_number": "65-2056",
+      "series": [
+        "F"
+      ],
+      "name": "Flush Plastic Panel Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-112",
+      "description": "Flush-mounted panel handle that mounts in panels .375” (10mm) or thinner. Plastic version with matte finish.",
+      "features": [
+        "Mounts in panels .375” (10mm) or thinner; requires flush handle panel milling service (pg. 11-39)"
+      ],
+      "material": "Plastic",
+      "finish": "Matte",
+      "weight": ".0247 kg",
+      "specs": {
+        "Grade": "LNP™ Stat-Kon™",
+        "A": "80.77mm",
+        "B": "19.05mm",
+        "C": "27.79mm",
+        "D": "14.22mm",
+        "E": "2.38mm",
+        "F": "10.40mm",
+        "G": "17.10mm",
+        "H": "20.60mm",
+        "J": "30°"
+      },
+      "dimension_notes": "J = angle in degrees (J°)",
+      "notes": "Requires machining service: Flush Handle Plastic Panel Milling (part machined: Panel, reference page 11-39). Row is badged F and M; this is the metric-dimensioned (mm/kg) listing matching 2056."
+    },
+    {
+      "part_number": "65-2058",
+      "series": [
+        "F"
+      ],
+      "name": "Flush Plastic Panel Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-112",
+      "description": "Flush-mounted panel handle that mounts in panels .375” (10mm) or thinner. Aluminum version with black powder coat finish.",
+      "features": [
+        "Mounts in panels .375” (10mm) or thinner; requires flush handle panel milling service (pg. 11-39)"
+      ],
+      "material": "Aluminum",
+      "finish": "Black Powder Coat",
+      "weight": ".0562 kg",
+      "specs": {
+        "Grade": "—",
+        "A": "106.40mm",
+        "B": "20.95mm",
+        "C": "29.26mm",
+        "D": "41.27mm",
+        "E": "2.49mm",
+        "F": "10.40mm",
+        "G": "17.10mm",
+        "H": "20.60mm",
+        "J": "12°"
+      },
+      "dimension_notes": "J = angle in degrees (J°)",
+      "notes": "Requires machining service: Flush Handle Plastic Panel Milling (part machined: Panel, reference page 11-39). Row is badged F and M; this is the metric-dimensioned (mm/kg) listing matching 2058."
+    },
+    {
+      "part_number": "2730",
+      "series": [
+        "15"
+      ],
+      "name": "Locking Plastic Panel Grabber™ Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-113",
+      "description": "Locking panel handle that opens from either side and mounts to panels between .075” and .275” (2mm-7mm) thick. Comes with mounting hardware and a striker plate that mounts to the T-slot.",
+      "features": [
+        "Opens from either side; mounts to panels between .075” and .275” (2mm-7mm)",
+        "Mounting hardware and striker plate included"
+      ],
+      "material": "PC/PBT Blend",
+      "color": "Black",
+      "weight": ".180 lb",
+      "specs": {
+        "Process": "Injection Molded",
+        "A": ".075” to .275”",
+        "B": "2.413”",
+        "C": "1.957”",
+        "D": "1.000”",
+        "E": "1.000”",
+        "F": ".750”",
+        "G": ".750”"
+      },
+      "dimension_notes": "A = panel thickness range",
+      "suggested_hardware": [
+        {
+          "part_number": "3062",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” SHCS",
+          "context": "Included Hardware (Mount Striker Plate to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 1,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included Hardware (Mount Striker Plate to T-Slot)"
+        }
+      ],
+      "notes": "Requires machining service: Locking Grabber Handle Panel Milling (part machined: Panel, reference page 11-38). Hardware listed is from the 'Included Hardware (Mount Striker Plate to T-Slot)' table (included with the handle, 15-series rows only; 3058 is for 10/25/30 series). Series badge cell (10, 15, 25, 30, 40, 45) is merged across 2730 and 65-2730."
+    },
+    {
+      "part_number": "65-2730",
+      "series": [
+        "15"
+      ],
+      "name": "Locking Plastic Panel Grabber™ Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-113",
+      "description": "Locking panel handle that opens from either side and mounts to panels between .075” and .275” (2mm-7mm) thick. Comes with mounting hardware and a striker plate that mounts to the T-slot.",
+      "features": [
+        "Opens from either side; mounts to panels between .075” and .275” (2mm-7mm)",
+        "Mounting hardware and striker plate included"
+      ],
+      "material": "PC/PBT Blend",
+      "color": "Black",
+      "weight": ".0806 kg",
+      "specs": {
+        "Process": "Injection Molded",
+        "A": "2mm to 7mm",
+        "B": "61.30mm",
+        "C": "49.70mm",
+        "D": "25.40mm",
+        "E": "25.40mm",
+        "F": "19.05mm",
+        "G": "19.05mm"
+      },
+      "dimension_notes": "A = panel thickness range",
+      "suggested_hardware": [
+        {
+          "part_number": "3062",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” SHCS",
+          "context": "Included Hardware (Mount Striker Plate to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 1,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included Hardware (Mount Striker Plate to T-Slot)"
+        }
+      ],
+      "notes": "Requires machining service: Locking Grabber Handle Panel Milling (part machined: Panel, reference page 11-38). Hardware listed is from the 'Included Hardware (Mount Striker Plate to T-Slot)' table (included with the handle, 15-series rows only; 3058 is for 10/25/30 series). Series badge cell (10, 15, 25, 30, 40, 45) is merged across 2730 and 65-2730. 65-2730 is the metric-dimensioned (mm/kg) listing matching 2730."
+    },
+    {
+      "part_number": "2055",
+      "series": [
+        "15"
+      ],
+      "name": "Deluxe Door Handle with Pawl Kit",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-114",
+      "description": "Non-Locking chrome-plated steel deluxe door handle mounted through a T-slot profile. Includes the deluxe door handle, pawl kit and mounting hardware.",
+      "features": [
+        "Includes deluxe door handle (pg. 5-115), pawl kit (pg. 5-118) and mounting hardware",
+        "Requires deluxe door handle profile milling service (pg. 11-17)"
+      ],
+      "material": "Steel",
+      "finish": "Chrome",
+      "weight": ".301 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": "1.590”",
+        "C": "3.313”",
+        "D": ".750”",
+        "E": "1.969”",
+        "F": "3.000”",
+        "G": ".750”",
+        "H": ".313”",
+        "J": ".620”",
+        "K": "Non-Locking"
+      },
+      "dimension_notes": "K = locking / non-locking version",
+      "notes": "Requires machining service: Deluxe Door Handle Profile Milling (part machined: Profile, reference page 11-17)."
+    },
+    {
+      "part_number": "2063",
+      "series": [
+        "15"
+      ],
+      "name": "Deluxe Door Handle with Pawl Kit",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-114",
+      "description": "Locking chrome-plated steel deluxe door handle mounted through a T-slot profile. Includes the deluxe door handle, pawl kit and mounting hardware.",
+      "features": [
+        "Includes deluxe door handle (pg. 5-115), pawl kit (pg. 5-118) and mounting hardware",
+        "Requires deluxe door handle profile milling service (pg. 11-17)"
+      ],
+      "material": "Steel",
+      "finish": "Chrome",
+      "weight": ".695 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": "1.590”",
+        "C": "3.313”",
+        "D": ".750”",
+        "E": "1.969”",
+        "F": "3.000”",
+        "G": ".750”",
+        "H": ".313”",
+        "J": ".620”",
+        "K": "Locking"
+      },
+      "dimension_notes": "K = locking / non-locking version",
+      "notes": "Requires machining service: Deluxe Door Handle Profile Milling (part machined: Profile, reference page 11-17). Locking version (shown with keys)."
+    },
+    {
+      "part_number": "2052",
+      "series": [
+        "15"
+      ],
+      "name": "Deluxe Door Mating Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-115",
+      "description": "Chrome-plated steel mating handle that attaches with a set screw to the deluxe door handle with pawl kit (pg. 5-114). Requires no machining service.",
+      "features": [
+        "Attaches with a simple set screw deluxe door handle with pawl kit (pg. 5-114)",
+        "Requires no machining service"
+      ],
+      "material": "Steel",
+      "finish": "Chrome",
+      "weight": ".362 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".250”",
+        "C": ".719”",
+        "D": "1.250”",
+        "E": ".813”",
+        "F": "3.313”",
+        "G": ".320”",
+        "H": "1/4-20 x .250"
+      },
+      "dimension_notes": "C = diameter (ø C); G = square opening (G SQ. OPENING); H = set screw size",
+      "notes": "Mates with deluxe door handle with pawl kit 2055/2063 (pg. 5-114). No machining required."
+    },
+    {
+      "part_number": "2082",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".552 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2083",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Non-Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".532 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2952",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".568 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2953",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Non-Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".523 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2932",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".686 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2933",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Non-Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".649 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2922",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".646 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2923",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-116",
+      "description": "Non-Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees clockwise to close. Pictured on this page as the T-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".647 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "3.307”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2087",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".580 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2089",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Non-Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".553 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2957",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".579 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2959",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Non-Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees counter clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".549 lb",
+      "specs": {
+        "Rotation to Close": "Counter Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2937",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".701 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2939",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Non-Locking die cast zinc furniture style handle with chrome finish that rotates 90 degrees clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Chrome",
+      "color": "Bright",
+      "weight": ".670 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2927",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".700 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2929",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-117",
+      "description": "Non-Locking die cast zinc furniture style handle with black powder coat finish that rotates 90 degrees clockwise to close. Pictured on this page as the L-shaped handle.",
+      "features": [
+        "Comes in chrome-plated or matte black, “T” or “L” shape, locking or unlocking, 90 degree counter-clockwise or clockwise rotation",
+        "Includes mounting hardware; use pawl kit (5-118) to latch",
+        "Requires furniture style handle profile milling service (pg. 11-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".546 lb",
+      "specs": {
+        "Rotation to Close": "Clockwise",
+        "A": ".984”",
+        "B": "4.423”",
+        "C": "1.535”",
+        "D": ".031”",
+        "E": "2.319”",
+        "F": "2.126”",
+        "G": "M4-0.7",
+        "H": "Non-Locking"
+      },
+      "dimension_notes": "G = mounting stud thread; H = locking / non-locking (lock cylinder)",
+      "notes": "Requires machining service: Furniture Style Handle Profile Milling (part machined: Profile, reference page 11-18). Mounting hardware included; use pawl kit (pg. 5-118) to latch. Rotation is 90 degrees. Listed on 'Furniture Style Handle (Continued)' page. Badged 10 and 15 series."
+    },
+    {
+      "part_number": "2763",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle Pawl Kit",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-118",
+      "description": "Bright zinc plated low carbon steel pawl kit used to help latch a deluxe or furniture style handle; mounting hardware included. Transition version between 10 and 15 series.",
+      "features": [
+        "Used to assist in latching a deluxe (pg. 5-115) or furniture style handle (pg. 5-116); mounting hardware included",
+        "Available as transition between 10 and 15 series or 25 and 40 series"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".088 lb",
+      "specs": {
+        "Grade": "Low Carbon",
+        "Process": "Stamping / Blending",
+        "A": "1.500”",
+        "B": ".500”",
+        "C": ".750”",
+        "D": ".320”",
+        "E": "1.000”",
+        "F": ".032”",
+        "G": ".310”",
+        "H": ".652”",
+        "J": "—",
+        "K": "SDS #10 x .500”"
+      },
+      "dimension_notes": "E = diameter (ø E); K = screw",
+      "notes": "Series badge printed as '10 to 15' (transition pawl kit between 10 and 15 series). Mounting hardware included. Works with deluxe door handle (pg. 5-114/5-115) and furniture style handles (pg. 5-116/5-117)."
+    },
+    {
+      "part_number": "2765",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle Pawl Kit",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-118",
+      "description": "Bright zinc plated low carbon steel pawl kit used to help latch a deluxe or furniture style handle; mounting hardware included. For 15 series.",
+      "features": [
+        "Used to assist in latching a deluxe (pg. 5-115) or furniture style handle (pg. 5-116); mounting hardware included",
+        "Available as transition between 10 and 15 series or 25 and 40 series"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".086 lb",
+      "specs": {
+        "Grade": "Low Carbon",
+        "Process": "Stamping / Blending",
+        "A": "1.750”",
+        "B": ".500”",
+        "C": ".750”",
+        "D": ".320”",
+        "E": "1.000”",
+        "F": ".032”",
+        "G": ".310”",
+        "H": ".680”",
+        "J": ".060”",
+        "K": "SDS #10 x .500”"
+      },
+      "dimension_notes": "E = diameter (ø E); K = screw",
+      "notes": "Mounting hardware included. Works with deluxe door handle (pg. 5-114/5-115) and furniture style handles (pg. 5-116/5-117)."
+    },
+    {
+      "part_number": "2760",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle Pawl Kit",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-118",
+      "description": "Bright zinc plated low carbon steel pawl kit used to help latch a deluxe or furniture style handle; mounting hardware included. For 15 series.",
+      "features": [
+        "Used to assist in latching a deluxe (pg. 5-115) or furniture style handle (pg. 5-116); mounting hardware included",
+        "Available as transition between 10 and 15 series or 25 and 40 series"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".118 lb",
+      "specs": {
+        "Grade": "Low Carbon",
+        "Process": "Stamping / Blending",
+        "A": "2.750”",
+        "B": ".500”",
+        "C": ".750”",
+        "D": ".320”",
+        "E": "1.000”",
+        "F": ".032”",
+        "G": ".310”",
+        "H": ".680”",
+        "J": ".060”",
+        "K": "SDS #10 x .500”"
+      },
+      "dimension_notes": "E = diameter (ø E); K = screw",
+      "notes": "Mounting hardware included. Works with deluxe door handle (pg. 5-114/5-115) and furniture style handles (pg. 5-116/5-117)."
+    },
+    {
+      "part_number": "12145",
+      "series": [
+        "15"
+      ],
+      "name": "Slam Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-119",
+      "description": "Black powder coated die cast aluminum slam latch that mounts to a T-slot door or frame from the front with no machining. Lock: keyed alike.",
+      "features": [
+        "Mounts to T-slot door or frame from front; requires no machining",
+        "Safe against disassembly in locked position; available with locking mechanisms keyed alike, keyed different or without lock"
+      ],
+      "material": "Aluminum",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".2404 kg",
+      "specs": {
+        "Process": "Die Cast",
+        "Lock": "keyed alike",
+        "A": "77.80mm",
+        "B": "75.00mm",
+        "C": "44.40mm",
+        "D": "30.00mm",
+        "E": "9.90mm",
+        "F": "56.00mm",
+        "G": "31.60mm",
+        "H": "28.30mm",
+        "J": "69.00mm",
+        "K": "24.50mm",
+        "L": "40.20mm"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "13-6516",
+          "qty": 4,
+          "description": "M6 x 16mm SHCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13119",
+          "qty": 4,
+          "description": "Standard Drop-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "No machining required. Safe against disassembly in locked position. Series badge cell (15, 30, 40, 45) is merged across 12145-12147; dimensions given in mm only. Suggested hardware shown is the 15-series subset (13117 is for 30 series, 13129 for 45 series)."
+    },
+    {
+      "part_number": "12146",
+      "series": [
+        "15"
+      ],
+      "name": "Slam Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-119",
+      "description": "Black powder coated die cast aluminum slam latch that mounts to a T-slot door or frame from the front with no machining. Lock: different key.",
+      "features": [
+        "Mounts to T-slot door or frame from front; requires no machining",
+        "Safe against disassembly in locked position; available with locking mechanisms keyed alike, keyed different or without lock"
+      ],
+      "material": "Aluminum",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".2418 kg",
+      "specs": {
+        "Process": "Die Cast",
+        "Lock": "different key",
+        "A": "77.80mm",
+        "B": "75.00mm",
+        "C": "44.40mm",
+        "D": "30.00mm",
+        "E": "9.90mm",
+        "F": "56.00mm",
+        "G": "31.60mm",
+        "H": "28.30mm",
+        "J": "69.00mm",
+        "K": "24.50mm",
+        "L": "40.20mm"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "13-6516",
+          "qty": 4,
+          "description": "M6 x 16mm SHCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13119",
+          "qty": 4,
+          "description": "Standard Drop-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "No machining required. Safe against disassembly in locked position. Series badge cell (15, 30, 40, 45) is merged across 12145-12147; dimensions given in mm only. Suggested hardware shown is the 15-series subset (13117 is for 30 series, 13129 for 45 series)."
+    },
+    {
+      "part_number": "12147",
+      "series": [
+        "15"
+      ],
+      "name": "Slam Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-119",
+      "description": "Black powder coated die cast aluminum slam latch that mounts to a T-slot door or frame from the front with no machining. Lock: without key.",
+      "features": [
+        "Mounts to T-slot door or frame from front; requires no machining",
+        "Safe against disassembly in locked position; available with locking mechanisms keyed alike, keyed different or without lock"
+      ],
+      "material": "Aluminum",
+      "finish": "Powder Coat",
+      "color": "Black",
+      "weight": ".2002 kg",
+      "specs": {
+        "Process": "Die Cast",
+        "Lock": "without key",
+        "A": "77.80mm",
+        "B": "75.00mm",
+        "C": "44.40mm",
+        "D": "30.00mm",
+        "E": "9.90mm",
+        "F": "56.00mm",
+        "G": "31.60mm",
+        "H": "28.30mm",
+        "J": "69.00mm",
+        "K": "24.50mm",
+        "L": "40.20mm"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "13-6516",
+          "qty": 4,
+          "description": "M6 x 16mm SHCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13119",
+          "qty": 4,
+          "description": "Standard Drop-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "No machining required. Safe against disassembly in locked position. Series badge cell (15, 30, 40, 45) is merged across 12145-12147; dimensions given in mm only. Suggested hardware shown is the 15-series subset (13117 is for 30 series, 13129 for 45 series)."
+    }
+  ],
+  "page_notes": {
+    "478": "Flush Plastic Panel Handle (5-112): 2056, 2058 and metric-dimensioned 65-2056, 65-2058, all badged F and M; requires Flush Handle Plastic Panel Milling (11-39).",
+    "479": "Locking Plastic Panel Grabber Handle (5-113): 2730 and 65-2730 under merged 10/15/25/30/40/45 badge cell; included hardware 3062 and 3382 attached; 3058 (10-series) and metric suggested hardware 11-6514, 14126 skipped.",
+    "480": "Deluxe Door Handle with Pawl Kit (5-114): 2055 and 2063 (15); metric 40-2055, 40-2063 skipped.",
+    "481": "Deluxe Door Mating Handle (5-115): 2052 (15); metric 40-2052 skipped.",
+    "482": "Furniture Style Handle (5-116, T-shape pictured): eight 10/15 rows 2082, 2083, 2952, 2953, 2932, 2933, 2922, 2923; 25/40 metric 65- rows skipped.",
+    "483": "Furniture Style Handle continued (5-117, L-shape pictured): eight 10/15 rows 2087, 2089, 2957, 2959, 2937, 2939, 2927, 2929; 25/40 metric 65- rows skipped.",
+    "484": "Furniture Style Handle Pawl Kit (5-118): 2763 (10 to 15), 2765 and 2760 (15); 2761 (10 only) and metric 25-2761, 65-2763, 40-2765, 40-2760 skipped.",
+    "485": "Slam Latch (5-119): 12145, 12146, 12147 under merged 15/30/40/45 badge cell; suggested hardware 13-6516 and 13119 attached (13117, 13129 metric-only skipped)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "2055: printed weight .301 lb looks inconsistent with 2063 (.695 lb) and metric 40-2055 (.3012 kg, about .66 lb); kept verbatim as printed.",
+      "2929: printed weight .546 lb is much lower than the other clockwise L-handles (~.70 lb) and 65-2929 (.3044 kg); kept verbatim as printed.",
+      "65-2056, 65-2058, 65-2730 are metric-dimensioned rows kept because their row badges include F (2056/2058) or the merged 15 badge cell (2730)."
+    ]
+  }
+}

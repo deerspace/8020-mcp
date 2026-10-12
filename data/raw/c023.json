@@ -1,0 +1,1315 @@
+{
+  "chunk": "c023",
+  "pages": [
+    329,
+    331
+  ],
+  "parts": [
+    {
+      "part_number": "3005",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 8-32 thread, .375” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".002 lb",
+      "specs": {
+        "A": ".305”",
+        "B": "3/32",
+        "C": ".082”",
+        "D (Length)": ".375”",
+        "E (Thread)": "8-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3024",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 8-32 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".003 lb",
+      "specs": {
+        "A": ".305”",
+        "B": "3/32",
+        "C": ".082”",
+        "D (Length)": ".500”",
+        "E (Thread)": "8-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3032",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 8-32 thread, .875” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".005 lb",
+      "specs": {
+        "A": ".305”",
+        "B": "3/32",
+        "C": ".082”",
+        "D (Length)": ".875”",
+        "E (Thread)": "8-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3042",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 10-32 thread, .375” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".040 lb",
+      "specs": {
+        "A": ".354",
+        "B": "1/8",
+        "C": ".096”",
+        "D (Length)": ".375”",
+        "E (Thread)": "10-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Catalog prints A as .354 without an inch mark and weight as .040 lb, out of line with the neighboring 10-32 sizes (.004-.005 lb); verify."
+    },
+    {
+      "part_number": "3694",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 10-32 thread, .375” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".004 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "1/8",
+        "C": ".096”",
+        "D (Length)": ".375”",
+        "E (Thread)": "10-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3050",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 10-32 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".005 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "1/8",
+        "C": ".096”",
+        "D (Length)": ".500”",
+        "E (Thread)": "10-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3696",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 10-32 thread, .500” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".005 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "1/8",
+        "C": ".096”",
+        "D (Length)": ".500”",
+        "E (Thread)": "10-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3051",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 10-32 thread, .625” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".005 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "1/8",
+        "C": ".096”",
+        "D (Length)": ".625”",
+        "E (Thread)": "10-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3698",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 10-32 thread, .625” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".006 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "1/8",
+        "C": ".096”",
+        "D (Length)": ".625”",
+        "E (Thread)": "10-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3054",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 10-32 thread, .750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".006 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "1/8",
+        "C": ".096”",
+        "D (Length)": ".750”",
+        "E (Thread)": "10-32",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3059",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .375” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".375”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3688",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 1/4-20 thread, .375” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".375”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3059",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .375” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".375”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3059; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3061",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".008 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".500”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3690",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 1/4-20 thread, .500” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".008 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".500”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3061",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".008 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".500”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3061; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3063",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .625” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".009 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".625”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3663",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 1/4-20 thread, .625” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".009 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".625”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3063",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .625” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".010 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".625”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3063; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3065",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".011 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".750”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3692",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 1/4-20 thread, .750” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".010 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".750”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3065",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 1/4-20 thread, .750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".011 lb",
+      "specs": {
+        "A": ".428”",
+        "B": "5/32",
+        "C": ".127”",
+        "D (Length)": ".750”",
+        "E (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3065; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3104",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".014 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".500”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3609",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 5/16-18 thread, .500” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".014 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".500”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3940",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".018 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".500”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3104",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".014 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".500”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3104; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3111",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, .625” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".625”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3611",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 5/16-18 thread, .625” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".017 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".625”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3111",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, .625” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".016 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".625”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3111; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3114",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, .750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".019 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".750”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3614",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 5/16-18 thread, .750” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".019 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".750”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3941",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, .750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".028 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".750”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3114",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, .750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".018 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".750”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3114; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3117",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, .875” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".875”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3617",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 5/16-18 thread, .875” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".021 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": ".875”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3118",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, 1.000” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "1.000”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3621",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Stainless-Steel button head socket cap screw with stainless finish, 5/16-18 thread, 1.000” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "1.000”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3942",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, 1.000” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "1.000”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "65-3118",
+      "series": [
+        "F"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with black zinc finish, 5/16-18 thread, 1.000” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "1.000”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size",
+      "notes": "Printed dimensions match part 3118; the page does not explain the 65- prefix."
+    },
+    {
+      "part_number": "3943",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, 1.250” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".027 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "1.250”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3944",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, 1.500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".031 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "1.500”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3945",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, 1.750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".035 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "1.750”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3946",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, 2.000” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".034 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "2.000”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3947",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, 2.250” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".044 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "2.250”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3948",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-165",
+      "description": "Steel button head socket cap screw with bright zinc finish, 5/16-18 thread, 3.500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".065 lb",
+      "specs": {
+        "A": ".537”",
+        "B": "3/16",
+        "C": ".159”",
+        "D (Length)": "3.500”",
+        "E (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (drive) size, C = head height, D = length under head, E = thread size"
+    },
+    {
+      "part_number": "3390",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Steel flanged button head socket cap screw with black zinc finish, 1/4-20 thread, .375” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".560”",
+        "B": "5/32",
+        "C": ".132”",
+        "D (Length)": ".375”",
+        "E": ".046”",
+        "F (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3601",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Stainless-Steel flanged button head socket cap screw with stainless finish, 1/4-20 thread, .375” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".560”",
+        "B": "5/32",
+        "C": ".132”",
+        "D (Length)": ".375”",
+        "E": ".046”",
+        "F (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3342",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Steel flanged button head socket cap screw with black zinc finish, 1/4-20 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".009 lb",
+      "specs": {
+        "A": ".560”",
+        "B": "5/32",
+        "C": ".132”",
+        "D (Length)": ".500”",
+        "E": ".046”",
+        "F (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3603",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Stainless-Steel flanged button head socket cap screw with stainless finish, 1/4-20 thread, .500” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".008 lb",
+      "specs": {
+        "A": ".560”",
+        "B": "5/32",
+        "C": ".132”",
+        "D (Length)": ".500”",
+        "E": ".046”",
+        "F (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3066",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Steel flanged button head socket cap screw with black zinc finish, 1/4-20 thread, .750” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".011 lb",
+      "specs": {
+        "A": ".560”",
+        "B": "5/32",
+        "C": ".132”",
+        "D (Length)": ".750”",
+        "E": ".046”",
+        "F (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3604",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Stainless-Steel flanged button head socket cap screw with stainless finish, 1/4-20 thread, .750” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".011 lb",
+      "specs": {
+        "A": ".560”",
+        "B": "5/32",
+        "C": ".132”",
+        "D (Length)": ".750”",
+        "E": ".046”",
+        "F (Thread)": "1/4-20",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3340",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Steel flanged button head socket cap screw with black zinc finish, 5/16-18 thread, .500” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".017 lb",
+      "specs": {
+        "A": ".660”",
+        "B": "3/16",
+        "C": ".166”",
+        "D (Length)": ".500”",
+        "E": ".060”",
+        "F (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3606",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Stainless-Steel flanged button head socket cap screw with stainless finish, 5/16-18 thread, .500” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".016 lb",
+      "specs": {
+        "A": ".660”",
+        "B": "3/16",
+        "C": ".166”",
+        "D (Length)": ".500”",
+        "E": ".060”",
+        "F (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3330",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Steel flanged button head socket cap screw with black zinc finish, 5/16-18 thread, .687” long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".019 lb",
+      "specs": {
+        "A": ".660”",
+        "B": "3/16",
+        "C": ".166”",
+        "D (Length)": ".687”",
+        "E": ".060”",
+        "F (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    },
+    {
+      "part_number": "3607",
+      "series": [
+        "F"
+      ],
+      "name": "Flanged Button Head Socket Cap Screw",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-167",
+      "description": "Stainless-Steel flanged button head socket cap screw with stainless finish, 5/16-18 thread, .687” long (D), fully threaded.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".019 lb",
+      "specs": {
+        "A": ".660”",
+        "B": "3/16",
+        "C": ".166”",
+        "D (Length)": ".687”",
+        "E": ".060”",
+        "F (Thread)": "5/16-18",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = flange diameter, B = hex socket (drive) size, C = head height, D = length under head, E = flange thickness, F = thread size"
+    }
+  ],
+  "page_notes": {
+    "329": "Button Head Socket Cap Screw table (catalog 4-165): all rows fractional F hardware (8-32, 10-32, 1/4-20, 5/16-18) in black zinc, stainless and bright zinc; 3940-3948 also carry the RT badge. All rows extracted.",
+    "331": "Button Head Socket Cap Screw (Continued) table is metric/RT only (skipped); Flanged Button Head Socket Cap Screw table: 10 F rows (1/4-20, 5/16-18) extracted, metric M6/M8 rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "3042: catalog prints A as .354 (no inch mark) and weight .040 lb, an order of magnitude above neighboring 10-32 rows; kept verbatim as printed.",
+      "65-prefixed rows (65-3059, 65-3061, 65-3063, 65-3065, 65-3104, 65-3111, 65-3114, 65-3118) repeat the dimensions of the unprefixed Black Zinc parts; the page does not explain the prefix (photo captions mention Black-Coated/Blue-Coated but no row names those finishes)."
+    ]
+  }
+}

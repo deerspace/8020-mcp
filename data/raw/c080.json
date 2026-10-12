@@ -1,0 +1,445 @@
+{
+  "chunk": "c080",
+  "pages": [
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829
+  ],
+  "parts": [
+    {
+      "part_number": "6111",
+      "series": [
+        "F"
+      ],
+      "name": "Ball Driver and “L” Wrench Set",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-2",
+      "description": "Ball driver and “L” wrench set for fractional hardware, with thirteen tool head sizes from .050” to 3/8”.",
+      "weight": ".881 lb",
+      "specs": {
+        "Included Tool Head Sizes / Description": ".050”, 1/16”, 5/64”, 3/32”, 7/64”, 1/8”, 9/64”, 5/32”, 3/16”, 7/32”, 1/4”, 5/16”, 3/8”"
+      },
+      "notes": "Metric counterpart on the same table is 65-6106 (1.5mm-10mm)."
+    },
+    {
+      "part_number": "6005",
+      "series": [
+        "F"
+      ],
+      "name": "Cheater Pipe",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-2",
+      "description": "Cheater pipe that fits over “L” hex wrenches up to 1/4” (M6) size. Listed in the Ball Driver and “L” Wrench Set table.",
+      "weight": ".103 lb",
+      "specs": {
+        "Included Tool Head Sizes / Description": "Cheater Pipe - Fits over “L” hex wrenches up to 1/4” (M6) size"
+      },
+      "notes": "Badged both F and M (fractional and metric)."
+    },
+    {
+      "part_number": "6100",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End “L” Hex Wrenches - 5/32”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-2",
+      "description": "Ball end “L” hex wrench with a 5/32” tool head, for fractional hardware.",
+      "weight": ".030 lb",
+      "specs": {
+        "Tool Head Size": "5/32”"
+      }
+    },
+    {
+      "part_number": "6010",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End “L” Hex Wrenches - 3/16”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-2",
+      "description": "Ball end “L” hex wrench with a 3/16” tool head, for fractional hardware.",
+      "weight": ".046 lb",
+      "specs": {
+        "Tool Head Size": "3/16”"
+      }
+    },
+    {
+      "part_number": "6040",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End “L” Hex Wrenches - 1/4”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-2",
+      "description": "Ball end “L” hex wrench with a 1/4” tool head, for fractional hardware.",
+      "weight": ".102 lb",
+      "specs": {
+        "Tool Head Size": "1/4”"
+      }
+    },
+    {
+      "part_number": "6110",
+      "series": [
+        "F"
+      ],
+      "name": "“T” Handle Ball End Hex Wrenches - 5/32”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-3",
+      "description": "“T” handle ball end hex wrench with a 5/32” tool head, for fractional hardware.",
+      "weight": ".159 lb",
+      "specs": {
+        "Tool Head Size": "5/32”"
+      }
+    },
+    {
+      "part_number": "6000",
+      "series": [
+        "F"
+      ],
+      "name": "“T” Handle Ball End Hex Wrenches - 3/16”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-3",
+      "description": "“T” handle ball end hex wrench with a 3/16” tool head, for fractional hardware.",
+      "weight": ".327 lb",
+      "specs": {
+        "Tool Head Size": "3/16”"
+      }
+    },
+    {
+      "part_number": "6030",
+      "series": [
+        "F"
+      ],
+      "name": "“T” Handle Ball End Hex Wrenches - 1/4”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-3",
+      "description": "“T” handle ball end hex wrench with a 1/4” tool head, for fractional hardware.",
+      "weight": ".409 lb",
+      "specs": {
+        "Tool Head Size": "1/4”"
+      }
+    },
+    {
+      "part_number": "6105",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End Hex Drivers - 5/32”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-3",
+      "description": "Ball end hex driver with a 5/32” tool head, for fractional hardware.",
+      "weight": ".148 lb",
+      "specs": {
+        "Tool Head Size": "5/32”"
+      }
+    },
+    {
+      "part_number": "6020",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End Hex Drivers - 3/16”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-3",
+      "description": "Ball end hex driver with a 3/16” tool head, for fractional hardware.",
+      "weight": ".161 lb",
+      "specs": {
+        "Tool Head Size": "3/16”"
+      }
+    },
+    {
+      "part_number": "6050",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End Hex Drivers - 1/4”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-3",
+      "description": "Ball end hex driver with a 1/4” tool head, for fractional hardware.",
+      "weight": ".313 lb",
+      "specs": {
+        "Tool Head Size": "1/4”"
+      }
+    },
+    {
+      "part_number": "6001",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End Hex Sockets - 3/16”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-4",
+      "description": "Ball end hex socket, 3/16” socket size, for fractional hardware. Used with a 3/8” drive ratcheting or pneumatic socket wrench.",
+      "weight": ".116 lb",
+      "specs": {
+        "Socket Size": "3/16”"
+      },
+      "notes": "* Use with a 3/8” drive ratcheting or pneumatic socket wrench."
+    },
+    {
+      "part_number": "6002",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End Hex Sockets - 1/4”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-4",
+      "description": "Ball end hex socket, 1/4” socket size, for fractional hardware. Used with a 3/8” drive ratcheting or pneumatic socket wrench.",
+      "weight": ".149 lb",
+      "specs": {
+        "Socket Size": "1/4”"
+      },
+      "notes": "* Use with a 3/8” drive ratcheting or pneumatic socket wrench."
+    },
+    {
+      "part_number": "6090",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End Power Bits - 3/16”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-4",
+      "description": "Ball end hex power bit, 3/16” bit size, for fractional hardware.",
+      "weight": ".043 lb",
+      "specs": {
+        "Bit Size": "3/16”"
+      }
+    },
+    {
+      "part_number": "6095",
+      "series": [
+        "F"
+      ],
+      "name": "Ball End Power Bits - 1/4”",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-4",
+      "description": "Ball end hex power bit, 1/4” bit size, for fractional hardware.",
+      "weight": ".043 lb",
+      "specs": {
+        "Bit Size": "1/4”"
+      }
+    },
+    {
+      "part_number": "T-FBIT2",
+      "series": [
+        "F"
+      ],
+      "name": "Bit #2 for Robertson Head Screw",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-5",
+      "description": "#2 bit for Robertson head screws, for fractional hardware.",
+      "weight": ".050 lb",
+      "notes": "Badged both F and M (fractional and metric)."
+    },
+    {
+      "part_number": "6070",
+      "series": [
+        "15"
+      ],
+      "name": "Access Hole Drills - 15 Series",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-5",
+      "description": "Access hole drill bit for 15 series, .281 x 2.68” bit size.",
+      "weight": ".052 lb",
+      "specs": {
+        "Bit Size": ".281 x 2.68”"
+      },
+      "notes": "Bit size .281 is the same as the .281” (7.1mm) hole size of the 15 series Access Hole Drill Jigs on page 12-8, which do not come with a drill bit (the page does not link them explicitly)."
+    },
+    {
+      "part_number": "6060",
+      "series": [
+        "15"
+      ],
+      "name": "Anchor Fastener Counterbore Cutters - 15 Series",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-5",
+      "description": "Counterbore cutter for anchor fastener machining on 15 series, 13/16” mill diameter, two flute center cutting.",
+      "features": [
+        "Two flute center cutting"
+      ],
+      "weight": ".335 lb",
+      "specs": {
+        "Mill Diameter": "13/16”"
+      },
+      "notes": "Footnote printed under the table: * Two flute center cutting."
+    },
+    {
+      "part_number": "6055",
+      "series": [
+        "F",
+        "QF"
+      ],
+      "name": "Soft Face Mallet",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-6",
+      "description": "Soft face mallet.",
+      "weight": ".753 lb",
+      "notes": "Badged F, M (metric) and QF (Quick Frame)."
+    },
+    {
+      "part_number": "T-CUTTER",
+      "series": [
+        "F"
+      ],
+      "name": "Pipe Cutter",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-7",
+      "description": "Pipe cutter for pipe from .125” (5mm) to .250” (32mm) diameter with .078” (2mm) pipe thickness, as printed.",
+      "weight": ".959 lb",
+      "specs": {
+        "Pipe Diameter": ".125” (5mm) - .250” (32mm)",
+        "Pipe Thickness": ".078” (2mm)"
+      },
+      "notes": "Badged both F and M. Pipe Diameter copied verbatim; the printed inch and mm figures do not agree with each other (.125” is not 5mm, .250” is not 32mm), so confirm the range with 80/20 before relying on it."
+    },
+    {
+      "part_number": "T-DEBURR",
+      "series": [
+        "F"
+      ],
+      "name": "Deburring Tool / Blades 5 Pack - Deburring Tool",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-7",
+      "description": "Deburring tool, listed in the same table as the Blades 5 Pack (T-BDEB).",
+      "weight": ".099 lb",
+      "notes": "Badged both F and M. The table does not label which row is the tool and which is the blade pack; tool assigned to T-DEBURR from row order and part number."
+    },
+    {
+      "part_number": "T-BDEB",
+      "series": [
+        "F"
+      ],
+      "name": "Deburring Tool / Blades 5 Pack - Blades 5 Pack",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-7",
+      "description": "Pack of five blades, listed in the same table as the Deburring Tool (T-DEBURR).",
+      "weight": ".044 lb",
+      "notes": "Badged both F and M. Sold as a 5 pack per the title. The table does not label which row is the tool and which is the blade pack; blade pack assigned to T-BDEB from row order and part number."
+    },
+    {
+      "part_number": "6075",
+      "series": [
+        "15"
+      ],
+      "name": "Access Hole Drill Jigs - Jig for 1515 Profile",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-8",
+      "description": "Access hole drill jig for 1515 profile, .281” (7.1mm) hole size.",
+      "weight": ".342 lb",
+      "specs": {
+        "Description": "Jig for 1515 Profile",
+        "Hole Size": ".281” (7.1mm)",
+        "Metric Part No.": "40-6075*"
+      },
+      "notes": "Printed as 6075* - *Does NOT come with drill bit. Metric equivalent 40-6075 (Jig for 40-4040 Profile). The page does not name a drill bit; the 15 series Access Hole Drill 6070 on page 12-5 has the same .281 bit size (.281 x 2.68”)."
+    },
+    {
+      "part_number": "6130",
+      "series": [
+        "15"
+      ],
+      "name": "Access Hole Drill Jigs - Jig for 1530 Profile",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-8",
+      "description": "Access hole drill jig for 1530 profile, .281” (7.1mm) hole size.",
+      "weight": ".392 lb",
+      "specs": {
+        "Description": "Jig for 1530 Profile",
+        "Hole Size": ".281” (7.1mm)",
+        "Metric Part No.": "40-6130*"
+      },
+      "notes": "Printed as 6130* - *Does NOT come with drill bit. Metric equivalent 40-6130 (Jig for 40-4080 Profile). The page does not name a drill bit; the 15 series Access Hole Drill 6070 on page 12-5 has the same .281 bit size (.281 x 2.68”)."
+    },
+    {
+      "part_number": "6135",
+      "series": [
+        "15"
+      ],
+      "name": "Access Hole Drill Jigs - Jig for 3030 Profile",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-8",
+      "description": "Access hole drill jig for 3030 profile, .281” (7.1mm) hole size.",
+      "weight": ".852 lb",
+      "specs": {
+        "Description": "Jig for 3030 Profile",
+        "Hole Size": ".281” (7.1mm)",
+        "Metric Part No.": "40-6135*"
+      },
+      "notes": "Printed as 6135* - *Does NOT come with drill bit. Metric equivalent 40-6135 (Jig for 40-8080 Profile). The page does not name a drill bit; the 15 series Access Hole Drill 6070 on page 12-5 has the same .281 bit size (.281 x 2.68”)."
+    },
+    {
+      "part_number": "6076",
+      "series": [
+        "15"
+      ],
+      "name": "Access Hole Drill Jigs - Bushing for 15 Series",
+      "category": "tool",
+      "section": "Tools",
+      "catalog_page": "12-8",
+      "description": "Drill jig bushing for 15 series, .281” (7.1mm) hole size.",
+      "weight": ".033 lb",
+      "specs": {
+        "Description": "Bushing for 15 Series",
+        "Hole Size": ".281” (7.1mm)",
+        "Metric Part No.": "40-6076"
+      },
+      "notes": "Metric equivalent 40-6076 (Bushing for 40 Series)."
+    }
+  ],
+  "page_notes": {
+    "823": "Tools 12-2: Ball Driver and “L” Wrench Set (6111 F, 6005 Cheater Pipe F/M) and Ball End “L” Hex Wrenches (6100, 6010, 6040 F); metric-only 65-xxxx rows skipped.",
+    "824": "Tools 12-3: “T” Handle Ball End Hex Wrenches (6110, 6000, 6030 F) and Ball End Hex Drivers (6105, 6020, 6050 F); metric-only 65-xxxx rows skipped.",
+    "825": "Tools 12-4: Ball End Hex Sockets (6001, 6002 F) and Ball End Power Bits (6090, 6095 F); metric-only rows (6003, 6004, 65-6091, 65-6092) skipped.",
+    "826": "Tools 12-5: Bit #2 for Robertson Head Screw (T-FBIT2 F/M), Access Hole Drill 6070 (15) and Anchor Fastener Counterbore Cutter 6060 (15); 10-series and metric rows skipped.",
+    "827": "Tools 12-6: Soft Face Mallet 6055 (F/M/QF) extracted; Roll Pin Punch 6117 is RT-only and skipped.",
+    "828": "Tools 12-7: Pipe Cutter T-CUTTER and Deburring Tool / Blades 5 Pack (T-DEBURR, T-BDEB), all F/M.",
+    "829": "Tools 12-8: Access Hole Drill Jigs; 15 series rows 6075, 6130, 6135, 6076 extracted (metric equivalents in notes); 10-series rows (6120, 6131, 6136, 6121) and metric 25/40 columns skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "6111: description \"Set of ball end “L” hex wrenches...\" -> \"Ball driver and “L” wrench set...\" (page does not call the set ball end hex wrenches)",
+      "6070: notes reworded to state the jig link as a size match only",
+      "6075: notes \"The matching 15 series Access Hole Drill is 6070\" -> stated as a size match only (page does not name the bit)",
+      "6130: notes \"The matching 15 series Access Hole Drill is 6070\" -> stated as a size match only (page does not name the bit)",
+      "6135: notes \"The matching 15 series Access Hole Drill is 6070\" -> stated as a size match only (page does not name the bit)"
+    ],
+    "remaining_doubts": [
+      "T-CUTTER Pipe Diameter is printed \".125” (5mm) - .250” (32mm)\"; the inch and mm figures disagree, copied verbatim.",
+      "T-DEBURR vs T-BDEB: the table does not label which row is the tool and which is the 5-blade pack; assignment by row order/part number/weight.",
+      "Jig part numbers 6075, 6130, 6135 are printed with a footnote asterisk (6075* etc.); asterisk dropped from part_number and recorded in notes."
+    ]
+  }
+}

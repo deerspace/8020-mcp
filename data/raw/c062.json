@@ -1,0 +1,1532 @@
+{
+  "chunk": "c062",
+  "pages": [
+    686,
+    687,
+    688,
+    689,
+    690,
+    691,
+    692
+  ],
+  "parts": [
+    {
+      "part_number": "5100",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-2",
+      "description": "Milled aluminum base that holds a single aluminum tube profile (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".705 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".312”",
+        "B": "1.500”",
+        "C": "3.000”",
+        "D": ".375”",
+        "E": "2.250”",
+        "F": "2.125”",
+        "G": "1.063”",
+        "H": "1.004”",
+        "J": ".328”",
+        "K": "1.500”",
+        "L": ".990”",
+        "M": ".520”",
+        "N": ".312”",
+        "P": "1/4-20 SHCS",
+        "Q": "2.500”",
+        "R": ".500”",
+        "S": "1.500”",
+        "T": ".620”",
+        "U": ".620”"
+      },
+      "dimension_notes": "C = overall length, F = overall width, Q = overall height, ø H = tube bore diameter, ø J = mounting hole diameter, P = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount the stanchion base to T-slot: 4 bolt assemblies (Economy T-nut with washer). Also available in black as 5100-Black."
+    },
+    {
+      "part_number": "5100-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-2",
+      "description": "Milled aluminum base that holds a single aluminum tube profile (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".705 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".312”",
+        "B": "1.500”",
+        "C": "3.000”",
+        "D": ".375”",
+        "E": "2.250”",
+        "F": "2.125”",
+        "G": "1.063”",
+        "H": "1.004”",
+        "J": ".328”",
+        "K": "1.500”",
+        "L": ".990”",
+        "M": ".520”",
+        "N": ".312”",
+        "P": "1/4-20 SHCS",
+        "Q": "2.500”",
+        "R": ".500”",
+        "S": "1.500”",
+        "T": ".620”",
+        "U": ".620”"
+      },
+      "dimension_notes": "C = overall length, F = overall width, Q = overall height, ø H = tube bore diameter, ø J = mounting hole diameter, P = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount the stanchion base to T-slot: 4 bolt assemblies (Economy T-nut with washer). Black anodized version of 5100."
+    },
+    {
+      "part_number": "5200",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-2",
+      "description": "Milled aluminum base that holds a single aluminum tube profile (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.369 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".500”",
+        "B": "1.500”",
+        "C": "3.874”",
+        "D": ".437”",
+        "E": "3.000”",
+        "F": "2.500”",
+        "G": "1.250”",
+        "H": "1.505”",
+        "J": ".328”",
+        "K": "1.937”",
+        "L": "1.110”",
+        "M": ".580”",
+        "N": ".302”",
+        "P": "1/4-20 SHCS",
+        "Q": "3.000”",
+        "R": ".750”",
+        "S": "2.250”",
+        "T": ".875”",
+        "U": ".880”"
+      },
+      "dimension_notes": "C = overall length, F = overall width, Q = overall height, ø H = tube bore diameter, ø J = mounting hole diameter, P = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount the stanchion base to T-slot: 4 bolt assemblies (Economy T-nut with washer). Also available in black as 5200-Black."
+    },
+    {
+      "part_number": "5200-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-2",
+      "description": "Milled aluminum base that holds a single aluminum tube profile (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.369 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".500”",
+        "B": "1.500”",
+        "C": "3.874”",
+        "D": ".437”",
+        "E": "3.000”",
+        "F": "2.500”",
+        "G": "1.250”",
+        "H": "1.505”",
+        "J": ".328”",
+        "K": "1.937”",
+        "L": "1.110”",
+        "M": ".580”",
+        "N": ".302”",
+        "P": "1/4-20 SHCS",
+        "Q": "3.000”",
+        "R": ".750”",
+        "S": "2.250”",
+        "T": ".875”",
+        "U": ".880”"
+      },
+      "dimension_notes": "C = overall length, F = overall width, Q = overall height, ø H = tube bore diameter, ø J = mounting hole diameter, P = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount the stanchion base to T-slot: 4 bolt assemblies (Economy T-nut with washer). Black anodized version of 5200."
+    },
+    {
+      "part_number": "5300",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-2",
+      "description": "Milled aluminum base that holds a single aluminum tube profile (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.251 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": "1.500”",
+        "C": "4.750”",
+        "D": ".500”",
+        "E": "3.750”",
+        "F": "3.250”",
+        "G": "1.625”",
+        "H": "2.005”",
+        "J": ".328”",
+        "K": "2.375”",
+        "L": "1.220”",
+        "M": ".630”",
+        "N": ".328”",
+        "P": "1/4-20 SHCS",
+        "Q": "3.250”",
+        "R": ".750”",
+        "S": "2.750”",
+        "T": ".750”",
+        "U": "1.250”"
+      },
+      "dimension_notes": "C = overall length, F = overall width, Q = overall height, ø H = tube bore diameter, ø J = mounting hole diameter, P = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount the stanchion base to T-slot: 4 bolt assemblies (Economy T-nut with washer). Also available in black as 5300-Black."
+    },
+    {
+      "part_number": "5300-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-2",
+      "description": "Milled aluminum base that holds a single aluminum tube profile (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.251 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": "1.500”",
+        "C": "4.750”",
+        "D": ".500”",
+        "E": "3.750”",
+        "F": "3.250”",
+        "G": "1.625”",
+        "H": "2.005”",
+        "J": ".328”",
+        "K": "2.375”",
+        "L": "1.220”",
+        "M": ".630”",
+        "N": ".328”",
+        "P": "1/4-20 SHCS",
+        "Q": "3.250”",
+        "R": ".750”",
+        "S": "2.750”",
+        "T": ".750”",
+        "U": "1.250”"
+      },
+      "dimension_notes": "C = overall length, F = overall width, Q = overall height, ø H = tube bore diameter, ø J = mounting hole diameter, P = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount the stanchion base to T-slot: 4 bolt assemblies (Economy T-nut with washer). Black anodized version of 5300."
+    },
+    {
+      "part_number": "5150",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-3",
+      "description": "Milled aluminum base that holds two aluminum tube profiles (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.874 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".312”",
+        "B": "1.500”",
+        "C": "6.500”",
+        "D": ".375”",
+        "E": "1.125”",
+        "F": "1.750”",
+        "G": "2.125”",
+        "H": "1.063”",
+        "J": "5/16-18 SHCS",
+        "K": "1.004”",
+        "L": ".328”",
+        "M": "1.000”",
+        "N": ".490”",
+        "P": ".312”",
+        "Q": "1/4-20 SHCS",
+        "R": "2.480”",
+        "S": ".500”",
+        "T": "5.000”",
+        "U": ".620”",
+        "V": ".620”"
+      },
+      "dimension_notes": "C = overall length, G = overall width, R = overall height, ø K = tube bore diameter, ø L = mounting hole diameter, J = fastener size for the center counterbored holes, Q = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3429",
+          "qty": 2,
+          "description": "5/16-18 x 2.5” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (and/or option)"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot: 4 bolt assemblies (Economy T-nut with washer) AND / OR 2 bolt assemblies with longer screws (Economy T-nut, no washer), as printed. Also available in black as 5150-Black."
+    },
+    {
+      "part_number": "5150-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-3",
+      "description": "Milled aluminum base that holds two aluminum tube profiles (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.874 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".312”",
+        "B": "1.500”",
+        "C": "6.500”",
+        "D": ".375”",
+        "E": "1.125”",
+        "F": "1.750”",
+        "G": "2.125”",
+        "H": "1.063”",
+        "J": "5/16-18 SHCS",
+        "K": "1.004”",
+        "L": ".328”",
+        "M": "1.000”",
+        "N": ".490”",
+        "P": ".312”",
+        "Q": "1/4-20 SHCS",
+        "R": "2.480”",
+        "S": ".500”",
+        "T": "5.000”",
+        "U": ".620”",
+        "V": ".620”"
+      },
+      "dimension_notes": "C = overall length, G = overall width, R = overall height, ø K = tube bore diameter, ø L = mounting hole diameter, J = fastener size for the center counterbored holes, Q = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3429",
+          "qty": 2,
+          "description": "5/16-18 x 2.5” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (and/or option)"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot: 4 bolt assemblies (Economy T-nut with washer) AND / OR 2 bolt assemblies with longer screws (Economy T-nut, no washer), as printed. Black anodized version of 5150."
+    },
+    {
+      "part_number": "5250",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-3",
+      "description": "Milled aluminum base that holds two aluminum tube profiles (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "3.650 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".500”",
+        "B": "1.500”",
+        "C": "7.750”",
+        "D": ".437”",
+        "E": "1.500”",
+        "F": "1.938”",
+        "G": "2.500”",
+        "H": "1.250”",
+        "J": "5/16-18 SHCS",
+        "K": "1.505”",
+        "L": ".328”",
+        "M": "1.110”",
+        "N": ".560”",
+        "P": ".302”",
+        "Q": "5/16-18 SHCS",
+        "R": "2.980”",
+        "S": ".750”",
+        "T": "6.125”",
+        "U": ".820”",
+        "V": ".880”"
+      },
+      "dimension_notes": "C = overall length, G = overall width, R = overall height, ø K = tube bore diameter, ø L = mounting hole diameter, J = fastener size for the center counterbored holes, Q = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3430",
+          "qty": 2,
+          "description": "5/16-18 x 3” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (and/or option)"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot: 4 bolt assemblies (Economy T-nut with washer) AND / OR 2 bolt assemblies with longer screws (Economy T-nut, no washer), as printed. Also available in black as 5250-Black."
+    },
+    {
+      "part_number": "5250-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-3",
+      "description": "Milled aluminum base that holds two aluminum tube profiles (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "3.650 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".500”",
+        "B": "1.500”",
+        "C": "7.750”",
+        "D": ".437”",
+        "E": "1.500”",
+        "F": "1.938”",
+        "G": "2.500”",
+        "H": "1.250”",
+        "J": "5/16-18 SHCS",
+        "K": "1.505”",
+        "L": ".328”",
+        "M": "1.110”",
+        "N": ".560”",
+        "P": ".302”",
+        "Q": "5/16-18 SHCS",
+        "R": "2.980”",
+        "S": ".750”",
+        "T": "6.125”",
+        "U": ".820”",
+        "V": ".880”"
+      },
+      "dimension_notes": "C = overall length, G = overall width, R = overall height, ø K = tube bore diameter, ø L = mounting hole diameter, J = fastener size for the center counterbored holes, Q = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3430",
+          "qty": 2,
+          "description": "5/16-18 x 3” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (and/or option)"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot: 4 bolt assemblies (Economy T-nut with washer) AND / OR 2 bolt assemblies with longer screws (Economy T-nut, no washer), as printed. Black anodized version of 5250."
+    },
+    {
+      "part_number": "5350",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-3",
+      "description": "Milled aluminum base that holds two aluminum tube profiles (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "6.090 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": "1.500”",
+        "C": "9.500”",
+        "D": ".500”",
+        "E": "1.875”",
+        "F": "2.375”",
+        "G": "3.250”",
+        "H": "1.625”",
+        "J": "5/16-18 SHCS",
+        "K": "2.005”",
+        "L": ".328”",
+        "M": "1.250”",
+        "N": ".630”",
+        "P": ".328”",
+        "Q": "5/16-18 SHCS",
+        "R": "3.250”",
+        "S": ".750”",
+        "T": "7.500”",
+        "U": ".750”",
+        "V": "1.250”"
+      },
+      "dimension_notes": "C = overall length, G = overall width, R = overall height, ø K = tube bore diameter, ø L = mounting hole diameter, J = fastener size for the center counterbored holes, Q = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3431",
+          "qty": 2,
+          "description": "5/16-18 x 3.25” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (and/or option)"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot: 4 bolt assemblies (Economy T-nut with washer) AND / OR 2 bolt assemblies with longer screws (Economy T-nut, no washer), as printed. Also available in black as 5350-Black."
+    },
+    {
+      "part_number": "5350-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-3",
+      "description": "Milled aluminum base that holds two aluminum tube profiles (pg. 8-14) perpendicular to the surface it is mounted on, such as T-slot profile. It has a clearance channel for running wires or cables, and its clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14); tube connects perpendicular to mounted base",
+        "Clearance channel for running wires or cables",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "6.090 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": "1.500”",
+        "C": "9.500”",
+        "D": ".500”",
+        "E": "1.875”",
+        "F": "2.375”",
+        "G": "3.250”",
+        "H": "1.625”",
+        "J": "5/16-18 SHCS",
+        "K": "2.005”",
+        "L": ".328”",
+        "M": "1.250”",
+        "N": ".630”",
+        "P": ".328”",
+        "Q": "5/16-18 SHCS",
+        "R": "3.250”",
+        "S": ".750”",
+        "T": "7.500”",
+        "U": ".750”",
+        "V": "1.250”"
+      },
+      "dimension_notes": "C = overall length, G = overall width, R = overall height, ø K = tube bore diameter, ø L = mounting hole diameter, J = fastener size for the center counterbored holes, Q = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3431",
+          "qty": 2,
+          "description": "5/16-18 x 3.25” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (and/or option)"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot: 4 bolt assemblies (Economy T-nut with washer) AND / OR 2 bolt assemblies with longer screws (Economy T-nut, no washer), as printed. Black anodized version of 5350."
+    },
+    {
+      "part_number": "5450",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Blank Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-4",
+      "description": "Blank (undrilled) milled aluminum mounting plate that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.501 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.450”",
+        "B": "6.500”",
+        "C": ".325”",
+        "D": ".350”",
+        "E": ".750”",
+        "F": "1/4-20 SHCS",
+        "G": "3.000”",
+        "H": "5.125”",
+        "J": "—",
+        "K": "1.500”",
+        "L": "1.505”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø L = tube bore diameter, F = clamp screw",
+      "notes": "Clamp screws included. No mounting holes are pre-drilled (blank plate) and no suggested hardware table is printed for this product. J is printed as — for 5450. Also available in black as 5450-Black."
+    },
+    {
+      "part_number": "5450-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Blank Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-4",
+      "description": "Blank (undrilled) milled aluminum mounting plate that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.501 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.450”",
+        "B": "6.500”",
+        "C": ".325”",
+        "D": ".350”",
+        "E": ".750”",
+        "F": "1/4-20 SHCS",
+        "G": "3.000”",
+        "H": "5.125”",
+        "J": "—",
+        "K": "1.500”",
+        "L": "1.505”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø L = tube bore diameter, F = clamp screw",
+      "notes": "Clamp screws included. No mounting holes are pre-drilled (blank plate) and no suggested hardware table is printed for this product. J is printed as — for 5450. Black anodized version of 5450."
+    },
+    {
+      "part_number": "5425",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Pre-Drilled Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-5",
+      "description": "Milled aluminum mounting plate with pre-drilled mounting holes that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".936 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.200”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".250”",
+        "E": ".700”",
+        "F": "1/4-20 SHCS",
+        "G": "2.000”",
+        "H": "1.500”",
+        "J": ".250”",
+        "K": "3.560”",
+        "L": ".500”",
+        "M": "1.500”",
+        "N": ".250”",
+        "P": "1.000”",
+        "Q": "1.004”",
+        "R": ".328”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø Q = tube bore diameter, ø R = mounting hole diameter, F = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3423",
+          "qty": 4,
+          "description": "5/16-18 x 1.75” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot uses Economy T-nuts with washers. Also available in black as 5425-Black."
+    },
+    {
+      "part_number": "5425-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Pre-Drilled Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-5",
+      "description": "Milled aluminum mounting plate with pre-drilled mounting holes that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".936 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.200”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".250”",
+        "E": ".700”",
+        "F": "1/4-20 SHCS",
+        "G": "2.000”",
+        "H": "1.500”",
+        "J": ".250”",
+        "K": "3.560”",
+        "L": ".500”",
+        "M": "1.500”",
+        "N": ".250”",
+        "P": "1.000”",
+        "Q": "1.004”",
+        "R": ".328”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø Q = tube bore diameter, ø R = mounting hole diameter, F = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3423",
+          "qty": 4,
+          "description": "5/16-18 x 1.75” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot uses Economy T-nuts with washers. Black anodized version of 5425."
+    },
+    {
+      "part_number": "5475",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Pre-Drilled Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-5",
+      "description": "Milled aluminum mounting plate with pre-drilled mounting holes that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.494 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.450”",
+        "B": "6.500”",
+        "C": ".328”",
+        "D": ".350”",
+        "E": ".750”",
+        "F": "1/4-20 SHCS",
+        "G": "3.000”",
+        "H": "1.500”",
+        "J": ".750”",
+        "K": "5.125”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "—",
+        "P": "1.500”",
+        "Q": "1.505”",
+        "R": ".328”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø Q = tube bore diameter, ø R = mounting hole diameter, F = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3424",
+          "qty": 4,
+          "description": "5/16-18 x 2” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot uses Economy T-nuts with washers. Also available in black as 5475-Black."
+    },
+    {
+      "part_number": "5475-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Pre-Drilled Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-5",
+      "description": "Milled aluminum mounting plate with pre-drilled mounting holes that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.494 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.450”",
+        "B": "6.500”",
+        "C": ".328”",
+        "D": ".350”",
+        "E": ".750”",
+        "F": "1/4-20 SHCS",
+        "G": "3.000”",
+        "H": "1.500”",
+        "J": ".750”",
+        "K": "5.125”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "—",
+        "P": "1.500”",
+        "Q": "1.505”",
+        "R": ".328”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø Q = tube bore diameter, ø R = mounting hole diameter, F = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3424",
+          "qty": 4,
+          "description": "5/16-18 x 2” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot uses Economy T-nuts with washers. Black anodized version of 5475."
+    },
+    {
+      "part_number": "5525",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Pre-Drilled Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-5",
+      "description": "Milled aluminum mounting plate with pre-drilled mounting holes that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "5.220 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.950”",
+        "B": "7.750”",
+        "C": ".375”",
+        "D": ".350”",
+        "E": "1.250”",
+        "F": "5/16-18 SHCS",
+        "G": "4.000”",
+        "H": "1.500”",
+        "J": "1.250”",
+        "K": "6.120”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "—",
+        "P": "2.000”",
+        "Q": "2.005”",
+        "R": ".328”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø Q = tube bore diameter, ø R = mounting hole diameter, F = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3428",
+          "qty": 6,
+          "description": "5/16-18 x 2.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot uses Economy T-nuts with washers. Also available in black as 5525-Black."
+    },
+    {
+      "part_number": "5525-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Pre-Drilled Stanchion Mounting Plate",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-5",
+      "description": "Milled aluminum mounting plate with pre-drilled mounting holes that clamps an aluminum tube profile (pg. 8-14) at one end, used to create a custom offset axis with the tube perpendicular to the mounted base. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create custom offset axis; tube connects perpendicular to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "5.220 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.950”",
+        "B": "7.750”",
+        "C": ".375”",
+        "D": ".350”",
+        "E": "1.250”",
+        "F": "5/16-18 SHCS",
+        "G": "4.000”",
+        "H": "1.500”",
+        "J": "1.250”",
+        "K": "6.120”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "—",
+        "P": "2.000”",
+        "Q": "2.005”",
+        "R": ".328”"
+      },
+      "dimension_notes": "B = overall length, A = thickness, G = overall height, ø Q = tube bore diameter, ø R = mounting hole diameter, F = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3428",
+          "qty": 6,
+          "description": "5/16-18 x 2.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Clamp screws included. Suggested hardware to mount to T-slot uses Economy T-nuts with washers. Black anodized version of 5525."
+    },
+    {
+      "part_number": "5575",
+      "series": [
+        "15"
+      ],
+      "name": "Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-6",
+      "description": "Milled aluminum cross clamp that joins two aluminum tube profiles (pg. 8-14) so that their axes are perpendicular to each other. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes perpendicular to each other",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".937 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.000”",
+        "B": "1.250”",
+        "C": ".375”",
+        "D": "3.125”",
+        "E": ".250”",
+        "F": "1.004”",
+        "G": "1/4-20 SHCS",
+        "H": "2.000”",
+        "J": "1.000”",
+        "K": "1.000”",
+        "L": ".250”"
+      },
+      "dimension_notes": "D = overall length, A = overall width, H = overall height, ø F = tube bore diameter, G = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. L is printed as — for 5625 and 5675. Also available in black as 5575-Black."
+    },
+    {
+      "part_number": "5575-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-6",
+      "description": "Milled aluminum cross clamp that joins two aluminum tube profiles (pg. 8-14) so that their axes are perpendicular to each other. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes perpendicular to each other",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".937 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.000”",
+        "B": "1.250”",
+        "C": ".375”",
+        "D": "3.125”",
+        "E": ".250”",
+        "F": "1.004”",
+        "G": "1/4-20 SHCS",
+        "H": "2.000”",
+        "J": "1.000”",
+        "K": "1.000”",
+        "L": ".250”"
+      },
+      "dimension_notes": "D = overall length, A = overall width, H = overall height, ø F = tube bore diameter, G = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. L is printed as — for 5625 and 5675. Black anodized version of 5575."
+    },
+    {
+      "part_number": "5625",
+      "series": [
+        "15"
+      ],
+      "name": "Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-6",
+      "description": "Milled aluminum cross clamp that joins two aluminum tube profiles (pg. 8-14) so that their axes are perpendicular to each other. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes perpendicular to each other",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.669 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": "1.750”",
+        "C": ".375”",
+        "D": "4.125”",
+        "E": ".328”",
+        "F": "1.505”",
+        "G": "1/4-20 SHCS",
+        "H": "2.500”",
+        "J": "1.250”",
+        "K": "1.250”",
+        "L": "—"
+      },
+      "dimension_notes": "D = overall length, A = overall width, H = overall height, ø F = tube bore diameter, G = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. L is printed as — for 5625 and 5675. Also available in black as 5625-Black."
+    },
+    {
+      "part_number": "5625-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-6",
+      "description": "Milled aluminum cross clamp that joins two aluminum tube profiles (pg. 8-14) so that their axes are perpendicular to each other. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes perpendicular to each other",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.669 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": "1.750”",
+        "C": ".375”",
+        "D": "4.125”",
+        "E": ".328”",
+        "F": "1.505”",
+        "G": "1/4-20 SHCS",
+        "H": "2.500”",
+        "J": "1.250”",
+        "K": "1.250”",
+        "L": "—"
+      },
+      "dimension_notes": "D = overall length, A = overall width, H = overall height, ø F = tube bore diameter, G = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. L is printed as — for 5625 and 5675. Black anodized version of 5625."
+    },
+    {
+      "part_number": "5675",
+      "series": [
+        "15"
+      ],
+      "name": "Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-6",
+      "description": "Milled aluminum cross clamp that joins two aluminum tube profiles (pg. 8-14) so that their axes are perpendicular to each other. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes perpendicular to each other",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "3.689 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": "2.500”",
+        "C": ".375”",
+        "D": "5.500”",
+        "E": ".312”",
+        "F": "2.005”",
+        "G": "5/16-18 SHCS",
+        "H": "3.250”",
+        "J": "1.625”",
+        "K": "1.625”",
+        "L": "—"
+      },
+      "dimension_notes": "D = overall length, A = overall width, H = overall height, ø F = tube bore diameter, G = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. L is printed as — for 5625 and 5675. Also available in black as 5675-Black."
+    },
+    {
+      "part_number": "5675-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-6",
+      "description": "Milled aluminum cross clamp that joins two aluminum tube profiles (pg. 8-14) so that their axes are perpendicular to each other. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes perpendicular to each other",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "3.689 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": "2.500”",
+        "C": ".375”",
+        "D": "5.500”",
+        "E": ".312”",
+        "F": "2.005”",
+        "G": "5/16-18 SHCS",
+        "H": "3.250”",
+        "J": "1.625”",
+        "K": "1.625”",
+        "L": "—"
+      },
+      "dimension_notes": "D = overall length, A = overall width, H = overall height, ø F = tube bore diameter, G = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. L is printed as — for 5625 and 5675. Black anodized version of 5675."
+    },
+    {
+      "part_number": "5550",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-7",
+      "description": "Milled aluminum block that clamps onto an aluminum tube profile (pg. 8-14) and provides pre-drilled holes for connecting additional profiles or accessories. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) for connecting additional profiles or accessories; pre-drilled holes to accommodate positioning",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".592 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": "2.000”",
+        "E": ".250”",
+        "F": "5/16-18",
+        "G": "2.000”",
+        "H": "1.000”",
+        "J": "1.000”",
+        "K": "1.004”",
+        "L": ".250”",
+        "M": ".625”",
+        "N": ".750”",
+        "P": "1/4-20 SHCS"
+      },
+      "dimension_notes": "A, D and G = overall block dimensions, ø K = tube bore diameter, F = tapped hole thread, P = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. Also available in black as 5550-Black."
+    },
+    {
+      "part_number": "5550-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-7",
+      "description": "Milled aluminum block that clamps onto an aluminum tube profile (pg. 8-14) and provides pre-drilled holes for connecting additional profiles or accessories. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) for connecting additional profiles or accessories; pre-drilled holes to accommodate positioning",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".592 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": "2.000”",
+        "E": ".250”",
+        "F": "5/16-18",
+        "G": "2.000”",
+        "H": "1.000”",
+        "J": "1.000”",
+        "K": "1.004”",
+        "L": ".250”",
+        "M": ".625”",
+        "N": ".750”",
+        "P": "1/4-20 SHCS"
+      },
+      "dimension_notes": "A, D and G = overall block dimensions, ø K = tube bore diameter, F = tapped hole thread, P = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. Black anodized version of 5550."
+    },
+    {
+      "part_number": "5600",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-7",
+      "description": "Milled aluminum block that clamps onto an aluminum tube profile (pg. 8-14) and provides pre-drilled holes for connecting additional profiles or accessories. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) for connecting additional profiles or accessories; pre-drilled holes to accommodate positioning",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.060 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": "2.500”",
+        "E": ".500”",
+        "F": "5/16-18",
+        "G": "2.500”",
+        "H": "1.250”",
+        "J": "1.250”",
+        "K": "1.505”",
+        "L": ".328”",
+        "M": ".810”",
+        "N": ".880”",
+        "P": "1/4-20 SHCS"
+      },
+      "dimension_notes": "A, D and G = overall block dimensions, ø K = tube bore diameter, F = tapped hole thread, P = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. Also available in black as 5600-Black."
+    },
+    {
+      "part_number": "5600-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-7",
+      "description": "Milled aluminum block that clamps onto an aluminum tube profile (pg. 8-14) and provides pre-drilled holes for connecting additional profiles or accessories. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) for connecting additional profiles or accessories; pre-drilled holes to accommodate positioning",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.060 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": "2.500”",
+        "E": ".500”",
+        "F": "5/16-18",
+        "G": "2.500”",
+        "H": "1.250”",
+        "J": "1.250”",
+        "K": "1.505”",
+        "L": ".328”",
+        "M": ".810”",
+        "N": ".880”",
+        "P": "1/4-20 SHCS"
+      },
+      "dimension_notes": "A, D and G = overall block dimensions, ø K = tube bore diameter, F = tapped hole thread, P = clamp screw",
+      "notes": "Clamp screws included. No suggested hardware table is printed for this product. Black anodized version of 5600."
+    },
+    {
+      "part_number": "5650",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-8",
+      "description": "Milled aluminum block that clamps onto an aluminum tube profile (pg. 8-14) and provides pre-drilled holes for connecting additional profiles or accessories. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) for connecting additional profiles or accessories; pre-drilled holes to accommodate positioning",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.300 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": "3.250”",
+        "E": ".500”",
+        "F": ".375”",
+        "G": ".500”",
+        "H": ".375”",
+        "J": "5/16-18",
+        "K": "3.250”",
+        "L": "1.625”",
+        "M": "1.625”",
+        "N": "2.005”",
+        "P": ".328”",
+        "Q": ".800”",
+        "R": "1.650”",
+        "S": "5/16-18 SHCS"
+      },
+      "dimension_notes": "A, D and K = overall block dimensions, ø N = tube bore diameter, J = tapped hole thread, S = clamp screw",
+      "notes": "Clamp screws included. Printed on the continuation page (8-8) of Single Shaft Stanchion Mounting Block; this size uses a different drawing and column set than 5550/5600 (8-7). No suggested hardware table is printed for this product. Also available in black as 5650-Black."
+    },
+    {
+      "part_number": "5650-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-8",
+      "description": "Milled aluminum block that clamps onto an aluminum tube profile (pg. 8-14) and provides pre-drilled holes for connecting additional profiles or accessories. Clamp screws are included.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) for connecting additional profiles or accessories; pre-drilled holes to accommodate positioning",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.300 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": "3.250”",
+        "E": ".500”",
+        "F": ".375”",
+        "G": ".500”",
+        "H": ".375”",
+        "J": "5/16-18",
+        "K": "3.250”",
+        "L": "1.625”",
+        "M": "1.625”",
+        "N": "2.005”",
+        "P": ".328”",
+        "Q": ".800”",
+        "R": "1.650”",
+        "S": "5/16-18 SHCS"
+      },
+      "dimension_notes": "A, D and K = overall block dimensions, ø N = tube bore diameter, J = tapped hole thread, S = clamp screw",
+      "notes": "Clamp screws included. Printed on the continuation page (8-8) of Single Shaft Stanchion Mounting Block; this size uses a different drawing and column set than 5550/5600 (8-7). No suggested hardware table is printed for this product. Black anodized version of 5650."
+    }
+  ],
+  "page_notes": {
+    "686": "8-2 Single Shaft Stanchion Base: 15 series rows 5100, 5200, 5300 and their -Black versions extracted; 10 series 5050 rows skipped; Suggested Hardware (Mount Stanchion to T-Slot) rows 3470/3421 attached.",
+    "687": "8-3 Double Shaft Stanchion Base: 15 series rows 5150, 5250, 5350 and their -Black versions extracted; 10 series 5125 rows skipped; Suggested Hardware (outer 3470/3421 AND / OR center 3429/3430/3431) attached.",
+    "688": "8-4 Single Shaft Blank Stanchion Mounting Plate: 15 series rows 5450 and 5450-Black extracted; 10 series 5400 rows skipped; no suggested hardware table.",
+    "689": "8-5 Single Shaft Pre-Drilled Stanchion Mounting Plate: 15 series rows 5425, 5475, 5525 and their -Black versions extracted; 10 series 5415 rows skipped; Suggested Hardware rows 3423/3424/3428 attached.",
+    "690": "8-6 Stanchion Cross Clamp: all rows are 15 series; 5575, 5625, 5675 and their -Black versions extracted; no suggested hardware table.",
+    "691": "8-7 Single Shaft Stanchion Mounting Block: all rows are 15 series; 5550, 5600 and their -Black versions extracted; no suggested hardware table.",
+    "692": "8-8 Single Shaft Stanchion Mounting Block (Continued): 15 series rows 5650 and 5650-Black extracted; no suggested hardware table."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "dimension_notes letter meanings (overall length/width/height, thickness, bore vs mounting hole) are read from the drawings, not printed as words on the page.",
+      "5450/5450-Black: 'blank (undrilled)' is inferred from the product title and the drawing showing no mounting holes; the page does not state it in words."
+    ]
+  }
+}

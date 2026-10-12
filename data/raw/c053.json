@@ -1,0 +1,794 @@
+{
+  "chunk": "c053",
+  "pages": [
+    608,
+    609,
+    610,
+    611,
+    612,
+    613,
+    614,
+    615
+  ],
+  "parts": [
+    {
+      "part_number": "6803",
+      "series": [
+        "15"
+      ],
+      "name": "Hex Nut Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-54",
+      "description": "Steel brake kit with a 5/16-18 thread and hex nut for 15 series brake-ready linear bearings. It adds grip to aid with adjustments and secures the bearing into a semi-permanent position; mounting hardware is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".048 lb",
+      "specs": {
+        "Grade": "Grade 5",
+        "Process": "Formed",
+        "Thread": "5/16-18",
+        "A": ".500”",
+        "B": "1.406”",
+        "C": ".703”",
+        "D": ".150”"
+      },
+      "dimension_notes": "A = hex nut width, B = overall bolt length from shank end to top of head, C = bolt head diameter, D = length of the neck section between shank and head",
+      "notes": "Material (Steel), Grade 5, process (Formed), finish (Zinc) and color (Black) are merged cells covering all rows of the table. Product photo shows bolt, flat washer and hex nut."
+    },
+    {
+      "part_number": "6804",
+      "series": [
+        "15"
+      ],
+      "name": "Wing Nut Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-54",
+      "description": "Steel brake kit with a 5/16-18 thread and wing nut for 15 series brake-ready linear bearings. It adds grip to aid with adjustments and secures the bearing into a semi-permanent position; mounting hardware is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright / Black",
+      "weight": ".054 lb",
+      "specs": {
+        "Process": "Cold Forged",
+        "Thread": "5/16-18",
+        "A": "1.416”",
+        "B": "1.375”",
+        "C": ".703”",
+        "D": ".150”"
+      },
+      "dimension_notes": "A = overall bolt length from shank end to top of head, B = wing nut span, C = bolt head diameter, D = length of the neck section between shank and head",
+      "notes": "Material (Steel), process (Cold Forged), finish (Zinc) and color (Bright / Black) are merged cells covering all rows of the table. Product photo shows black bolt, flat washer and bright wing nut."
+    },
+    {
+      "part_number": "4381",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Dynamic Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-55",
+      "description": "Aluminum pivot nub that mounts to a 15 series T-slot without machining and creates full axial motion ranging from 0-180 degrees, parallel to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates full axial motion ranging from 0-180 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".312 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.448”",
+        "D": ".724”",
+        "E": "5/16-18",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".312”",
+        "K": ".100”",
+        "L": ".750”",
+        "M": ".568”",
+        "N": ".312”"
+      },
+      "dimension_notes": "E = drill thru & counterbore hole, F = tapped thru hole, R. L = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4381-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Dynamic Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-55",
+      "description": "Black anodized aluminum pivot nub that mounts to a 15 series T-slot without machining and creates full axial motion ranging from 0-180 degrees, parallel to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates full axial motion ranging from 0-180 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".312 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.448”",
+        "D": ".724”",
+        "E": "5/16-18",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".312”",
+        "K": ".100”",
+        "L": ".750”",
+        "M": ".568”",
+        "N": ".312”"
+      },
+      "dimension_notes": "E = drill thru & counterbore hole, F = tapped thru hole, R. L = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Black version of 4381. Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4384",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Dynamic Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-56",
+      "description": "Aluminum pivot nub that mounts to a 15 series T-slot without machining and creates full axial motion ranging from 0-180 degrees, perpendicular to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-180 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".311 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.448”",
+        "D": ".724”",
+        "E": "5/16-18",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".312”",
+        "K": "0.594”",
+        "L": ".750”",
+        "M": ".100”",
+        "N": ".312”"
+      },
+      "dimension_notes": "E = drill thru & counterbore hole, F = tapped thru hole, R. L = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4384-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Dynamic Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-56",
+      "description": "Black anodized aluminum pivot nub that mounts to a 15 series T-slot without machining and creates full axial motion ranging from 0-180 degrees, perpendicular to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-180 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".311 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.448”",
+        "D": ".724”",
+        "E": "5/16-18",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".312”",
+        "K": "0.594”",
+        "L": ".750”",
+        "M": ".100”",
+        "N": ".312”"
+      },
+      "dimension_notes": "E = drill thru & counterbore hole, F = tapped thru hole, R. L = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Black version of 4384. Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4377",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Dynamic Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-57",
+      "description": "Aluminum two-bolt pivot nub that mounts to a 15 series T-slot without machining, parallel or perpendicular to the mounting profile, and creates full axial motion ranging from 0-180 degrees. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel or perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-180 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".635 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "2.948”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width, H = mounting hole spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 2 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4377-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Dynamic Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-57",
+      "description": "Black anodized aluminum two-bolt pivot nub that mounts to a 15 series T-slot without machining, parallel or perpendicular to the mounting profile, and creates full axial motion ranging from 0-180 degrees. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel or perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-180 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".635 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "2.948”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width, H = mounting hole spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Black version of 4377. Includes 2 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4425",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Dynamic Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-58",
+      "description": "Aluminum right angle pivot nub that mounts to a 15 series T-slot without machining and creates axial motion ranging from 0-90 degrees, parallel to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates axial motion ranging from 0-90 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".330 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.448”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4425-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Dynamic Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-58",
+      "description": "Black anodized aluminum right angle pivot nub that mounts to a 15 series T-slot without machining and creates axial motion ranging from 0-90 degrees, parallel to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates axial motion ranging from 0-90 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".330 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.448”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Black version of 4425. Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4426",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Dynamic Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-59",
+      "description": "Aluminum right angle pivot nub that mounts to a 15 series T-slot without machining and creates full axial motion ranging from 0-90 degrees, perpendicular to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-90 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".328 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.448”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4426-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Dynamic Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-59",
+      "description": "Black anodized aluminum right angle pivot nub that mounts to a 15 series T-slot without machining and creates full axial motion ranging from 0-90 degrees, perpendicular to the mounting profile. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-90 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".328 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.448”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Black version of 4426. Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4427",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Dynamic Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-60",
+      "description": "Aluminum two-bolt right angle pivot nub that mounts to a 15 series T-slot without machining, parallel or perpendicular to the mounting profile, and creates full axial motion ranging from 0-90 degrees. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel or perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-90 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".672 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "2.948”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width, H = mounting hole spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 2 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4427-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Dynamic Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-60",
+      "description": "Black anodized aluminum two-bolt right angle pivot nub that mounts to a 15 series T-slot without machining, parallel or perpendicular to the mounting profile, and creates full axial motion ranging from 0-90 degrees. Hardware to mount the nub to the profile is included.",
+      "features": [
+        "No machining required",
+        "Parallel or perpendicular to mounting profile",
+        "Creates full axial motion ranging from 0-90 degrees",
+        "Hardware to mount nub to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".672 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "2.948”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16-18",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = tapped thru hole, G = width, H = mounting hole spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Black version of 4427. Includes 2 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4343",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Dynamic Pivot Arm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-61",
+      "description": "Aluminum L-shaped pivot arm with lubricated bronze bushings, used in assemblies with a pivot nub to create a dynamic pivot on 15 series profile. Hardware to mount the arm to the profile is included and should be pre-loaded before connecting profiles.",
+      "features": [
+        "Used in assemblies to create dynamic pivot",
+        "Includes lubricated bronze bushings",
+        "Pre-load hardware prior to connecting profiles",
+        "Hardware to mount arm to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".215 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".312”",
+        "J": ".250”",
+        "K": "1.500”",
+        "L": ".375”",
+        "M": ".750”",
+        "N": ".755”"
+      },
+      "dimension_notes": "A = overall length of mounting leg, D = width, C = mounting hole spacing, ø F = mounting hole diameter, ø L = pivot hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FHSCS, Economy T-nut",
+          "context": "Included Hardware - Mount Arm to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 2 x 3412 (5/16-18 x 5/8” FHSCS with Economy T-nut) to mount the arm to the T-slot. Suggested hardware to mount the arm to a nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4343-Black",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Dynamic Pivot Arm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-61",
+      "description": "Black anodized aluminum L-shaped pivot arm with lubricated bronze bushings, used in assemblies with a pivot nub to create a dynamic pivot on 15 series profile. Hardware to mount the arm to the profile is included and should be pre-loaded before connecting profiles.",
+      "features": [
+        "Used in assemblies to create dynamic pivot",
+        "Includes lubricated bronze bushings",
+        "Pre-load hardware prior to connecting profiles",
+        "Hardware to mount arm to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".215 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".312”",
+        "J": ".250”",
+        "K": "1.500”",
+        "L": ".375”",
+        "M": ".750”",
+        "N": ".755”"
+      },
+      "dimension_notes": "A = overall length of mounting leg, D = width, C = mounting hole spacing, ø F = mounting hole diameter, ø L = pivot hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FHSCS, Economy T-nut",
+          "context": "Included Hardware - Mount Arm to T-Slot"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Black version of 4343. Includes 2 x 3412 (5/16-18 x 5/8” FHSCS with Economy T-nut) to mount the arm to the T-slot. Suggested hardware to mount the arm to a nub: 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Material, alloy and finish from the page's Material Specifications table."
+    }
+  ],
+  "page_notes": {
+    "608": "7-54: Hex Nut and Wing Nut Linear Bearing Brake Kits; 15 series 6803 and 6804 extracted; 10 series 6851/6852 and metric 25-/40- rows skipped.",
+    "609": "7-55: 0 Degree Dynamic Pivot Nub; 4381/4381-Black (15) extracted; 10 series 4181 and metric rows skipped; included hardware 3613 x1, suggested arm hardware 3500 x1.",
+    "610": "7-56: 90 Degree Dynamic Pivot Nub; 4384/4384-Black (15) extracted; 10 series 4184 and metric rows skipped; included hardware 3613 x1, suggested arm hardware 3500 x1.",
+    "611": "7-57: Universal Dynamic Pivot Nub; 4377/4377-Black (15) extracted; 10 series 4177 and metric rows skipped; included hardware 3613 x2, suggested arm hardware 3500 x1.",
+    "612": "7-58: 0 Degree Dynamic Right Angle Pivot Nub; 4425/4425-Black (15) extracted; 10 series 4025 and metric rows skipped; included hardware 3613 x1, suggested arm hardware 3500 x1.",
+    "613": "7-59: 90 Degree Dynamic Right Angle Pivot Nub; 4426/4426-Black (15) extracted; 10 series 4026 and metric rows skipped; included hardware 3613 x1, suggested arm hardware 3500 x1.",
+    "614": "7-60: Universal Dynamic Right Angle Pivot Nub; 4427/4427-Black (15) extracted; 10 series 4027 and metric rows skipped; included hardware 3613 x2, suggested arm hardware 3500 x1.",
+    "615": "7-61: “L” Dynamic Pivot Arm; 4343/4343-Black (15) extracted; 10 series 4172 and metric rows skipped; included hardware 3412 x2, suggested arm hardware 3500 x1."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "6803: dimension_notes B 'overall length from nut to bolt head' -> 'overall bolt length from shank end to top of head'; D 'bolt head thickness' -> 'length of the neck section between shank and head' (drawing arrows bracket the neck, not the dome head)",
+      "6804: dimension_notes A 'overall height from bolt head to top of wing nut' -> 'overall bolt length from shank end to top of head'; D 'bolt head thickness' -> 'length of the neck section between shank and head'"
+    ],
+    "remaining_doubts": [
+      "Pivot nubs and the L pivot arm are categorized bracket_plate; hinge could also fit since they create a pivot, left unchanged.",
+      "Included Hardware (Mount Nub/Arm to T-Slot) rows 3613 and 3412 are kept in suggested_hardware with an 'Included Hardware' context, alongside the suggested 3500 shoulder bolt."
+    ]
+  }
+}

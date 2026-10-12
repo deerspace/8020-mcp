@@ -1,0 +1,713 @@
+{
+  "chunk": "c014",
+  "pages": [
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    263
+  ],
+  "parts": [
+    {
+      "part_number": "4285",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide 2x4 Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-89",
+      "description": "Clear anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with 2 slots on the 1.500” leg and 4 round holes on the 3.000” leg; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".262 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": ".500”",
+        "H": ".328”",
+        "J": "2.810”",
+        "K": ".328”",
+        "L": ".750”"
+      },
+      "dimension_notes": "A = height of the slotted leg, B = length of the 4-hole leg, C = thickness, D = bottom edge to lower slot-end center (typ), E = end edge to first slot center, F = slot center-to-center spacing, G = slot travel between slot end centers, H = slot width, J = bracket width, K = hole diameter, L = leg-side edge to hole center (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4285-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide 2x4 Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-89",
+      "description": "Black anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with 2 slots on the 1.500” leg and 4 round holes on the 3.000” leg; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".262 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": ".500”",
+        "H": ".328”",
+        "J": "2.810”",
+        "K": ".328”",
+        "L": ".750”"
+      },
+      "dimension_notes": "A = height of the slotted leg, B = length of the 4-hole leg, C = thickness, D = bottom edge to lower slot-end center (typ), E = end edge to first slot center, F = slot center-to-center spacing, G = slot travel between slot end centers, H = slot width, J = bracket width, K = hole diameter, L = leg-side edge to hole center (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4415",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide 3x3 Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-90",
+      "description": "Clear anodized 6063-T6 aluminum wide inside corner bracket for 15 series profiles with 3 holes on each leg; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".268 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "4.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness, D = bottom edge to hole center (typ), E = end edge to first hole center (typ), F = hole center-to-center spacing (typ), G = overall bracket length, H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4415-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide 3x3 Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-90",
+      "description": "Black anodized 6063-T6 aluminum wide inside corner bracket for 15 series profiles with 3 holes on each leg; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".268 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "4.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness, D = bottom edge to hole center (typ), E = end edge to first hole center (typ), F = hole center-to-center spacing (typ), G = overall bracket length, H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4311",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Center Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-91",
+      "description": "Clear anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with a tapered vertical leg carrying 2 centered holes and a base with 4 holes; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".338 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": "1.405”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": "2.810”",
+        "J": ".654”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness, D = bottom edge to first vertical-leg hole center, E = side edge to vertical-leg hole center line, F = vertical-leg hole spacing (typ), G = top width of the tapered vertical leg, H = base width, J = edge to first base hole row, K = leg-side edge to base hole center, L = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4311-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Center Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-91",
+      "description": "Black anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with a tapered vertical leg carrying 2 centered holes and a base with 4 holes; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".338 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": "1.405”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": "2.810”",
+        "J": ".654”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness, D = bottom edge to first vertical-leg hole center, E = side edge to vertical-leg hole center line, F = vertical-leg hole spacing (typ), G = top width of the tapered vertical leg, H = base width, J = edge to first base hole row, K = leg-side edge to base hole center, L = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4309",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Left Aligned Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-92",
+      "description": "Clear anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with a tapered vertical leg carrying 2 left-aligned holes and a base with 4 holes; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".324 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": "2.810”",
+        "J": ".656”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to first vertical-leg hole center, E = left edge to vertical-leg hole center line, F = vertical-leg hole spacing (typ), G = top width of the tapered vertical leg, H = base width, J = edge to first base hole row, K = leg-side edge to base hole center, L = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4309-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Left Aligned Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-92",
+      "description": "Black anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with a tapered vertical leg carrying 2 left-aligned holes and a base with 4 holes; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".324 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": "2.810”",
+        "J": ".656”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to first vertical-leg hole center, E = left edge to vertical-leg hole center line, F = vertical-leg hole spacing (typ), G = top width of the tapered vertical leg, H = base width, J = edge to first base hole row, K = leg-side edge to base hole center, L = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4308",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Right Aligned Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-93",
+      "description": "Clear anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with a tapered vertical leg carrying 2 right-aligned holes and a base with 4 holes; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".326 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": "2.156”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": "2.810”",
+        "J": ".656”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to first vertical-leg hole center, E = left edge to vertical-leg hole center line, F = vertical-leg hole spacing (typ), G = top width of the tapered vertical leg, H = base width, J = edge to first base hole row, K = leg-side edge to base hole center, L = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4308-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Right Aligned Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-93",
+      "description": "Black anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with a tapered vertical leg carrying 2 right-aligned holes and a base with 4 holes; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".326 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": "2.156”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": "2.810”",
+        "J": ".656”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to first vertical-leg hole center, E = left edge to vertical-leg hole center line, F = vertical-leg hole spacing (typ), G = top width of the tapered vertical leg, H = base width, J = edge to first base hole row, K = leg-side edge to base hole center, L = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4296",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-94",
+      "description": "Clear anodized 6063-T6 aluminum wide inside corner bracket for 15 series profiles with 3 slots on one leg and 3 round holes on the other; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".257 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": ".500”",
+        "J": "4.312”",
+        "K": ".328”",
+        "L": ".750”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to lower slot-end center (typ), E = end edge to first slot center (typ), F = slot center-to-center spacing (typ), G = slot width (typ), H = slot travel between slot end centers (typ), J = overall bracket length, K = hole diameter (typ), L = leg-side edge to hole center (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4296-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Wide Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-94",
+      "description": "Black anodized 6063-T6 aluminum wide inside corner bracket for 15 series profiles with 3 slots on one leg and 3 round holes on the other; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".257 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": ".500”",
+        "J": "4.312”",
+        "K": ".328”",
+        "L": ".750”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to lower slot-end center (typ), E = end edge to first slot center (typ), F = slot center-to-center spacing (typ), G = slot width (typ), H = slot travel between slot end centers (typ), J = overall bracket length, K = hole diameter (typ), L = leg-side edge to hole center (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4304",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-95",
+      "description": "Clear anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with 4 holes on each leg; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".365 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to first hole row center (typ), E = side edge to hole center (typ), F = hole row spacing, G = bracket width, H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 8 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4304-Black",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-95",
+      "description": "Black anodized 6063-T6 aluminum inside corner bracket for 15 series profiles with 4 holes on each leg; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".365 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = base leg length, C = thickness (typ), D = bottom edge to first hole row center (typ), E = side edge to hole center (typ), F = hole row spacing, G = bracket width, H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 8 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4281",
+      "series": [
+        "15"
+      ],
+      "name": "9 Hole - Wide Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-99",
+      "description": "Clear anodized 6063-T6 aluminum wide inside corner bracket for 15 series profiles with 6 round holes on one leg and 3 slots on the other; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".406 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "4.310”",
+        "D": ".656”",
+        "E": "1.500”",
+        "F": ".328”",
+        "G": ".500”",
+        "H": ".500”",
+        "J": ".656”",
+        "K": "1.500”",
+        "L": ".328”",
+        "M": ".250”",
+        "N": "3.000”",
+        "P": "1.500”"
+      },
+      "dimension_notes": "C = overall length, A = edge to second hole row center, B = edge to first hole row center, D = end edge to first hole center, E = hole center-to-center spacing, F = hole diameter, G = bottom edge to lower slot-end center, H = slot travel between slot end centers, J = end edge to first slot center, K = slot center-to-center spacing, L = slot width, M = thickness, N = length of the 6-hole leg, P = length of the slotted leg",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 9,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 9 suggested bolt and T-nut sets (3320)."
+    },
+    {
+      "part_number": "4281-Black",
+      "series": [
+        "15"
+      ],
+      "name": "9 Hole - Wide Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-99",
+      "description": "Black anodized 6063-T6 aluminum wide inside corner bracket for 15 series profiles with 6 round holes on one leg and 3 slots on the other; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".406 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "4.310”",
+        "D": ".656”",
+        "E": "1.500”",
+        "F": ".328”",
+        "G": ".500”",
+        "H": ".500”",
+        "J": ".656”",
+        "K": "1.500”",
+        "L": ".328”",
+        "M": ".250”",
+        "N": "3.000”",
+        "P": "1.500”"
+      },
+      "dimension_notes": "C = overall length, A = edge to second hole row center, B = edge to first hole row center, D = end edge to first hole center, E = hole center-to-center spacing, F = hole diameter, G = bottom edge to lower slot-end center, H = slot travel between slot end centers, J = end edge to first slot center, K = slot center-to-center spacing, L = slot width, M = thickness, N = length of the 6-hole leg, P = length of the slotted leg",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 9,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 9 suggested bolt and T-nut sets (3320)."
+    }
+  ],
+  "page_notes": {
+    "253": "6 Hole - Wide 2x4 Slotted Inside Corner Bracket (4-89): 4285 and 4285-Black (15) extracted; 10 series 4286/-Black and metric 25-4286, 40-4285 (and -Black) skipped. Suggested hardware 3320 x6 attached; 3393 (10) and 75-3404, 75-3422 (metric) skipped.",
+    "254": "6 Hole - Wide 3x3 Inside Corner Bracket (4-90): 4415 and 4415-Black (15) extracted; 10 series 4015/-Black skipped. Suggested hardware 3320 x6 attached; 3393 (10) skipped.",
+    "255": "6 Hole - Center Inside Corner Bracket (4-91): 4311 and 4311-Black (15) extracted; 10 series 4111/-Black and metric 25-4111, 40-4311 (and -Black) skipped. Suggested hardware 3320 x6 attached; 3393 (10) and 75-3404, 75-3422 (metric) skipped.",
+    "256": "6 Hole - Left Aligned Inside Corner Bracket (4-92): 4309 and 4309-Black (15) extracted; 10 series 4122/-Black and metric 40-4309/-Black skipped. Suggested hardware 3320 x6 attached; 3393 (10) and 75-3422 (metric) skipped.",
+    "257": "6 Hole - Right Aligned Inside Corner Bracket (4-93): 4308 and 4308-Black (15) extracted; 10 series 4121/-Black and metric 40-4308/-Black skipped. Suggested hardware 3320 x6 attached; 3393 (10) and 75-3422 (metric) skipped.",
+    "258": "6 Hole - Wide Slotted Inside Corner Bracket (4-94): 4296 and 4296-Black (15) extracted; 10 series 4266/-Black skipped. Suggested hardware 3320 x6 attached; 3393 (10) skipped.",
+    "259": "8 Hole - Inside Corner Bracket (4-95): 4304 and 4304-Black (15) extracted; 10 series 4114/-Black and metric 25-4114, 40-4304, 45-4304 (and -Black) skipped. Suggested hardware 3320 x8 attached; 3393 (10) and 75-3404, 75-3422, 75-3619 (metric) skipped.",
+    "263": "9 Hole - Wide Slotted Inside Corner Bracket (4-99): 4281 and 4281-Black (15) extracted; 10 series 4251/-Black skipped. Suggested hardware 3320 x9 attached; 3393 (10) skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": []
+  }
+}

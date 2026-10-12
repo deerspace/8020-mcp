@@ -1,0 +1,891 @@
+{
+  "chunk": "c037",
+  "pages": [
+    456,
+    458,
+    460,
+    461,
+    462,
+    466,
+    467,
+    468
+  ],
+  "parts": [
+    {
+      "part_number": "12326",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Detent Positioning Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-90",
+      "description": "Glass-fiber reinforced nylon 4 hole hinge with a detent that holds doors closed or open at 85 or 175 degrees. Used to connect plastic panels to profiles or two profiles together.",
+      "features": [
+        "Used to connect plastic panels to profiles or two profiles together",
+        "Holds doors closed, or open at 85 or 175 degrees"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0838 kg",
+      "specs": {
+        "Max Load": "20 Nm / 14.7 Lbs.",
+        "A": "45.50mm",
+        "B": "56.00mm",
+        "C": "36.00mm",
+        "D": "36.75mm",
+        "E": "22.75mm",
+        "F": "10.20mm",
+        "G": "6.40mm",
+        "H": "10.50mm",
+        "J": "—",
+        "K": "10.00mm",
+        "L": "8.00mm",
+        "M": "38.75mm",
+        "N": "62.80mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molded"
+      },
+      "dimension_notes": "ø G = hole diameter; R. K = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3050",
+          "qty": 2,
+          "description": "10-32 x .500” BHSCS, Slide-in T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3051",
+          "qty": 2,
+          "description": "10-32 x .625” BHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 series. Max Load value is printed once and spans all three hinges in the table (12322, 12326, 12327). Suggested hardware quantities are per leaf. Compared with 12327, this row has no J value (—)."
+    },
+    {
+      "part_number": "12327",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Detent Positioning Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-90",
+      "description": "Glass-fiber reinforced nylon 4 hole hinge with a detent that holds doors closed or open at 85 or 175 degrees. Used to connect plastic panels to profiles or two profiles together.",
+      "features": [
+        "Used to connect plastic panels to profiles or two profiles together",
+        "Holds doors closed, or open at 85 or 175 degrees"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0845 kg",
+      "specs": {
+        "Max Load": "20 Nm / 14.7 Lbs.",
+        "A": "45.50mm",
+        "B": "56.00mm",
+        "C": "36.00mm",
+        "D": "36.75mm",
+        "E": "22.75mm",
+        "F": "10.20mm",
+        "G": "6.40mm",
+        "H": "10.50mm",
+        "J": "8.00mm",
+        "K": "10.00mm",
+        "L": "8.00mm",
+        "M": "38.75mm",
+        "N": "62.80mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molded"
+      },
+      "dimension_notes": "ø G = hole diameter; R. K = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3050",
+          "qty": 2,
+          "description": "10-32 x .500” BHSCS, Slide-in T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3051",
+          "qty": 2,
+          "description": "10-32 x .625” BHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 series. Max Load value is printed once and spans all three hinges in the table. Suggested hardware quantities are per leaf. Differs from 12326 by the J dimension (8.00mm) and weight."
+    },
+    {
+      "part_number": "2085",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Aluminum Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-92",
+      "description": "Anodized aluminum 4 hole hinge for 15 series profiles, used to mount lighter weight doors or to join two profiles. Useful for outdoor applications.",
+      "features": [
+        "Used to mount lighter weight doors or two profiles",
+        "Useful for outdoor applications",
+        "Options available as transitions from 10 to 15 series or 25 to 40 series profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "5052-H32/34",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".135 lb",
+      "specs": {
+        "Max Load": "70 lb",
+        "A": "3.000”",
+        "B": ".686”",
+        "C": ".750”",
+        "D": "3.000”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": ".686”",
+        "K": ".250”",
+        "L": ".250”",
+        "M": ".125”",
+        "Leaf Alloy": "5052-H32/34",
+        "Pin Alloy": "6061-T6",
+        "Process": "Die Stamping"
+      },
+      "dimension_notes": "ø E and ø H = hole diameters; R. K = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 4,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Gap distance between profiles for 15 series is .120”. For Ready Tube mounting the suggested hardware table lists 3961 (qty 4, 5/16-18 x 2.000” BHSCS, Flanged Hex Nut, washer 3760) OR 3964 (qty 4, M8 X 50mm BHSCS, Flanged Hex Nut, washer 3860). Also available in Black as 2085-Black."
+    },
+    {
+      "part_number": "2085-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Aluminum Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-92",
+      "description": "Black anodized aluminum 4 hole hinge for 15 series profiles, used to mount lighter weight doors or to join two profiles. Useful for outdoor applications.",
+      "features": [
+        "Used to mount lighter weight doors or two profiles",
+        "Useful for outdoor applications",
+        "Options available as transitions from 10 to 15 series or 25 to 40 series profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "5052-H32/34",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".135 lb",
+      "specs": {
+        "Max Load": "70 lb",
+        "A": "3.000”",
+        "B": ".686”",
+        "C": ".750”",
+        "D": "3.000”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": ".686”",
+        "K": ".250”",
+        "L": ".250”",
+        "M": ".125”",
+        "Leaf Alloy": "5052-H32/34",
+        "Pin Alloy": "6061-T6",
+        "Process": "Die Stamping"
+      },
+      "dimension_notes": "ø E and ø H = hole diameters; R. K = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 4,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 2085. Gap distance between profiles for 15 series is .120”. For Ready Tube mounting the suggested hardware table lists 3961 (qty 4, 5/16-18 x 2.000” BHSCS, Flanged Hex Nut, washer 3760) OR 3964 (qty 4, M8 X 50mm BHSCS, Flanged Hex Nut, washer 3860)."
+    },
+    {
+      "part_number": "2084",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Aluminum Hinge (10 to 15 Transition)",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-92",
+      "description": "Anodized aluminum 4 hole transition hinge that joins a 10 series profile to a 15 series profile. Used to mount lighter weight doors or to join two profiles, and useful for outdoor applications.",
+      "features": [
+        "Used to mount lighter weight doors or two profiles",
+        "Useful for outdoor applications",
+        "Options available as transitions from 10 to 15 series or 25 to 40 series profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "5052-H32/34",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".118 lb",
+      "specs": {
+        "Max Load": "75 lb",
+        "A": "2.500”",
+        "B": ".375”",
+        "C": ".750”",
+        "D": "3.000”",
+        "E": ".257”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": ".750”",
+        "K": ".250”",
+        "L": ".250”",
+        "M": ".125”",
+        "Leaf Alloy": "5052-H32/34",
+        "Pin Alloy": "6061-T6",
+        "Process": "Die Stamping"
+      },
+      "dimension_notes": "ø E and ø H = hole diameters; R. K = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3386",
+          "qty": 2,
+          "description": "1/4-20 x 3/8 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot (10 to 15 transition)"
+        },
+        {
+          "part_number": "3319",
+          "qty": 2,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot (10 to 15 transition)"
+        }
+      ],
+      "notes": "Series badge is printed as 10 to 15 (transition between 10 series and 15 series profiles). Gap distance between profiles for series transitions is .125” (2.42mm) as printed. Also available in Black as 2084-Black."
+    },
+    {
+      "part_number": "2084-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Aluminum Hinge (10 to 15 Transition)",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-92",
+      "description": "Black anodized aluminum 4 hole transition hinge that joins a 10 series profile to a 15 series profile. Used to mount lighter weight doors or to join two profiles, and useful for outdoor applications.",
+      "features": [
+        "Used to mount lighter weight doors or two profiles",
+        "Useful for outdoor applications",
+        "Options available as transitions from 10 to 15 series or 25 to 40 series profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "5052-H32/34",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".118 lb",
+      "specs": {
+        "Max Load": "75 lb",
+        "A": "2.500”",
+        "B": ".375”",
+        "C": ".750”",
+        "D": "3.000”",
+        "E": ".257”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": ".750”",
+        "K": ".250”",
+        "L": ".250”",
+        "M": ".125”",
+        "Leaf Alloy": "5052-H32/34",
+        "Pin Alloy": "6061-T6",
+        "Process": "Die Stamping"
+      },
+      "dimension_notes": "ø E and ø H = hole diameters; R. K = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3386",
+          "qty": 2,
+          "description": "1/4-20 x 3/8 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot (10 to 15 transition)"
+        },
+        {
+          "part_number": "3319",
+          "qty": 2,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot (10 to 15 transition)"
+        }
+      ],
+      "notes": "Black version of 2084. Series badge is printed as 10 to 15 (transition between 10 series and 15 series profiles). Gap distance between profiles for series transitions is .125” (2.42mm) as printed."
+    },
+    {
+      "part_number": "12116",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Standard Plastic Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-94",
+      "description": "Black glass-fiber reinforced nylon 4 hole hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Used to connect plastic panels and doors to T-slot profiles"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0392 kg",
+      "specs": {
+        "Process": "Injection Molding",
+        "Max Load": "25 ft-Lbs.",
+        "A": "40.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "35.50mm",
+        "E": "20.00mm",
+        "F": "6.40mm",
+        "G": "9.00mm",
+        "H": "7.00mm",
+        "J": "—",
+        "K": "8.00mm"
+      },
+      "dimension_notes": "ø F = hole diameter; R. H = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3409",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 FHSCS, Drop-in T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3417",
+          "qty": 2,
+          "description": "1/4-20 x 3/4 FHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Max Load cell (25 ft-Lbs.) is shared with 12117; no Nm value is printed for it. Gap distance between profiles is .075” (1.90mm). Suggested hardware quantities are per leaf. Compared with 12117, this row has no J value (—)."
+    },
+    {
+      "part_number": "12117",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Standard Plastic Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-94",
+      "description": "Black glass-fiber reinforced nylon 4 hole hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Used to connect plastic panels and doors to T-slot profiles"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0396 kg",
+      "specs": {
+        "Process": "Injection Molding",
+        "Max Load": "25 ft-Lbs.",
+        "A": "40.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "35.50mm",
+        "E": "20.00mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "8.00mm",
+        "K": "7.90mm"
+      },
+      "dimension_notes": "ø F = hole diameter; R. H = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3409",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 FHSCS, Drop-in T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3417",
+          "qty": 2,
+          "description": "1/4-20 x 3/4 FHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Max Load cell (25 ft-Lbs.) is shared with 12116; no Nm value is printed for it. Gap distance between profiles is .075” (1.90mm). Suggested hardware quantities are per leaf."
+    },
+    {
+      "part_number": "12125",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Standard Plastic Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-94",
+      "description": "Black glass-fiber reinforced nylon 4 hole hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Used to connect plastic panels and doors to T-slot profiles"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0404 kg",
+      "specs": {
+        "Process": "Injection Molding",
+        "Max Load": "40 Nm / 30 ft-Lbs.",
+        "A": "45.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "38.50mm",
+        "E": "22.50mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "—",
+        "K": "7.40mm"
+      },
+      "dimension_notes": "ø F = hole diameter; R. H = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3409",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 FHSCS, Drop-in T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3417",
+          "qty": 2,
+          "description": "1/4-20 x 3/4 FHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 series. Max Load cell is shared with 12126. Gap distance between profiles is .075” (1.90mm). Suggested hardware quantities are per leaf. Compared with 12126, this row has no J value (—)."
+    },
+    {
+      "part_number": "12126",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Standard Plastic Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-94",
+      "description": "Black glass-fiber reinforced nylon 4 hole hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Used to connect plastic panels and doors to T-slot profiles"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0404 kg",
+      "specs": {
+        "Process": "Injection Molding",
+        "Max Load": "40 Nm / 30 ft-Lbs.",
+        "A": "45.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "38.50mm",
+        "E": "22.50mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.76mm",
+        "K": "7.90mm"
+      },
+      "dimension_notes": "ø F = hole diameter; R. H = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3409",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 FHSCS, Drop-in T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3417",
+          "qty": 2,
+          "description": "1/4-20 x 3/4 FHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 series. Max Load cell is shared with 12125. Gap distance between profiles is .075” (1.90mm). Suggested hardware quantities are per leaf."
+    },
+    {
+      "part_number": "12254",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Horizontal Adjustment Plastic Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-95",
+      "description": "Glass-fiber reinforced nylon 4 hole hinge with horizontally slotted holes that allow adjustment. Used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Used to connect plastic panels and doors to T-slot profiles",
+        "Horizontally slotted holes to support adjustments"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black/Bolt Plain",
+      "weight": ".0232 kg",
+      "specs": {
+        "Max Load": "17 Nm / 12.5 ft-Lbs.",
+        "A": "42.50mm",
+        "B": "40.00mm",
+        "C": "20.00mm",
+        "D": "32.50mm",
+        "E": "21.25mm",
+        "F": "8.70mm",
+        "G": "6.20mm",
+        "H": "10.00mm",
+        "J": "6.00mm",
+        "K": "6.00mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "F TYP = slot length and G TYP = slot width of the slotted holes; R. J = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3418",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 BHSCS, Economy T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3469",
+          "qty": 2,
+          "description": "1/4-20 x 3/4 BHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 series. Suggested hardware quantities are per leaf."
+    },
+    {
+      "part_number": "12165",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Standard Plastic Hinge with Snap Cover",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-96",
+      "description": "Black glass-fiber reinforced nylon 4 hole hinge with snap cover. Used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Used to connect plastic panels and doors to T-slot profiles"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0549 kg",
+      "specs": {
+        "Max Load": "20 Nm / 14.7 ft-Lbs.",
+        "A": "45.50mm",
+        "B": "56.00mm",
+        "C": "36.00mm",
+        "D": "36.75mm",
+        "E": "22.75mm",
+        "F": "10.20mm",
+        "G": "6.40mm",
+        "H": "10.50mm",
+        "J": "—",
+        "K": "20.00mm",
+        "L": "8.00mm",
+        "M": "62.80mm",
+        "N": "38.60mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø G = hole diameter; R. K = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3418",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 BHSCS, Economy T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3469",
+          "qty": 2,
+          "description": "1/4-20 x 3/4 BHSCS, Hex Nut: Yes, Washer: Yes",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 series. Max Load cell is shared with 12162 (metric-only row). Suggested hardware quantities are per leaf."
+    },
+    {
+      "part_number": "4489",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Zinc Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-100",
+      "description": "Die-cast zinc 4 hole hinge with black powder coat finish. A higher strength hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Higher strength hinge used to connect plastic panels and doors to T-slot profiles"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coat",
+      "weight": ".426 lb",
+      "specs": {
+        "A": "1.771”",
+        "B": "1.574”",
+        "C": ".826”",
+        "D": "1.457”",
+        "E": ".885”",
+        "F": ".323”",
+        "G": ".314”",
+        "H": ".393”",
+        "J": ".551”",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "ø F = hole diameter; R. H = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "Standard T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3117",
+          "qty": 2,
+          "description": "5/16-18 x 7/8 BHSCS (Hex Nut 3214, Washer 3260)",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3214",
+          "description": "Hex Nut",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3260",
+          "description": "Washer",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Suggested hardware quantities are per leaf. No Max Load is listed for this hinge. Quantities for hex nut 3214 and washer 3260 are not printed."
+    },
+    {
+      "part_number": "4488",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Locking Zinc Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-101",
+      "description": "Die-cast zinc 4 hole hinge with black powder coat finish and a ratcheting clamp handle that locks the hinge in position. A higher strength hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Higher strength hinge used to connect plastic panels and doors to T-slot profiles",
+        "Features ratcheting clamp handle for locking hinge in position"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coat",
+      "weight": ".499 lb",
+      "specs": {
+        "A": "1.771”",
+        "B": "3.252”",
+        "C": "2.780”",
+        "D": "1.574”",
+        "E": ".827”",
+        "F": ".323”",
+        "G": "1.457”",
+        "H": ".551”",
+        "J": ".315”",
+        "K": "4.016”",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "ø F = hole diameter; B and K are overall dimensions including the clamp handle",
+      "suggested_hardware": [
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "Standard T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3117",
+          "qty": 2,
+          "description": "5/16-18 x 7/8 BHSCS (Hex Nut 3214, Washer 3260)",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3214",
+          "description": "Hex Nut",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3260",
+          "description": "Washer",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Suggested hardware quantities are per leaf. No Max Load is listed for this hinge. Quantities for hex nut 3214 and washer 3260 are not printed."
+    },
+    {
+      "part_number": "12084",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Slotted Zinc Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-102",
+      "description": "Die-cast zinc 4 hole hinge with black powder coat finish and slotted holes that allow adjustment. A higher strength hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Higher strength hinge used to connect plastic panels and doors to T-slot profiles",
+        "Slotted holes to support adjustments; options available with slot tabs"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coat",
+      "weight": ".1816 kg",
+      "specs": {
+        "Max Load": "250 Nm / 184 ft-Lbs.",
+        "A": "53.00mm",
+        "B": "26.50mm",
+        "C": "40.00mm",
+        "D": "24.00mm",
+        "E": "40.00mm",
+        "F": "13.00mm",
+        "G": "8.30mm",
+        "H": "14.00mm",
+        "J": "8.00mm",
+        "K": "—",
+        "L": "10.00mm",
+        "M": "—",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "R. L = radius; K (side view) and M (bottom view) dimension the slot tabs",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 SHCS, Economy T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3117",
+          "qty": 2,
+          "description": "5/16-18 x 7/8 BHSCS (Hex Nut 3214, Washer 3260)",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3214",
+          "description": "Hex Nut",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3260",
+          "description": "Washer",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 and 45 series. Max Load cell is shared by all three hinges in the table (12084, 12088, 12089). K and M are printed as — for this part (12088 lists K 4.50mm and M 7.80mm), which suggests this is the version without slot tabs; the page does not say so explicitly. Suggested hardware quantities are per leaf; quantities for 3214 and 3260 are not printed."
+    },
+    {
+      "part_number": "12088",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Slotted Zinc Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-102",
+      "description": "Die-cast zinc 4 hole hinge with black powder coat finish and slotted holes that allow adjustment. A higher strength hinge used to connect plastic panels and doors to T-slot profiles.",
+      "features": [
+        "Higher strength hinge used to connect plastic panels and doors to T-slot profiles",
+        "Slotted holes to support adjustments; options available with slot tabs"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coat",
+      "weight": ".1679 kg",
+      "specs": {
+        "Max Load": "250 Nm / 184 ft-Lbs.",
+        "A": "53.00mm",
+        "B": "26.50mm",
+        "C": "40.00mm",
+        "D": "24.00mm",
+        "E": "40.00mm",
+        "F": "13.00mm",
+        "G": "8.30mm",
+        "H": "14.00mm",
+        "J": "8.00mm",
+        "K": "4.50mm",
+        "L": "10.00mm",
+        "M": "7.80mm",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "R. L = radius; K (side view) and M (bottom view) dimension the slot tabs",
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 SHCS, Economy T-Nut",
+          "context": "Per Leaf, Mount to T-Slot"
+        },
+        {
+          "part_number": "3117",
+          "qty": 2,
+          "description": "5/16-18 x 7/8 BHSCS (Hex Nut 3214, Washer 3260)",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3214",
+          "description": "Hex Nut",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        },
+        {
+          "part_number": "3260",
+          "description": "Washer",
+          "context": "Per Leaf, Mount to Panel ≤ .250” / 6mm"
+        }
+      ],
+      "notes": "Row also badged for metric 40 series. Max Load cell is shared by all three hinges in the table. Lists K and M values, which suggests the slot-tab version; the page does not say so explicitly. Suggested hardware quantities are per leaf; quantities for 3214 and 3260 are not printed."
+    }
+  ],
+  "page_notes": {
+    "456": "4 Hole - Detent Positioning Hinge (5-90): 15-series rows 12326 and 12327 extracted; 12322 is metric only and skipped. Suggested hardware 3050/3051 attached.",
+    "458": "4 Hole - Aluminum Hinge (5-92): 2085, 2085-Black (15+RT) and 2084, 2084-Black (10 to 15 transition) extracted; 10-only and metric rows skipped. Suggested hardware 3319/3386 attached; RT hardware 3961/3964 noted.",
+    "460": "4 Hole - Standard Plastic Hinge (5-94): 15-series rows 12116, 12117, 12125, 12126 extracted; 10/metric-only rows skipped. Suggested hardware 3409/3417 attached.",
+    "461": "4 Hole - Horizontal Adjustment Plastic Hinge (5-95): 12254 extracted. Suggested hardware 3418/3469 attached.",
+    "462": "4 Hole - Standard Plastic Hinge with Snap Cover (5-96): 12165 extracted; 12162 is metric only and skipped. Suggested hardware 3418/3469 attached.",
+    "466": "4 Hole - Zinc Hinge (5-100): 4489 extracted; 40-4489 metric skipped. Suggested hardware 3114/3203/3117/3214/3260 attached.",
+    "467": "4 Hole - Locking Zinc Hinge (5-101): 4488 extracted; 40-4488 metric skipped. Suggested hardware 3114/3203/3117/3214/3260 attached.",
+    "468": "4 Hole - Slotted Zinc Hinge (5-102): 12084 and 12088 extracted; 12089 is metric only and skipped. Suggested hardware 3455/3117/3214/3260 attached."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "12254: dimension_notes made specific (F = slot length, G = slot width, both TYP)",
+      "12165: description 'snap covers over the mounting holes' -> 'snap cover' (page only names a snap cover)",
+      "12084: dimension_notes clarified (K and M are slot-tab dimensions per drawing)",
+      "12088: dimension_notes clarified (K and M are slot-tab dimensions per drawing)"
+    ],
+    "remaining_doubts": [
+      "2084/2084-Black are badged '10 to 15' (transition); kept with series ['15'] since 10 is not an allowed series value.",
+      "2085/2085-Black are also RT; RT-only suggested hardware (3961/3964) is recorded in notes only, not in suggested_hardware.",
+      "12116/12117 Max Load printed only as '25 ft-Lbs.' with no Nm value.",
+      "12084 lacks K and M values; read as the version without slot tabs, but the page does not state it."
+    ]
+  }
+}

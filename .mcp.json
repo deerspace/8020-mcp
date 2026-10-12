@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "8020": {
+      "command": "node",
+      "args": ["dist/index.js"]
+    }
+  }
+}

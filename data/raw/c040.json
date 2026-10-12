@@ -1,0 +1,704 @@
+{
+  "chunk": "c040",
+  "pages": [
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493
+  ],
+  "parts": [
+    {
+      "part_number": "12148",
+      "series": [
+        "15"
+      ],
+      "name": "Emergency Push Button",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-120",
+      "description": "Emergency push button with a plastic housing and steel release lever that works with 80/20 slam latches. The release lever adjusts to fit multiple extrusion sizes up to 45mm.",
+      "features": [
+        "Easily integrates with 80/20 slam latches (pg. 5-119)",
+        "Adjustable release lever to fit multiple extrusion sizes up to 45mm"
+      ],
+      "material": "Plastic Housing with Steel Lever",
+      "weight": ".228 lbs (.1040 kg)",
+      "specs": {
+        "A": "2.362” (60.00mm)",
+        "B": "1.259” (32.00mm)",
+        "C": "1.259” / 2.677” (32.00mm / 68.00mm)",
+        "D": "1.889 / 7772.480” (48.00mm / 63.00mm)",
+        "E": ".251” (6.40mm)",
+        "F": ".472” (12.00mm)",
+        "G": ".842” (21.40mm)",
+        "H": "2.165” (55.00mm)",
+        "J": ".649” (16.50mm)",
+        "K": ".866” (22.00mm)"
+      },
+      "dimension_notes": "A and E are diameters; C and D are MIN/MAX adjustment ranges",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6514",
+          "qty": 2,
+          "description": "M6 x 14mm SHCS",
+          "context": "Mount to T-slot (bolt)"
+        },
+        {
+          "part_number": "13119",
+          "qty": 2,
+          "description": "Drop-in",
+          "context": "Mount to T-slot (T-nut)"
+        }
+      ],
+      "notes": "Row is badged 15, 30, 40 and 45. The D value is printed as \"1.889 / 7772.480”\" (apparent misprint; metric shows 48.00mm / 63.00mm, i.e. about 1.889” / 2.480”). Suggested hardware is the 15/40 row of the Suggested Hardware (Mount to T-slot) table."
+    },
+    {
+      "part_number": "2126",
+      "series": [
+        "15"
+      ],
+      "name": "Velcro® Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-121",
+      "description": "Aluminum latch with a Velcro® pad that mounts to the T-slot, for holding displays, enclosures and light-duty doors closed. Mounting hardware is included.",
+      "features": [
+        "Recommended for displays, enclosures and light-duty doors",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "weight": ".243 lb (.1048 kg)",
+      "specs": {
+        "A": ".500” (12.70mm)",
+        "B": ".335” (8.50mm)",
+        "C": ".350” (8.90mm)",
+        "D": ".448” (11.40mm)",
+        "E": ".437” (11.10mm)",
+        "F": "2.875” (73.03mm)",
+        "G": "2.000” (50.80mm)",
+        "H": "2.000” (50.80mm)",
+        "J": "1.000” (25.40mm)",
+        "K": "1.000” (25.40mm)",
+        "L": "1/4-20 (M6 x 1.0)",
+        "M": "1.000” (25.40mm)",
+        "N": ".500” (12.70mm)",
+        "Pad Material": "Velcro®"
+      },
+      "dimension_notes": "F = overall plate height, H = overall plate width, B = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3068",
+          "qty": 2,
+          "description": "1/4-20 x 7/8” SHCS",
+          "context": "Included hardware - Mount Velcro Latch to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included hardware - Mount Velcro Latch to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Row is badged 15 and 40. Housing material Aluminum, alloy 6063-T6, pad material Velcro®. Mounting hardware (3068 bolts and 3382 T-nuts, 2 each, for 15 series) is included."
+    },
+    {
+      "part_number": "3273",
+      "series": [
+        "15"
+      ],
+      "name": "Velcro® Fastener",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-121",
+      "description": "Velcro® fastener made of black injection-molded PVC, listed on the Velcro® Latch page.",
+      "material": "Plastic",
+      "color": "Black",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".580”",
+        "B": ".350”",
+        "C": "1.000”",
+        "Grade": "PVC",
+        "Process": "Injection Mold"
+      },
+      "dimension_notes": "C = pad width, A = overall height, B = stem diameter",
+      "notes": "Material Specifications: Plastic, Grade PVC, Process Injection Mold, Color Black."
+    },
+    {
+      "part_number": "2053",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Deadbolt Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-122",
+      "description": "Spring-loaded 0 degree deadbolt latch in clear anodized aluminum for guarding and enclosures. Hardware to mount the latch to the T-slot is included.",
+      "features": [
+        "Spring-loaded deadbolt ideal for guarding and enclosures",
+        "Hardware to mount latch to T-slot included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".226 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.500”",
+        "C": ".625”",
+        "D": ".500”",
+        "E": ".507”",
+        "F": ".500”",
+        "G": "1.500”",
+        "H": "1.062”",
+        "J": ".187”",
+        "K": ".625”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3062",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” SHCS",
+          "context": "Included hardware - Mount to T-Slot"
+        },
+        {
+          "part_number": "3382",
+          "qty": 4,
+          "description": "1/4-20 Slide-In Economy T-Nut",
+          "context": "Included hardware - Mount to T-Slot"
+        }
+      ],
+      "notes": "Row is badged 10 and 15. Included hardware (4 x 3062 and 4 x 3382) is for 10/15 series."
+    },
+    {
+      "part_number": "2053-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Deadbolt Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-122",
+      "description": "Spring-loaded 0 degree deadbolt latch in black anodized aluminum for guarding and enclosures. Hardware to mount the latch to the T-slot is included.",
+      "features": [
+        "Spring-loaded deadbolt ideal for guarding and enclosures",
+        "Hardware to mount latch to T-slot included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".226 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.500”",
+        "C": ".625”",
+        "D": ".500”",
+        "E": ".507”",
+        "F": ".500”",
+        "G": "1.500”",
+        "H": "1.062”",
+        "J": ".187”",
+        "K": ".625”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3062",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” SHCS",
+          "context": "Included hardware - Mount to T-Slot"
+        },
+        {
+          "part_number": "3382",
+          "qty": 4,
+          "description": "1/4-20 Slide-In Economy T-Nut",
+          "context": "Included hardware - Mount to T-Slot"
+        }
+      ],
+      "notes": "Row is badged 10 and 15. Included hardware (4 x 3062 and 4 x 3382) is for 10/15 series."
+    },
+    {
+      "part_number": "2107",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Deadbolt Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-123",
+      "description": "Spring-loaded 90 degree deadbolt latch in clear anodized aluminum for guarding and enclosures. Hardware to mount the latch to the T-slot is included.",
+      "features": [
+        "Spring-loaded deadbolt ideal for guarding and enclosures",
+        "Hardware to mount latch to T-slot included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".223 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.500”",
+        "C": ".625”",
+        "D": ".500”",
+        "E": ".507”",
+        "F": ".500”",
+        "G": "1.500”",
+        "H": "1.062”",
+        "J": ".187”",
+        "K": ".625”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3062",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” SHCS",
+          "context": "Included hardware - Mount to T-Slot"
+        },
+        {
+          "part_number": "3382",
+          "qty": 4,
+          "description": "1/4-20 Slide-In Economy T-Nut",
+          "context": "Included hardware - Mount to T-Slot"
+        }
+      ],
+      "notes": "Row is badged 10 and 15. Included hardware (4 x 3062 and 4 x 3382) is for 10/15 series."
+    },
+    {
+      "part_number": "2107-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Deadbolt Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-123",
+      "description": "Spring-loaded 90 degree deadbolt latch in black anodized aluminum for guarding and enclosures. Hardware to mount the latch to the T-slot is included.",
+      "features": [
+        "Spring-loaded deadbolt ideal for guarding and enclosures",
+        "Hardware to mount latch to T-slot included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".223 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.500”",
+        "C": ".625”",
+        "D": ".500”",
+        "E": ".507”",
+        "F": ".500”",
+        "G": "1.500”",
+        "H": "1.062”",
+        "J": ".187”",
+        "K": ".625”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3062",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” SHCS",
+          "context": "Included hardware - Mount to T-Slot"
+        },
+        {
+          "part_number": "3382",
+          "qty": 4,
+          "description": "1/4-20 Slide-In Economy T-Nut",
+          "context": "Included hardware - Mount to T-Slot"
+        }
+      ],
+      "notes": "Row is badged 10 and 15. Included hardware (4 x 3062 and 4 x 3382) is for 10/15 series."
+    },
+    {
+      "part_number": "2069",
+      "series": [
+        "15"
+      ],
+      "name": "Grabber™ Door Catch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-124",
+      "description": "Spring-loaded Grabber™ door catch with a 3.00 lb pull force that mounts to the T-slot, using a Grabber door catch mounting plate on the inside of an enclosure, to create a push to close/pull to open latch.",
+      "features": [
+        "Spring-loaded and mounts to T-slot Grabber door catch mounting plate (pg. 5-125) on the inside of enclosure to create a push to close/pull to open latch",
+        "Mounting hardware included; requires Grabber door catch clearance machining service (pg. 11-38)"
+      ],
+      "material": "PC / ABS",
+      "color": "Black",
+      "weight": ".033 lb",
+      "specs": {
+        "A": "1.900”",
+        "B": "1.600”",
+        "C": "1.285”",
+        "D": "1.110”",
+        "E": ".790”",
+        "F": ".440”",
+        "G": ".150”",
+        "H": ".130”",
+        "J": ".130 x .330",
+        "K": ".300”",
+        "L": "2.200”",
+        "M": "1.750”",
+        "N": ".530”",
+        "Pull Force": "3.00 lb",
+        "Process": "Injection Molded"
+      },
+      "dimension_notes": "H = hole diameter (typ), J = slot size (typ)",
+      "notes": "Row is badged 10 and 15. Mounting hardware included. Required machining service: Grabber Door Catch Panel Milling on the panel (reference page 11-38). Mounts on a Grabber door catch mounting plate (pg. 5-125)."
+    },
+    {
+      "part_number": "2088",
+      "series": [
+        "15"
+      ],
+      "name": "Grabber™ Door Catch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-124",
+      "description": "Spring-loaded Grabber™ door catch with a 5.00 lb pull force that mounts to the T-slot, using a Grabber door catch mounting plate on the inside of an enclosure, to create a push to close/pull to open latch.",
+      "features": [
+        "Spring-loaded and mounts to T-slot Grabber door catch mounting plate (pg. 5-125) on the inside of enclosure to create a push to close/pull to open latch",
+        "Mounting hardware included; requires Grabber door catch clearance machining service (pg. 11-38)"
+      ],
+      "material": "PC / ABS",
+      "color": "Black",
+      "weight": ".035 lb",
+      "specs": {
+        "A": "1.900”",
+        "B": "1.600”",
+        "C": "1.285”",
+        "D": "1.110”",
+        "E": ".790”",
+        "F": ".440”",
+        "G": ".150”",
+        "H": ".130”",
+        "J": ".130 x .330",
+        "K": ".300”",
+        "L": "2.200”",
+        "M": "1.750”",
+        "N": ".530”",
+        "Pull Force": "5.00 lb",
+        "Process": "Injection Molded"
+      },
+      "dimension_notes": "H = hole diameter (typ), J = slot size (typ)",
+      "notes": "Row is badged 10 and 15. Mounting hardware included. Required machining service: Grabber Door Catch Panel Milling on the panel (reference page 11-38). Mounts on a Grabber door catch mounting plate (pg. 5-125)."
+    },
+    {
+      "part_number": "2125",
+      "series": [
+        "15"
+      ],
+      "name": "Grabber™ Door Catch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-124",
+      "description": "Spring-loaded Grabber™ door catch with a 10.00 lb pull force that mounts to the T-slot, using a Grabber door catch mounting plate on the inside of an enclosure, to create a push to close/pull to open latch.",
+      "features": [
+        "Spring-loaded and mounts to T-slot Grabber door catch mounting plate (pg. 5-125) on the inside of enclosure to create a push to close/pull to open latch",
+        "Mounting hardware included; requires Grabber door catch clearance machining service (pg. 11-38)"
+      ],
+      "material": "PC / ABS",
+      "color": "Black",
+      "weight": ".034 lb",
+      "specs": {
+        "A": "1.900”",
+        "B": "1.600”",
+        "C": "1.285”",
+        "D": "1.110”",
+        "E": ".790”",
+        "F": ".440”",
+        "G": ".150”",
+        "H": ".130”",
+        "J": ".130 x .330",
+        "K": ".300”",
+        "L": "2.200”",
+        "M": "1.750”",
+        "N": ".530”",
+        "Pull Force": "10.00 lb",
+        "Process": "Injection Molded"
+      },
+      "dimension_notes": "H = hole diameter (typ), J = slot size (typ)",
+      "notes": "Row is badged 10 and 15. Mounting hardware included. Required machining service: Grabber Door Catch Panel Milling on the panel (reference page 11-38). Mounts on a Grabber door catch mounting plate (pg. 5-125)."
+    },
+    {
+      "part_number": "2121",
+      "series": [
+        "15"
+      ],
+      "name": "Grabber™ Door Catch Mounting Plate",
+      "category": "bracket_plate",
+      "section": "Panels & Doors",
+      "catalog_page": "5-125",
+      "description": "Clear anodized .250” aluminum plate used to mount the Grabber door catch (pg. 5-124) to 15 series T-slot or to a plastic panel.",
+      "features": [
+        "Made of .250” anodized aluminum",
+        "Used to mount Grabber door catch (pg. 5-124) to T-slot or plastic panel"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".202 lb",
+      "specs": {
+        "A": ".250”",
+        "B": ".780”",
+        "C": ".345”",
+        "D": ".375”",
+        "E": "4.500”",
+        "F": "1.312”",
+        "G": "1.875”",
+        "H": "#6-32",
+        "J": "5/16 FHSCS C-Sink",
+        "K": "1.000”",
+        "L": ".750”",
+        "M": "3.000”",
+        "N": ".250”",
+        "P": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "E = overall length, P = overall width, N = thickness, H = tapped thread (typ), J = countersunk hole (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FHSCS, Economy T-Nut (bolt assembly)",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Alloy 6063-T6, finish Anodize and process Milled come from the Material Specifications table on the continued page 5-126. Suggested hardware from page 5-126."
+    },
+    {
+      "part_number": "2121-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Grabber™ Door Catch Mounting Plate",
+      "category": "bracket_plate",
+      "section": "Panels & Doors",
+      "catalog_page": "5-125",
+      "description": "Black anodized .250” aluminum plate used to mount the Grabber door catch (pg. 5-124) to 15 series T-slot or to a plastic panel.",
+      "features": [
+        "Made of .250” anodized aluminum",
+        "Used to mount Grabber door catch (pg. 5-124) to T-slot or plastic panel"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".202 lb",
+      "specs": {
+        "A": ".250”",
+        "B": ".780”",
+        "C": ".345”",
+        "D": ".375”",
+        "E": "4.500”",
+        "F": "1.312”",
+        "G": "1.875”",
+        "H": "#6-32",
+        "J": "5/16 FHSCS C-Sink",
+        "K": "1.000”",
+        "L": ".750”",
+        "M": "3.000”",
+        "N": ".250”",
+        "P": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "E = overall length, P = overall width, N = thickness, H = tapped thread (typ), J = countersunk hole (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FHSCS, Economy T-Nut (bolt assembly)",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Alloy 6063-T6, finish Anodize and process Milled come from the Material Specifications table on the continued page 5-126. Suggested hardware for 2121 applies (table lists base part number 2121)."
+    },
+    {
+      "part_number": "2123",
+      "series": [
+        "15"
+      ],
+      "name": "Grabber™ Door Catch Mounting Plate",
+      "category": "bracket_plate",
+      "section": "Panels & Doors",
+      "catalog_page": "5-126",
+      "description": "Clear anodized aluminum slotted plate used to mount the Grabber door catch (pg. 5-124) to T-slot; fits 10 and 15 series.",
+      "features": [
+        "Made of .250” anodized aluminum",
+        "Used to mount Grabber door catch (pg. 5-124) to T-slot or plastic panel"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".097 lb",
+      "specs": {
+        "A": ".625”",
+        "B": ".705”",
+        "C": "1.590”",
+        "D": ".257”",
+        "E": ".395”",
+        "F": ".605”",
+        "G": "#6-32",
+        "H": "2.500”",
+        "J": ".250”",
+        "K": "1.490”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "H = overall length, K = overall width, J = thickness, G = tapped thread (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3371",
+          "qty": 2,
+          "description": "1/4-20 x 3/4” BHSCS, Economy T-Nut (bolt assembly)",
+          "context": "Mount to T-Slot (15 series)"
+        }
+      ],
+      "notes": "Row is badged 10 and 15. Page continues the Grabber Door Catch Mounting Plate from 5-125 (features taken from there). For 10 series the suggested bolt assembly is 3321 instead (1/4-20 x 1/2” FBHSCS, Economy)."
+    },
+    {
+      "part_number": "2123-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Grabber™ Door Catch Mounting Plate",
+      "category": "bracket_plate",
+      "section": "Panels & Doors",
+      "catalog_page": "5-126",
+      "description": "Black anodized aluminum slotted plate used to mount the Grabber door catch (pg. 5-124) to T-slot; fits 10 and 15 series.",
+      "features": [
+        "Made of .250” anodized aluminum",
+        "Used to mount Grabber door catch (pg. 5-124) to T-slot or plastic panel"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".097 lb",
+      "specs": {
+        "A": ".625”",
+        "B": ".705”",
+        "C": "1.590”",
+        "D": ".257”",
+        "E": ".395”",
+        "F": ".605”",
+        "G": "#6-32",
+        "H": "2.500”",
+        "J": ".250”",
+        "K": "1.490”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "H = overall length, K = overall width, J = thickness, G = tapped thread (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3371",
+          "qty": 2,
+          "description": "1/4-20 x 3/4” BHSCS, Economy T-Nut (bolt assembly)",
+          "context": "Mount to T-Slot (15 series)"
+        }
+      ],
+      "notes": "Row is badged 10 and 15. Page continues the Grabber Door Catch Mounting Plate from 5-125 (features taken from there). Suggested hardware table lists base part number 2123; for 10 series the bolt assembly is 3321 instead (1/4-20 x 1/2” FBHSCS, Economy)."
+    },
+    {
+      "part_number": "2090",
+      "series": [
+        "15"
+      ],
+      "name": "Magnetic Door Catch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-127",
+      "description": "Bright zinc formed steel magnetic door catch for latching plastic panels in place, with an estimated pull force of 12 pounds. Mounting hardware is included; the striker plate mounts to a tapped panel.",
+      "features": [
+        "Ideal for latching plastic panels in place; estimated pull force of 12 pounds (5.443 kilograms)",
+        "Mounting hardware included; requires panel tap service to mount striker plate (pg. 11-46)",
+        "Use magnetic door catch bracket (pg. 5-128) to latch profiles together"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".141 lb",
+      "specs": {
+        "Process": "Formed",
+        "A": ".710”",
+        "B": "1.172”",
+        "C": ".880”",
+        "D": "1.130”",
+        "E": ".275”",
+        "F": ".090”",
+        "G": ".163”",
+        "H": ".166”",
+        "J": "2.060”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3005",
+          "qty": 2,
+          "description": "8-32 x 3/8” BHSCS",
+          "context": "Included hardware - Mount to T-Slot"
+        },
+        {
+          "part_number": "3275",
+          "qty": 2,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included hardware - Mount to T-Slot"
+        },
+        {
+          "part_number": "209002",
+          "qty": 1,
+          "description": "6-32 x 3/8” FHSCS",
+          "context": "Included hardware - Mount Striker Plate to Panel"
+        },
+        {
+          "part_number": "11-4710",
+          "qty": 1,
+          "description": "M4 x 10mm FHSCS",
+          "context": "Suggested hardware - Mount Striker Plate to Profile (bolt)"
+        },
+        {
+          "part_number": "13113",
+          "qty": 1,
+          "description": "Drop-in",
+          "context": "Suggested hardware - Mount Striker Plate to Profile (T-nut)"
+        }
+      ],
+      "notes": "Row is badged 10 and 15. Material Steel, Finish Bright Zinc, Process Formed are merged cells covering 2090, 65-2090 and 9315. Required machining service: Tap on the panel (reference page 11-46) to mount the striker plate. Estimated pull force 12 pounds (5.443 kilograms). Use magnetic door catch bracket (pg. 5-128) to latch profiles together. Suggested striker-plate-to-profile hardware is the 15/40 row."
+    }
+  ],
+  "page_notes": {
+    "486": "Emergency Push Button 12148 (badged 15/30/40/45) with suggested M6 mounting hardware; only the 15/40 hardware row attached.",
+    "487": "Velcro Latch 2126 (15/40) with included hardware, and Velcro Fastener 3273 (15); metric 40-3273 and metric hardware rows skipped.",
+    "488": "0 Degree Deadbolt Latch 2053 and 2053-Black (10/15) with included 10/15 hardware; 65- and 45- metric rows skipped.",
+    "489": "90 Degree Deadbolt Latch 2107 and 2107-Black (10/15) with included 10/15 hardware; 65- and 45- metric rows skipped.",
+    "490": "Grabber Door Catch 2069, 2088, 2125 (10/15, differing pull force); 65- metric rows skipped; required machining (panel milling, pg 11-38) has no service number so it is recorded in notes only.",
+    "491": "Grabber Door Catch Mounting Plate: 2121 and 2121-Black (15) extracted; 2122/2122-Black (10 only) and 25-/40- metric rows skipped.",
+    "492": "Grabber Door Catch Mounting Plate (continued): 2123 and 2123-Black (10/15); material specs and Suggested Hardware table (15 rows 3371 for 2123, 3412 for 2121) attached; metric rows skipped.",
+    "493": "Magnetic Door Catch 2090 (10/15) with included and suggested hardware; 65-2090 metric and 9315 QF rows skipped; tap service (pg 11-46) has no service number, recorded in notes."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "12148: suggested_hardware[13119].description 'Drop-in T-Nut' -> 'Drop-in' (verbatim)",
+      "3273: description removed 'barbed stem' (inferred from photo, not stated on page)",
+      "2090: suggested_hardware[13113].description 'Drop-in T-Nut' -> 'Drop-in' (verbatim)"
+    ],
+    "remaining_doubts": [
+      "12148: D is printed as '1.889 / 7772.480”' (apparent misprint; metric 48.00mm / 63.00mm suggests 1.889” / 2.480”); kept verbatim.",
+      "2121/2121-Black: alloy 6063-T6, finish Anodize, process Milled taken from the Material Specifications table on continued page 5-126, which is printed after the 2123 table but appears to cover the whole Grabber mounting plate product.",
+      "3273 Velcro Fastener categorized as 'latch' (component of the Velcro latch system); 'hardware_other' would also be defensible."
+    ]
+  }
+}

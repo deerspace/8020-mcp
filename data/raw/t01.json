@@ -1,0 +1,172 @@
+{
+  "chunk": "t01",
+  "pages": [
+    314,
+    315,
+    347
+  ],
+  "parts": [
+    {
+      "part_number": "3275",
+      "series": [
+        "10"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread, 8-32, Style 2, Black Zinc",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 2 slide-in economy T-nut with a centered 8-32 thread. Loads from the profile end; position the pilot projection down in the T-slot.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".008 lb",
+      "specs": {
+        "Style": "Style 2",
+        "Grade": "1010",
+        "A": ".875”",
+        "B": ".443”",
+        "C (Thread)": "8-32",
+        "D": ".030”",
+        "E": ".124”"
+      },
+      "dimension_notes": "Per the Style #2 drawing: A is the overall length and B the overall width in the plan view; C is the thread; D and E are dimensions shown on the side view.",
+      "notes": "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel."
+    },
+    {
+      "part_number": "3276",
+      "series": [
+        "10"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread, 10-32, Style 2, Black Zinc",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 2 slide-in economy T-nut with a centered 10-32 thread. Loads from the profile end; position the pilot projection down in the T-slot.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".008 lb",
+      "specs": {
+        "Style": "Style 2",
+        "Grade": "1010",
+        "A": ".875”",
+        "B": ".443”",
+        "C (Thread)": "10-32",
+        "D": ".030”",
+        "E": ".124”"
+      },
+      "dimension_notes": "Per the Style #2 drawing: A is the overall length and B the overall width in the plan view; C is the thread; D and E are dimensions shown on the side view.",
+      "notes": "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel."
+    },
+    {
+      "part_number": "3382",
+      "series": [
+        "10"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread, 1/4-20, Style 2, Black Zinc",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 2 slide-in economy T-nut with a centered 1/4-20 thread. Loads from the profile end; position the pilot projection down in the T-slot.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".009 lb",
+      "specs": {
+        "Style": "Style 2",
+        "Grade": "1010",
+        "A": "1.000”",
+        "B": ".443”",
+        "C (Thread)": "1/4-20",
+        "D": ".030”",
+        "E": ".124”"
+      },
+      "dimension_notes": "Per the Style #2 drawing: A is the overall length and B the overall width in the plan view; C is the thread; D and E are dimensions shown on the side view.",
+      "notes": "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel. Also used as the nut in many 1/4-20 bolt assemblies on 4-183 (e.g. 3491)."
+    },
+    {
+      "part_number": "40-1961",
+      "series": [
+        "M"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread, M6 x 1.0, Style 2, Bright Zinc",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 2 slide-in economy T-nut with a centered M6 x 1.0 thread. Loads from the profile end; position the pilot projection down in the T-slot.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0079 kg",
+      "specs": {
+        "Style": "Style 2",
+        "Grade": "1010",
+        "A": "28.58mm",
+        "B": "12.83mm",
+        "C (Thread)": "M6 x 1.0",
+        "D": "1.27mm",
+        "E": "4.45mm"
+      },
+      "dimension_notes": "Per the Style #2 drawing: A is the overall length and B the overall width in the plan view; C is the thread; D and E are dimensions shown on the side view.",
+      "notes": "Printed with the metric 40 series badge. Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel."
+    },
+    {
+      "part_number": "25-1941",
+      "series": [
+        "M"
+      ],
+      "name": "Slide-In Economy T-Nut - Offset Thread, M4 x 0.7, Style 2, Bright Zinc",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-151",
+      "description": "Style 2 slide-in economy T-nut with an offset M4 x 0.7 thread. Loads from the profile end; position the pilot projection down in the T-slot.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0027 kg",
+      "specs": {
+        "Style": "Style 2",
+        "Grade": "1010",
+        "A": "15.87mm",
+        "B": "4.75mm",
+        "C": "11.00mm",
+        "D (Thread)": "M4 x 0.7",
+        "E": ".76mm",
+        "F": "3.14mm"
+      },
+      "dimension_notes": "Per the Style #2 drawing: A is the overall length, B locates the threaded hole from the end, and C is the overall width in the plan view; ø D is the thread; E and F are dimensions shown on the side view.",
+      "notes": "Printed with the metric 25 series badge. Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel."
+    },
+    {
+      "part_number": "3491",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 SHCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Bolt assembly of one 1/4-20 socket head cap screw (3062), .500\" long, with one Slide-In Economy T-Nut - Centered Thread (3382); no washer.",
+      "weight": ".020 lb",
+      "specs": {
+        "Bolt": "3062",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".500\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Listed in the Bolt Assemblies (Continued) 1/4-20 Socket Head Cap Screw (SHCS) table; Bolt Type and Thread Size are merged cells applying to the whole table."
+    }
+  ],
+  "page_notes": {
+    "314": "Slide-In Economy T-Nut - Centered Thread table: extracted wanted parts 3275, 3276, 3382 and 40-1961; other rows (incl. 25-3382) not wanted.",
+    "315": "Slide-In Economy T-Nut - Offset Thread table: extracted wanted part 25-1941; other rows and the Economy T-Nut Holding Spring (3010) not wanted.",
+    "347": "Bolt Assemblies (Continued), 1/4-20 FHSCS and SHCS tables: extracted wanted assembly 3491; wanted 3382 appears here only as the nut component of many assemblies (defined on 4-150)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": []
+  }
+}

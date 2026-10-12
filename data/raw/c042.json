@@ -1,0 +1,645 @@
+{
+  "chunk": "c042",
+  "pages": [
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    510
+  ],
+  "parts": [
+    {
+      "part_number": "22202",
+      "series": [
+        "15"
+      ],
+      "name": "Safety Interlock Switch - Swinging Door",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-136",
+      "description": "Safety interlock switch for swinging doors that includes a sensor, magnet and bracket. It provides a holding force of 112 lbs with power and has visible open/closed indicators.",
+      "features": [
+        "Provides enhanced safety and compliance while optimizing overall machine efficiency in various industrial applications.",
+        "Includes sensor, magnet and bracket. Allows for flexible latching up to .10” away and forgiving alignment (tilt: (+-) 4° and lateral (+-) .20”).",
+        "Visible open/closed indicators",
+        "Holding force with power 112 lbs / without power 6.7 lbs",
+        "Rated IP65/67"
+      ],
+      "weight": "1.357 lbs / .6155 kg",
+      "specs": {
+        "A": "3.150” (80.00mm)",
+        "B": "1.575” (40.00mm)",
+        "C": "1.654” (42.00mm)",
+        "D": "1.752” (44.50mm)",
+        "E": ".118” (3.00mm)",
+        "F": ".157” (4.00mm)",
+        "G": "2.543” (64.60mm)",
+        "H": "1.083” (27.50mm)",
+        "J": "1.575” (40.00mm)",
+        "K": ".610” (15.50mm)",
+        "L": ".787” (20.00mm)",
+        "M": ".209” (5.30mm)",
+        "N": "2.756” (70.00mm)",
+        "P": "2.295” (58.30mm)",
+        "Q": "1.811” (46.00mm)",
+        "R": ".185” (4.70mm)",
+        "S": ".472” (12.00mm)"
+      },
+      "dimension_notes": "M and R are hole diameters (ø M, ø R); sensor has an M12, 8 pin connection",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5314",
+          "qty": 2,
+          "description": "M5 x 14mm BHSCS",
+          "context": "Mount Sensor to T-slot"
+        },
+        {
+          "part_number": "13023",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount Sensor to T-slot"
+        },
+        {
+          "part_number": "11-4312",
+          "qty": 2,
+          "description": "M4 x 12mm BHSCS",
+          "context": "Mount Magnet to T-slot"
+        },
+        {
+          "part_number": "13022",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount Magnet to T-slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 (one part fits all). M12, 8 pin connection. Suggested hardware listed is the row badged 15/40 (metric M5/M4 bolts with slide-in T-nuts)."
+    },
+    {
+      "part_number": "22208",
+      "series": [
+        "15"
+      ],
+      "name": "Safety Interlock Switch - Sliding Door",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-137",
+      "description": "Safety interlock switch for sliding doors, consisting of a sensor and a magnet that mount to the T-slot. The sensor has an M12, 8 pin connection.",
+      "weight": "1.543 lbs / .6998 kg",
+      "specs": {
+        "A": "2.244” (57.00mm)",
+        "B": ".945” (24.00mm)",
+        "C": "M4 x .700”",
+        "D": ".157” (4.00mm)",
+        "E": "2.787” (70.80mm)",
+        "F": ".394” (10.00mm)",
+        "G": "1.024” (26.00mm)",
+        "H": ".394” (10.00mm)",
+        "J": "4.567” (116.00mm)",
+        "K": "3.937” (100.00mm)",
+        "L": "1.102” (28.00mm)",
+        "M": "M5 x .800”",
+        "N": ".211” (5.35mm)",
+        "P": ".209” (5.30mm)",
+        "Q": "2.382” (60.50mm)",
+        "R": ".177” (4.50mm)"
+      },
+      "dimension_notes": "N and P are hole diameters (ø N, ø P); sensor has an M12, 8 pin connection",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5314",
+          "qty": 2,
+          "description": "M5 x 14mm BHSCS",
+          "context": "Mount Sensor to T-slot"
+        },
+        {
+          "part_number": "13023",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount Sensor to T-slot"
+        },
+        {
+          "part_number": "11-5314",
+          "qty": 2,
+          "description": "M5 x 14mm BHSCS",
+          "context": "Mount Magnet to T-slot"
+        },
+        {
+          "part_number": "13023",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount Magnet to T-slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 (one part fits all). M12, 8 pin connection. Suggested hardware listed is the row badged 15/40 (metric M5 bolts with slide-in T-nuts)."
+    },
+    {
+      "part_number": "2424",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Stiffener",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-138",
+      "description": "Extruded aluminum U-channel stiffener used to add rigidity to .236” (6mm) thick panels. It connects using a soft face mallet.",
+      "features": [
+        "Used to add rigidity to .236” (6mm) thick panels",
+        "Available in stock length of 72.5 inches (1841.5mm) and custom lengths (pg. 10-16)",
+        "Connects using soft face mallet (pg. 12-6)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.015 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".710”",
+        "B": ".600”",
+        "C": ".182”",
+        "D": "—",
+        "E": ".245”",
+        "F": ".417”",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height, B = inside channel depth, F = overall channel width",
+      "notes": "Plain U-channel version (no flange). Custom lengths available (pg. 10-16). Metric part number 65-2424 (18.03mm x 15.24mm, 1841.50mm, .4604 kg) shares the merged F/M badge."
+    },
+    {
+      "part_number": "2429",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Stiffener",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-138",
+      "description": "Extruded aluminum U-channel stiffener with a side flange, used to add rigidity to .236” (6mm) thick panels. It connects using a soft face mallet.",
+      "features": [
+        "Used to add rigidity to .236” (6mm) thick panels",
+        "Available in stock length of 72.5 inches (1841.5mm) and custom lengths (pg. 10-16)",
+        "Connects using soft face mallet (pg. 12-6)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.813 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".710”",
+        "B": ".600”",
+        "C": ".182”",
+        "D": ".953”",
+        "E": ".245”",
+        "F": ".420”",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height, B = inside channel depth, F = overall channel width, D = flange width",
+      "notes": "Flanged version. Custom lengths available (pg. 10-16). Metric part number 65-2429 (24.21mm flange, 1841.50mm, .8224 kg) shares the merged F/M badge."
+    },
+    {
+      "part_number": "2120",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Panel Gasket",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-138",
+      "description": "Extruded black polypropylene U-shaped panel gasket recommended for .236” (6mm) thick panels. It inserts into the T-slot; the edge radius machining service (pg. 11-25) is recommended for easy insertion.",
+      "features": [
+        "Recommended for .236” (6mm) thick panels",
+        "Use edge radius machining service (pg. 11-25) for easy insertion in the T-slot"
+      ],
+      "material": "Polypropylene",
+      "color": "Black",
+      "weight": ".118 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".469”",
+        "B": ".327”",
+        "C": ".260”",
+        "Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width",
+      "notes": "Edge radius machining service (pg. 11-25) recommended for easy insertion in the T-slot; no service number printed on this page. Metric equivalent is 40-2120."
+    },
+    {
+      "part_number": "2829",
+      "series": [
+        "15"
+      ],
+      "name": "Rubber Door Seal",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-139",
+      "description": "Extruded thermoplastic elastomer door seal with a keyed pad that presses into the T-slot, sold by the foot.",
+      "features": [
+        "Keyed pad that presses into T-slot",
+        "Sold by the foot or in 100 foot rolls",
+        "Minimum door gap of .250” (6.35mm) is required"
+      ],
+      "material": "Thermoplastic Elastomer",
+      "finish": "Matte Black",
+      "weight": ".090 lb / ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".170”",
+        "B": ".322”",
+        "C": ".750”",
+        "D": ".742”",
+        "E": ".320”",
+        "F": ".530”",
+        "Length": "per foot"
+      },
+      "dimension_notes": "C = overall seal width, D = overall height",
+      "notes": "Sold per foot. Series badges printed: 15, 40. Minimum door gap of .250” (6.35mm) required."
+    },
+    {
+      "part_number": "2834",
+      "series": [
+        "15"
+      ],
+      "name": "Rubber Door Seal",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-139",
+      "description": "Extruded thermoplastic elastomer door seal with a keyed pad that presses into the T-slot, sold as a 100 foot roll.",
+      "features": [
+        "Keyed pad that presses into T-slot",
+        "Sold by the foot or in 100 foot rolls",
+        "Minimum door gap of .250” (6.35mm) is required"
+      ],
+      "material": "Thermoplastic Elastomer",
+      "finish": "Matte Black",
+      "weight": "8.393 lb / 100 ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".170”",
+        "B": ".322”",
+        "C": ".750”",
+        "D": ".742”",
+        "E": ".320”",
+        "F": ".530”",
+        "Length": "per 100 foot roll"
+      },
+      "dimension_notes": "C = overall seal width, D = overall height",
+      "notes": "Sold as a 100 foot roll (roll version of 2829). Series badges printed: 15, 40. Minimum door gap of .250” (6.35mm) required."
+    },
+    {
+      "part_number": "2853",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Door Seal",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-139",
+      "description": "Medium density PVC foam sealing strip that snaps into the T-slot, sold in 72.50” lengths.",
+      "features": [
+        "Medium density PVC foam sealing strip snaps in T-slot",
+        "Sold in 72.50” lengths"
+      ],
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".545 lb / .2470 kg",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".059” (1.50mm)",
+        "B": "1.272” (32.30mm)",
+        "C": ".902” (22.90mm)",
+        "D": ".250” (6.35mm)",
+        "E": ".512” (13.00mm)",
+        "F": ".768” (19.50mm)",
+        "Stock Length": "72.50” (1.80 m)"
+      },
+      "dimension_notes": "A = flange thickness, B = overall flange width, D = foam strip thickness, F = overall height",
+      "notes": "Series badges printed: 15, 40."
+    },
+    {
+      "part_number": "2465",
+      "series": [
+        "F"
+      ],
+      "name": "Wire Edge Cover",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-140",
+      "description": "Black co-extruded PVC / aluminum edge cover that crimps on the edge of wire mesh or expanded metal panels, sold by the foot.",
+      "features": [
+        "Crimps on edge of wire mesh or expanded metal panels",
+        "Sold by foot or meter"
+      ],
+      "material": "PVC / Aluminum",
+      "finish": "Pebble Finish",
+      "color": "Black",
+      "weight": ".194 lb / ft",
+      "specs": {
+        "Process": "Co-Extrusion",
+        "A": ".545”",
+        "B": ".357”",
+        "C": ".187”",
+        "Length": "per foot",
+        "Max Length": "328 foot roll"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = opening width",
+      "notes": "Sold per foot, up to a 328 foot roll. Metric part number 65-2465 (sold per meter, 99.97 meter roll) shares the merged F/M badge."
+    },
+    {
+      "part_number": "2115",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Panel Gasket",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-141",
+      "description": "Black thermoplastic elastomer gasket that recesses in the T-slot to secure plastic panels and plates, sold by the foot.",
+      "features": [
+        "Recesses in T-slot to secure plastic panels and plates",
+        "Sold by foot (meter) or in 150 foot (45.7 meter) rolls",
+        "Cut ends at 45 degree angle for corner connections"
+      ],
+      "material": "Thermoplastic Elastomer",
+      "finish": "Gloss",
+      "color": "Black",
+      "weight": ".022 lb/ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".311”",
+        "B": ".547”",
+        "Length": "per foot"
+      },
+      "dimension_notes": "A = overall width, B = overall height",
+      "notes": "Sold per foot. Recommended panel thickness for 15 series: .220” - .236” / 6.00mm. Cut ends at 45 degrees for corner connections."
+    },
+    {
+      "part_number": "2117",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Panel Gasket",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-141",
+      "description": "Black thermoplastic elastomer gasket that recesses in the T-slot to secure plastic panels and plates, sold as a 150 foot roll.",
+      "features": [
+        "Recesses in T-slot to secure plastic panels and plates",
+        "Sold by foot (meter) or in 150 foot (45.7 meter) rolls",
+        "Cut ends at 45 degree angle for corner connections"
+      ],
+      "material": "Thermoplastic Elastomer",
+      "finish": "Gloss",
+      "color": "Black",
+      "weight": "4.027 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".311”",
+        "B": ".547”",
+        "Length": "per 150 foot roll"
+      },
+      "dimension_notes": "A = overall width, B = overall height",
+      "notes": "Sold as a 150 foot roll (roll version of 2115). Recommended panel thickness for 15 series: .220” - .236” / 6.00mm."
+    },
+    {
+      "part_number": "2178",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Panel Gasket",
+      "category": "gasket_edge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-141",
+      "description": "Gray silicone rubber gasket that recesses in the T-slot to secure plastic panels and plates, sold by the foot.",
+      "features": [
+        "Recesses in T-slot to secure plastic panels and plates",
+        "Sold by foot (meter) or in 150 foot (45.7 meter) rolls",
+        "Cut ends at 45 degree angle for corner connections"
+      ],
+      "material": "Silicone Rubber",
+      "finish": "Gloss",
+      "color": "Gray",
+      "weight": ".028 lb/ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".311”",
+        "B": ".547”",
+        "Length": "per foot"
+      },
+      "dimension_notes": "A = overall width, B = overall height",
+      "notes": "Sold per foot. Recommended panel thickness for 15 series: .220” - .236” / 6.00mm."
+    },
+    {
+      "part_number": "4483",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum Door Stop",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-142",
+      "description": "Clear anodized aluminum door stop plate with two mounting holes that bolts to the T-slot.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".066 lb",
+      "specs": {
+        "A": "2.000\"",
+        "B": "1.375\"",
+        "C": ".313\"",
+        "D": ".492\"",
+        "E": "1.750\"",
+        "F": ".500\"",
+        "G": ".257\"",
+        "H": ".188\""
+      },
+      "dimension_notes": "A = overall height, E = overall width, H = thickness, B = hole center-to-center spacing, C = edge to hole center (vertical), D = edge to hole center (horizontal), F = corner radius (R. F TYP), G = hole diameter (ø G TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3063",
+          "qty": 2,
+          "description": "1/4-20 x 5/8” BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3933",
+          "qty": 2,
+          "description": "Drop-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 10, 15, 25, 30, 40, 45 (one part fits all; use the series-specific suggested hardware)."
+    },
+    {
+      "part_number": "4483-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum Door Stop",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-142",
+      "description": "Black anodized aluminum door stop plate with two mounting holes that bolts to the T-slot.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".066 lb",
+      "specs": {
+        "A": "2.000\"",
+        "B": "1.375\"",
+        "C": ".313\"",
+        "D": ".492\"",
+        "E": "1.750\"",
+        "F": ".500\"",
+        "G": ".257\"",
+        "H": ".188\""
+      },
+      "dimension_notes": "A = overall height, E = overall width, H = thickness, B = hole center-to-center spacing, C = edge to hole center (vertical), D = edge to hole center (horizontal), F = corner radius (R. F TYP), G = hole diameter (ø G TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3063",
+          "qty": 2,
+          "description": "1/4-20 x 5/8” BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3933",
+          "qty": 2,
+          "description": "Drop-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black anodize variant of 4483. Series badges printed: 10, 15, 25, 30, 40, 45 (one part fits all; use the series-specific suggested hardware)."
+    },
+    {
+      "part_number": "2021",
+      "series": [
+        "15"
+      ],
+      "name": "Nylon Door Stop",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-142",
+      "description": "Black nylon angled door stop with counterbored mounting holes that bolts to the T-slot.",
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".280 lb",
+      "specs": {
+        "A": ".260\"",
+        "B": ".310\"",
+        "C": ".177\"",
+        "D": ".768\"",
+        "E": ".130\"",
+        "F": ".780\"",
+        "G": "1.634\"",
+        "H": ".582\"",
+        "J": ".289\"",
+        "K": ".976\"",
+        "L": "1.555\"",
+        "M": ".177\"",
+        "N": ".307\" x .118\" DEEP"
+      },
+      "dimension_notes": "G = overall width, L = overall length of mounting base, M = hole diameter (ø M), N = counterbore diameter x depth (ø N C'Bore)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-4312",
+          "qty": 2,
+          "description": "M4 x 12mm BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "25-1941",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 40. Suggested hardware (badged 15/40) uses metric M4 bolts with slide-in T-nuts."
+    },
+    {
+      "part_number": "6350",
+      "series": [
+        "15"
+      ],
+      "name": "Counterbalance External Pulley Kit",
+      "category": "kit",
+      "section": "Panels & Doors",
+      "catalog_page": "5-144",
+      "description": "Counterbalance pulley kit with the counterweights housed external to the extrusion and a mounting bracket for fractional or metric framing. It has a 75 lb (34 kg) load rating for both sides of the pulley.",
+      "features": [
+        "Counterweights housed external to extrusion",
+        "75 lb (34 kg) load rating for both sides of pulley",
+        "Mounting bracket allows connection to fractional or metric framing",
+        "Compact design enables cable to ride inside T-slot",
+        "Designed to pair with snap in conduit (PN 6354) and counterbalance weight",
+        "Easy counterbalance assembly when used with cable kit (PN 6353) and double T-slot bearing pad (PN 6352)",
+        "Requires end tap (M8 x 1.25 to attach mounting bracket)"
+      ],
+      "material": "Anodized Aluminum (Housing)",
+      "color": "Silver",
+      "weight": ".650 lb / .2950 kg",
+      "specs": {
+        "Width": "3.0” (76.20mm)",
+        "Height": "3.0” (76.20mm)",
+        "Depth": "1.2” (30.48mm)"
+      },
+      "notes": "Included kit parts: Counterbalance Housing (1), 2.50” Pulley (1), Mounting Bracket (1), M8 x 20mm FHSCS (1), M4 x 16mm SHCS (2), Shoulder Bolt, 1/4” Hex Drive (1), 3/8”-16 Hex Nut (1), 3/8” Washer (1). Required machining: Tap Profile End on the Mounting Profile (reference page 11-3), M8 x 1.25 end tap. Load rating 75 lb (34 kg). Pairs with snap in conduit 6354, cable kit 6353 and double T-slot bearing pad 6352. Series badges printed: 15, 40."
+    },
+    {
+      "part_number": "6351",
+      "series": [
+        "15"
+      ],
+      "name": "Counterbalance Internal Pulley Kit",
+      "category": "kit",
+      "section": "Panels & Doors",
+      "catalog_page": "5-144",
+      "description": "Counterbalance pulley kit with the counterweights housed within the supporting profiles and a dual pulley design for left- or right-hand configurations. It has a 75 lb (34 kg) load rating for both sides of the pulley.",
+      "features": [
+        "Counterweights housed within supporting profiles",
+        "75 lb (34 kg) load rating for both sides of pulley",
+        "Slotted mounting holes enable fractional or metric framing connections",
+        "Compact design enables cable to ride inside T-slot",
+        "Dual pulley design for left- or right-hand configurations",
+        "Easy counterbalance assembly when used with cable kit (PN 6353) and double T-slot bearing pad (PN 6352)",
+        "Requires two end taps (M8 x 1.25 to attach mounting block)"
+      ],
+      "material": "Anodized Aluminum (Housing)",
+      "color": "Silver",
+      "weight": "1.360 lb / .6270 kg",
+      "specs": {
+        "Width": "3.0” (76.20mm)",
+        "Height": "2.3” (58.42mm)",
+        "Depth": "3.0” (76.20mm)"
+      },
+      "notes": "Included kit parts: Internal Counterbalance Housing (1), 2.00” Pulley (1), M8 x 25mm SHCS (2), Shoulder Bolt, 1/4” Hex Drive (1). Required machining: Tap Profile End on the Mounting Profile (reference page 11-3), two M8 x 1.25 end taps. Load rating 75 lb (34 kg). Pairs with cable kit 6353 and double T-slot bearing pad 6352. Series badges printed: 15, 40, 45; 45 series requires threaded inserts (PN 14196)."
+    }
+  ],
+  "page_notes": {
+    "502": "Safety Interlock Switch - Swinging Door (22202, badged 15/30/40/45) with sensor and magnet suggested hardware tables; the 15/40 hardware rows are attached.",
+    "503": "Safety Interlock Switch - Sliding Door (22208, badged 15/30/40/45) with sensor and magnet suggested hardware tables; the 15/40 hardware rows are attached.",
+    "504": "Panel Stiffener (2424, 2429 under a merged F/M badge; metric 65-2424/65-2429 not extracted) and Standard Panel Gasket (2120 is 15; 40-2120 metric skipped).",
+    "505": "Rubber Door Seal (2829, 2834) and T-Slot Door Seal (2853), all badged 15/40.",
+    "506": "Wire Edge Cover 2465 under a merged F/M badge; metric 65-2465 not extracted.",
+    "507": "Economy Panel Gasket: 15 series rows 2115, 2117, 2178 extracted; 10 series and metric rows skipped. The Recommended Panel Thickness table is added to the notes.",
+    "508": "Aluminum Door Stop (4483, 4483-Black, badged 10/15/25/30/40/45) and Nylon Door Stop (2021, badged 15/40), each with a suggested hardware table.",
+    "510": "Counterbalance External Pulley Kit (6350) and Internal Pulley Kit (6351); included kit parts and the required machining (Tap Profile End, ref. 11-3, no service number) are in the notes."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2120: description 'It holds the panel in the T-slot' (not stated on page) -> reworded to page facts (inserts in T-slot, edge radius service pg. 11-25)",
+      "2120: notes removed unstated 'on the panel' qualifier for the edge radius service"
+    ],
+    "remaining_doubts": [
+      "22202/22208/4483/4483-Black/2021/2829/2834/2853/6350/6351 are multi-series parts (15 plus metric 30/40/45/25 badges); series recorded as ['15'] only, other badges listed in notes.",
+      "6350/6351 Required Machining Services (Tap Profile End, Mounting Profile, ref. 11-3) print no service number and no series badge, so no machining_service part was created; kept in notes.",
+      "Text layer garbles some 6350/6351 bullets (e.g. cable kit PN 6353 line, 'Counterweights housed within supporting profiles', 'Dual pulley design...'); features were taken from the page image.",
+      "Category choices (latch for safety interlock switches, accessory for panel stiffener and door stops, kit for pulley kits) are judgment calls."
+    ]
+  }
+}

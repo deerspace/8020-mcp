@@ -1,0 +1,233 @@
+{
+  "chunk": "t02",
+  "pages": [
+    334,
+    340
+  ],
+  "parts": [
+    {
+      "part_number": "11-4512",
+      "series": [
+        "M"
+      ],
+      "name": "Socket Head Cap Screw - M4 x 0.7 x 12.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-170",
+      "description": "M4 x 0.7 socket head cap screw, 12.00mm long (full thread), steel with black zinc finish.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0018 kg",
+      "specs": {
+        "A": "7.00mm",
+        "B": "3.00mm",
+        "C": "3.91mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M4 x 0.7",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Continuation of the Socket Head Cap Screw table; view page 4-167 for dimensional drawing."
+    },
+    {
+      "part_number": "11-5516",
+      "series": [
+        "M"
+      ],
+      "name": "Socket Head Cap Screw - M5 x 0.8 x 16.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-170",
+      "description": "M5 x 0.8 socket head cap screw, 16.00mm long (full thread), steel with black zinc finish.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0036 kg",
+      "specs": {
+        "A": "8.39mm",
+        "B": "4.00mm",
+        "C": "4.91mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Continuation of the Socket Head Cap Screw table; view page 4-167 for dimensional drawing."
+    },
+    {
+      "part_number": "13-5516",
+      "series": [
+        "M"
+      ],
+      "name": "Socket Head Cap Screw - M5 x 0.8 x 16.00mm, Blue Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-170",
+      "description": "M5 x 0.8 socket head cap screw, 16.00mm long (full thread), steel with blue zinc finish.",
+      "material": "Steel",
+      "finish": "Blue Zinc",
+      "weight": ".0036 kg",
+      "specs": {
+        "A": "8.39mm",
+        "B": "4.00mm",
+        "C": "4.91mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Continuation of the Socket Head Cap Screw table; view page 4-167 for dimensional drawing."
+    },
+    {
+      "part_number": "11-6514",
+      "series": [
+        "M"
+      ],
+      "name": "Socket Head Cap Screw - M6 x 1.0 x 14.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-170",
+      "description": "M6 x 1.0 socket head cap screw, 14.00mm long (full thread), steel with black zinc finish.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0053 kg",
+      "specs": {
+        "A": "9.89mm",
+        "B": "5.00mm",
+        "C": "5.85mm",
+        "D (Length)": "14.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Continuation of the Socket Head Cap Screw table; view page 4-167 for dimensional drawing."
+    },
+    {
+      "part_number": "11-6516",
+      "series": [
+        "M"
+      ],
+      "name": "Socket Head Cap Screw - M6 x 1.0 x 16.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-170",
+      "description": "M6 x 1.0 socket head cap screw, 16.00mm long (full thread), steel with black zinc finish.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0054 kg",
+      "specs": {
+        "A": "9.89mm",
+        "B": "5.00mm",
+        "C": "5.85mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Continuation of the Socket Head Cap Screw table; view page 4-167 for dimensional drawing."
+    },
+    {
+      "part_number": "13-6516",
+      "series": [
+        "M"
+      ],
+      "name": "Socket Head Cap Screw - M6 x 1.0 x 16.00mm, Blue Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-170",
+      "description": "M6 x 1.0 socket head cap screw, 16.00mm long (full thread), steel with blue zinc finish.",
+      "material": "Steel",
+      "finish": "Blue Zinc",
+      "weight": ".0054 kg",
+      "specs": {
+        "A": "9.89mm",
+        "B": "5.00mm",
+        "C": "5.85mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Continuation of the Socket Head Cap Screw table; view page 4-167 for dimensional drawing."
+    },
+    {
+      "part_number": "13-6040",
+      "series": [
+        "M"
+      ],
+      "name": "Washer - Standard Flat ISO 7089, 9.82mm OD, Blue Zinc",
+      "category": "hardware_other",
+      "section": "Hardware",
+      "catalog_page": "4-176",
+      "description": "Standard Flat washer (ISO 7089), 9.82mm outside diameter with 5.39mm hole, steel with blue zinc finish.",
+      "material": "Steel",
+      "finish": "Blue Zinc",
+      "weight": ".0004 kg",
+      "specs": {
+        "Type": "Standard Flat",
+        "Mfg Standard": "ISO 7089",
+        "A": "9.82mm",
+        "B": "5.39mm",
+        "C": "1.00mm"
+      },
+      "dimension_notes": "A = outside diameter, B = inside (hole) diameter, C = thickness"
+    },
+    {
+      "part_number": "11-6041",
+      "series": [
+        "M"
+      ],
+      "name": "Washer - Standard Flat ISO 7089, 11.78mm OD, Black Zinc",
+      "category": "hardware_other",
+      "section": "Hardware",
+      "catalog_page": "4-176",
+      "description": "Standard Flat washer (ISO 7089), 11.78mm outside diameter with 6.51mm hole, steel with black zinc finish.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0009 kg",
+      "specs": {
+        "Type": "Standard Flat",
+        "Mfg Standard": "ISO 7089",
+        "A": "11.78mm",
+        "B": "6.51mm",
+        "C": "1.60mm"
+      },
+      "dimension_notes": "A = outside diameter, B = inside (hole) diameter, C = thickness"
+    },
+    {
+      "part_number": "11-6042",
+      "series": [
+        "M"
+      ],
+      "name": "Washer - Standard Flat ISO 7089, 15.78mm OD, Black Zinc",
+      "category": "hardware_other",
+      "section": "Hardware",
+      "catalog_page": "4-176",
+      "description": "Standard Flat washer (ISO 7089), 15.78mm outside diameter with 8.51mm hole, steel with black zinc finish.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0013 kg",
+      "specs": {
+        "Type": "Standard Flat",
+        "Mfg Standard": "ISO 7089",
+        "A": "15.78mm",
+        "B": "8.51mm",
+        "C": "1.60mm"
+      },
+      "dimension_notes": "A = outside diameter, B = inside (hole) diameter, C = thickness"
+    }
+  ],
+  "page_notes": {
+    "334": "Socket Head Cap Screw (Continued) table; extracted wanted metric screws 11-4512, 11-5516, 13-5516, 11-6514, 11-6516, 13-6516; all other rows out of scope.",
+    "340": "Washer table; extracted wanted metric washers 13-6040, 11-6041, 11-6042; all other rows out of scope. No other wanted part numbers appear on this page."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "11-4512: notes removed unverified parenthetical '(letter dimensions A-C defined there)'; page only says 'View page 4-167 for dimensional drawing'",
+      "11-5516: notes removed unverified parenthetical '(letter dimensions A-C defined there)'; page only says 'View page 4-167 for dimensional drawing'",
+      "13-5516: notes removed unverified parenthetical '(letter dimensions A-C defined there)'; page only says 'View page 4-167 for dimensional drawing'",
+      "11-6514: notes removed unverified parenthetical '(letter dimensions A-C defined there)'; page only says 'View page 4-167 for dimensional drawing'",
+      "11-6516: notes removed unverified parenthetical '(letter dimensions A-C defined there)'; page only says 'View page 4-167 for dimensional drawing'",
+      "13-6516: notes removed unverified parenthetical '(letter dimensions A-C defined there)'; page only says 'View page 4-167 for dimensional drawing'"
+    ],
+    "remaining_doubts": [
+      "Washers categorized as hardware_other since the category list has no washer category.",
+      "Wanted parts 25-1941, 3275, 3276, 3382, 3491, 40-1961 do not appear on pages 334 or 340 (neither as product rows nor in suggested-hardware tables)."
+    ]
+  }
+}

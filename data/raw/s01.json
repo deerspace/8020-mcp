@@ -1,0 +1,1553 @@
+{
+  "chunk": "s01",
+  "pages": [
+    346,
+    347,
+    348
+  ],
+  "parts": [
+    {
+      "part_number": "3393",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Button Head Socket Cap Screw (BHSCS) part 3061, .500\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".017 lb",
+      "specs": {
+        "Bolt": "3061",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".500\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3800."
+    },
+    {
+      "part_number": "3408",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 BHSCS Bolt Assembly with Standard Drop-In T-Nut, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Button Head Socket Cap Screw (BHSCS) part 3061, .500\" long, with one Standard Drop-In T-Nut part 14165.",
+      "weight": ".016 lb",
+      "specs": {
+        "Bolt": "3061",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".500\"",
+        "Nut": "14165",
+        "Nut Qty.": "1",
+        "Nut Type": "Standard Drop-In T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3418",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Button Head Socket Cap Screw (BHSCS) part 3063, .625\" long, with one Slide-In Economy T-Nut - Centered Thread part 3286.",
+      "weight": ".018 lb",
+      "specs": {
+        "Bolt": "3063",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".625\"",
+        "Nut": "3286",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3469",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 BHSCS Bolt Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Button Head Socket Cap Screw (BHSCS) part 3065, .750\" long, with one Hex Nut part 3208 and one washer part 3258.",
+      "weight": ".020 lb",
+      "specs": {
+        "Bolt": "3065",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".750\"",
+        "Nut": "3208",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3258",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3371",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Button Head Socket Cap Screw (BHSCS) part 3065, .750\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382 and one washer part 3258.",
+      "weight": ".036 lb",
+      "specs": {
+        "Bolt": "3065",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".750\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "3258",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3810."
+    },
+    {
+      "part_number": "75-3804",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Button Head Socket Cap Screw (BHSCS) part 3065, .750\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".020 lb",
+      "specs": {
+        "Bolt": "3065",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".750\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3386",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 FBHSCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .375\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Flanged Button Head Socket Cap Screw (FBHSCS) part 3390, .375\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".016 lb",
+      "specs": {
+        "Bolt": "3390",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".375\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Flanged Button Head Socket Cap Screw (FBHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3321",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 FBHSCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Flanged Button Head Socket Cap Screw (FBHSCS) part 3342, .500\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".018 lb",
+      "specs": {
+        "Bolt": "3342",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".500\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Flanged Button Head Socket Cap Screw (FBHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3384",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 FBHSCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-182",
+      "description": "Assembly of one 1/4-20 Flanged Button Head Socket Cap Screw (FBHSCS) part 3066, .750\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".020 lb",
+      "specs": {
+        "Bolt": "3066",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".750\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Flanged Button Head Socket Cap Screw (FBHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3409",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 FHSCS Bolt Assembly with Standard Drop-In T-Nut, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Flat Head Socket Cap Screw (FHSCS) part 3405, .625\" long, with one Standard Drop-In T-Nut part 14165.",
+      "weight": ".017 lb",
+      "specs": {
+        "Bolt": "3405",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".625\"",
+        "Nut": "14165",
+        "Nut Qty.": "1",
+        "Nut Type": "Standard Drop-In T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Flat Head Socket Cap Screw (FHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3417",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 FHSCS Bolt Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Flat Head Socket Cap Screw (FHSCS) part 3406, .750\" long, with one Hex Nut part 3208 and one washer part 3258.",
+      "weight": ".022 lb",
+      "specs": {
+        "Bolt": "3406",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".750\"",
+        "Nut": "3208",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3258",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Flat Head Socket Cap Screw (FHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3493",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 SHCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Socket Head Cap Screw (SHCS) part 3067, .625\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".021 lb",
+      "specs": {
+        "Bolt": "3067",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".625\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Socket Head Cap Screw (SHCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3814."
+    },
+    {
+      "part_number": "3304",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 SHCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Socket Head Cap Screw (SHCS) part 3064, .750\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".025 lb",
+      "specs": {
+        "Bolt": "3064",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".750\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Socket Head Cap Screw (SHCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3816."
+    },
+    {
+      "part_number": "3305",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 SHCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, .875\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Socket Head Cap Screw (SHCS) part 3068, .875\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".024 lb",
+      "specs": {
+        "Bolt": "3068",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".875\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Socket Head Cap Screw (SHCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3306",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 SHCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Socket Head Cap Screw (SHCS) part 3071, 1.000\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".025 lb",
+      "specs": {
+        "Bolt": "3071",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": "1.000\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Socket Head Cap Screw (SHCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3818."
+    },
+    {
+      "part_number": "3307",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 SHCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, 1.250\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Socket Head Cap Screw (SHCS) part 3072, 1.250\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".027 lb",
+      "specs": {
+        "Bolt": "3072",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": "1.250\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Socket Head Cap Screw (SHCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3308",
+      "series": [
+        "10"
+      ],
+      "name": "1/4-20 SHCS Bolt Assembly with Slide-In Economy T-Nut - Centered Thread, 1.500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-183",
+      "description": "Assembly of one 1/4-20 Socket Head Cap Screw (SHCS) part 3080, 1.500\" long, with one Slide-In Economy T-Nut - Centered Thread part 3382.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3080",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "1/4-20",
+        "Bolt Length": "1.500\"",
+        "Nut": "3382",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Centered Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '1/4-20 Socket Head Cap Screw (SHCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3526",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3104, .500\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".036 lb",
+      "specs": {
+        "Bolt": "3104",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3437",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Roll-In T-Nut with Flex Handle part 3282 and one washer part 3260.",
+      "weight": ".043 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3833."
+    },
+    {
+      "part_number": "3618",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3611, .625\" long, with one Roll-In T-Nut with Flex Handle part 3600 and one washer part 3659. All hardware in this assembly is stainless steel.",
+      "material": "Stainless Steel (SS)",
+      "weight": ".042 lb",
+      "specs": {
+        "Bolt": "3611",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3600",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3659",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Footnote (*): Assembly comprised of stainless steel (SS) hardware."
+    },
+    {
+      "part_number": "75-3827",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".038 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3527."
+    },
+    {
+      "part_number": "75-3833",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Roll-In T-Nut with Flex Handle part 3282 and one washer part 3260.",
+      "weight": ".043 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3437."
+    },
+    {
+      "part_number": "3527",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".038 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3827."
+    },
+    {
+      "part_number": "3365",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3461, 75-3826."
+    },
+    {
+      "part_number": "3435",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278 and one washer part 3260.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3832."
+    },
+    {
+      "part_number": "3461",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3365, 75-3826."
+    },
+    {
+      "part_number": "3620",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3611, .625\" long, with one Slide-In Economy T-Nut - Offset Thread part 3678 and one washer part 3659. All hardware in this assembly is stainless steel.",
+      "material": "Stainless Steel (SS)",
+      "weight": ".047 lb",
+      "specs": {
+        "Bolt": "3611",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3659",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Footnote (*): Assembly comprised of stainless steel (SS) hardware."
+    },
+    {
+      "part_number": "75-3826",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3365, 3461."
+    },
+    {
+      "part_number": "75-3832",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3111, .625\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278 and one washer part 3260.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3111",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3435."
+    },
+    {
+      "part_number": "3442",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".033 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3467."
+    },
+    {
+      "part_number": "3467",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".033 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3442."
+    },
+    {
+      "part_number": "3441",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Roll-In T-Nut with Flex Handle part 3282 and one washer part 3260.",
+      "weight": ".044 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3835."
+    },
+    {
+      "part_number": "75-3829",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3528."
+    },
+    {
+      "part_number": "75-3835",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Roll-In T-Nut with Flex Handle part 3282 and one washer part 3260.",
+      "weight": ".044 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3441."
+    },
+    {
+      "part_number": "3528",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3829."
+    },
+    {
+      "part_number": "3439",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278 and one washer part 3260.",
+      "weight": ".043 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3834."
+    },
+    {
+      "part_number": "3630",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3614, .750\" long, with one Slide-In Economy T-Nut - Offset Thread part 3678 and one washer part 3659. All hardware in this assembly is stainless steel.",
+      "material": "Stainless Steel (SS)",
+      "weight": ".050 lb",
+      "specs": {
+        "Bolt": "3614",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3659",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Footnote (*): Assembly comprised of stainless steel (SS) hardware."
+    },
+    {
+      "part_number": "75-3828",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278.",
+      "weight": ".039 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "75-3834",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278 and one washer part 3260.",
+      "weight": ".043 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3439."
+    },
+    {
+      "part_number": "3366",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3114, .750\" long, with one washer part 3260. No nut is included.",
+      "weight": ".023 lb",
+      "specs": {
+        "Bolt": "3114",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "—",
+        "Nut Qty.": "—",
+        "Nut Type": "—",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3499",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Washer, .875\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3117, .875\" long, with one washer part 3260. No nut is included.",
+      "weight": ".024 lb",
+      "specs": {
+        "Bolt": "3117",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".875\"",
+        "Nut": "—",
+        "Nut Qty.": "—",
+        "Nut Type": "—",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3445",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3118, 1.000\" long, with one Roll-In T-Nut with Flex Handle part 3282 and one washer part 3260.",
+      "weight": ".048 lb",
+      "specs": {
+        "Bolt": "3118",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3837."
+    },
+    {
+      "part_number": "75-3831",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3118, 1.000\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".044 lb",
+      "specs": {
+        "Bolt": "3118",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "75-3837",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3118, 1.000\" long, with one Roll-In T-Nut with Flex Handle part 3282 and one washer part 3260.",
+      "weight": ".048 lb",
+      "specs": {
+        "Bolt": "3118",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3445."
+    },
+    {
+      "part_number": "3443",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3118, 1.000\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278 and one washer part 3260.",
+      "weight": ".046 lb",
+      "specs": {
+        "Bolt": "3118",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 75-3836."
+    },
+    {
+      "part_number": "3632",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3621, 1.000\" long, with one Slide-In Economy T-Nut - Offset Thread part 3678 and one washer part 3659. All hardware in this assembly is stainless steel.",
+      "material": "Stainless Steel (SS)",
+      "weight": ".054 lb",
+      "specs": {
+        "Bolt": "3621",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3659",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Footnote (*): Assembly comprised of stainless steel (SS) hardware."
+    },
+    {
+      "part_number": "75-3830",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3118, 1.000\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278.",
+      "weight": ".042 lb",
+      "specs": {
+        "Bolt": "3118",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "75-3836",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3118, 1.000\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278 and one washer part 3260.",
+      "weight": ".046 lb",
+      "specs": {
+        "Bolt": "3118",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3443."
+    },
+    {
+      "part_number": "3971",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Flanged Hex Nut and Washer, 1.750”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3945, 1.750” long, with one Flanged Hex Nut part 3759 and one washer part 3760.",
+      "weight": ".054 lb",
+      "specs": {
+        "Bolt": "3945",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.750”",
+        "Nut": "3759",
+        "Nut Qty.": "1",
+        "Nut Type": "Flanged Hex Nut",
+        "Washer": "3760",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3961",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 BHSCS Bolt Assembly with Flanged Hex Nut and Washer, 2.000”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Button Head Socket Cap Screw (BHSCS) part 3946, 2.000” long, with one Flanged Hex Nut part 3759 and one washer part 3760.",
+      "weight": ".058 lb",
+      "specs": {
+        "Bolt": "3946",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.000”",
+        "Nut": "3759",
+        "Nut Qty.": "1",
+        "Nut Type": "Flanged Hex Nut",
+        "Washer": "3760",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Button Head Socket Cap Screw (BHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3300",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Drop-in T-Slot Stud Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Drop-in T-slot stud part 3293, .750\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".038 lb",
+      "specs": {
+        "Bolt": "3293",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Drop-in T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Drop-in T-Slot Stud' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Nut Type 'Hex Nut' is a merged cell spanning all rows of the table. The table lists the same bolt, nut and washer components under assembly no. 3476."
+    },
+    {
+      "part_number": "3476",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Drop-in T-Slot Stud Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Drop-in T-slot stud part 3293, .750\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".038 lb",
+      "specs": {
+        "Bolt": "3293",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Drop-in T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Drop-in T-Slot Stud' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Nut Type 'Hex Nut' is a merged cell spanning all rows of the table. The table lists the same bolt, nut and washer components under assembly no. 3300."
+    },
+    {
+      "part_number": "3301",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Drop-in T-Slot Stud Assembly with Hex Nut and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Drop-in T-slot stud part 3295, 1.000\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3295",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Drop-in T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Drop-in T-Slot Stud' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Nut Type 'Hex Nut' is a merged cell spanning all rows of the table. The table lists the same bolt, nut and washer components under assembly no. 3478."
+    },
+    {
+      "part_number": "3478",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Drop-in T-Slot Stud Assembly with Hex Nut and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Drop-in T-slot stud part 3295, 1.000\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3295",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Drop-in T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Drop-in T-Slot Stud' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Nut Type 'Hex Nut' is a merged cell spanning all rows of the table. The table lists the same bolt, nut and washer components under assembly no. 3301."
+    },
+    {
+      "part_number": "3302",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Drop-in T-Slot Stud Assembly with Hex Nut and Washer, 1.250\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Drop-in T-slot stud part 3297, 1.250\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".046 lb",
+      "specs": {
+        "Bolt": "3297",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Drop-in T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.250\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Drop-in T-Slot Stud' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Nut Type 'Hex Nut' is a merged cell spanning all rows of the table."
+    },
+    {
+      "part_number": "3303",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Drop-in T-Slot Stud Assembly with Hex Nut and Washer, 1.500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Drop-in T-slot stud part 3299, 1.500\" long, with one Hex Nut part 3214 and one washer part 3260.",
+      "weight": ".050 lb",
+      "specs": {
+        "Bolt": "3299",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Drop-in T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.500\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Drop-in T-Slot Stud' table; Bolt Type and Thread Size are merged cells printed once for the whole table. Nut Type 'Hex Nut' is a merged cell spanning all rows of the table."
+    },
+    {
+      "part_number": "3529",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Flat Head Socket Cap Screw (FHSCS) part 3011, .500\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".036 lb",
+      "specs": {
+        "Bolt": "3011",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Flat Head Socket Cap Screw (FHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3530",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Flat Head Socket Cap Screw (FHSCS) part 3410, .625\" long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".038 lb",
+      "specs": {
+        "Bolt": "3410",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Flat Head Socket Cap Screw (FHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3413."
+    },
+    {
+      "part_number": "3412",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Flat Head Socket Cap Screw (FHSCS) part 3410, .625\" long, with one Slide-In Economy T-Nut - Offset Thread part 3278.",
+      "weight": ".036 lb",
+      "specs": {
+        "Bolt": "3410",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Flat Head Socket Cap Screw (FHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    },
+    {
+      "part_number": "3413",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .625”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Flat Head Socket Cap Screw (FHSCS) part 3410, .625” long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".050 lb",
+      "specs": {
+        "Bolt": "3410",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625”",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Flat Head Socket Cap Screw (FHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table. The table lists the same bolt, nut and washer components under assembly no. 3530."
+    },
+    {
+      "part_number": "3531",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .750”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-184",
+      "description": "Assembly of one 5/16-18 Flat Head Socket Cap Screw (FHSCS) part 3411, .750” long, with one Roll-In T-Nut with Flex Handle part 3282.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3411",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750”",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. From the '5/16-18 Flat Head Socket Cap Screw (FHSCS)' table; Bolt Type and Thread Size are merged cells printed once for the whole table."
+    }
+  ],
+  "page_notes": {
+    "346": "Bolt Assemblies: 1/4-20 BHSCS and 1/4-20 FBHSCS tables; only WANTED rows extracted (3408, 3418, 3393, 3469, 3371, 75-3804, 3386, 3321, 3384); no 5/16-18 rows on this page.",
+    "347": "Bolt Assemblies (Continued): 1/4-20 FHSCS and 1/4-20 SHCS tables; only WANTED rows extracted (3409, 3417, 3493, 3304, 3305, 3306, 3307, 3308); no 5/16-18 rows on this page.",
+    "348": "Bolt Assemblies (Continued): 5/16-18 BHSCS, 5/16-18 Drop-in T-Slot Stud and 5/16-18 FHSCS tables; every row extracted as 15 series."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "3418: Nut printed as 3286 in both the text layer and the image, while every other 1/4-20 Slide-In Economy T-Nut - Centered Thread row uses 3382; kept as printed (possible catalog typo).",
+      "3382 is in the WANTED list but appears on pages 4-182/4-183 only as a nut component of assemblies, not as an assembly row, so it is not extracted from this chunk."
+    ]
+  }
+}

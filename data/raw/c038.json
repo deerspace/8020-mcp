@@ -1,0 +1,797 @@
+{
+  "chunk": "c038",
+  "pages": [
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    477
+  ],
+  "parts": [
+    {
+      "part_number": "12085",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Slotted Locking Zinc Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-103",
+      "description": "Higher strength die-cast zinc hinge used to connect plastic panels and doors to T-slot profiles. A ratcheting clamp handle locks the hinge in position and slotted holes allow adjustment.",
+      "features": [
+        "Higher strength hinge used to connect plastic panels and doors to T-slot profiles",
+        "Ratcheting clamp handle for locking hinge in position; Slotted holes to support adjustments; available with slot tabs"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coat",
+      "weight": ".2155 kg",
+      "specs": {
+        "Max Load": "250 Nm / 184 ft-Lbs.",
+        "A": "53.00mm",
+        "B": "81.00mm",
+        "C": "69.00mm",
+        "D": "40.00mm",
+        "E": "24.00mm",
+        "F": "13.00mm",
+        "G": "8.30mm",
+        "H": "40.00mm",
+        "J": "14.00mm",
+        "K": "8.00mm",
+        "L": "105.00mm",
+        "M": "—",
+        "N": "—",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 SHCS, Economy T-Nut",
+          "context": "Suggested Hardware Per Leaf (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3117",
+          "qty": 2,
+          "description": "5/16-18 x 7/8 BHSCS with Hex Nut 3214 and Washer 3260",
+          "context": "Suggested Hardware Per Leaf (Mount to Panel ≤ .250” / 6mm)"
+        },
+        {
+          "part_number": "3214",
+          "description": "Hex Nut (used with 3117 bolt)",
+          "context": "Suggested Hardware Per Leaf (Mount to Panel ≤ .250” / 6mm)"
+        },
+        {
+          "part_number": "3260",
+          "description": "Washer (used with 3117 bolt)",
+          "context": "Suggested Hardware Per Leaf (Mount to Panel ≤ .250” / 6mm)"
+        }
+      ],
+      "notes": "Row is also badged for metric 40 and 45 series. Max Load (250 Nm / 184 ft-Lbs.) is printed once for 12085, 12086 and 12087. Dimensions M and N are printed as — for this part (12086 lists M and N values). Suggested hardware quantities are per leaf."
+    },
+    {
+      "part_number": "12086",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Slotted Locking Zinc Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-103",
+      "description": "Higher strength die-cast zinc hinge used to connect plastic panels and doors to T-slot profiles. A ratcheting clamp handle locks the hinge in position and slotted holes allow adjustment.",
+      "features": [
+        "Higher strength hinge used to connect plastic panels and doors to T-slot profiles",
+        "Ratcheting clamp handle for locking hinge in position; Slotted holes to support adjustments; available with slot tabs"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coat",
+      "weight": ".2132 kg",
+      "specs": {
+        "Max Load": "250 Nm / 184 ft-Lbs.",
+        "A": "53.00mm",
+        "B": "81.60mm",
+        "C": "65.00mm",
+        "D": "40.00mm",
+        "E": "24.00mm",
+        "F": "13.00mm",
+        "G": "8.30mm",
+        "H": "40.00mm",
+        "J": "14.00mm",
+        "K": "8.00mm",
+        "L": "105.00mm",
+        "M": "4.50mm",
+        "N": "7.80mm",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 SHCS, Economy T-Nut",
+          "context": "Suggested Hardware Per Leaf (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3117",
+          "qty": 2,
+          "description": "5/16-18 x 7/8 BHSCS with Hex Nut 3214 and Washer 3260",
+          "context": "Suggested Hardware Per Leaf (Mount to Panel ≤ .250” / 6mm)"
+        },
+        {
+          "part_number": "3214",
+          "description": "Hex Nut (used with 3117 bolt)",
+          "context": "Suggested Hardware Per Leaf (Mount to Panel ≤ .250” / 6mm)"
+        },
+        {
+          "part_number": "3260",
+          "description": "Washer (used with 3117 bolt)",
+          "context": "Suggested Hardware Per Leaf (Mount to Panel ≤ .250” / 6mm)"
+        }
+      ],
+      "notes": "Row is also badged for metric 40 series. Max Load (250 Nm / 184 ft-Lbs.) is printed once for 12085, 12086 and 12087. Unlike 12085, this part lists M (4.50mm) and N (7.80mm) dimensions. Suggested hardware quantities are per leaf."
+    },
+    {
+      "part_number": "12097",
+      "series": [
+        "15"
+      ],
+      "name": "Lite Panel Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-104",
+      "description": "Die-cast steel hinge used to mount plastic panel doors and lightweight T-slot profiles. Slotted holes give adjustability and a bolt assembly is included to mount to a .250” (6mm) panel.",
+      "features": [
+        "Used to mount plastic panel doors and lightweight T-slot profiles",
+        "Slotted holes allow for greater adjustability; includes bolt assembly to mount to a .250” (6mm) panel"
+      ],
+      "material": "Steel",
+      "finish": "Black Powder Coat",
+      "weight": ".0526 kg",
+      "specs": {
+        "Max Load": "25 Nm / 18.0 ft-Lbs.",
+        "A": "13.60mm",
+        "B": "20.15mm",
+        "C": "6.80mm",
+        "D": "4.00mm",
+        "E": "8.70mm",
+        "F": "17.70mm",
+        "G": "20.20mm",
+        "H": "2.70mm",
+        "J": "4.10mm",
+        "K": "2.10mm",
+        "L": "64.00mm",
+        "M": "4.10mm",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "D, H and M are radii (drawing labels R. D, R. H, R. M)",
+      "suggested_hardware": [
+        {
+          "part_number": "3487",
+          "qty": 2,
+          "description": "10-32 x 1/2 BHSCS, Slide-in T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Row is also badged for metric 40 series. Included Hardware (Mount to Panel ≤ .250” / 6mm), no part numbers printed: 1 M5 Screw, 1 M5 Hex Nut, 1 M5 Washer."
+    },
+    {
+      "part_number": "22100",
+      "series": [
+        "15"
+      ],
+      "name": "Safety Hinge With Interlock Switch - Safety Interlock Switch",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-105",
+      "description": "Safety hinge with an actuator-activated, IP69-rated safety interlock switch and a 5 meter cord. The safety switching point is adjustable from 0° to 270°, and it is rated 24 V DC max with class II protective insulation.",
+      "features": [
+        "Actuator-activated safety switches IP69 rated",
+        "Left hand orientation standard with right hand reconfigurable.",
+        "The safety switching point is adjustable from 0° to 270°",
+        "Supports a load of 1800 N (180 Kg)",
+        "Stainless Steel"
+      ],
+      "weight": "1.430 lb (.6486 kg)",
+      "specs": {
+        "Description": "Safety Interlock Switch with 5 meter cord length",
+        "Contact Rating": "24 V DC max",
+        "Electrical Protection Class": "II, protective insulation"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": 4,
+          "description": "M6 x 12.00mm BHSCS",
+          "context": "Suggested Hardware (Mount to T-Slot) - bolt"
+        },
+        {
+          "part_number": "13024",
+          "qty": 4,
+          "description": "M6 Slide-in Self-Aligning T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot) - T-nut"
+        }
+      ],
+      "notes": "Series badge (15, 30, 40, 45) is printed once covering 22100 and 22101. Product Details list Stainless Steel for the product. 22101 (Stainless Steel Hinge) is listed in the same table. Suggested hardware row for 15 series uses metric M6 fasteners (row badged 15 and 40)."
+    },
+    {
+      "part_number": "22101",
+      "series": [
+        "15"
+      ],
+      "name": "Safety Hinge With Interlock Switch - Stainless Steel Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-105",
+      "description": "Stainless steel hinge listed in the Safety Hinge With Interlock Switch table; its contact rating and electrical protection class are printed as NA.",
+      "features": [
+        "Actuator-activated safety switches IP69 rated",
+        "Left hand orientation standard with right hand reconfigurable.",
+        "The safety switching point is adjustable from 0° to 270°",
+        "Supports a load of 1800 N (180 Kg)",
+        "Stainless Steel"
+      ],
+      "material": "Stainless Steel",
+      "weight": ".600 lb (.2721 kg)",
+      "specs": {
+        "Description": "Stainless Steel Hinge",
+        "Contact Rating": "NA",
+        "Electrical Protection Class": "NA"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": 4,
+          "description": "M6 x 12.00mm BHSCS",
+          "context": "Suggested Hardware (Mount to T-Slot) - bolt"
+        },
+        {
+          "part_number": "13024",
+          "qty": 4,
+          "description": "M6 Slide-in Self-Aligning T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot) - T-nut"
+        }
+      ],
+      "notes": "Series badge (15, 30, 40, 45) is printed once covering 22100 and 22101. Product Details bullets are for the whole Safety Hinge With Interlock Switch product. Suggested hardware row for 15 series uses metric M6 fasteners (row badged 15 and 40)."
+    },
+    {
+      "part_number": "2061",
+      "series": [
+        "15"
+      ],
+      "name": "Plastic Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-106",
+      "description": "Molded glass-filled nylon door handle with a textured finish, for indoor or outdoor use. Mounts directly to a T-slot profile or a plastic panel.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile or plastic panel"
+      ],
+      "material": "Glass-Filled Nylon",
+      "finish": "Textured",
+      "color": "Black",
+      "weight": ".079 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "4.606”",
+        "B": "1.024”",
+        "C": "5/16",
+        "D": "1.614”",
+        "E": "3.779”",
+        "F": "5.472”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3454",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS, Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3473",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS & Washer, Hex Nut",
+          "context": "Suggested Hardware (Mount to Panel ≤ .250” / 6mm)"
+        }
+      ],
+      "notes": "Red version of this size is 2881. Material, finish and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2881",
+      "series": [
+        "15"
+      ],
+      "name": "Plastic Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-106",
+      "description": "Molded glass-filled nylon door handle with a textured finish, for indoor or outdoor use. Mounts directly to a T-slot profile or a plastic panel.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile or plastic panel"
+      ],
+      "material": "Glass-Filled Nylon",
+      "finish": "Textured",
+      "color": "Red",
+      "weight": ".093 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "4.606”",
+        "B": "1.024”",
+        "C": "5/16",
+        "D": "1.614”",
+        "E": "3.779”",
+        "F": "5.472”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3454",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS, Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3473",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS & Washer, Hex Nut",
+          "context": "Suggested Hardware (Mount to Panel ≤ .250” / 6mm)"
+        }
+      ],
+      "notes": "Black version of this size is 2061. Material, finish and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2060",
+      "series": [
+        "15"
+      ],
+      "name": "Plastic Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-106",
+      "description": "Molded glass-filled nylon door handle with a textured finish, for indoor or outdoor use. Mounts directly to a T-slot profile or a plastic panel.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile or plastic panel"
+      ],
+      "material": "Glass-Filled Nylon",
+      "finish": "Textured",
+      "color": "Black",
+      "weight": ".178 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "7.047”",
+        "B": "1.102”",
+        "C": "5/16",
+        "D": "1.969”",
+        "E": "6.181”",
+        "F": "8.189”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3454",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS, Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3473",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS & Washer, Hex Nut",
+          "context": "Suggested Hardware (Mount to Panel ≤ .250” / 6mm)"
+        }
+      ],
+      "notes": "Red version of this size is 2880. Material, finish and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2880",
+      "series": [
+        "15"
+      ],
+      "name": "Plastic Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-106",
+      "description": "Molded glass-filled nylon door handle with a textured finish, for indoor or outdoor use. Mounts directly to a T-slot profile or a plastic panel.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile or plastic panel"
+      ],
+      "material": "Glass-Filled Nylon",
+      "finish": "Textured",
+      "color": "Red",
+      "weight": ".168 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "7.047”",
+        "B": "1.102”",
+        "C": "5/16",
+        "D": "1.969”",
+        "E": "6.181”",
+        "F": "8.189”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3454",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS, Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3473",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS & Washer, Hex Nut",
+          "context": "Suggested Hardware (Mount to Panel ≤ .250” / 6mm)"
+        }
+      ],
+      "notes": "Black version of this size is 2060. Material, finish and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2079",
+      "series": [
+        "15"
+      ],
+      "name": "Offset Plastic Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-107",
+      "description": "Offset molded fiberglass-reinforced nylon handle with a black body and snap-on orange cover, for indoor or outdoor use. Mounts directly to a T-slot profile and is ideal for bi-fold doors; mounting hardware is included.",
+      "features": [
+        "Used indoor or outdoor; mounting hardware included",
+        "Mounts directly to T-slot profile; ideal for bi-fold doors"
+      ],
+      "material": "Fiberglass-Reinforced Nylon",
+      "finish": "Matte",
+      "weight": ".196 lb",
+      "specs": {
+        "Body Color": "Black",
+        "Cover Color": "Orange",
+        "Process": "Molded",
+        "A": "5.078”",
+        "B": "3.543”",
+        "C": ".394”",
+        "D": "4.291”",
+        "E": ".482”",
+        "F": ".964”",
+        "G": ".236”",
+        "H": "1.767”",
+        "J": "15°"
+      },
+      "dimension_notes": "A = overall length, D = mounting hole center-to-center, G = thru-hole diameter (ø G THRU), J = angle in degrees; drawing shows the snap-on cover",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3804",
+          "qty": 2,
+          "description": "1/4-20 x 3/4 BHSCS, Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Row is badged for both 10 and 15 series. Mounting hardware is included: for 15 series it is 75-3804 (2x 1/4-20 x 3/4 BHSCS with Economy T-nuts); the 10 series row of the included-hardware table is 75-3802."
+    },
+    {
+      "part_number": "12000",
+      "series": [
+        "15"
+      ],
+      "name": "Ergonomic Plastic Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-108",
+      "description": "Injection molded black nylon PA ergonomic handle for indoor or outdoor use. Mounts directly to a T-slot profile.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile"
+      ],
+      "material": "Nylon PA",
+      "color": "Black",
+      "weight": ".0762 kg",
+      "specs": {
+        "Process": "Injection Molded",
+        "A": "16.00mm",
+        "B": "8.70mm",
+        "C": "198.00mm",
+        "D": "19.00mm",
+        "E": "100.00mm",
+        "F": "80.00mm",
+        "G": "12.50mm",
+        "H": "38.00mm"
+      },
+      "dimension_notes": "C = mounting hole center-to-center",
+      "suggested_hardware": [
+        {
+          "part_number": "3454",
+          "qty": 2,
+          "description": "5/16-18 x 5/8 SHCS, Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Row is also badged for metric 40 and 45 series; dimensions are given in mm."
+    },
+    {
+      "part_number": "2884",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-109",
+      "description": "Extruded aluminum door handle with a black textured powder coat finish, for indoor or outdoor use. Mounts directly to a T-slot profile.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile"
+      ],
+      "material": "Aluminum",
+      "finish": "Textured Powder Coat",
+      "color": "Black",
+      "weight": ".354 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": "4.570”",
+        "B": "1.020”",
+        "C": "1/4",
+        "D": "2.090”",
+        "E": "3.858”",
+        "F": "5.275”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3064",
+          "qty": 2,
+          "description": "1/4-20 x .750” SHCS",
+          "context": "Suggested Hardware (Mount to T-Slot) - bolt"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot) - T-nut"
+        }
+      ],
+      "notes": "Row is badged for both 10 and 15 series. Silver (tumbled mill) version of this size is 2885. Material and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2885",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-109",
+      "description": "Extruded aluminum door handle with a silver tumbled mill finish, for indoor or outdoor use. Mounts directly to a T-slot profile.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile"
+      ],
+      "material": "Aluminum",
+      "finish": "Tumbled Mill",
+      "color": "Silver",
+      "weight": ".343 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": "4.570”",
+        "B": "1.020”",
+        "C": "1/4",
+        "D": "2.090”",
+        "E": "3.858”",
+        "F": "5.275”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3064",
+          "qty": 2,
+          "description": "1/4-20 x .750” SHCS",
+          "context": "Suggested Hardware (Mount to T-Slot) - bolt"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot) - T-nut"
+        }
+      ],
+      "notes": "Row is badged for both 10 and 15 series. Black (textured powder coat) version of this size is 2884. Material and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2886",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-109",
+      "description": "Extruded aluminum door handle with a black textured powder coat finish, for indoor or outdoor use. Mounts directly to a T-slot profile.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile"
+      ],
+      "material": "Aluminum",
+      "finish": "Textured Powder Coat",
+      "color": "Black",
+      "weight": ".453 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": "6.460”",
+        "B": "1.020”",
+        "C": "1/4",
+        "D": "2.240”",
+        "E": "5.750”",
+        "F": "7.165”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3064",
+          "qty": 2,
+          "description": "1/4-20 x .750” SHCS",
+          "context": "Suggested Hardware (Mount to T-Slot) - bolt"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot) - T-nut"
+        }
+      ],
+      "notes": "Row is badged for both 10 and 15 series. Silver (tumbled mill) version of this size is 2887. Material and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2887",
+      "series": [
+        "15"
+      ],
+      "name": "Aluminum Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-109",
+      "description": "Extruded aluminum door handle with a silver tumbled mill finish, for indoor or outdoor use. Mounts directly to a T-slot profile.",
+      "features": [
+        "Used indoor or outdoor",
+        "Mounts directly to T-slot profile"
+      ],
+      "material": "Aluminum",
+      "finish": "Tumbled Mill",
+      "color": "Silver",
+      "weight": ".459 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": "6.460”",
+        "B": "1.020”",
+        "C": "1/4",
+        "D": "2.240”",
+        "E": "5.750”",
+        "F": "7.165”"
+      },
+      "dimension_notes": "A = mounting hole center-to-center, B = width, C = drill thru & counterbore (fastener size), D = handle depth, F = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3064",
+          "qty": 2,
+          "description": "1/4-20 x .750” SHCS",
+          "context": "Suggested Hardware (Mount to T-Slot) - bolt"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot) - T-nut"
+        }
+      ],
+      "notes": "Row is badged for both 10 and 15 series. Black (textured powder coat) version of this size is 2886. Material and process are printed once for all rows of the table."
+    },
+    {
+      "part_number": "2070",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-111",
+      "description": "Formed carbon steel door handle with a chrome 26D brushed finish that mounts directly to plastic panels. Mounting hardware is included.",
+      "features": [
+        "Mounting hardware included",
+        "Mounts directly to plastic panels"
+      ],
+      "material": "Steel",
+      "finish": "26D Brushed",
+      "color": "Chrome",
+      "weight": ".104 lb",
+      "specs": {
+        "Grade": "Carbon",
+        "Process": "Formed",
+        "A": "1.230”",
+        "B": "3.300”",
+        "C": "2.680”",
+        "D": ".310”",
+        "E": "8-32 x .500"
+      },
+      "dimension_notes": "A = handle depth, B = overall length, C = inside length between legs, D = rod diameter, E = thread tapped into the leg ends",
+      "suggested_hardware": [
+        {
+          "part_number": "3024",
+          "qty": 2,
+          "description": "8-32 x 1/2” BHSCS",
+          "context": "Included Hardware (Mount to 1/4” Panel)"
+        }
+      ],
+      "notes": "Row is badged F and M. Required machining service: Steel Door Handle Plastic Panel Milling on the panel, reference page 11-39 (no service number printed). Included hardware: 2x 3024 8-32 x 1/2” BHSCS for a 1/4” panel. Same handle is listed with metric dimensions as 65-2070."
+    },
+    {
+      "part_number": "65-2070",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Door Handle",
+      "category": "handle",
+      "section": "Panels & Doors",
+      "catalog_page": "5-111",
+      "description": "Formed carbon steel door handle with a chrome 26D brushed finish that mounts directly to plastic panels. Mounting hardware is included.",
+      "features": [
+        "Mounting hardware included",
+        "Mounts directly to plastic panels"
+      ],
+      "material": "Steel",
+      "finish": "26D Brushed",
+      "color": "Chrome",
+      "weight": ".0470 kg",
+      "specs": {
+        "Grade": "Carbon",
+        "Process": "Formed",
+        "A": "31.20mm",
+        "B": "84.00mm",
+        "C": "68.30mm",
+        "D": "8.00mm",
+        "E": "8-32 x .500"
+      },
+      "dimension_notes": "A = handle depth, B = overall length, C = inside length between legs, D = rod diameter, E = thread tapped into the leg ends",
+      "suggested_hardware": [
+        {
+          "part_number": "3024",
+          "qty": 2,
+          "description": "8-32 x 1/2” BHSCS",
+          "context": "Included Hardware (Mount to 1/4” Panel)"
+        }
+      ],
+      "notes": "Row is badged F and M; dimensions are given in mm but the thread is still 8-32 x .500. Required machining service: Steel Door Handle Plastic Panel Milling on the panel, reference page 11-39 (no service number printed). Included hardware: 2x 3024 8-32 x 1/2” BHSCS."
+    }
+  ],
+  "page_notes": {
+    "469": "4 Hole - Slotted Locking Zinc Hinge: 12085 and 12086 extracted (15-badged); 12087 skipped as metric-only (45). Metric suggested-hardware rows skipped.",
+    "470": "Lite Panel Hinge 12097 (15/40) extracted; included M5 panel hardware has no part numbers (recorded in notes); suggested T-slot hardware 3487 attached.",
+    "471": "Safety Hinge With Interlock Switch: 22100 and 22101 extracted under a merged 15/30/40/45 badge; 15/40 suggested hardware row (11-6312 bolt, 13024 T-nut) attached.",
+    "472": "Plastic Door Handle: 15 series rows 2061, 2881, 2060, 2880 extracted; 10 series (2062, 2882) and metric (25-/40-) rows skipped.",
+    "473": "Offset Plastic Handle 2079 (10/15) extracted with included 15 series hardware 75-3804; 40-2079 metric skipped.",
+    "474": "Ergonomic Plastic Handle 12000 (15/40/45) extracted with suggested hardware 3454.",
+    "475": "Aluminum Door Handle: 2884-2887 (10/15) extracted with 15 series hardware 3064 + 3382; metric 40-288x rows skipped.",
+    "477": "Steel Door Handle 2070 and 65-2070 (both badged F/M) extracted with included hardware 3024; required machining (Plastic Panel Milling, page 11-39) has no service number so no machining_service part was created."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "22100: name 'Safety Hinge With Interlock Switch - Switch Hinge' -> 'Safety Hinge With Interlock Switch - Safety Interlock Switch' (distinguishing word taken from the printed Description column)",
+      "22100: description removed unprinted claim 'for guarding doors on T-slot frames'",
+      "22100: notes removed unprinted claim '22101 is the companion hinge without switch'",
+      "22101: description removed unprinted claims '(no switch)' and 'used alongside the 22100 switch hinge'"
+    ],
+    "remaining_doubts": [
+      "469: 3214 (hex nut) and 3260 (washer) are listed as separate suggested_hardware entries without qty because the table prints qty 2 only for the 3117 bolt row.",
+      "470: 12097 Included Hardware (1 M5 Screw, 1 M5 Hex Nut, 1 M5 Washer) has no part numbers, so it stays in notes and is not in suggested_hardware.",
+      "471: the 15/40 suggested-hardware row (11-6312 + 13024) is attached to both 22100 and 22101; the page does not say whether it applies to the switch, the hinge, or both.",
+      "473/477: the Included Hardware rows (75-3804 for 2079, 3024 for 2070/65-2070) are recorded under suggested_hardware with context 'Included Hardware'.",
+      "477: 65-2070 is kept because its row has the F badge (with M), even though its dimensions are in mm. The required machining (Steel Door Handle Plastic Panel Milling, ref 11-39) has no service number and no 15 badge, so no machining_service part was created."
+    ]
+  }
+}

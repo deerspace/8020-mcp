@@ -1,0 +1,1527 @@
+{
+  "chunk": "c063",
+  "pages": [
+    693,
+    694,
+    695,
+    696,
+    697,
+    698
+  ],
+  "parts": [
+    {
+      "part_number": "5850",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-9",
+      "description": "15 series milled aluminum mounting block, clear anodized, with two parallel 1.004” tube bores. Used with aluminum tube profile to create two additional axes, with the tubes running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two additional axes; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.857 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.125”",
+        "B": ".312”",
+        "C": "1.500”",
+        "D": "6.500”",
+        "E": ".375”",
+        "F": "2.125”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": "5/16-18 SHCS",
+        "K": "2.130”",
+        "L": ".330”",
+        "M": ".560”",
+        "N": "1.000”",
+        "P": ".500”",
+        "Q": "1.068”",
+        "R": "5.000”",
+        "S": ".750”",
+        "T": "3.500”",
+        "U": "1.004”"
+      },
+      "dimension_notes": "D = overall length, A = overall base width, ø H = base mounting hole diameter, K = overall height, ø U = tube bore diameter, T = bore center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3427",
+          "qty": 4,
+          "description": "5/16-18 x 2.25” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (AND / OR alternative)"
+        }
+      ],
+      "notes": "Tube bore ø U = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Clamp screws included. Suggested mounting hardware is given as two bolt assemblies joined by AND / OR (short bolts with washers, and/or long bolts without washers)."
+    },
+    {
+      "part_number": "5850-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-9",
+      "description": "15 series milled aluminum mounting block, black anodized, with two parallel 1.004” tube bores. Used with aluminum tube profile to create two additional axes, with the tubes running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two additional axes; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.857 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.125”",
+        "B": ".312”",
+        "C": "1.500”",
+        "D": "6.500”",
+        "E": ".375”",
+        "F": "2.125”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": "5/16-18 SHCS",
+        "K": "2.130”",
+        "L": ".330”",
+        "M": ".560”",
+        "N": "1.000”",
+        "P": ".500”",
+        "Q": "1.068”",
+        "R": "5.000”",
+        "S": ".750”",
+        "T": "3.500”",
+        "U": "1.004”"
+      },
+      "dimension_notes": "D = overall length, A = overall base width, ø H = base mounting hole diameter, K = overall height, ø U = tube bore diameter, T = bore center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3427",
+          "qty": 4,
+          "description": "5/16-18 x 2.25” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (AND / OR alternative)"
+        }
+      ],
+      "notes": "Tube bore ø U = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Clamp screws included. Suggested mounting hardware is given as two bolt assemblies joined by AND / OR (short bolts with washers, and/or long bolts without washers). Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5900",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-9",
+      "description": "15 series milled aluminum mounting block, clear anodized, with two parallel 1.505” tube bores. Used with aluminum tube profile to create two additional axes, with the tubes running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two additional axes; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "3.857 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": ".500”",
+        "C": "1.500”",
+        "D": "7.750”",
+        "E": ".375”",
+        "F": "2.750”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": "5/16-18 SHCS",
+        "K": "2.500”",
+        "L": ".325”",
+        "M": ".500”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": "1.125”",
+        "R": "6.130”",
+        "S": "1.128”",
+        "T": "3.875”",
+        "U": "1.505”"
+      },
+      "dimension_notes": "D = overall length, A = overall base width, ø H = base mounting hole diameter, K = overall height, ø U = tube bore diameter, T = bore center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3429",
+          "qty": 4,
+          "description": "5/16-18 x 2.5” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (AND / OR alternative)"
+        }
+      ],
+      "notes": "Tube bore ø U = 1.505”, sized for the 1.500” OD Aluminum Tube Profile (5040, 5041, 5041-Black, pg. 8-14). Clamp screws included. Suggested mounting hardware is given as two bolt assemblies joined by AND / OR (short bolts with washers, and/or long bolts without washers)."
+    },
+    {
+      "part_number": "5900-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-9",
+      "description": "15 series milled aluminum mounting block, black anodized, with two parallel 1.505” tube bores. Used with aluminum tube profile to create two additional axes, with the tubes running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two additional axes; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "3.061 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": ".500”",
+        "C": "1.500”",
+        "D": "7.750”",
+        "E": ".375”",
+        "F": "2.750”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": "5/16-18 SHCS",
+        "K": "2.500”",
+        "L": ".325”",
+        "M": ".500”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": "1.125”",
+        "R": "6.130”",
+        "S": "1.128”",
+        "T": "3.875”",
+        "U": "1.505”"
+      },
+      "dimension_notes": "D = overall length, A = overall base width, ø H = base mounting hole diameter, K = overall height, ø U = tube bore diameter, T = bore center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3429",
+          "qty": 4,
+          "description": "5/16-18 x 2.5” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (AND / OR alternative)"
+        }
+      ],
+      "notes": "Tube bore ø U = 1.505”, sized for the 1.500” OD Aluminum Tube Profile (5040, 5041, 5041-Black, pg. 8-14). Clamp screws included. Suggested mounting hardware is given as two bolt assemblies joined by AND / OR (short bolts with washers, and/or long bolts without washers). Suggested hardware table lists the base part number only; it is applied to this Black variant as well. Catalog prints 3.061 lb for 5900-Black versus 3.857 lb for 5900 (copied as printed)."
+    },
+    {
+      "part_number": "5950",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-9",
+      "description": "15 series milled aluminum mounting block, clear anodized, with two parallel 2.005” tube bores. Used with aluminum tube profile to create two additional axes, with the tubes running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two additional axes; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "6.061 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": ".875”",
+        "C": "1.500”",
+        "D": "9.500”",
+        "E": ".500”",
+        "F": "3.500”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": "5/16-18 SHCS",
+        "K": "3.250”",
+        "L": ".320”",
+        "M": ".875”",
+        "N": "1.500”",
+        "P": "1.000”",
+        "Q": "1.625”",
+        "R": "7.500”",
+        "S": "1.375”",
+        "T": "4.750”",
+        "U": "2.005”"
+      },
+      "dimension_notes": "D = overall length, A = overall base width, ø H = base mounting hole diameter, K = overall height, ø U = tube bore diameter, T = bore center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3422",
+          "qty": 4,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3431",
+          "qty": 4,
+          "description": "5/16-18 x 3.25” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (AND / OR alternative)"
+        }
+      ],
+      "notes": "Tube bore ø U = 2.005”, sized for the 2.000” OD Aluminum Tube Profile (5045, 5046, 5046-Black, pg. 8-14). Clamp screws included. Suggested mounting hardware is given as two bolt assemblies joined by AND / OR (short bolts with washers, and/or long bolts without washers)."
+    },
+    {
+      "part_number": "5950-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Shaft Stanchion Mounting Block",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-9",
+      "description": "15 series milled aluminum mounting block, black anodized, with two parallel 2.005” tube bores. Used with aluminum tube profile to create two additional axes, with the tubes running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two additional axes; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "6.220 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": ".875”",
+        "C": "1.500”",
+        "D": "9.500”",
+        "E": ".500”",
+        "F": "3.500”",
+        "G": "1.500”",
+        "H": ".328”",
+        "J": "5/16-18 SHCS",
+        "K": "3.250”",
+        "L": ".320”",
+        "M": ".875”",
+        "N": "1.500”",
+        "P": "1.000”",
+        "Q": "1.625”",
+        "R": "7.500”",
+        "S": "1.375”",
+        "T": "4.750”",
+        "U": "2.005”"
+      },
+      "dimension_notes": "D = overall length, A = overall base width, ø H = base mounting hole diameter, K = overall height, ø U = tube bore diameter, T = bore center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3422",
+          "qty": 4,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        },
+        {
+          "part_number": "3431",
+          "qty": 4,
+          "description": "5/16-18 x 3.25” SHCS, Economy T-nut, Washer: No",
+          "context": "Mount Stanchion to T-Slot (AND / OR alternative)"
+        }
+      ],
+      "notes": "Tube bore ø U = 2.005”, sized for the 2.000” OD Aluminum Tube Profile (5045, 5046, 5046-Black, pg. 8-14). Clamp screws included. Suggested mounting hardware is given as two bolt assemblies joined by AND / OR (short bolts with washers, and/or long bolts without washers). Suggested hardware table lists the base part number only; it is applied to this Black variant as well. Catalog prints 6.220 lb for 5950-Black versus 6.061 lb for 5950 (copied as printed)."
+    },
+    {
+      "part_number": "5870",
+      "series": [
+        "15"
+      ],
+      "name": "Narrow Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-10",
+      "description": "15 series narrow milled aluminum stanchion base, clear anodized, with a 1.004” tube bore and two mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".262 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": ".438”",
+        "C": "3.000”",
+        "D": ".375”",
+        "E": "2.250”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".438”",
+        "J": "1/4-20 SHCS",
+        "K": "2.125”",
+        "L": ".500”",
+        "M": "1.062”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": "1.004”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Clamp screw (J): 1/4-20 SHCS, included."
+    },
+    {
+      "part_number": "5870-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Narrow Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-10",
+      "description": "15 series narrow milled aluminum stanchion base, black anodized, with a 1.004” tube bore and two mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".262 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": ".438”",
+        "C": "3.000”",
+        "D": ".375”",
+        "E": "2.250”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".438”",
+        "J": "1/4-20 SHCS",
+        "K": "2.125”",
+        "L": ".500”",
+        "M": "1.062”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": "1.004”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Clamp screw (J): 1/4-20 SHCS, included. Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5880",
+      "series": [
+        "15"
+      ],
+      "name": "Narrow Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-10",
+      "description": "15 series narrow milled aluminum stanchion base, clear anodized, with a 1.505” tube bore and two mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".547 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.125”",
+        "B": ".560”",
+        "C": "3.875”",
+        "D": ".437”",
+        "E": "3.000”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".560”",
+        "J": "1/4-20 SHCS",
+        "K": "2.500”",
+        "L": ".750”",
+        "M": "1.375”",
+        "N": "2.253”",
+        "P": "1.127”",
+        "Q": "1.505”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 1.505”, sized for the 1.500” OD Aluminum Tube Profile (5040, 5041, 5041-Black, pg. 8-14). Clamp screw (J): 1/4-20 SHCS, included."
+    },
+    {
+      "part_number": "5880-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Narrow Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-10",
+      "description": "15 series narrow milled aluminum stanchion base, black anodized, with a 1.505” tube bore and two mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".547 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.125”",
+        "B": ".560”",
+        "C": "3.875”",
+        "D": ".437”",
+        "E": "3.000”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".560”",
+        "J": "1/4-20 SHCS",
+        "K": "2.500”",
+        "L": ".750”",
+        "M": "1.375”",
+        "N": "2.253”",
+        "P": "1.127”",
+        "Q": "1.505”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 2,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 1.505”, sized for the 1.500” OD Aluminum Tube Profile (5040, 5041, 5041-Black, pg. 8-14). Clamp screw (J): 1/4-20 SHCS, included. Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5890",
+      "series": [
+        "15"
+      ],
+      "name": "Narrow Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-10",
+      "description": "15 series narrow milled aluminum stanchion base, clear anodized, with a 2.005” tube bore and two mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.080 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.437”",
+        "B": ".718”",
+        "C": "4.750”",
+        "D": ".500”",
+        "E": "3.750”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".718”",
+        "J": "5/16-18 SHCS",
+        "K": "3.250”",
+        "L": "1.000”",
+        "M": "1.625”",
+        "N": "2.750”",
+        "P": "1.375”",
+        "Q": "2.005”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3422",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 2.005”, sized for the 2.000” OD Aluminum Tube Profile (5045, 5046, 5046-Black, pg. 8-14). Clamp screw (J): 5/16-18 SHCS, included."
+    },
+    {
+      "part_number": "5890-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Narrow Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-10",
+      "description": "15 series narrow milled aluminum stanchion base, black anodized, with a 2.005” tube bore and two mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.080 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.437”",
+        "B": ".718”",
+        "C": "4.750”",
+        "D": ".500”",
+        "E": "3.750”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".718”",
+        "J": "5/16-18 SHCS",
+        "K": "3.250”",
+        "L": "1.000”",
+        "M": "1.625”",
+        "N": "2.750”",
+        "P": "1.375”",
+        "Q": "2.005”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3422",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 2.005”, sized for the 2.000” OD Aluminum Tube Profile (5045, 5046, 5046-Black, pg. 8-14). Clamp screw (J): 5/16-18 SHCS, included. Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5920",
+      "series": [
+        "15"
+      ],
+      "name": "Wide Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-11",
+      "description": "15 series wide milled aluminum stanchion base, clear anodized, with a 1.004” tube bore and four mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".596 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": "3.000”",
+        "E": ".375”",
+        "F": "2.250”",
+        "G": ".328”",
+        "H": ".313”",
+        "J": ".500”",
+        "K": "1.000”",
+        "L": "1/4-20 SHCS",
+        "M": "2.125”",
+        "N": ".500”",
+        "P": "1.063”",
+        "Q": ".750”",
+        "R": "1.004”",
+        "S": "1.500”"
+      },
+      "dimension_notes": "D = overall length, A = base width, F = mounting hole spacing along the length, B = mounting hole spacing across the width, ø G = mounting hole diameter, M = overall height, ø R = tube bore diameter, L = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø R = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Clamp screws (L): 1/4-20 SHCS, included."
+    },
+    {
+      "part_number": "5920-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Wide Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-11",
+      "description": "15 series wide milled aluminum stanchion base, black anodized, with a 1.004” tube bore and four mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".596 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": "3.000”",
+        "E": ".375”",
+        "F": "2.250”",
+        "G": ".328”",
+        "H": ".313”",
+        "J": ".500”",
+        "K": "1.000”",
+        "L": "1/4-20 SHCS",
+        "M": "2.125”",
+        "N": ".500”",
+        "P": "1.063”",
+        "Q": ".750”",
+        "R": "1.004”",
+        "S": "1.500”"
+      },
+      "dimension_notes": "D = overall length, A = base width, F = mounting hole spacing along the length, B = mounting hole spacing across the width, ø G = mounting hole diameter, M = overall height, ø R = tube bore diameter, L = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 4,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø R = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Clamp screws (L): 1/4-20 SHCS, included. Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5930",
+      "series": [
+        "15"
+      ],
+      "name": "Wide Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-11",
+      "description": "15 series wide milled aluminum stanchion base, clear anodized, with a 1.505” tube bore and four mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.222 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": "3.875”",
+        "E": ".438”",
+        "F": "3.000”",
+        "G": ".328”",
+        "H": ".313”",
+        "J": ".500”",
+        "K": "1.500”",
+        "L": "1/4-20 SHCS",
+        "M": "2.500”",
+        "N": ".750”",
+        "P": "1.375”",
+        "Q": "1.128”",
+        "R": "1.505”",
+        "S": "2.255”"
+      },
+      "dimension_notes": "D = overall length, A = base width, F = mounting hole spacing along the length, B = mounting hole spacing across the width, ø G = mounting hole diameter, M = overall height, ø R = tube bore diameter, L = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø R = 1.505”, sized for the 1.500” OD Aluminum Tube Profile (5040, 5041, 5041-Black, pg. 8-14). Clamp screws (L): 1/4-20 SHCS, included."
+    },
+    {
+      "part_number": "5930-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Wide Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-11",
+      "description": "15 series wide milled aluminum stanchion base, black anodized, with a 1.505” tube bore and four mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.222 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": "3.875”",
+        "E": ".438”",
+        "F": "3.000”",
+        "G": ".328”",
+        "H": ".313”",
+        "J": ".500”",
+        "K": "1.500”",
+        "L": "1/4-20 SHCS",
+        "M": "2.500”",
+        "N": ".750”",
+        "P": "1.375”",
+        "Q": "1.128”",
+        "R": "1.505”",
+        "S": "2.255”"
+      },
+      "dimension_notes": "D = overall length, A = base width, F = mounting hole spacing along the length, B = mounting hole spacing across the width, ø G = mounting hole diameter, M = overall height, ø R = tube bore diameter, L = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3421",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø R = 1.505”, sized for the 1.500” OD Aluminum Tube Profile (5040, 5041, 5041-Black, pg. 8-14). Clamp screws (L): 1/4-20 SHCS, included. Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5940",
+      "series": [
+        "15"
+      ],
+      "name": "Wide Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-11",
+      "description": "15 series wide milled aluminum stanchion base, clear anodized, with a 2.005” tube bore and four mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.470 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": "1.500”",
+        "C": ".875”",
+        "D": "4.750”",
+        "E": ".500”",
+        "F": "3.750”",
+        "G": ".328”",
+        "H": ".313”",
+        "J": ".875”",
+        "K": "1.500”",
+        "L": "5/16-18 SHCS",
+        "M": "3.250”",
+        "N": "1.000”",
+        "P": "1.625”",
+        "Q": "1.375”",
+        "R": "2.005”",
+        "S": "2.750”"
+      },
+      "dimension_notes": "D = overall length, A = base width, F = mounting hole spacing along the length, B = mounting hole spacing across the width, ø G = mounting hole diameter, M = overall height, ø R = tube bore diameter, L = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3422",
+          "qty": 4,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø R = 2.005”, sized for the 2.000” OD Aluminum Tube Profile (5045, 5046, 5046-Black, pg. 8-14). Clamp screws (L): 5/16-18 SHCS, included."
+    },
+    {
+      "part_number": "5940-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Wide Horizontal Stanchion Base",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-11",
+      "description": "15 series wide milled aluminum stanchion base, black anodized, with a 2.005” tube bore and four mounting holes. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Clamp screws included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.470 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.250”",
+        "B": "1.500”",
+        "C": ".875”",
+        "D": "4.750”",
+        "E": ".500”",
+        "F": "3.750”",
+        "G": ".328”",
+        "H": ".313”",
+        "J": ".875”",
+        "K": "1.500”",
+        "L": "5/16-18 SHCS",
+        "M": "3.250”",
+        "N": "1.000”",
+        "P": "1.625”",
+        "Q": "1.375”",
+        "R": "2.005”",
+        "S": "2.750”"
+      },
+      "dimension_notes": "D = overall length, A = base width, F = mounting hole spacing along the length, B = mounting hole spacing across the width, ø G = mounting hole diameter, M = overall height, ø R = tube bore diameter, L = clamp screw",
+      "suggested_hardware": [
+        {
+          "part_number": "3422",
+          "qty": 4,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø R = 2.005”, sized for the 2.000” OD Aluminum Tube Profile (5045, 5046, 5046-Black, pg. 8-14). Clamp screws (L): 5/16-18 SHCS, included. Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5370",
+      "series": [
+        "15"
+      ],
+      "name": "Horizontal Stanchion Quick Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-12",
+      "description": "15 series milled aluminum stanchion base, clear anodized, with a 1.004” tube bore and an included black nylon ratcheting clamp handle. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Includes black nylon ratcheting handle (pg. 8-13)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".299 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": ".438”",
+        "C": "3.000”",
+        "D": ".375”",
+        "E": "2.250”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".438”",
+        "J": "1/4-20",
+        "K": "2.125”",
+        "L": ".500”",
+        "M": "1.062”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": "1.004”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp handle thread",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). The included ratcheting handle is shown on pg. 8-13 (Stanchion Clamp Handle, 6847; 1/4-20 thread)."
+    },
+    {
+      "part_number": "5370-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Horizontal Stanchion Quick Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-12",
+      "description": "15 series milled aluminum stanchion base, black anodized, with a 1.004” tube bore and an included black nylon ratcheting clamp handle. Used with aluminum tube profile to create an additional axis, with the tube running parallel to the mounted base.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create an additional axis; tube connects parallel to mounted base",
+        "Includes black nylon ratcheting handle (pg. 8-13)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".299 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".875”",
+        "B": ".438”",
+        "C": "3.000”",
+        "D": ".375”",
+        "E": "2.250”",
+        "F": ".328”",
+        "G": ".313”",
+        "H": ".438”",
+        "J": "1/4-20",
+        "K": "2.125”",
+        "L": ".500”",
+        "M": "1.062”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": "1.004”"
+      },
+      "dimension_notes": "C = overall length, A = base width, E = mounting hole center-to-center spacing, ø F = mounting hole diameter, K = overall height, ø Q = tube bore diameter, J = clamp handle thread",
+      "suggested_hardware": [
+        {
+          "part_number": "3470",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS, Economy T-nut, Washer: Yes",
+          "context": "Mount Stanchion to T-Slot"
+        }
+      ],
+      "notes": "Tube bore ø Q = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). The included ratcheting handle is shown on pg. 8-13 (Stanchion Clamp Handle, 6847; 1/4-20 thread). Suggested hardware table lists the base part number only; it is applied to this Black variant as well."
+    },
+    {
+      "part_number": "5340",
+      "series": [
+        "F"
+      ],
+      "name": "Quick Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-13",
+      "description": "Milled aluminum cross clamp (clear anodize) with two perpendicular tube bores (ø H 1.004” dimensioned), each tightened by a black nylon ratcheting handle. Used with aluminum tube profile to create two axes.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes additional axis",
+        "Includes two black nylon ratcheting handle (pg. 8-13)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "color": "Clear Anodize",
+      "weight": ".577 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.375”",
+        "D": ".250”",
+        "E": ".125”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": "1.004”",
+        "J": "1/4-20"
+      },
+      "dimension_notes": "C = overall length, A = overall width, G = overall height, ø H = tube bore diameter, J = clamp handle thread",
+      "notes": "Fractional hardware (F badge, fits 10 and 15 series). Tube bore ø H = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Handles are the Stanchion Clamp Handle 6847 shown on the same page (1/4-20 thread). No suggested T-slot hardware table is printed for this part."
+    },
+    {
+      "part_number": "5340-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Quick Stanchion Cross Clamp",
+      "category": "stanchion",
+      "section": "Stanchions",
+      "catalog_page": "8-13",
+      "description": "Milled aluminum cross clamp (black anodize) with two perpendicular tube bores (ø H 1.004” dimensioned), each tightened by a black nylon ratcheting handle. Used with aluminum tube profile to create two axes.",
+      "features": [
+        "Used with aluminum tube profile (pg. 8-14) to create two axes additional axis",
+        "Includes two black nylon ratcheting handle (pg. 8-13)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "color": "Black Anodize",
+      "weight": ".577 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.375”",
+        "D": ".250”",
+        "E": ".125”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": "1.004”",
+        "J": "1/4-20"
+      },
+      "dimension_notes": "C = overall length, A = overall width, G = overall height, ø H = tube bore diameter, J = clamp handle thread",
+      "notes": "Fractional hardware (F badge, fits 10 and 15 series). Tube bore ø H = 1.004”, sized for the 1.000” OD Aluminum Tube Profile (5035, 5036, 5036-Black, pg. 8-14). Handles are the Stanchion Clamp Handle 6847 shown on the same page (1/4-20 thread). No suggested T-slot hardware table is printed for this part."
+    },
+    {
+      "part_number": "6847",
+      "series": [
+        "F"
+      ],
+      "name": "Stanchion Clamp Handle",
+      "category": "handle",
+      "section": "Stanchions",
+      "catalog_page": "8-13",
+      "description": "Black nylon ratcheting clamp handle with a 1/4-20 threaded stud, used to tighten the stanchion quick clamps.",
+      "material": "Plastic",
+      "color": "Black",
+      "weight": ".047 lb",
+      "specs": {
+        "Grade": "Nylon",
+        "A": ".120”",
+        "B": "2.056”",
+        "C": ".390”",
+        "D": ".490”",
+        "E": "2.463”",
+        "F": ".160”",
+        "G": "1.260”",
+        "H": "1/4-20"
+      },
+      "dimension_notes": "B = handle length, E = overall height, G = threaded stud length, H = thread size",
+      "notes": "Fractional hardware (F badge). This is the black nylon ratcheting handle referenced (pg. 8-13) by the Horizontal Stanchion Quick Clamp (5360/5370) and the Quick Stanchion Cross Clamp (5340, two handles)."
+    },
+    {
+      "part_number": "5035",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 1.000” outside diameter with a .125” wall, in a clear anodize finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".034 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5036 (Natural Mill), 5036-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5036",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 1.000” outside diameter with a .125” wall, in a natural mill finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".034 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5035 (Clear Anodize), 5036-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5036-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 1.000” outside diameter with a .125” wall, in a black anodize finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".034 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5035 (Clear Anodize), 5036 (Natural Mill). Black Anodize: longer lead times apply."
+    },
+    {
+      "part_number": "5040",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 1.500” outside diameter with a .125” wall, in a clear anodize finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".069 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5041 (Natural Mill), 5041-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5041",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 1.500” outside diameter with a .125” wall, in a natural mill finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".069 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5040 (Clear Anodize), 5041-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5041-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 1.500” outside diameter with a .125” wall, in a black anodize finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".069 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5040 (Clear Anodize), 5041 (Natural Mill). Black Anodize: longer lead times apply."
+    },
+    {
+      "part_number": "5045",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 2.000” outside diameter with a .125” wall, in a clear anodize finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5046 (Natural Mill), 5046-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5046",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 2.000” outside diameter with a .125” wall, in a natural mill finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5045 (Clear Anodize), 5046-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5046-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "Round 6063-T6 aluminum tube, 2.000” outside diameter with a .125” wall, in a black anodize finish. It is the tube used with the stanchion bases, blocks and clamps.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 144” full lengths. Same tube size is also offered as 5045 (Clear Anodize), 5046 (Natural Mill). Black Anodize: longer lead times apply."
+    },
+    {
+      "part_number": "5005",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Tube",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "1020 carbon steel round tube, 1.000” outside diameter with a .125” wall, drawn, ground and polished, non-plated and unfinished.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".102 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Tube",
+        "Grade": "1020",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 145” full lengths."
+    },
+    {
+      "part_number": "5015",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Tube",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "1020 carbon steel round tube, 1.500” outside diameter with a .125” wall, drawn, ground and polished, non-plated and unfinished.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".131 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Tube",
+        "Grade": "1020",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 145” full lengths. Printed weight .131 lb / in. copied as shown."
+    },
+    {
+      "part_number": "5025",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Tube",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "1020 carbon steel round tube, 2.000” outside diameter with a .125” wall, drawn, ground and polished, non-plated and unfinished.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".273 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Tube",
+        "Grade": "1020",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "notes": "Fractional hardware (F badge). Sold in 145” full lengths. Printed weight .273 lb / in. copied as shown."
+    },
+    {
+      "part_number": "5010",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Solid Round",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "1045 carbon steel solid round bar, 1.000” diameter, drawn, ground and polished, non-plated and unfinished.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".230 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Solid Round",
+        "Grade": "1045",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.000”",
+        "B": "---"
+      },
+      "dimension_notes": "ø A = outside diameter",
+      "notes": "Fractional hardware (F badge). Sold in 145” full lengths. Wall thickness B is printed as --- (solid bar)."
+    },
+    {
+      "part_number": "5020",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Solid Round",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "1045 carbon steel solid round bar, 1.500” diameter, drawn, ground and polished, non-plated and unfinished.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".500 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Solid Round",
+        "Grade": "1045",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.500”",
+        "B": "---"
+      },
+      "dimension_notes": "ø A = outside diameter",
+      "notes": "Fractional hardware (F badge). Sold in 145” full lengths. Wall thickness B is printed as --- (solid bar)."
+    },
+    {
+      "part_number": "5030",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Solid Round",
+      "category": "structural_shape",
+      "section": "Stanchions",
+      "catalog_page": "8-14",
+      "description": "1045 carbon steel solid round bar, 2.000” diameter, drawn, ground and polished, non-plated and unfinished.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".890 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Solid Round",
+        "Grade": "1045",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "2.000”",
+        "B": "---"
+      },
+      "dimension_notes": "ø A = outside diameter",
+      "notes": "Fractional hardware (F badge). Sold in 145” full lengths. Wall thickness B is printed as --- (solid bar)."
+    }
+  ],
+  "page_notes": {
+    "693": "8-9 Double Shaft Stanchion Mounting Block: 15 series rows 5850, 5900, 5950 and -Black variants extracted with both AND / OR suggested hardware options (3470/3427, 3421/3429, 3422/3431); 10 series 5845 rows and 3471/3433 hardware skipped.",
+    "694": "8-10 Narrow Horizontal Stanchion Base: 15 series rows 5870, 5880, 5890 and -Black variants extracted with suggested hardware 3470/3421/3422; 10 series 5860 rows and 3471 skipped.",
+    "695": "8-11 Wide Horizontal Stanchion Base: 15 series rows 5920, 5930, 5940 and -Black variants extracted with suggested hardware 3470/3421/3422; 10 series 5910 rows and 3471 skipped.",
+    "696": "8-12 Horizontal Stanchion Quick Clamp: 15 series rows 5370 and 5370-Black extracted with suggested hardware 3470; 10 series 5360 rows and 3471 skipped.",
+    "697": "8-13 Quick Stanchion Cross Clamp 5340 / 5340-Black (F, merged badge) and Stanchion Clamp Handle 6847 (F) extracted.",
+    "698": "8-14 Aluminum Tube Profile (5035/5036/5036-Black, 5040/5041/5041-Black, 5045/5046/5046-Black) and Steel Tube / Steel Solid Round (5005, 5015, 5025, 5010, 5020, 5030), all F, extracted."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "5340: description \"two perpendicular 1.004” tube bores\" -> \"two perpendicular tube bores (ø H 1.004” dimensioned)\" (only one bore is dimensioned)",
+      "5340-Black: description \"two perpendicular 1.004” tube bores\" -> \"two perpendicular tube bores (ø H 1.004” dimensioned)\" (only one bore is dimensioned)",
+      "5035: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5036: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5036-Black: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5040: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5041: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5041-Black: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5045: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5046: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5046-Black: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5005: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5015: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5025: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5010: specs.B (missing) -> \"---\" (printed in B column)",
+      "5010: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5020: specs.B (missing) -> \"---\" (printed in B column)",
+      "5020: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)",
+      "5030: specs.B (missing) -> \"---\" (printed in B column)",
+      "5030: profile removed (round tube/bar, no section properties printed; weight and Full Length kept in weight/specs)"
+    ],
+    "remaining_doubts": [
+      "5900-Black weight printed 3.061 lb vs 3.857 lb for 5900; 5950-Black 6.220 lb vs 6.061 lb for 5950 (copied as printed, likely catalog inconsistencies).",
+      "5870/5880 (15 series) list clamp screw J as 1/4-20 SHCS while 5890 lists 5/16-18 SHCS; 5850 M = .560” vs 5845 .563” (copied as printed).",
+      "5340 feature bullets are garbled in the catalog (\"to create two axes additional axis\", \"Includes two black nylon ratcheting handle\"); kept verbatim.",
+      "5370 notes infer the included handle is 6847 (the only handle on pg. 8-13); catalog does not state the part number explicitly.",
+      "Steel tube weights .102/.131/.273 lb/in are not proportional to diameter (5015 looks low); copied as printed."
+    ]
+  }
+}

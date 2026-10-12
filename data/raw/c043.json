@@ -1,0 +1,152 @@
+{
+  "chunk": "c043",
+  "pages": [
+    511,
+    512
+  ],
+  "parts": [
+    {
+      "part_number": "6352",
+      "series": [
+        "15"
+      ],
+      "name": "Double T-Slot Bearing Pad Kit",
+      "category": "linear_motion",
+      "section": "Panels & Doors",
+      "catalog_page": "5-145",
+      "description": "Double T-slot bearing pad kit for counterbalance systems, with a low friction UHMW-PE pad that guides within the T-slot. It attaches with the included M4 set screw and T-nut and can be used for a variety of linear motion applications.",
+      "features": [
+        "Double T-slot bearing for counterbalance systems",
+        "Low friction UHMW-PE pad to guide within the T-slot",
+        "Allows for greater margin of error for installation alignment",
+        "Retaining wings to hold pad captive in 8mm and 10mmT-slot",
+        "Attaches with included M4 set screw & T-Nut",
+        "Can be used for a variety of linear motion applications"
+      ],
+      "material": "UHMW-PE",
+      "color": "White",
+      "weight": ".050 lb (.0230 kg)",
+      "specs": {
+        "Width": "0.98” (25.0mm)",
+        "Height": "2.95” (75.0mm)",
+        "Depth": "0.77” (19.5mm)"
+      },
+      "notes": "Sold as a kit. Included kit parts: Bearing Pad (1), Self-Aligning T-slot Nut 16, M4, Steel (1), M4 x 20mm Cup Point Set Screw (1). Series badges printed: 15, 30, 40, 45 (the 30/40/45 badges are metric series)."
+    },
+    {
+      "part_number": "6353",
+      "series": [
+        "15"
+      ],
+      "name": "Counterbalance Cable Kit",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-145",
+      "description": "Counterbalance cable kit with a die cast zinc cable bracket that attaches directly to the T-slot and 20 ft of 1/16” 7 X 19 stainless steel cable with a ball shank end captured by the bracket. Three wire rope clamps are included.",
+      "features": [
+        "Die cast zinc cable bracket (Attaches directly to T-slot with provided M4 BHSCS & T-Nut)",
+        "1/16” (.0625”, 1.59mm) 7 X 19 stainless steel cable, 20 ft",
+        "Cable includes ball shank on end to be captured by cable bracket",
+        "Three galvanized iron wire rope clamps for 1/16” cable diameter",
+        "150 lb (68.04 kg) load capacity when using the provided wire clamps",
+        "Lower screw helps retain ball shank in cable bracket"
+      ],
+      "material": "Stainless Steel (Cable)",
+      "color": "Gray",
+      "weight": ".120 lb (.0540 kg)",
+      "specs": {
+        "Cable Length": "20 ft (6.096m)",
+        "Cable Construction": "1/16” 7x19 (1.59mm 7x19)"
+      },
+      "notes": "Sold as a kit. Load capacity 150 lb (68.04 kg) when using the provided wire clamps. Included kit parts: Cable Bracket (1), 18-8 Stainless Steel Corrosion-Resistant Wire Rope (1), 1/16” Cable Clamp (3), Self-Aligning T-slot Nut 16, M4, Steel (2), M4 x 12mm BHSCS (2). Series badges printed: 15, 40, 45 (the 40/45 badges are metric series)."
+    },
+    {
+      "part_number": "6354",
+      "series": [
+        "15"
+      ],
+      "name": "Snap-In Conduit Profile",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-146",
+      "description": "One-piece PVC conduit with a flexible hinge that snaps into 8mm T-slot profile. It provides a storage compartment for counterbalance weight, cables or air lines.",
+      "features": [
+        "Storage compartment for counterbalance weight, cables or air lines",
+        "Easily snap into 8mm T-slot profile",
+        "One piece construction with flexible hinge"
+      ],
+      "material": "PVC",
+      "color": "Gray",
+      "weight": "1.800 lb (.8160 kg)",
+      "specs": {
+        "Width": "1.500” (38.10mm)",
+        "Height": "1.500” (38.10mm)",
+        "Length": "78.400” (2 meters)"
+      },
+      "notes": "Counterbalance Weights 6303 and 6310 install within this conduit. Series badges printed: 15, 40 (the 40 badge is metric series). No section properties are listed, so it is not treated as a structural T-slot profile."
+    },
+    {
+      "part_number": "6303",
+      "series": [
+        "F"
+      ],
+      "name": "Counterbalance Weights",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-146",
+      "description": "Steel counterbalance weight, 9.7” long, that connects to other weights with a slide-in lock feature to reach the desired counterweight. It installs within conduit PN 6354 or internal to T-slot profile while using the internal pulley kit (PN 6351).",
+      "features": [
+        "Easily connect multiple weights to achieve desired counterweight with slide-in lock feature",
+        "Installs within conduit PN 6354 or internal to T-slot profile while using internal pulley kit (PN 6351)"
+      ],
+      "material": "Steel",
+      "color": "Gray",
+      "weight": "2.9 lb",
+      "specs": {
+        "Width": "1.25” (31.75mm)",
+        "Height": "1.25” (31.75mm)",
+        "Length": "9.7” (246.38mm)"
+      },
+      "notes": "Use with Snap-In Conduit Profile 6354 or inside a T-slot profile with internal pulley kit 6351. Series badges printed: F, M (metric hardware)."
+    },
+    {
+      "part_number": "6310",
+      "series": [
+        "F"
+      ],
+      "name": "Counterbalance Weights",
+      "category": "accessory",
+      "section": "Panels & Doors",
+      "catalog_page": "5-146",
+      "description": "Steel counterbalance weight, 27.7” long, that connects to other weights with a slide-in lock feature to reach the desired counterweight. It installs within conduit PN 6354 or internal to T-slot profile while using the internal pulley kit (PN 6351).",
+      "features": [
+        "Easily connect multiple weights to achieve desired counterweight with slide-in lock feature",
+        "Installs within conduit PN 6354 or internal to T-slot profile while using internal pulley kit (PN 6351)"
+      ],
+      "material": "Steel",
+      "color": "Gray",
+      "weight": "9.6 lb",
+      "specs": {
+        "Width": "1.25” (31.75mm)",
+        "Height": "1.25” (31.75mm)",
+        "Length": "27.7” (704.596mm)"
+      },
+      "notes": "Use with Snap-In Conduit Profile 6354 or inside a T-slot profile with internal pulley kit 6351. Series badges printed: F, M (metric hardware)."
+    }
+  ],
+  "page_notes": {
+    "511": "Counterbalance hardware: Double T-Slot Bearing Pad Kit 6352 and Counterbalance Cable Kit 6353 (both badged 15 plus metric series), with included-kit-parts lists.",
+    "512": "Snap-In Conduit Profile 6354 (badged 15/40) and Counterbalance Weights 6303 and 6310 (badged F/M)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "6352: features[3] 'Retaining wings to hold pad captive in 8mm and 10mm T-slot' -> 'Retaining wings to hold pad captive in 8mm and 10mmT-slot' (verbatim as printed)"
+    ],
+    "remaining_doubts": [
+      "6354 Snap-In Conduit Profile is badged 15 but its bullet says it snaps into 8mm T-slot profile; extracted as printed with category accessory (no section properties, so not a T-slot profile).",
+      "6303/6310 weights are listed under 'Kit Details' but no kit contents are printed; not marked as kits."
+    ]
+  }
+}

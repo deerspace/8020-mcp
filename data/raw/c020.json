@@ -1,0 +1,1307 @@
+{
+  "chunk": "c020",
+  "pages": [
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315
+  ],
+  "parts": [
+    {
+      "part_number": "4357",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Standard Structural Pivot Assembly with Straight and “L” Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-144",
+      "description": "Preassembled 15 series 0 degree standard structural pivot assembly made of a 4387 structural pivot nub with one straight arm (4396) and one “L” arm (4349), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub; one standard and one “L” structural pivot arm"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".507 lb",
+      "specs": {
+        "Nub (Qty.)": "4387 (1)",
+        "Arm (Qty.)": "4396 (1), 4349 (1)",
+        "A": "4.909”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".745”",
+        "G": "1.495”",
+        "H": "1.900”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, H = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-145 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4357-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Standard Structural Pivot Assembly with Straight and “L” Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-144",
+      "description": "Preassembled 15 series 0 degree standard structural pivot assembly made of a 4387 structural pivot nub with one straight arm (4396) and one “L” arm (4349), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub; one standard and one “L” structural pivot arm"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".507 lb",
+      "specs": {
+        "Nub (Qty.)": "4387 (1)",
+        "Arm (Qty.)": "4396 (1), 4349 (1)",
+        "A": "4.909”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".745”",
+        "G": "1.495”",
+        "H": "1.900”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, H = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-145 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4358",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Standard Structural Pivot Assembly with Straight and “L” Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-144",
+      "description": "Preassembled 15 series 90 degree standard structural pivot assembly made of a 4388 structural pivot nub with one straight arm (4396) and one “L” arm (4349), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub; one standard and one “L” structural pivot arm"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".505 lb",
+      "specs": {
+        "Nub (Qty.)": "4388 (1)",
+        "Arm (Qty.)": "4396 (1), 4349 (1)",
+        "A": "6.409”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".745”",
+        "G": "1.495”",
+        "H": "1.900”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, H = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-145 and apply to the 0 degree, 90 degree and universal versions. Catalog prints A = 6.409” for this 90 degree version (same as the universal 4359; the 0 degree 4357 is 4.909”)."
+    },
+    {
+      "part_number": "4358-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Standard Structural Pivot Assembly with Straight and “L” Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-144",
+      "description": "Preassembled 15 series 90 degree standard structural pivot assembly made of a 4388 structural pivot nub with one straight arm (4396) and one “L” arm (4349), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub; one standard and one “L” structural pivot arm"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".505 lb",
+      "specs": {
+        "Nub (Qty.)": "4388 (1)",
+        "Arm (Qty.)": "4396 (1), 4349 (1)",
+        "A": "6.409”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".745”",
+        "G": "1.495”",
+        "H": "1.900”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, H = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-145 and apply to the 0 degree, 90 degree and universal versions. Catalog prints A = 6.409” for this 90 degree version (same as the universal 4359; the 0 degree 4357 is 4.909”)."
+    },
+    {
+      "part_number": "4359",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Standard Structural Pivot Assembly with Straight and “L” Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-145",
+      "description": "Preassembled 15 series universal standard structural pivot assembly made of a 4386 structural pivot nub with one straight arm (4396) and one “L” arm (4349), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub; one standard and one “L” structural pivot arm"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".986 lb",
+      "specs": {
+        "Nub (Qty.)": "4386 (1)",
+        "Arm (Qty.)": "4396 (1), 4349 (1)",
+        "A": "6.409”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".745”",
+        "G": "1.495”",
+        "H": "1.900”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, H = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-145 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4359-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Standard Structural Pivot Assembly with Straight and “L” Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-145",
+      "description": "Preassembled 15 series universal standard structural pivot assembly made of a 4386 structural pivot nub with one straight arm (4396) and one “L” arm (4349), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub; one standard and one “L” structural pivot arm"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".986 lb",
+      "specs": {
+        "Nub (Qty.)": "4386 (1)",
+        "Arm (Qty.)": "4396 (1), 4349 (1)",
+        "A": "6.409”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".745”",
+        "G": "1.495”",
+        "H": "1.900”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, H = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-145 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4404",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Right Angle Structural Pivot Assembly with Dual Straight Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-146",
+      "description": "Preassembled 15 series 0 degree right angle structural pivot assembly made of a 4401 right angle pivot nub with two straight structural pivot arms (4396), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".683 lb",
+      "specs": {
+        "Nub (Qty.)": "4401 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-147 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4404-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Right Angle Structural Pivot Assembly with Dual Straight Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-146",
+      "description": "Preassembled 15 series 0 degree right angle structural pivot assembly made of a 4401 right angle pivot nub with two straight structural pivot arms (4396), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".683 lb",
+      "specs": {
+        "Nub (Qty.)": "4401 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-147 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4405",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Angle Structural Pivot Assembly with Dual Straight Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-146",
+      "description": "Preassembled 15 series 90 degree right angle structural pivot assembly made of a 4402 right angle pivot nub with two straight structural pivot arms (4396), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".688 lb",
+      "specs": {
+        "Nub (Qty.)": "4402 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-147 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4405-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Angle Structural Pivot Assembly with Dual Straight Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-146",
+      "description": "Preassembled 15 series 90 degree right angle structural pivot assembly made of a 4402 right angle pivot nub with two straight structural pivot arms (4396), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".688 lb",
+      "specs": {
+        "Nub (Qty.)": "4402 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-147 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4406",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Right Angle Structural Pivot Assembly with Dual Straight Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-147",
+      "description": "Preassembled 15 series universal right angle structural pivot assembly made of a 4403 right angle pivot nub with two straight structural pivot arms (4396), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.002 lb",
+      "specs": {
+        "Nub (Qty.)": "4403 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "3.000”",
+        "B": "4.500”",
+        "C": "3.818”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-147 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4406-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Right Angle Structural Pivot Assembly with Dual Straight Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-147",
+      "description": "Preassembled 15 series universal right angle structural pivot assembly made of a 4403 right angle pivot nub with two straight structural pivot arms (4396), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.002 lb",
+      "specs": {
+        "Nub (Qty.)": "4403 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "3.000”",
+        "B": "4.500”",
+        "C": "3.818”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-147 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4407",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Right Angle Structural Pivot Assembly with Dual “L” Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-148",
+      "description": "Preassembled 15 series 0 degree right angle structural pivot assembly made of a 4401 right angle pivot nub with two “L” structural pivot arms (4349), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".662 lb",
+      "specs": {
+        "Nub (Qty.)": "4401 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, F = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-149 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4407-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Right Angle Structural Pivot Assembly with Dual “L” Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-148",
+      "description": "Preassembled 15 series 0 degree right angle structural pivot assembly made of a 4401 right angle pivot nub with two “L” structural pivot arms (4349), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".662 lb",
+      "specs": {
+        "Nub (Qty.)": "4401 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, F = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-149 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4408",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Angle Structural Pivot Assembly with Dual “L” Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-148",
+      "description": "Preassembled 15 series 90 degree right angle structural pivot assembly made of a 4402 right angle pivot nub with two “L” structural pivot arms (4349), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".657 lb",
+      "specs": {
+        "Nub (Qty.)": "4402 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, F = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-149 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4408-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Angle Structural Pivot Assembly with Dual “L” Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-148",
+      "description": "Preassembled 15 series 90 degree right angle structural pivot assembly made of a 4402 right angle pivot nub with two “L” structural pivot arms (4349), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".657 lb",
+      "specs": {
+        "Nub (Qty.)": "4402 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, F = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-149 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4409",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Right Angle Structural Pivot Assembly with Dual “L” Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-149",
+      "description": "Preassembled 15 series universal right angle structural pivot assembly made of a 4403 right angle pivot nub with two “L” structural pivot arms (4349), in clear anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.013 lb",
+      "specs": {
+        "Nub (Qty.)": "4403 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "9.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, F = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-149 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "4409-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Right Angle Structural Pivot Assembly with Dual “L” Arms",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-149",
+      "description": "Preassembled 15 series universal right angle structural pivot assembly made of a 4403 right angle pivot nub with two “L” structural pivot arms (4349), in black anodized aluminum. Includes the hardware to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural right angle pivot nub; two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.013 lb",
+      "specs": {
+        "Nub (Qty.)": "4403 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "9.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, F = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS (no T-nut)",
+          "context": "Mount Arm to Nub (included)"
+        },
+        {
+          "part_number": "3613",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut (Qty. printed as \"1 or 2\")",
+          "context": "Mount Nub to T-Slot (included)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Preassembled; included hardware: 3330 (2) 5/16-18 x 5/8” FBHSCS to mount arm to nub, and 3613 (1 or 2) 5/16-18 x 1.5” SHCS with Economy T-nut to mount nub to T-slot. Suggested hardware to mount arm to T-slot: 3320 (4). Material specifications: Aluminum 6063-T6, Milled, Anodize. Material specifications and hardware tables are printed on page 4-149 and apply to the 0 degree, 90 degree and universal versions."
+    },
+    {
+      "part_number": "3686",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with a centered 1/4-20 thread, in 304 stainless steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".013 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "304 Stainless",
+        "A": ".812”",
+        "B": ".505”",
+        "C (Thread)": "1/4-20",
+        "D": ".050”",
+        "E": ".125”"
+      },
+      "dimension_notes": "A = length, B = width, C = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Stainless steel version: not offered in double or triple. Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3286",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with a centered 1/4-20 thread, in black zinc steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".009 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "1010",
+        "A": ".812”",
+        "B": ".505”",
+        "C (Thread)": "1/4-20",
+        "D": ".050”",
+        "E": ".125”"
+      },
+      "dimension_notes": "A = length, B = width, C = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Also available as double or triple T-nut (pg. 4-152). Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3786",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with a centered 1/4-20 thread, in bright zinc steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".012 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "1010",
+        "A": ".812”",
+        "B": ".505”",
+        "C (Thread)": "1/4-20",
+        "D": ".050”",
+        "E": ".125”"
+      },
+      "dimension_notes": "A = length, B = width, C = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Also available as double or triple T-nut (pg. 4-152). Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3789",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with a centered 5/16-18 thread, in bright zinc steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".015 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "1010",
+        "A": ".984”",
+        "B": ".505”",
+        "C (Thread)": "5/16-18",
+        "D": ".078”",
+        "E": ".133”"
+      },
+      "dimension_notes": "A = length, B = width, C = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Also available as double or triple T-nut (pg. 4-152). Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3836",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Centered Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-150",
+      "description": "Style 2 slide-in economy T-nut for the 15 series with a centered M6 x 1.0 thread, in bright zinc steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".018 lb",
+      "specs": {
+        "Style": "Style 2",
+        "Grade": "1010",
+        "A": "1.125”",
+        "B": ".505”",
+        "C (Thread)": "M6 x 1.0",
+        "D": ".050”",
+        "E": ".130”"
+      },
+      "dimension_notes": "A = length, B = width, C = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Also available as double or triple T-nut (pg. 4-152)."
+    },
+    {
+      "part_number": "3278",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Offset Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-151",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with an offset 5/16-18 thread, in black zinc steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "1010",
+        "A": ".984”",
+        "B": ".281”",
+        "C": ".638”",
+        "D (Thread)": "5/16-18",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = length, B = distance from end to thread center (offset), C = width, D = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Also available as double or triple T-nut (pg. 4-152). Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3778",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Offset Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-151",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with an offset 5/16-18 thread, in bright zinc steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "1010",
+        "A": ".984”",
+        "B": ".281”",
+        "C": ".638”",
+        "D (Thread)": "5/16-18",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = length, B = distance from end to thread center (offset), C = width, D = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Also available as double or triple T-nut (pg. 4-152). Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3838",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Offset Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-151",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with an offset M8 X 1.25 thread, in bright zinc steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "1010",
+        "A": ".984”",
+        "B": ".281”",
+        "C": ".638”",
+        "D (Thread)": "M8 X 1.25",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = length, B = distance from end to thread center (offset), C = width, D = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Also available as double or triple T-nut (pg. 4-152). Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3678",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut - Offset Thread",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-151",
+      "description": "Style 1 slide-in economy T-nut for the 15 series with an offset 5/16-18 thread, in 304 stainless steel. It loads from the profile end with the pilot projection positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot",
+        "Two styles",
+        "Available in double (pg. 4-152) or triple (pg. 4-152), excluding stainless steel"
+      ],
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".027 lb",
+      "specs": {
+        "Style": "Style 1",
+        "Grade": "304 Stainless",
+        "A": "1.113”",
+        "B": ".281”",
+        "C": ".638”",
+        "D (Thread)": "5/16-18",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = length, B = distance from end to thread center (offset), C = width, D = thread size",
+      "notes": "Pilot projection goes down in the T-slot; loads from the profile end. Stainless steel version: not offered in double or triple. Compatible with the 3010 Economy T-Nut Holding Spring (snaps onto the pilot projection of 15 series style 1 economy T-nuts, pg. 4-151)."
+    },
+    {
+      "part_number": "3010",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-Nut Holding Spring",
+      "category": "hardware_other",
+      "section": "Hardware",
+      "catalog_page": "4-151",
+      "description": "Steel spring that snaps onto the pilot projection of a 15 series (or 40 series) style 1 economy T-nut to hold the fastener in place.",
+      "features": [
+        "Spring holds fastener in place",
+        "Snaps onto pilot projection of 15 & 40 series style 1 economy T-nut",
+        "Sold in packs of 100",
+        "Also works with double (pg. 4-152) or triple (pg. 4-152)"
+      ],
+      "material": "Steel",
+      "weight": ".022 lb",
+      "specs": {
+        "Grade": "1215",
+        "A": ".375”",
+        "B": ".345”",
+        "C": ".023”"
+      },
+      "dimension_notes": "A = spring diameter, B = spring length, C = wire diameter (ø C)",
+      "notes": "Sold in packs of 100. Series badges printed as 15 and 40 (metric); only the 15 badge is recorded here. Also works with double or triple economy T-nuts (pg. 4-152)."
+    }
+  ],
+  "page_notes": {
+    "308": "4-144 Standard Structural Pivot Assembly with Straight and “L” Arm (0 and 90 degree): 15 rows 4357/4357-Black/4358/4358-Black extracted; 10-series 4157/4158 rows skipped.",
+    "309": "4-145 Standard Structural Pivot Assembly (continued, Universal): 15 rows 4359/4359-Black extracted; Material Specifications, Included Hardware and Suggested Hardware tables attached to all six 15 standard pivot assemblies; 10-series rows skipped.",
+    "310": "4-146 Right Angle Structural Pivot Assembly with Dual Straight Arms (0 and 90 degree): 15 rows 4404/4404-Black/4405/4405-Black extracted; 10-series 4004/4005 rows skipped.",
+    "311": "4-147 Right Angle Structural Pivot Assembly with Dual Straight Arms (continued, Universal): 15 rows 4406/4406-Black extracted; material/included/suggested hardware tables attached to the six 15 dual-straight-arm assemblies; 10-series rows skipped.",
+    "312": "4-148 Right Angle Structural Pivot Assembly with Dual “L” Arms (0 and 90 degree): 15 rows 4407/4407-Black/4408/4408-Black extracted; 10-series 4007/4008 rows skipped.",
+    "313": "4-149 Right Angle Structural Pivot Assembly with Dual “L” Arms (continued, Universal): 15 rows 4409/4409-Black extracted; material/included/suggested hardware tables attached to the six 15 dual-L-arm assemblies; 10-series rows skipped.",
+    "314": "4-150 Slide-In Economy T-Nut - Centered Thread: 15 rows 3686, 3286, 3786, 3789, 3836 extracted; 10-series and metric (25-/30-/40-) rows skipped.",
+    "315": "4-151 Slide-In Economy T-Nut - Offset Thread: 15 rows 3278, 3778, 3838, 3678 extracted (10-series 3676 and metric rows skipped); Economy T-Nut Holding Spring 3010 (15/40) extracted."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4357: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4357-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4358: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4358-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4359: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4359-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4404: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4404-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4405: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4405-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4406: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4406-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4407: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4407-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4408: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4408-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4409: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')",
+      "4409-Black: notes \"Suggested hardware to mount each arm to T-slot: 3320 (4)\" -> \"Suggested hardware to mount arm to T-slot: 3320 (4)\" (the page does not say 'each arm')"
+    ],
+    "remaining_doubts": [
+      "4358/4358-Black: catalog prints A = 6.409” (same as universal 4359) while the 0 degree 4357 is 4.909” and the 10-series 0/90 degree versions share the same A; possibly a catalog typo, kept verbatim.",
+      "Included Hardware (Mount Arm to Nub / Mount Nub to T-Slot) rows 3330 and 3613 are recorded in suggested_hardware with context marked '(included)'; 3613 qty is printed as '1 or 2' so qty is omitted.",
+      "Suggested hardware qty 4 for 3320 is as printed; the page does not say whether it is per arm or per assembly.",
+      "3010 badge row shows 15 and 40 (metric); only '15' recorded in series."
+    ]
+  }
+}

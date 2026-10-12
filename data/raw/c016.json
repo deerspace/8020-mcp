@@ -1,0 +1,699 @@
+{
+  "chunk": "c016",
+  "pages": [
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    280
+  ],
+  "parts": [
+    {
+      "part_number": "4512",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-108",
+      "description": "Four-hole wide transition inside corner bracket that connects profiles in the same product type but differing series (badged 10 to 15). Mounts without machining and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Connects profiles in same product type but differing series",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".108 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".188”",
+        "D": ".750”",
+        "E": ".750”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": ".281”",
+        "J": "2.500”",
+        "K": "1.500”",
+        "L": ".500”",
+        "M": ".750”",
+        "N": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, H = hole diameter on one leg (.281”), N = hole diameter on the other leg (.328”)",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Transition bracket: series badge printed as '10 to 15' (fractional 10 series to fractional 15 series). Suggested hardware table rows 3393 and 3320 share the merged '10 to 15' badge, qty 2 each."
+    },
+    {
+      "part_number": "4512-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-108",
+      "description": "Four-hole wide transition inside corner bracket that connects profiles in the same product type but differing series (badged 10 to 15). Mounts without machining and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Connects profiles in same product type but differing series",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".108 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".188”",
+        "D": ".750”",
+        "E": ".750”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": ".281”",
+        "J": "2.500”",
+        "K": "1.500”",
+        "L": ".500”",
+        "M": ".750”",
+        "N": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, H = hole diameter on one leg (.281”), N = hole diameter on the other leg (.328”)",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Transition bracket: series badge printed as '10 to 15' (fractional 10 series to fractional 15 series). Suggested hardware table rows 3393 and 3320 share the merged '10 to 15' badge, qty 2 each."
+    },
+    {
+      "part_number": "4513",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Center Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-109",
+      "description": "Eight-hole center transition inside corner bracket that connects profiles in the same product type but differing series (badged 10 to 15). Mounts without machining and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Connects profiles in same product type but differing series",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".305 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.000”",
+        "H": "1.500”",
+        "J": ".281”",
+        "K": "1.500”",
+        "L": ".500”",
+        "M": ".750”",
+        "N": "1.500”",
+        "P": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, J = hole diameter on one leg (.281”), P = hole diameter on the other leg (.328”)",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Transition bracket: series badge printed as '10 to 15' (fractional 10 series to fractional 15 series). Suggested hardware table rows 3393 and 3320 share the merged '10 to 15' badge, qty 4 each."
+    },
+    {
+      "part_number": "4513-Black",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Center Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-109",
+      "description": "Eight-hole center transition inside corner bracket that connects profiles in the same product type but differing series (badged 10 to 15). Mounts without machining and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Connects profiles in same product type but differing series",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".305 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": "1.000”",
+        "H": "1.500”",
+        "J": ".281”",
+        "K": "1.500”",
+        "L": ".500”",
+        "M": ".750”",
+        "N": "1.500”",
+        "P": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, J = hole diameter on one leg (.281”), P = hole diameter on the other leg (.328”)",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Transition bracket: series badge printed as '10 to 15' (fractional 10 series to fractional 15 series). Suggested hardware table rows 3393 and 3320 share the merged '10 to 15' badge, qty 4 each."
+    },
+    {
+      "part_number": "4332",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-110",
+      "description": "Two-hole gusseted inside corner bracket with counterbored holes for joining profiles at a right angle. Fits 15 series and Ready Tube; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".111 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".656”",
+        "E": ".750”",
+        "F": "1.312”",
+        "G": ".750”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, H = thru hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "For Ready Tube mounting the page suggests 3961 (RT), qty 2: 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut."
+    },
+    {
+      "part_number": "4332-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-110",
+      "description": "Two-hole gusseted inside corner bracket with counterbored holes for joining profiles at a right angle. Fits 15 series and Ready Tube; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".111 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".656”",
+        "E": ".750”",
+        "F": "1.312”",
+        "G": ".750”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, H = thru hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "For Ready Tube mounting the page suggests 3961 (RT), qty 2: 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut."
+    },
+    {
+      "part_number": "4336",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Tall Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-111",
+      "description": "Four-hole tall gusseted inside corner bracket with counterbored holes for joining profiles at a right angle. Fits 15 series and Ready Tube; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".243 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".656”",
+        "E": ".750”",
+        "F": "1.312”",
+        "G": ".750”",
+        "H": "1.500”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, J = thru hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "For Ready Tube mounting the page suggests 3961 (RT), qty 4: 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut."
+    },
+    {
+      "part_number": "4336-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Tall Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-111",
+      "description": "Four-hole tall gusseted inside corner bracket with counterbored holes for joining profiles at a right angle. Fits 15 series and Ready Tube; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".243 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".656”",
+        "E": ".750”",
+        "F": "1.312”",
+        "G": ".750”",
+        "H": "1.500”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, J = thru hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "For Ready Tube mounting the page suggests 3961 (RT), qty 4: 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut."
+    },
+    {
+      "part_number": "4334",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-112",
+      "description": "Four-hole wide gusseted inside corner bracket with counterbored holes for joining 15 series profiles at a right angle. No machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".241 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "2.812”",
+        "G": ".656”",
+        "H": ".750”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, J = thru hole diameter, F = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ]
+    },
+    {
+      "part_number": "4334-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Wide Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-112",
+      "description": "Four-hole wide gusseted inside corner bracket with counterbored holes for joining 15 series profiles at a right angle. No machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".241 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "2.812”",
+        "G": ".656”",
+        "H": ".750”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, J = thru hole diameter, F = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ]
+    },
+    {
+      "part_number": "4338",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-113",
+      "description": "Eight-hole gusseted inside corner bracket with counterbored holes for joining 15 series profiles at a right angle. No machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".532 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "2.812”",
+        "G": ".656”",
+        "H": ".750”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, J = thru hole diameter, F = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ]
+    },
+    {
+      "part_number": "4338-Black",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Gusseted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-113",
+      "description": "Eight-hole gusseted inside corner bracket with counterbored holes for joining 15 series profiles at a right angle. No machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".532 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": "1.500”",
+        "E": ".750”",
+        "F": "2.812”",
+        "G": ".656”",
+        "H": ".750”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, E = counterbore diameter, J = thru hole diameter, F = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ]
+    },
+    {
+      "part_number": "14113",
+      "series": [
+        "15"
+      ],
+      "name": "3 Way - Triangular Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-114",
+      "description": "Zinc triangular corner bracket that makes a corner connection between three profiles, with the method recessed within the corner of the connection. Mounts to tapped profile ends.",
+      "features": [
+        "Corner connection between three profiles",
+        "Method recessed within corner of connection",
+        "Requires end tap machining service (pg. 11-3)",
+        "Triangular corner bracket covers sold separately"
+      ],
+      "material": "Zinc",
+      "finish": "Natural",
+      "weight": ".148 lb",
+      "specs": {
+        "A": "1.465”",
+        "B": "1.465”",
+        "C": ".197”",
+        "D": ".748”",
+        "E": ".354”",
+        "F": ".748”",
+        "G": ".157”",
+        "H": ".630”",
+        "J": ".315”"
+      },
+      "dimension_notes": "A and B = overall size, E = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3114",
+          "qty": 3,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service: Tap Profile End on the mounting profiles (reference page 11-3). Cover caps sold separately: 12043 (Rounded) and 12044 (Triangular) for 15 series."
+    },
+    {
+      "name": "3-Way Triangular Corner Bracket Cover Cap",
+      "category": "accessory",
+      "section": "External Fasteners",
+      "catalog_page": "4-114",
+      "material": "Nylon",
+      "color": "Black",
+      "part_number": "12043",
+      "series": [
+        "15"
+      ],
+      "description": "Black nylon cover cap with a rounded connector style for the 3 Way - Triangular Corner Bracket (14113).",
+      "weight": ".021 lb",
+      "specs": {
+        "Connector": "Rounded",
+        "A": "—",
+        "B": ".197”",
+        "C": ".079”",
+        "D": "28.6º"
+      },
+      "notes": "Sold separately from the 14113 bracket. Column D is printed as 28.6º for this row while the drawing labels D as 'R. D'."
+    },
+    {
+      "name": "3-Way Triangular Corner Bracket Cover Cap",
+      "category": "accessory",
+      "section": "External Fasteners",
+      "catalog_page": "4-114",
+      "material": "Nylon",
+      "color": "Black",
+      "part_number": "12044",
+      "series": [
+        "15"
+      ],
+      "description": "Black nylon cover cap with a triangular connector style for the 3 Way - Triangular Corner Bracket (14113).",
+      "weight": ".030 lb",
+      "specs": {
+        "Connector": "Triangular",
+        "A": "1.490”",
+        "B": ".197”",
+        "C": ".079”",
+        "D": "—"
+      },
+      "notes": "Sold separately from the 14113 bracket."
+    },
+    {
+      "part_number": "14176",
+      "series": [
+        "15"
+      ],
+      "name": "2 Way - Light Squared Corner Connector",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-116",
+      "description": "Aluminum squared corner connector that makes a corner connection between two profiles, with two access holes to install the hardware. Mounts to tapped profile ends; cover caps included.",
+      "features": [
+        "Corner connection between two profiles",
+        "Two access holes to install hardware",
+        "Requires end tap machining service (pg. 11-3)",
+        "Cover caps included"
+      ],
+      "material": "Aluminum",
+      "finish": "Lacquered",
+      "weight": ".225 lb",
+      "specs": {
+        "A": ".315”",
+        "B": ".118”",
+        "C": ".335”",
+        "D": ".059”",
+        "E": ".098”",
+        "F": ".441”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".750”",
+        "K": ".705”"
+      },
+      "dimension_notes": "G = overall size, C and K = hole diameters (drawing labelled 'Part Number: 14154, 14176, 14172')",
+      "suggested_hardware": [
+        {
+          "part_number": "3118",
+          "qty": 2,
+          "description": "5/16-18 x 1” BHSCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service: Tap Profile End on the mounting profiles (reference page 11-3). Cover caps included."
+    }
+  ],
+  "page_notes": {
+    "272": "4-108 4 Hole - Wide Transition Inside Corner Bracket: 10-to-15 transition rows 4512/4512-Black extracted; metric 65-4512 rows skipped.",
+    "273": "4-109 8 Hole - Center Transition Inside Corner Bracket: 10-to-15 transition rows 4513/4513-Black extracted; metric 65-4513 rows skipped.",
+    "274": "4-110 2 Hole - Gusseted Inside Corner Bracket: 15/RT rows 4332/4332-Black extracted; 10-series 4132 and metric rows skipped.",
+    "275": "4-111 4 Hole - Tall Gusseted Inside Corner Bracket: 15/RT rows 4336/4336-Black extracted; 10-series 4136 and metric rows skipped.",
+    "276": "4-112 4 Hole - Wide Gusseted Inside Corner Bracket: 15 rows 4334/4334-Black extracted; 10-series 4134 and metric rows skipped.",
+    "277": "4-113 8 Hole - Gusseted Inside Corner Bracket: 15 rows 4338/4338-Black extracted; 10-series 4138 and metric rows skipped.",
+    "278": "4-114 3 Way - Triangular Corner Bracket (14113, 15) and its cover caps 12043/12044 (15) extracted; metric 14114, 12047, 12045 skipped.",
+    "280": "4-116 2 Way - Light Squared Corner Connector: 15 row 14176 extracted; 14154 (10/metric) and metric 14170/14172/14174 skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "4512/4513 (10-to-15 transition brackets): 3393 (1/4-20 BHSCS) is attached as suggested hardware because it shares the merged '10 to 15' badge cell with 3320; it is really the hardware for the 10-series leg.",
+      "4332/4336 (15 + RT): the Ready Tube bolt assembly 3961 (RT-only badge) is recorded in notes, not in suggested_hardware, following the rule that only 15/F rows get attached.",
+      "12043/12044 cover caps: put in category 'accessory'; 'end_cap' would also fit. The text layer has a soft hyphen (U+00AD) before the em dash in the '—' cells; it was left out of the spec values.",
+      "Tap Profile End (ref. page 11-3) on 4-114 and 4-116 has no service number and no 15 badge, so it stays in notes and is not a machining_service part."
+    ]
+  }
+}

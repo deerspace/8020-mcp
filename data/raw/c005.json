@@ -1,0 +1,1148 @@
+{
+  "chunk": "c005",
+  "pages": [
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183
+  ],
+  "parts": [
+    {
+      "part_number": "3360",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Fractional 15 series standard anchor fastener made up of a SHCS, cam and T-nut that gives a flush, infinitely positionable internal connection; this version has a standard slide-in T-nut, bright cam and 5/16-18 x 1.30” SHCS.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Bright",
+      "weight": ".101 lb",
+      "specs": {
+        "T-Nut": "Standard Slide-in",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": ".700”",
+        "G": ".625”",
+        "H": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3359",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Fractional 15 series standard anchor fastener made up of a SHCS, cam and T-nut that gives a flush, infinitely positionable internal connection; this version has a standard slide-in T-nut, black cam and 5/16-18 x 1.30” SHCS.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Black",
+      "weight": ".102 lb",
+      "specs": {
+        "T-Nut": "Standard Slide-in",
+        "Cam Color": "Black",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": ".700”",
+        "G": ".625”",
+        "H": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3660",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Fractional 15 series standard anchor fastener made up of a SHCS, cam and T-nut that gives a flush, infinitely positionable internal connection; this version has a standard slide-in T-nut, bright cam and 5/16-18 x 1.30” SHCS.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Bright",
+      "weight": ".101 lb",
+      "specs": {
+        "T-Nut": "Standard Slide-in",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": ".700”",
+        "G": ".625”",
+        "H": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page. Footnote ** on part number: comes with stainless steel bolt and zinc T-nut (part number printed as 3660**)."
+    },
+    {
+      "part_number": "3897",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Fractional 15 series standard anchor fastener made up of a SHCS, cam and T-nut that gives a flush, infinitely positionable internal connection; this version has a standard slide-in T-nut, bright cam and M8 x 32mm SHCS.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Bright",
+      "weight": ".105 lb",
+      "specs": {
+        "T-Nut": "Standard Slide-in",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": ".700”",
+        "G": ".625”",
+        "H": "M8 x 32mm SHCS"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3362",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Fractional 15 series standard anchor fastener made up of a SHCS, cam and T-nut that gives a flush, infinitely positionable internal connection; this version has a roll-in w/ flex handle T-nut, bright cam and 5/16-18 x 1.30” SHCS.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Bright",
+      "weight": ".099 lb",
+      "specs": {
+        "T-Nut": "Roll-in w/ Flex Handle",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".510”",
+        "D": ".285”",
+        "E": ".810”",
+        "F": ".875”",
+        "G": ".625”",
+        "H": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3373",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Fractional 15 series standard anchor fastener made up of a SHCS, cam and T-nut that gives a flush, infinitely positionable internal connection; this version has a roll-in w/ ball spring T-nut, bright cam and 5/16-18 x 1.30” SHCS.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Bright",
+      "weight": ".099 lb",
+      "specs": {
+        "T-Nut": "Roll-in w/ Ball Spring",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".551”",
+        "D": ".291”",
+        "E": ".810”",
+        "F": ".886”",
+        "G": ".625”",
+        "H": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3661",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Fractional 15 series standard anchor fastener made up of a SHCS, cam and T-nut that gives a flush, infinitely positionable internal connection; this version has a roll-in w/ flex handle T-nut, bright cam and 5/16-18 x 1.25” SHCS.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Bright",
+      "weight": ".099 lb",
+      "specs": {
+        "T-Nut": "Roll-in w/ Flex Handle",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".510”",
+        "D": ".285”",
+        "E": ".810”",
+        "F": ".875”",
+        "G": ".625”",
+        "H": "5/16-18 x 1.25” SHCS"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page. Footnote * on part number: comes with stainless steel bolt and T-nut (part number printed as 3661*)."
+    },
+    {
+      "part_number": "3354",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Black cam for the fractional 15 series standard anchor fastener, listed with no T-nut or SHCS (T-Nut, C, D, F and H columns read '---').",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Black",
+      "weight": ".045 lb",
+      "specs": {
+        "T-Nut": "---",
+        "Cam Color": "Black",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": "---",
+        "D": "---",
+        "E": ".810”",
+        "F": "---",
+        "G": ".625”",
+        "H": "---"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page. Cam only: no T-nut or bolt listed for this row; the Double Anchor Fastener page (4-13) states 'Cams only available on page 4-12'."
+    },
+    {
+      "part_number": "3361",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-12",
+      "description": "Bright cam for the fractional 15 series standard anchor fastener, listed with no T-nut or SHCS (T-Nut, C, D, F and H columns read '---').",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS, cam & T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Infinite positioning, flush connection"
+      ],
+      "color": "Bright",
+      "weight": ".045 lb",
+      "specs": {
+        "T-Nut": "---",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": "---",
+        "D": "---",
+        "E": ".810”",
+        "F": "---",
+        "G": ".625”",
+        "H": "---"
+      },
+      "dimension_notes": "E = cam diameter (ø E); H = socket head cap screw (SHCS) supplied; C, D and F are T-nut dimensions and A, B, E and G are cam dimensions (C, D, F and H read '---' on the cam-only rows).",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page. Cam only: no T-nut or bolt listed for this row; the Double Anchor Fastener page (4-13) states 'Cams only available on page 4-12'."
+    },
+    {
+      "part_number": "3095",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-13",
+      "description": "Zinc double anchor fastener for 1.5” fractional 15 series profile, made up of two SHCS, two black cams and a double T-nut; uses 5/16-18 x 1.30” SHCS bolts and needs counterbores in the mounting profile.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS (2), cam (2) & double T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Cams only available on page 4-12"
+      ],
+      "material": "Zinc",
+      "color": "Black",
+      "weight": ".205 lb",
+      "specs": {
+        "Profile Size": "1.5”",
+        "Cam Color": "Black",
+        "A": "1.378”",
+        "B": ".313”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": "1.501”",
+        "G": ".625”",
+        "H": "1.437”",
+        "J": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "ø E = cam diameter (TYP, two cams); J = SHCS supplied (one per cam, two per assembly); H = length of the double T-nut; F = overall width across both cams; G = cam width (TYP).",
+      "notes": "Requires machining service Counterbores (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page. A (1.378”), B (.313”) and F (1.501”) differ from the other 1.5” rows (1.383”, .309”, 1.469”); values copied as printed."
+    },
+    {
+      "part_number": "3098",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-13",
+      "description": "Zinc double anchor fastener for 1.5” fractional 15 series profile, made up of two SHCS, two bright cams and a double T-nut; uses 5/16-18 x 1.30” SHCS bolts and needs counterbores in the mounting profile.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS (2), cam (2) & double T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Cams only available on page 4-12"
+      ],
+      "material": "Zinc",
+      "color": "Bright",
+      "weight": ".205 lb",
+      "specs": {
+        "Profile Size": "1.5”",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": "1.469”",
+        "G": ".625”",
+        "H": "1.437”",
+        "J": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "ø E = cam diameter (TYP, two cams); J = SHCS supplied (one per cam, two per assembly); H = length of the double T-nut; F = overall width across both cams; G = cam width (TYP).",
+      "notes": "Requires machining service Counterbores (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3100",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-13",
+      "description": "Zinc double anchor fastener for 1.5” fractional 15 series profile, made up of two SHCS, two bright cams and a double T-nut; uses M8 x 32mm SHCS bolts and needs counterbores in the mounting profile.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS (2), cam (2) & double T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Cams only available on page 4-12"
+      ],
+      "material": "Zinc",
+      "color": "Bright",
+      "weight": ".220 lb",
+      "specs": {
+        "Profile Size": "1.5”",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": "1.469”",
+        "G": ".625”",
+        "H": "1.437”",
+        "J": "M8 x 32mm SHCS"
+      },
+      "dimension_notes": "ø E = cam diameter (TYP, two cams); J = SHCS supplied (one per cam, two per assembly); H = length of the double T-nut; F = overall width across both cams; G = cam width (TYP).",
+      "notes": "Requires machining service Counterbores (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3097",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-13",
+      "description": "Zinc double anchor fastener for 3.0” fractional 15 series profile, made up of two SHCS, two black cams and a double T-nut; uses 5/16-18 x 1.30” SHCS bolts and needs counterbores in the mounting profile.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS (2), cam (2) & double T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Cams only available on page 4-12"
+      ],
+      "material": "Zinc",
+      "color": "Black",
+      "weight": ".263 lb",
+      "specs": {
+        "Profile Size": "3.0”",
+        "Cam Color": "Black",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": "2.959”",
+        "G": ".625”",
+        "H": "2.937”",
+        "J": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "ø E = cam diameter (TYP, two cams); J = SHCS supplied (one per cam, two per assembly); H = length of the double T-nut; F = overall width across both cams; G = cam width (TYP).",
+      "notes": "Requires machining service Counterbores (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3099",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-13",
+      "description": "Zinc double anchor fastener for 3.0” fractional 15 series profile, made up of two SHCS, two bright cams and a double T-nut; uses 5/16-18 x 1.30” SHCS bolts and needs counterbores in the mounting profile.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS (2), cam (2) & double T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Cams only available on page 4-12"
+      ],
+      "material": "Zinc",
+      "color": "Bright",
+      "weight": ".267 lb",
+      "specs": {
+        "Profile Size": "3.0”",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": "2.959”",
+        "G": ".625”",
+        "H": "2.937”",
+        "J": "5/16-18 x 1.30” SHCS"
+      },
+      "dimension_notes": "ø E = cam diameter (TYP, two cams); J = SHCS supplied (one per cam, two per assembly); H = length of the double T-nut; F = overall width across both cams; G = cam width (TYP).",
+      "notes": "Requires machining service Counterbores (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3102",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-13",
+      "description": "Zinc double anchor fastener for 3.0” fractional 15 series profile, made up of two SHCS, two bright cams and a double T-nut; uses M8 x 32mm SHCS bolts and needs counterbores in the mounting profile.",
+      "features": [
+        "One of the strongest fastening methods",
+        "Consists of SHCS (2), cam (2) & double T-nut",
+        "Requires counterbore machining service (pg. 11-7)",
+        "Cams only available on page 4-12"
+      ],
+      "material": "Zinc",
+      "color": "Bright",
+      "weight": ".280 lb",
+      "specs": {
+        "Profile Size": "3.0”",
+        "Cam Color": "Bright",
+        "A": "1.383”",
+        "B": ".309”",
+        "C": ".625”",
+        "D": ".250”",
+        "E": ".810”",
+        "F": "2.959”",
+        "G": ".625”",
+        "H": "2.937”",
+        "J": "M8 x 32mm SHCS"
+      },
+      "dimension_notes": "ø E = cam diameter (TYP, two cams); J = SHCS supplied (one per cam, two per assembly); H = length of the double T-nut; F = overall width across both cams; G = cam width (TYP).",
+      "notes": "Requires machining service Counterbores (profile machined: Mounting Profile; reference page 11-7); no service number is printed on this page."
+    },
+    {
+      "part_number": "3370",
+      "series": [
+        "15"
+      ],
+      "name": "Butt Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-14",
+      "description": "Zinc butt fastener with bright cams and a 5/16 x 1.75” SHCS that connects fractional 15 series profiles end-to-end; the mounting profiles need counterbores.",
+      "features": [
+        "Connects profiles end-to-end",
+        "Requires counterbore machining service (pg. 11-7)"
+      ],
+      "material": "Zinc",
+      "color": "Bright",
+      "weight": ".143 lb",
+      "specs": {
+        "Cam Color": "Bright",
+        "A": "2.223”",
+        "B": "1.383”",
+        "C": ".309”",
+        "D": ".810”",
+        "E": ".625”",
+        "F": "5/16 x 1.75” SHCS"
+      },
+      "dimension_notes": "A = overall length; B = length of one cam end; ø D = cam diameter (TYP); E = cam height (side view); F = SHCS supplied.",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profiles; reference page 11-7); no service number is printed on this page. The F column prints the bolt as '5/16 x 1.75” SHCS' (no thread pitch given)."
+    },
+    {
+      "part_number": "3370-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Butt Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-14",
+      "description": "Zinc butt fastener with black cams and a 5/16 x 1.75” SHCS that connects fractional 15 series profiles end-to-end; the mounting profiles need counterbores.",
+      "features": [
+        "Connects profiles end-to-end",
+        "Requires counterbore machining service (pg. 11-7)"
+      ],
+      "material": "Zinc",
+      "color": "Black",
+      "weight": ".143 lb",
+      "specs": {
+        "Cam Color": "Black",
+        "A": "2.223”",
+        "B": "1.383”",
+        "C": ".309”",
+        "D": ".810”",
+        "E": ".625”",
+        "F": "5/16 x 1.75” SHCS"
+      },
+      "dimension_notes": "A = overall length; B = length of one cam end; ø D = cam diameter (TYP); E = cam height (side view); F = SHCS supplied.",
+      "notes": "Requires machining service Counterbore (profile machined: Mounting Profiles; reference page 11-7); no service number is printed on this page. The F column prints the bolt as '5/16 x 1.75” SHCS' (no thread pitch given)."
+    },
+    {
+      "part_number": "3380",
+      "series": [
+        "15"
+      ],
+      "name": "Standard End Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-15",
+      "description": "Steel standard end fastener assembly (black) with a 5/16-18 bolt for fractional 15 series profile; the clip's winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end tap (pg. 11-3); mating profile requires access hole (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": ".047 lb",
+      "specs": {
+        "Type": "Assembly",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".340”",
+        "E": "1.300”",
+        "F": "1.000”",
+        "G": "5/16-18",
+        "H": "1.000”"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = bolt thread; H = bolt length (G and H read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); no service numbers are printed on this page."
+    },
+    {
+      "part_number": "3680",
+      "series": [
+        "15"
+      ],
+      "name": "Standard End Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-15",
+      "description": "Steel standard end fastener assembly (bright) with a 5/16-18 bolt for fractional 15 series profile; the clip's winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end tap (pg. 11-3); mating profile requires access hole (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Bright",
+      "weight": ".046 lb",
+      "specs": {
+        "Type": "Assembly",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".340”",
+        "E": "1.300”",
+        "F": "1.000”",
+        "G": "5/16-18",
+        "H": "1.000”"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = bolt thread; H = bolt length (G and H read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); no service numbers are printed on this page. Footnote * on part number: comes with a stainless steel bolt (part number printed as 3680*)."
+    },
+    {
+      "part_number": "3891",
+      "series": [
+        "15"
+      ],
+      "name": "Standard End Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-15",
+      "description": "Steel standard end fastener assembly (bright) with a M8 bolt for fractional 15 series profile; the clip's winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end tap (pg. 11-3); mating profile requires access hole (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Bright",
+      "weight": ".045 lb",
+      "specs": {
+        "Type": "Assembly",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".340”",
+        "E": "1.300”",
+        "F": "1.000”",
+        "G": "M8",
+        "H": ".984”"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = bolt thread; H = bolt length (G and H read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); no service numbers are printed on this page."
+    },
+    {
+      "part_number": "3379",
+      "series": [
+        "15"
+      ],
+      "name": "Standard End Fastener - Clip",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-15",
+      "description": "Steel clip only (black) for the fractional 15 series standard end fastener, without bolt; its winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end tap (pg. 11-3); mating profile requires access hole (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": ".025 lb",
+      "specs": {
+        "Type": "Clip",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".340”",
+        "E": "1.300”",
+        "F": "1.000”",
+        "G": "—",
+        "H": "—"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = bolt thread; H = bolt length (G and H read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); no service numbers are printed on this page."
+    },
+    {
+      "part_number": "3679",
+      "series": [
+        "15"
+      ],
+      "name": "Standard End Fastener - Clip",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-15",
+      "description": "Steel clip only (bright) for the fractional 15 series standard end fastener, without bolt; its winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end tap (pg. 11-3); mating profile requires access hole (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Bright",
+      "weight": ".025 lb",
+      "specs": {
+        "Type": "Clip",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".340”",
+        "E": "1.300”",
+        "F": "1.000”",
+        "G": "—",
+        "H": "—"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = bolt thread; H = bolt length (G and H read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); no service numbers are printed on this page."
+    },
+    {
+      "part_number": "3389",
+      "series": [
+        "15"
+      ],
+      "name": "Single Tab End Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-16",
+      "description": "Steel single tab end fastener assembly (black) with a 5/16-18 bolt for fractional 15 series profile; the clip's winged tab keeps the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end tap (pg. 11-3); mating profile requires access hole (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": ".037 lb",
+      "specs": {
+        "Type": "Assembly",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".354”",
+        "E": ".916”",
+        "F": ".766”",
+        "G": "5/16-18",
+        "H": "1.000”"
+      },
+      "dimension_notes": "ø D = clip hole diameter; G = bolt thread; H = bolt length (G and H read '—' on the clip-only row).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); no service numbers are printed on this page."
+    },
+    {
+      "part_number": "3189",
+      "series": [
+        "15"
+      ],
+      "name": "Single Tab End Fastener - Clip",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-16",
+      "description": "Steel clip only (black) for the fractional 15 series single tab end fastener, without bolt.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end tap (pg. 11-3); mating profile requires access hole (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": ".010 lb",
+      "specs": {
+        "Type": "Clip",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".354”",
+        "E": ".916”",
+        "F": ".766”",
+        "G": "—",
+        "H": "—"
+      },
+      "dimension_notes": "ø D = clip hole diameter; G = bolt thread; H = bolt length (G and H read '—' on the clip-only row).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); no service numbers are printed on this page."
+    },
+    {
+      "part_number": "3344",
+      "series": [
+        "15"
+      ],
+      "name": "Double End Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-17",
+      "description": "Steel double end fastener assembly (black) with two 5/16-18 bolts for fractional 15 series profile; the clip's winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end taps (pg. 11-3); mating profile requires access holes (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": ".090 lb",
+      "specs": {
+        "Type": "Assembly",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".354”",
+        "E": "2.800”",
+        "F": "2.500”",
+        "G": "1.500”",
+        "H": "5/16-18",
+        "J": "1.000”"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = center-to-center distance of the two holes; H = bolt thread; J = bolt length (H and J read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); two end taps and two access holes per the feature text. No service numbers are printed on this page."
+    },
+    {
+      "part_number": "3793",
+      "series": [
+        "15"
+      ],
+      "name": "Double End Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-17",
+      "description": "Steel double end fastener assembly (bright) with two 5/16-18 bolts for fractional 15 series profile; the clip's winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end taps (pg. 11-3); mating profile requires access holes (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Bright",
+      "weight": ".091 lb",
+      "specs": {
+        "Type": "Assembly",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".354”",
+        "E": "2.800”",
+        "F": "2.500”",
+        "G": "1.500”",
+        "H": "5/16-18",
+        "J": "1.000”"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = center-to-center distance of the two holes; H = bolt thread; J = bolt length (H and J read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); two end taps and two access holes per the feature text. No service numbers are printed on this page. Footnote * on part number: comes with stainless steel bolts (part number printed as 3793*)."
+    },
+    {
+      "part_number": "3902",
+      "series": [
+        "15"
+      ],
+      "name": "Double End Fastener",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-17",
+      "description": "Steel double end fastener assembly (bright) with two M8 bolts for fractional 15 series profile; the clip's winged tabs keep the mating profile from rotating.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end taps (pg. 11-3); mating profile requires access holes (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Bright",
+      "weight": ".093 lb",
+      "specs": {
+        "Type": "Assembly",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".354”",
+        "E": "2.800”",
+        "F": "2.500”",
+        "G": "1.500”",
+        "H": "M8",
+        "J": ".984”"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = center-to-center distance of the two holes; H = bolt thread; J = bolt length (H and J read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); two end taps and two access holes per the feature text. No service numbers are printed on this page."
+    },
+    {
+      "part_number": "3352",
+      "series": [
+        "15"
+      ],
+      "name": "Double End Fastener - Clip",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-17",
+      "description": "Steel clip only (black) for the fractional 15 series double end fastener, without bolts.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end taps (pg. 11-3); mating profile requires access holes (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Black",
+      "weight": ".040 lb",
+      "specs": {
+        "Type": "Clip",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".354”",
+        "E": "2.800”",
+        "F": "2.500”",
+        "G": "1.500”",
+        "H": "—",
+        "J": "—"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = center-to-center distance of the two holes; H = bolt thread; J = bolt length (H and J read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); two end taps and two access holes per the feature text. No service numbers are printed on this page."
+    },
+    {
+      "part_number": "3795",
+      "series": [
+        "15"
+      ],
+      "name": "Double End Fastener - Clip",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-17",
+      "description": "Steel clip only (bright) for the fractional 15 series double end fastener, without bolts.",
+      "features": [
+        "Winged tabs of clip prevents mating profile from rotating (clips only available)",
+        "Mounting profile requires end taps (pg. 11-3); mating profile requires access holes (pg. 11-5)"
+      ],
+      "material": "Steel",
+      "color": "Bright",
+      "weight": ".040 lb",
+      "specs": {
+        "Type": "Clip",
+        "A": ".625”",
+        "B": ".450”",
+        "C": ".300”",
+        "D": ".354”",
+        "E": "2.800”",
+        "F": "2.500”",
+        "G": "1.500”",
+        "H": "—",
+        "J": "—"
+      },
+      "dimension_notes": "ø D = clip hole diameter; E = overall clip length; G = center-to-center distance of the two holes; H = bolt thread; J = bolt length (H and J read '—' on clip-only rows).",
+      "notes": "Requires machining services Tap Profile End (profile machined: Mounting Profile; reference page 11-3) and Access Hole (profile machined: Mating Profile; reference page 11-5); two end taps and two access holes per the feature text. No service numbers are printed on this page."
+    },
+    {
+      "part_number": "33450",
+      "series": [
+        "15"
+      ],
+      "name": "Hidden Corner Connector - Inside-Inside",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-18",
+      "description": "Natural zinc inside-inside hidden corner connector for fractional 15 series profile that connects inside two profiles; it needs no machining and includes two set screws.",
+      "features": [
+        "No machining required, includes two set screws for quick, easy connection.",
+        "Connects inside two profiles inside-inside or inside one profile and outside one profile."
+      ],
+      "material": "Zinc",
+      "finish": "Natural",
+      "weight": ".054 lb",
+      "specs": {
+        "Type": "Inside-Inside",
+        "Hex Size": "3.0mm",
+        "A": ".827”",
+        "B": ".750”",
+        "C": ".236”",
+        "D": ".307”",
+        "E": ".621”",
+        "F": ".323”",
+        "G": ".228”",
+        "H": ".638”",
+        "J": "1.181”",
+        "K": "5º",
+        "L": ".228”",
+        "M": ".313”",
+        "N": "M6 x 1.0"
+      },
+      "dimension_notes": "K = angle in degrees; N = thread of the set screw shown in the lower leg; Hex Size = hex key size (printed in mm).",
+      "notes": "Row is also badged 30 and 40 series (metric). Material cell is printed 'Natural Zinc' and the 3.0mm Hex Size cell is merged across 33450 and 33470. Set screw thread is metric (M6 x 1.0) although dimensions are in inches. No machining required."
+    },
+    {
+      "part_number": "33470",
+      "series": [
+        "15"
+      ],
+      "name": "Hidden Corner Connector - Inside-Outside",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-18",
+      "description": "Natural zinc inside-outside hidden corner connector for fractional 15 series profile that connects inside one profile and outside one profile; it needs no machining and includes two set screws.",
+      "features": [
+        "No machining required, includes two set screws for quick, easy connection.",
+        "Connects inside two profiles inside-inside or inside one profile and outside one profile."
+      ],
+      "material": "Zinc",
+      "finish": "Natural",
+      "weight": ".052 lb",
+      "specs": {
+        "Type": "Inside-Outside",
+        "Hex Size": "3.0mm",
+        "A": ".827”",
+        "B": ".732”",
+        "C": ".236”",
+        "D": ".307”",
+        "E": ".621”",
+        "F": ".323”",
+        "G": ".228”",
+        "H": ".638”",
+        "J": "1.181”",
+        "K": "5º",
+        "L": ".228”",
+        "M": ".313”",
+        "N": "M6 x 1.0"
+      },
+      "dimension_notes": "K = angle in degrees; N = thread of the set screw shown in the lower leg; Hex Size = hex key size (printed in mm).",
+      "notes": "Row is also badged 30 and 40 series (metric). Material cell is printed 'Natural Zinc' and the 3.0mm Hex Size cell is merged across 33450 and 33470. Set screw thread is metric (M6 x 1.0) although dimensions are in inches. No machining required."
+    },
+    {
+      "part_number": "3364",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Inside Corner Connector - Aluminum",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-19",
+      "description": "Anodized aluminum 90 degree inside corner connector for fractional 15 series profile that installs with no machining using four included 1/4-20 x 1/2” set screws.",
+      "features": [
+        "No machining required",
+        "Includes four set screws",
+        "Zinc connector has tapped hole for panel mounting",
+        "Suggested tool is a 1/8” (3.175mm) hex wrench"
+      ],
+      "material": "Aluminum",
+      "finish": "Anodize",
+      "weight": ".097 lb",
+      "specs": {
+        "A": ".625”",
+        "B": ".313”",
+        "C": ".312”",
+        "D": ".937”",
+        "E": ".436”",
+        "F": "2.50”",
+        "G": ".655”",
+        "H": "—",
+        "J": "1/4-20 x 1/2”"
+      },
+      "dimension_notes": "J = set screw size (four included); H = tapped panel-mounting hole (zinc version only); F = overall leg length; angle shown is 135º TYP.",
+      "notes": "Row is also badged 40 series (metric). No tapped panel-mounting hole on the aluminum version (H reads '—'). Suggested tool: 1/8” (3.175mm) hex wrench. No machining required."
+    },
+    {
+      "part_number": "3368",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Inside Corner Connector - Zinc",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-19",
+      "description": "Natural zinc 90 degree inside corner connector for fractional 15 series profile with a 1/4-20 tapped hole for panel mounting; installs with no machining using four included 1/4-20 x 1/2” set screws.",
+      "features": [
+        "No machining required",
+        "Includes four set screws",
+        "Zinc connector has tapped hole for panel mounting",
+        "Suggested tool is a 1/8” (3.175mm) hex wrench"
+      ],
+      "material": "Zinc",
+      "finish": "Natural",
+      "weight": ".192 lb",
+      "specs": {
+        "A": ".625”",
+        "B": ".313”",
+        "C": ".312”",
+        "D": ".937”",
+        "E": ".436”",
+        "F": "2.50”",
+        "G": ".655”",
+        "H": "1/4-20 Tap",
+        "J": "1/4-20 x 1/2”"
+      },
+      "dimension_notes": "J = set screw size (four included); H = tapped panel-mounting hole (zinc version only); F = overall leg length; angle shown is 135º TYP.",
+      "notes": "Row is also badged 40 series (metric). Footnote * on part number (printed as 3368*): 'Tap thru available'. Suggested tool: 1/8” (3.175mm) hex wrench. No machining required."
+    },
+    {
+      "part_number": "13193",
+      "series": [
+        "15"
+      ],
+      "name": "Miter Connector",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-19",
+      "description": "Bright zinc steel miter connector for internal connections ranging from 90 degrees to 180 degrees; each profile needs miter connector profile milling.",
+      "features": [
+        "Internal connections ranging from 90 degrees to 180 degrees",
+        "Requires a miter connector profile milling service (pg. 11-19)"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0795 kg (.175 lb)",
+      "specs": {
+        "A": "66.00mm (2.598”)",
+        "B": "33.00mm (1.299”)",
+        "C": "9.50mm (.374”)",
+        "D": "15.00mm (.591”)",
+        "E": "22.00mm (.866”)",
+        "F": "15.00mm (.591”)",
+        "G": "M10 x 12"
+      },
+      "dimension_notes": "A = overall length; ø D and ø G are diameter callouts on the drawing; G is printed as the thread size M10 x 12.",
+      "notes": "Row is also badged 40 and 45 series (metric); dimensions printed in mm with inch equivalents in parentheses. Requires machining service Miter Connector Profile Milling (profile machined: Each Profile; reference page 11-19); no service number is printed on this page."
+    }
+  ],
+  "page_notes": {
+    "176": "4-12 Standard Anchor Fastener: 9 fractional 15 rows extracted (3360, 3359, 3660**, 3897, 3362, 3373, 3661*, and cam-only 3354/3361); 10-series and metric rows skipped. Required machining Counterbore (pg. 11-7) has no service number, recorded in notes.",
+    "177": "4-13 Double Anchor Fastener (Zinc, merged material cell): 6 fractional 15 rows extracted (3095, 3098, 3100, 3097, 3099, 3102); 10-series and metric rows skipped. Counterbores (pg. 11-7) recorded in notes.",
+    "178": "4-14 Butt Fastener (Zinc): 3370 and 3370-Black (15) extracted; 10-series and metric rows skipped. Counterbore (pg. 11-7) recorded in notes.",
+    "179": "4-15 Standard End Fastener (Steel): 15 rows 3380, 3680*, 3891 (assemblies) and 3379, 3679 (clips) extracted; 10-series and metric rows skipped. Tap Profile End (11-3) and Access Hole (11-5) recorded in notes.",
+    "180": "4-16 Single Tab End Fastener (Steel): 15 rows 3389 (assembly) and 3189 (clip) extracted; 10-series and metric rows skipped. Tap Profile End (11-3) and Access Hole (11-5) recorded in notes.",
+    "181": "4-17 Double End Fastener (Steel): 15 rows 3344, 3793*, 3902 (assemblies) and 3352, 3795 (clips) extracted; 10-series rows skipped. Tap Profile End (11-3) and Access Hole (11-5) recorded in notes.",
+    "182": "4-18 Hidden Corner Connector: 33450 (Inside-Inside) and 33470 (Inside-Outside), badged 15 + 30/40, extracted; 33440/33460 (10+25) and 33490/33530 (45) skipped. No machining required.",
+    "183": "4-19 90 Degree Inside Corner Connector: 3364 (aluminum) and 3368* (zinc), badged 15+40, extracted; 40-3368* metric skipped. Miter Connector 13193 (15+40+45) extracted; Miter Connector Profile Milling (pg. 11-19) has no service number, recorded in notes."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "Footnote markers were stripped from part numbers (printed 3660**, 3661*, 3680*, 3793*, 3368*); the footnote text is kept in each part's notes.",
+      "3095 (4-13) prints A 1.378”, B .313”, F 1.501”, which differ from the other 1.5” rows (1.383”, .309”, 1.469”). Kept as printed; it may be a catalog typo.",
+      "Required Machining Services tables on 4-12 to 4-19 (Counterbore 11-7, Tap Profile End 11-3, Access Hole 11-5, Miter Connector Profile Milling 11-19) carry no series badge and no service number, so no machining_service parts were created. They are recorded in notes only.",
+      "Hidden Corner Connector N column (M6 x 1.0) is read as the set screw thread from the drawing pointer; the page does not label it explicitly.",
+      "Soft-hyphen characters (U+00AD) printed before some em dashes in the text layer were dropped; values are stored as a plain em dash."
+    ]
+  }
+}

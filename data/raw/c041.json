@@ -1,0 +1,547 @@
+{
+  "chunk": "c041",
+  "pages": [
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501
+  ],
+  "parts": [
+    {
+      "part_number": "2745",
+      "series": [
+        "15"
+      ],
+      "name": "Magnetic Door Catch Bracket",
+      "category": "bracket_plate",
+      "section": "Panels & Doors",
+      "catalog_page": "5-128",
+      "description": "Milled aluminum bracket used to attach the magnetic door catch (pg. 5-127) to T-slot profile. Mounting hardware is included.",
+      "features": [
+        "Used to attach the magnetic door catch (pg. 5-127)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".087 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.000”",
+        "B": ".250”",
+        "C": "1.000”",
+        "D": ".250”",
+        "E": "1.000”",
+        "F": ".375”",
+        "G": ".170”",
+        "H": "1.660”",
+        "J": "8-32"
+      },
+      "dimension_notes": "J = thread",
+      "suggested_hardware": [
+        {
+          "part_number": "3061",
+          "qty": 2,
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3258",
+          "qty": 2,
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badges 10 and 15. Included hardware (Mount to T-Slot) for 10/15: 2 x 3061, 2 x 3382, 2 x 3258 (descriptions of 3061 and 3258 not given on this page; 3382 description taken from pg. 5-132)."
+    },
+    {
+      "part_number": "2745-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Magnetic Door Catch Bracket",
+      "category": "bracket_plate",
+      "section": "Panels & Doors",
+      "catalog_page": "5-128",
+      "description": "Black anodized milled aluminum bracket used to attach the magnetic door catch (pg. 5-127) to T-slot profile. Mounting hardware is included.",
+      "features": [
+        "Used to attach the magnetic door catch (pg. 5-127)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".087 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.000”",
+        "B": ".250”",
+        "C": "1.000”",
+        "D": ".250”",
+        "E": "1.000”",
+        "F": ".375”",
+        "G": ".170”",
+        "H": "1.660”",
+        "J": "8-32"
+      },
+      "dimension_notes": "J = thread",
+      "suggested_hardware": [
+        {
+          "part_number": "3061",
+          "qty": 2,
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 2,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3258",
+          "qty": 2,
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badges 10 and 15. Included hardware (Mount to T-Slot) for 10/15: 2 x 3061, 2 x 3382, 2 x 3258 (descriptions of 3061 and 3258 not given on this page; 3382 description taken from pg. 5-132)."
+    },
+    {
+      "part_number": "4486",
+      "series": [
+        "15"
+      ],
+      "name": "Nylon Magnetic Door Catch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-129",
+      "description": "Black injection-molded nylon magnetic catch that gives a quick-catching method for plastic panel doors. It mounts to T-slot and requires a panel tap machining service.",
+      "features": [
+        "Quick-catching method ideal for plastic panel doors",
+        "Requires panel tap machining service (pg. 11-46)"
+      ],
+      "material": "Nylon",
+      "finish": "Black",
+      "color": "Black",
+      "weight": ".078 lb",
+      "specs": {
+        "A": ".795”",
+        "B": "1.102”",
+        "C": "M5 x 0.8",
+        "D": ".393”",
+        "E": "1.570”",
+        "F": ".600”",
+        "G": ".255”",
+        "H": ".532”",
+        "Process": "Injection Molded"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3304",
+          "qty": 2,
+          "description": "1/4-20 x 3/4” SHCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges 10 and 15. Required machining service: Tap, part machined Panel, reference page 11-46. 10-series suggested hardware is 3493 (1/4-20 x 5/8” SHCS, Economy)."
+    },
+    {
+      "part_number": "4487",
+      "series": [
+        "15"
+      ],
+      "name": "Single Ball Catch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-130",
+      "description": "Black injection-molded nylon PA single ball catch with an M8 x 1.25 threaded ball stud, giving a quick-catching method for plastic panel doors. It mounts to T-slot and requires a panel drill thru tap machining service.",
+      "features": [
+        "Quick-catching method ideal for plastic panel doors",
+        "Requires panel tap machining service (pg. 11-46)"
+      ],
+      "material": "Nylon PA",
+      "color": "Black",
+      "weight": ".062 lb",
+      "specs": {
+        "A": "1.890”",
+        "B": "1.457”",
+        "C": "1.102”",
+        "D": ".630”",
+        "E": ".236”",
+        "F": ".512”",
+        "G": "1.110”",
+        "H": ".087”",
+        "J": "M8 x 1.25",
+        "K": ".472”",
+        "L": ".787”",
+        "M": ".394”",
+        "N": ".984”",
+        "P": ".335”",
+        "Process": "Injection Molded"
+      },
+      "dimension_notes": "J = ball stud thread",
+      "suggested_hardware": [
+        {
+          "part_number": "3304",
+          "qty": 2,
+          "description": "1/4-20 x 3/4” SHCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges 10 and 15. Required machining service: Drill Thru Tap, part machined Panel, reference page 11-46. 10-series suggested hardware is 3493 (1/4-20 x 5/8” SHCS, Economy)."
+    },
+    {
+      "part_number": "12019",
+      "series": [
+        "15"
+      ],
+      "name": "Double Ball Catch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-131",
+      "description": "Black injection-molded nylon double ball catch that mounts to T-slot profile. Dimensions and weight are printed in metric only.",
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0410 kg",
+      "specs": {
+        "A": "19.50mm",
+        "B": "5.44mm",
+        "C": "17.00mm",
+        "D": "37.00mm",
+        "E": "37.00mm",
+        "F": "40.00mm",
+        "G": "57.00mm",
+        "H": "76.00mm",
+        "J": "7.00mm",
+        "K": "22.87mm",
+        "L": "73.90mm",
+        "Process": "Injection Molded"
+      },
+      "dimension_notes": "A and B are marked TYP on the drawing",
+      "suggested_hardware": [
+        {
+          "part_number": "13-5516",
+          "qty": 4,
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13116",
+          "qty": 4,
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13-6040",
+          "qty": 4,
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "One part number shared by series 10, 15, 25, 30, 40 and 45; dimensions and weight printed only in metric. Suggested hardware table gives part numbers only (no descriptions): for 15 series use 4 x 13-5516, 4 x 13116, 4 x 13-6040."
+    },
+    {
+      "part_number": "2134",
+      "series": [
+        "15"
+      ],
+      "name": "Tension Ball Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-132",
+      "description": "Anodized 6063-T6 aluminum tension ball latch for 15 series profile, in clear. It mounts to T-slot with the included screws and slide-in economy T-nuts.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".439 lb",
+      "specs": {
+        "A": "2.764”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": ".938”",
+        "E": ".257”",
+        "F": "3.500”",
+        "G": "4.000”",
+        "H": "1.500”",
+        "J": "3.146”",
+        "K": "1.500”",
+        "L": ".903”",
+        "M": ".188”",
+        "N": ".188”"
+      },
+      "dimension_notes": "E = hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3342",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” FBHSCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 4,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badges 15, 30, 40, 45 (2034 is the 10-series version). Mounting hardware included: 4 x 3342 and 4 x 3382. The separate Suggested Hardware table on this page applies only to metric 45 series."
+    },
+    {
+      "part_number": "2134-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Tension Ball Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-132",
+      "description": "Anodized 6063-T6 aluminum tension ball latch for 15 series profile, in black. It mounts to T-slot with the included screws and slide-in economy T-nuts.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".439 lb",
+      "specs": {
+        "A": "2.764”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": ".938”",
+        "E": ".257”",
+        "F": "3.500”",
+        "G": "4.000”",
+        "H": "1.500”",
+        "J": "3.146”",
+        "K": "1.500”",
+        "L": ".903”",
+        "M": ".188”",
+        "N": ".188”"
+      },
+      "dimension_notes": "E = hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3342",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” FBHSCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3382",
+          "qty": 4,
+          "description": "Slide-In Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badges 15, 30, 40, 45 (2034-Black is the 10-series version). Mounting hardware included: 4 x 3342 and 4 x 3382. The separate Suggested Hardware table on this page applies only to metric 45 series."
+    },
+    {
+      "part_number": "12023",
+      "series": [
+        "15"
+      ],
+      "name": "Heavy-Duty Door Latch",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-133",
+      "description": "Zinc die-cast door latch with 50 N / 11.25 lbs holding force. The latch body mounts with included screws and catches on a standard SHCS installed in the male-side profile.",
+      "features": [
+        "Latch body and mounting screws included (T-nuts & SHCS sold separately)",
+        "Latch connects to standard SHCS on male profile"
+      ],
+      "material": "Zinc Die-Cast",
+      "weight": ".127 lbs",
+      "specs": {
+        "A": ".259” (6.59mm)",
+        "B": ".374” (9.50mm)",
+        "C": ".787” (20.00mm)",
+        "D": ".301” (7.64mm)",
+        "E": "3.661” (93.00mm)",
+        "F": "2.756” (70.00mm)",
+        "Holding Force": "50 N / 11.25 lbs"
+      },
+      "dimension_notes": "D = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "13114",
+          "qty": 2,
+          "description": "Drop-in T-Nut",
+          "context": "Suggested Latch Hardware"
+        },
+        {
+          "part_number": "11-6516",
+          "qty": 1,
+          "description": "M6 x 16mm SHCS",
+          "context": "Mount to T-slot for Male Side of Latch"
+        },
+        {
+          "part_number": "13024",
+          "qty": 1,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-slot for Male Side of Latch"
+        }
+      ],
+      "notes": "One part number shared by series 10, 15, 25, 30, 40 and 45. Metric weight .0580 kg. Included latch hardware for 15/40: 2 x M4 x 16mm FHSCS (no part number given). T-nuts and SHCS sold separately."
+    },
+    {
+      "part_number": "2773",
+      "series": [
+        "15"
+      ],
+      "name": "Hook Latch Toggle Clamp - Latch Bracket",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-134",
+      "description": "Aluminum latch bracket with steel pin, used with the hook latch toggle clamp (2778). It mounts to T-slot.",
+      "features": [
+        "900 lb holding capacity when used with latch",
+        "0.51” max threaded hook adjustment"
+      ],
+      "material": "Aluminum with Steel Pin",
+      "weight": "0.228 lbs",
+      "specs": {
+        "Description": "Latch Bracket",
+        "A": "0.394” (10.00mm)",
+        "B": "1.732” (43.99mm)",
+        "C": "1.969” (50.01mm)",
+        "D": "2.441” (62.00mm)",
+        "E": "1.154” (29.31mm)",
+        "F": "1.940” (49.27mm)",
+        "G": ".719” (18.26mm)",
+        "H": ".346” (8.78mm)"
+      },
+      "dimension_notes": "A = pin diameter, H = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8312",
+          "qty": 2,
+          "description": "M8 x 12mm BHSCS",
+          "context": "Mount to Latch Bracket to T-slot"
+        },
+        {
+          "part_number": "3838",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to Latch Bracket to T-slot"
+        }
+      ],
+      "notes": "Series badges 15, 40, 45. Metric weight 0.103 kg. Used with hook latch toggle clamp 2778; 900 lb holding capacity applies when clamp is used with latch."
+    },
+    {
+      "part_number": "2778",
+      "series": [
+        "15"
+      ],
+      "name": "Hook Latch Toggle Clamp",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-134",
+      "description": "Steel hook latch toggle clamp on an aluminum plate that mounts to T-slot and hooks onto the latch bracket (2773). It has 900 lb holding capacity when used with the latch and 0.51” max threaded hook adjustment.",
+      "features": [
+        "900 lb holding capacity when used with latch",
+        "0.51” max threaded hook adjustment"
+      ],
+      "material": "Steel / Aluminum Plate",
+      "weight": "1.458 lbs",
+      "specs": {
+        "Description": "Hook Latch Toggle Clamp with Plate",
+        "A": "1.940” (49.27mm)",
+        "B": "3.560” (90.42mm)",
+        "C": "4.320” (109.72mm)",
+        "D": "M8 BHSCS",
+        "E": "2.076” (52.73mm)",
+        "F": "8.980” (228.09mm)",
+        "G": "1.990 / 2.500” (50.54mm/63.50mm)",
+        "H": "-"
+      },
+      "dimension_notes": "G = hook reach (Min/Max); D = M8 BHSCS mounting screw callout",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8312",
+          "qty": 2,
+          "description": "M8 x 12mm BHSCS",
+          "context": "Mount to Clamp/Plate to T-slot"
+        },
+        {
+          "part_number": "3838",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to Clamp/Plate to T-slot"
+        }
+      ],
+      "notes": "Series badges 15, 40, 45. Metric weight 0.661 kg. Used with latch bracket 2773 for the 900 lb holding capacity."
+    },
+    {
+      "part_number": "2909",
+      "series": [
+        "15"
+      ],
+      "name": "Drop Rod",
+      "category": "latch",
+      "section": "Panels & Doors",
+      "catalog_page": "5-135",
+      "description": "Steel pin drop rod in a die-cast bracket that mounts to T-slot to anchor gates or doors firmly to the ground. Height or throw is adjustable, and the handle is reversible for left or right-handed use.",
+      "features": [
+        "Anchor gates or doors firmly to the ground",
+        "Adjustable height or throw with reversible left or right-handed handle"
+      ],
+      "material": "Steel Pin with Die-Cast Bracket",
+      "weight": "3.125 lbs",
+      "specs": {
+        "A": ".984” (25.00mm)",
+        "B": "19.291” (490.00mm)",
+        "C": "1.102” (28.00mm)",
+        "D": "7.874” (200.00mm)",
+        "E": "5.000” / 8.937” (127.00mm / 227.00mm)",
+        "F": ".748” (19.00mm)",
+        "G": "3.268” (83.00mm)",
+        "H": "1.201” (30.50mm)",
+        "J": ".413” (10.50mm)",
+        "K": "5.512” (140.00mm)"
+      },
+      "dimension_notes": "B = overall length, E = throw (MIN/MAX), F = rod diameter, J = mounting hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8716",
+          "qty": 2,
+          "description": "M8 x 16mm FHSCS",
+          "context": "Mount to T-slot"
+        },
+        {
+          "part_number": "3838",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-slot"
+        }
+      ],
+      "notes": "Series badges 15, 30, 40, 45. Metric weight 1.417 kg."
+    }
+  ],
+  "page_notes": {
+    "494": "Magnetic Door Catch Bracket 2745 / 2745-Black (10/15) with included mounting hardware; metric 65- rows skipped.",
+    "495": "Nylon Magnetic Door Catch 4486 (10/15) with required panel tap machining and suggested hardware; metric 65-4486 skipped.",
+    "496": "Single Ball Catch 4487 (10/15) with required drill thru tap machining and suggested hardware; metric 65-4487 skipped.",
+    "497": "Double Ball Catch 12019 (one part for 10/15/25/30/40/45, metric dimensions) with suggested hardware.",
+    "498": "Tension Ball Latch: 2134 / 2134-Black are 15 series (extracted); 2034 / 2034-Black are 10/25 only (skipped); included hardware attached; suggested hardware is 45 only.",
+    "499": "Heavy-Duty Door Latch 12023 (one part for 10/15/25/30/40/45) with included, suggested latch and male-side mounting hardware.",
+    "500": "Hook Latch Toggle Clamp 2778 and Latch Bracket 2773 (15/40/45) with separate suggested hardware tables for each.",
+    "501": "Drop Rod 2909 (15/30/40/45) with suggested mounting hardware."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2773: description 'that the hook of the hook latch toggle clamp (2778) engages' (inferred from photo) -> 'used with the hook latch toggle clamp (2778)'",
+      "12019: description 'mounts to T-slot profile with four sets of hardware' -> 'mounts to T-slot profile' (qty is in suggested_hardware)",
+      "12019: dimension_notes 'A and B are typical (TYP) slot dimensions' -> 'A and B are marked TYP on the drawing' (slot role not labeled)"
+    ],
+    "remaining_doubts": [
+      "2745/2745-Black: included hardware 3061 and 3258 have no descriptions on pg. 5-128; 3382 description was taken from pg. 5-132 (same chunk).",
+      "12023: included latch screws (2 x M4 x 16mm FHSCS) have no part number, so they are kept in notes rather than suggested_hardware.",
+      "2778: spec D is printed as 'M8 BHSCS' and H as '-', copied verbatim; G Min/Max read as hook adjustment (2.500 - 1.990 = 0.51, matching the 0.51” max adjustment bullet)."
+    ]
+  }
+}

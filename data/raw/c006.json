@@ -1,0 +1,665 @@
+{
+  "chunk": "c006",
+  "pages": [
+    184,
+    186,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193
+  ],
+  "parts": [
+    {
+      "part_number": "13187",
+      "series": [
+        "15"
+      ],
+      "name": "Central Connector (Vertical)",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-20",
+      "description": "Steel spring-loaded central connector, vertical orientation, that makes a 90 degree hidden connection where profile ends are captivated; the mounting profile must be milled for it.",
+      "features": [
+        "90 degree, hidden connection used when profile ends are captivated",
+        "Requires central connector profile milling machining service (pg. 11-21)"
+      ],
+      "material": "Steel",
+      "weight": ".0485 kg",
+      "specs": {
+        "Orientation": "Vertical",
+        "Spring": "Yes",
+        "A": "2.047”",
+        "B": "1.594”",
+        "C": ".374”",
+        "D": ".590”",
+        "E": ".444”",
+        "F": ".307”",
+        "G": ".709”",
+        "H": ".945”",
+        "J": ".748”",
+        "K": ".217”",
+        "L": "M12 x 12"
+      },
+      "notes": "Requires machining service Central Connector Profile Milling (profile machined: Mounting Profile; reference page 11-21). Row is also badged 40 series (metric); dimensions are given in inches with an M12 x 12 thread size."
+    },
+    {
+      "part_number": "13188",
+      "series": [
+        "15"
+      ],
+      "name": "Central Connector (Horizontal)",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-20",
+      "description": "Steel spring-loaded central connector, horizontal orientation, that makes a 90 degree hidden connection where profile ends are captivated; the mounting profile must be milled for it.",
+      "features": [
+        "90 degree, hidden connection used when profile ends are captivated",
+        "Requires central connector profile milling machining service (pg. 11-21)"
+      ],
+      "material": "Steel",
+      "weight": ".0462 kg",
+      "specs": {
+        "Orientation": "Horizontal",
+        "Spring": "Yes",
+        "A": "2.047”",
+        "B": "1.594”",
+        "C": ".374”",
+        "D": ".590”",
+        "E": ".444”",
+        "F": ".748”",
+        "G": ".709”",
+        "H": ".945”",
+        "J": ".307”",
+        "K": ".217”",
+        "L": "M12 x 12"
+      },
+      "notes": "Requires machining service Central Connector Profile Milling (profile machined: Mounting Profile; reference page 11-21). Row is also badged 40 series (metric); dimensions are given in inches with an M12 x 12 thread size."
+    },
+    {
+      "part_number": "13201",
+      "series": [
+        "15"
+      ],
+      "name": "Central Connector (Universal)",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-20",
+      "description": "Steel spring-loaded central connector, universal orientation, that makes a 90 degree hidden connection where profile ends are captivated; the mounting profile must be milled for it.",
+      "features": [
+        "90 degree, hidden connection used when profile ends are captivated",
+        "Requires central connector profile milling machining service (pg. 11-21)"
+      ],
+      "material": "Steel",
+      "weight": ".0500 kg",
+      "specs": {
+        "Orientation": "Universal",
+        "Spring": "Yes",
+        "A": "2.047”",
+        "B": "1.594”",
+        "C": ".374”",
+        "D": ".590”",
+        "E": ".444”",
+        "F": ".748”",
+        "G": ".709”",
+        "H": ".945”",
+        "J": "M12 x 12",
+        "K": ".217”",
+        "L": "-"
+      },
+      "notes": "Requires machining service Central Connector Profile Milling (profile machined: Mounting Profile; reference page 11-21). Row is also badged 40 series (metric); dimensions are given in inches with an M12 x 12 thread size. Part number is printed as 13201* with footnote: *A profile corner clearance notch may be required. See page 11-27. In this row the table prints M12 x 12 under J and '-' under L (verbatim)."
+    },
+    {
+      "part_number": "14132",
+      "series": [
+        "15"
+      ],
+      "name": "Milling Connector",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-22",
+      "description": "Steel milling connector in bright finish that installs with no machining required; connectors can be used in pairs.",
+      "features": [
+        "No machining required",
+        "Connector can be used in pairs"
+      ],
+      "material": "Steel",
+      "color": "Bright",
+      "weight": ".0544 kg",
+      "specs": {
+        "A": "7.80mm",
+        "B": "M8 x 11",
+        "C": "18.00mm",
+        "D": "57.50mm",
+        "E": "M5 x 16"
+      },
+      "dimension_notes": "D = length of the connector body (the drawing measures it to the E screw head, not past it); B and E are the thread/screw sizes called out on the drawing",
+      "notes": "Row is also badged 40 series (metric); dimensions are printed in mm only. Color column reads Bright (merged cell for all Milling Connector rows)."
+    },
+    {
+      "part_number": "14197",
+      "series": [
+        "15"
+      ],
+      "name": "T-Matic Connector",
+      "category": "internal_fastener",
+      "section": "Internal Fasteners",
+      "catalog_page": "4-22",
+      "description": "Steel T-Matic connector in silver with a left-handed threaded barrel and a self-retained M6 x 40mm SHCS; installs with no machining and allows infinite positioning.",
+      "features": [
+        "No machining required",
+        "Infinite positioning",
+        "Left-handed barrel thread and self-retained screw to support ease of installation"
+      ],
+      "material": "Steel",
+      "color": "Silver",
+      "weight": ".0673 lb (0.031 kg)",
+      "specs": {
+        "A": "1.457” (37.00mm)",
+        "B": ".358” (9.10mm)",
+        "C": ".315” (8.00mm)",
+        "D": ".527” (13.39mm)",
+        "E": "M12 x 1.5",
+        "F": "M6 x 40mm SHCS",
+        "G": ".748” (19.00mm)",
+        "H": ".236” (6.00mm)"
+      },
+      "dimension_notes": "E = barrel thread (left-handed threads), F = self-retained screw; A is measured from behind the head to the barrel end, not the overall length",
+      "notes": "Row is also badged 40 series (metric)."
+    },
+    {
+      "part_number": "4307",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Straight Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-24",
+      "description": "2-hole straight flat plate in 6063-T6 aluminum with clear anodize finish, 3.000” x 1.490”, for 15 series T-slot profile; mounts to T-slots with 2 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".103 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.490”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".745”",
+        "F": ".328”",
+        "G": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing, D = hole center to end (typ), E = hole center to side edge (typ), F = hole diameter (typ), G = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 2 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4307-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Straight Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-24",
+      "description": "2-hole straight flat plate in 6063-T6 aluminum with black anodize finish, 3.000” x 1.490”, for 15 series T-slot profile; mounts to T-slots with 2 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".103 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.490”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".745”",
+        "F": ".328”",
+        "G": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing, D = hole center to end (typ), E = hole center to side edge (typ), F = hole diameter (typ), G = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 2 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4306",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "3 Hole - Straight Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-25",
+      "description": "3-hole straight flat plate in 6063-T6 aluminum with clear anodize finish, 4.500” x 1.490”, for 15 series T-slot profile; mounts to T-slots with 3 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".155 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "1.490”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".745”",
+        "F": ".328”",
+        "G": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to end (typ), E = hole center to side edge (typ), F = hole diameter (typ), G = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 3 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 3, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4306-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "3 Hole - Straight Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-25",
+      "description": "3-hole straight flat plate in 6063-T6 aluminum with black anodize finish, 4.500” x 1.490”, for 15 series T-slot profile; mounts to T-slots with 3 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".155 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "1.490”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".745”",
+        "F": ".328”",
+        "G": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to end (typ), E = hole center to side edge (typ), F = hole diameter (typ), G = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 3 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 3, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4305",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Straight Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-26",
+      "description": "4-hole straight flat plate in 6063-T6 aluminum with clear anodize finish, 6.000” x 1.490”, for 15 series T-slot profile; mounts to T-slots with 4 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".206 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "1.490”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".745”",
+        "F": ".328”",
+        "G": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to end (typ), E = hole center to side edge (typ), F = hole diameter (typ), G = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 4, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4305-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Straight Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-26",
+      "description": "4-hole straight flat plate in 6063-T6 aluminum with black anodize finish, 6.000” x 1.490”, for 15 series T-slot profile; mounts to T-slots with 4 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".206 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "1.490”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".745”",
+        "F": ".328”",
+        "G": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to end (typ), E = hole center to side edge (typ), F = hole diameter (typ), G = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 4, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4367",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Square Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-27",
+      "description": "4-hole square flat plate in 6063-T6 aluminum with clear anodize finish, 3.000” x 3.000”, for 15 series T-slot profile; mounts to T-slots with 4 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".209 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 4, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4367-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Square Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-27",
+      "description": "4-hole square flat plate in 6063-T6 aluminum with black anodize finish, 3.000” x 3.000”, for 15 series T-slot profile; mounts to T-slots with 4 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".209 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets. Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 4, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4366",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Rectangular Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-28",
+      "description": "6-hole rectangular flat plate in 6063-T6 aluminum with clear anodize finish, 4.500” x 3.000”, for 15 series T-slot profile; mounts to T-slots with 6 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".312 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets."
+    },
+    {
+      "part_number": "4366-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - Rectangular Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-28",
+      "description": "6-hole rectangular flat plate in 6063-T6 aluminum with black anodize finish, 4.500” x 3.000”, for 15 series T-slot profile; mounts to T-slots with 6 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".312 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets."
+    },
+    {
+      "part_number": "4365",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Rectangular Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-29",
+      "description": "8-hole rectangular flat plate in 6063-T6 aluminum with clear anodize finish, 6.000” x 3.000”, for 15 series T-slot profile; mounts to T-slots with 8 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".414 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 8 suggested bolt and T-nut sets."
+    },
+    {
+      "part_number": "4365-Black",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Rectangular Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-29",
+      "description": "8-hole rectangular flat plate in 6063-T6 aluminum with black anodize finish, 6.000” x 3.000”, for 15 series T-slot profile; mounts to T-slots with 8 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".414 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”"
+      },
+      "dimension_notes": "A = overall length, B = width, C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 8 suggested bolt and T-nut sets."
+    }
+  ],
+  "page_notes": {
+    "184": "Central Connector (catalog 4-20): 13187/13188/13201 badged 15+40 extracted as 15; 13194/13195 (30) and 14012/14013 (45) metric-only skipped; Central Connector Cover Cap 13001 is metric (45) only, skipped. Required machining (Central Connector Profile Milling, pg. 11-21) has no service number, recorded in notes.",
+    "186": "Milling Connector: 14132 (15+40) extracted, 14116 (30) and 14133 (45) metric-only skipped. T-Matic Connector: 14197 (15+40) extracted, 14200 (10+25) skipped.",
+    "188": "2 Hole - Straight Flat Plate (4-24): 4307 and 4307-Black (15+RT) extracted; 10 and metric rows skipped. Suggested hardware 3320 (15) attached; 3960 (RT) Ready Tube hardware noted.",
+    "189": "3 Hole - Straight Flat Plate (4-25): 4306 and 4306-Black (15+RT) extracted; 10 and metric rows skipped. Suggested hardware 3320 (15) qty 3 attached; 3960 (RT) noted.",
+    "190": "4 Hole - Straight Flat Plate (4-26): 4305 and 4305-Black (15+RT) extracted; 10 and metric rows skipped. Suggested hardware 3320 (15) qty 4 attached; 3960 (RT) noted.",
+    "191": "4 Hole - Square Flat Plate (4-27): 4367 and 4367-Black (15+RT) extracted; 10 and metric rows skipped. Suggested hardware 3320 (15) qty 4 attached; 3960 (RT) noted.",
+    "192": "6 Hole - Rectangular Flat Plate (4-28): 4366 and 4366-Black (15) extracted; 10 and metric rows skipped. Suggested hardware 3320 (15) qty 6 attached; no Ready Tube table.",
+    "193": "8 Hole - Rectangular Flat Plate (4-29): 4365 and 4365-Black (15) extracted; 10 and metric rows skipped. Suggested hardware 3320 (15) qty 8 attached; no Ready Tube table."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "14132: dimension_notes 'D = overall length; B and E are the screw/thread sizes called out on the drawing' -> 'D = length of the connector body (the drawing measures it to the E screw head, not past it); B and E are the thread/screw sizes called out on the drawing'",
+      "14197: dimension_notes 'A = overall length, E = barrel thread (left-handed threads), F = retained screw' -> 'E = barrel thread (left-handed threads), F = self-retained screw; A is measured from behind the head to the barrel end, not the overall length'"
+    ],
+    "remaining_doubts": [
+      "13201 is printed as '13201*'; the asterisk is a footnote marker (corner clearance notch, page 11-27), so part_number is kept as '13201' and the footnote is in notes.",
+      "Central Connector required machining (Central Connector Profile Milling, ref. page 11-21) has no service number on page 4-20, so no machining_service part was created.",
+      "3960 (RT) Ready Tube bolt assemblies are recorded in notes, not suggested_hardware, because only 15/F hardware rows go in suggested_hardware; the plates carry an RT badge, so a downstream merge might want 3960 as structured hardware."
+    ]
+  }
+}

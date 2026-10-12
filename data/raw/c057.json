@@ -1,0 +1,587 @@
+{
+  "chunk": "c057",
+  "pages": [
+    640,
+    641,
+    642,
+    643,
+    644,
+    645,
+    646,
+    647
+  ],
+  "parts": [
+    {
+      "part_number": "4324",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Wide Double Pivot Bracket Assembly with “T” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-86",
+      "description": "15 series 90 degree wide double pivot bracket assembly built from two plates (4333 and 4337), one nub (4386) and two “T” handles (2799). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.554 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4386 (1)",
+        "Handle (Qty.)": "2799 (2)",
+        "A": "2.490”",
+        "B": "6.204”",
+        "C": "3.000”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "B = overall width including handles, C = spacing between plates, E = plate height, F = side-view width including the protruding “T” handle (not the plate alone), ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plates 4333 (1) and 4337 (1), nub 4386 (1), “T” handle 2799 (2)."
+    },
+    {
+      "part_number": "4324-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Wide Double Pivot Bracket Assembly with “T” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-86",
+      "description": "Black version of the 15 series 90 degree wide double pivot bracket assembly built from two plates (4333 and 4337), one nub (4386) and two “T” handles (2799). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.554 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4386 (1)",
+        "Handle (Qty.)": "2799 (2)",
+        "A": "2.490”",
+        "B": "6.204”",
+        "C": "3.000”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "B = overall width including handles, C = spacing between plates, E = plate height, F = side-view width including the protruding “T” handle (not the plate alone), ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plates 4333 (1) and 4337 (1), nub 4386 (1), “T” handle 2799 (2)."
+    },
+    {
+      "part_number": "4424",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Pivot Bracket",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-87",
+      "description": "15 series pivot bracket plate with a curved slot and pivot hole that provides a full 180 degrees of axial motion. It mounts to T-slot profile through its row of mounting holes.",
+      "features": [
+        "Includes lubricated bronze bushing",
+        "Provides a full 180 degrees of axial motion"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".510 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": "7.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": ".375”",
+        "J": ".328”",
+        "K": ".250”",
+        "L": ".220”"
+      },
+      "dimension_notes": "A = overall plate height, B = bottom edge to pivot hole center, C = mounting-hole row to pivot hole center, D = plate length, E = end to first hole, F = hole spacing (typ.), G = mounting hole, ø H = pivot hole diameter, J = slot width, K = thickness at the top (mounting-hole) edge and L = thickness at the bottom edge in the side view",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "4424 is the plate used in the 15 series pivot bracket assemblies 4451 (1 plate), 4453 (2 plates) and 4455 (2 plates)."
+    },
+    {
+      "part_number": "4424-Black",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Pivot Bracket",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-87",
+      "description": "Black version of the 15 series pivot bracket plate with a curved slot and pivot hole that provides a full 180 degrees of axial motion. It mounts to T-slot profile through its row of mounting holes.",
+      "features": [
+        "Includes lubricated bronze bushing",
+        "Provides a full 180 degrees of axial motion"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".510 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "2.250”",
+        "C": "1.500”",
+        "D": "7.500”",
+        "E": ".750”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": ".375”",
+        "J": ".328”",
+        "K": ".250”",
+        "L": ".220”"
+      },
+      "dimension_notes": "A = overall plate height, B = bottom edge to pivot hole center, C = mounting-hole row to pivot hole center, D = plate length, E = end to first hole, F = hole spacing (typ.), G = mounting hole, ø H = pivot hole diameter, J = slot width, K = thickness at the top (mounting-hole) edge and L = thickness at the bottom edge in the side view",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "4424 is the plate used in the 15 series pivot bracket assemblies 4451 (1 plate), 4453 (2 plates) and 4455 (2 plates)."
+    },
+    {
+      "part_number": "4451",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Pivot Bracket Assembly with “L” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-88",
+      "description": "15 series 180 degree pivot bracket assembly built from one 4424 pivot bracket plate, one nub (4387) and one “L” handle (2797). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.199 lb",
+      "specs": {
+        "Plate (Qty.)": "4424 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (1)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "4.015”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "7.500”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "C = overall width including handle, F = plate length, ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plate 4424 (1), nub 4387 (1), “L” handle 2797 (1)."
+    },
+    {
+      "part_number": "4451-Black",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Pivot Bracket Assembly with “L” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-88",
+      "description": "Black version of the 15 series 180 degree pivot bracket assembly built from one 4424 pivot bracket plate, one nub (4387) and one “L” handle (2797). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.199 lb",
+      "specs": {
+        "Plate (Qty.)": "4424 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (1)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "4.015”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "7.500”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "C = overall width including handle, F = plate length, ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plate 4424 (1), nub 4387 (1), “L” handle 2797 (1)."
+    },
+    {
+      "part_number": "4453",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-89",
+      "description": "15 series 180 degree double pivot bracket assembly built from two 4424 pivot bracket plates, one nub (4387) and two “L” handles (2797). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.074 lb",
+      "specs": {
+        "Plate (Qty.)": "4424 (2)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "6.530”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "7.500”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "B = spacing between plates, C = overall width including handles, F = plate length, ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 10,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plate 4424 (2), nub 4387 (1), “L” handle 2797 (2)."
+    },
+    {
+      "part_number": "4453-Black",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-89",
+      "description": "Black version of the 15 series 180 degree double pivot bracket assembly built from two 4424 pivot bracket plates, one nub (4387) and two “L” handles (2797). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.074 lb",
+      "specs": {
+        "Plate (Qty.)": "4424 (2)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "6.530”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "7.500”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "B = spacing between plates, C = overall width including handles, F = plate length, ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 10,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plate 4424 (2), nub 4387 (1), “L” handle 2797 (2)."
+    },
+    {
+      "part_number": "4455",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Wide Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-90",
+      "description": "15 series 180 degree wide double pivot bracket assembly built from two 4424 pivot bracket plates, one nub (4386) and two “L” handles (2797). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.396 lb",
+      "specs": {
+        "Plate (Qty.)": "4424 (2)",
+        "Nub (Qty.)": "4386 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "3.000”",
+        "C": "8.030”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "7.500”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "B = spacing between plates, C = overall width including handles, F = plate length, ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 10,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plate 4424 (2), nub 4386 (1), “L” handle 2797 (2)."
+    },
+    {
+      "part_number": "4455-Black",
+      "series": [
+        "15"
+      ],
+      "name": "180 Degree Wide Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-90",
+      "description": "Black version of the 15 series 180 degree wide double pivot bracket assembly built from two 4424 pivot bracket plates, one nub (4386) and two “L” handles (2797). It mounts to T-slot profile.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.396 lb",
+      "specs": {
+        "Plate (Qty.)": "4424 (2)",
+        "Nub (Qty.)": "4386 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "3.000”",
+        "C": "8.030”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "7.500”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "B = spacing between plates, C = overall width including handles, F = plate length, ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 10,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly components: plate 4424 (2), nub 4386 (1), “L” handle 2797 (2)."
+    },
+    {
+      "part_number": "2797",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Handle Kit - Dynamic Pivot",
+      "category": "handle",
+      "section": "Motion Systems",
+      "catalog_page": "7-91",
+      "description": "15 series “L” handle kit for a dynamic pivot that adds an adjustable stop and secures the pivot in a semi-permanent position. Mounting hardware is included.",
+      "features": [
+        "Adds adjustable stop to dynamic pivot and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Zinc",
+      "finish": "Gloss",
+      "color": "Gray",
+      "weight": ".368 lbs",
+      "specs": {
+        "Process": "Die Cast",
+        "A": "2.130”",
+        "B": "3.505”",
+        "C": "2.881”",
+        "D": "2.265”",
+        "E": ".704”",
+        "F": ".871”",
+        "G": ".140”",
+        "H": "1.495”"
+      },
+      "dimension_notes": "A = height from top of the knob to bottom of the bolt head, B = overall handle length, C = overall height (handle tip to bottom of bolt head), H = washer diameter",
+      "notes": "2797 is the handle used in the 15 series pivot bracket assemblies 4451 (1), 4453 (2) and 4455 (2)."
+    },
+    {
+      "part_number": "2799",
+      "series": [
+        "15"
+      ],
+      "name": "“T” Handle Kit - Dynamic Pivot",
+      "category": "handle",
+      "section": "Motion Systems",
+      "catalog_page": "7-91",
+      "description": "15 series “T” handle kit for a dynamic pivot that adds an adjustable stop and secures the pivot in a semi-permanent position. Mounting hardware is included.",
+      "features": [
+        "Adds adjustable stop to dynamic pivot and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Steel / Polyproylene",
+      "finish": "Zinc / Matte",
+      "color": "Black",
+      "weight": ".121 lbs",
+      "specs": {
+        "A": "1.940”",
+        "B": "2.490”",
+        "C": "1.350”",
+        "D": ".750”",
+        "E": ".140”",
+        "F": ".704”"
+      },
+      "dimension_notes": "A = overall height, B = overall width of the T grip",
+      "notes": "Material is printed \"Steel / Polyproylene\" (catalog spelling). Material, finish and color cells are merged across all rows of the table. 2799 is the handle used in the 15 series pivot bracket assembly 4324 (2 handles)."
+    },
+    {
+      "part_number": "2371",
+      "series": [
+        "15"
+      ],
+      "name": "Hand Crank Lift System - Linear Leg Unit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-92",
+      "description": "Hydraulic linear leg unit from the Hand Crank Lift System, which raises a frame with a hand-cranked hydraulic pump. The system works with 15, 30, 40 and 45 series profiles.",
+      "features": [
+        "Included in kit: hydraulic pump with hand crank (1), linear leg units (4), rubber leveling feet (4), mounting brackets (8), M5 x 8mm bolts (16)",
+        "Kit ships in one box weighing 29 lbs and measuring 35” x 12” x 9” in size",
+        "Works with 15, 30, 40, 45 series profiles",
+        "Made up of primarily aluminum, plastic and stainless steel",
+        "Max load: 450 kg (992 lbs) – includes weight of frame",
+        "Max stroke: 300mm (11.811”)",
+        "Lifting speed: 5mm (.197”) per hand crank turn",
+        "Retracted height of legs: 445mm (17.520”)",
+        "Extended height of legs: 745mm (29.331”)"
+      ],
+      "material": "Aluminum & Steel",
+      "color": "Gray",
+      "specs": {
+        "A": "1.347\" (34.21mm)",
+        "B": "1.378” (35.00mm)",
+        "C": "17.521” (445.03mm)",
+        "D": "118.000” (2997.20mm)",
+        "E": ".157” (4.00mm)",
+        "F": "1.379” (35.03mm)",
+        "G": ".945” (24.00mm)",
+        "H": "15.354” (389.99mm)",
+        "J": "17.521” (445.03mm)",
+        "K": "11.822” (300.28mm)",
+        "L": "29.343” (745.31mm)"
+      },
+      "dimension_notes": "A x B = leg cross-section, C = retracted length, L = extended length; the leg end has a ø M10 x 1.5, 25mm deep thread and the side has ø M5 x 0.8, 5.5mm deep threaded holes; hydraulic tubing runs to the crank pump",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8316",
+          "qty": 8,
+          "description": "Bolt",
+          "context": "Mount to T-Slot (15/40 series row, used with 11-6042 washer and 3838 T-nut)"
+        },
+        {
+          "part_number": "11-6042",
+          "qty": 8,
+          "description": "Washer",
+          "context": "Mount to T-Slot (15/40 series row)"
+        },
+        {
+          "part_number": "3838",
+          "qty": 8,
+          "description": "T-Nut",
+          "context": "Mount to T-Slot (15/40 series row)"
+        }
+      ],
+      "notes": "Only part number printed for the Hand Crank Lift System (pages 7-92 and 7-93); it is in the Linear Leg Unit table, so it is unclear whether 2371 is the complete kit or the leg unit alone. Row badged 15, 30, 40 and 45. Included hardware: M5 x 8mm FHSCS (16). Pump note: use T-nut 3278 or 3838 in T-slot for mounting. Kit components on 7-93 have no part numbers: Hydraulic Pump with Hand Crank (Aluminum & Plastic, Gray; A 6.509\" (165.33mm), B 2.559” (64.99mm), C 2.355” (59.82mm), D 5.335” (722.94mm), E 7.411” (188.24mm), F 1.093” (27.76mm), G 18.996” (465.40mm), H 118.142” (3000.81mm), J 1.181” (29.99mm), K .315” (8.00mm), L .904” (22.96mm), M .157” (3.99mm), N .256” (6.50mm), P 1.178” (29.91mm)); Mounting Bracket (Steel, Gray; A 1.929\" (48.99mm), B 1.260” (32.00mm), C .157” (3.99mm), D .228” (5.80mm), E .335” (8.50mm), F .984” (24.99mm), G .394” (10.00mm), H .945” (24.00mm), J .630” (16.00mm), K .413” (10.50mm)); Rubber Leveling Feet (A .630\" (16.00mm), B 1.850” (46.99mm), C 1.725” (43.82mm), D .819” (20.80mm), E .315” (8.00mm), F .591” (15.01mm), G thread M10 x 1.5). The pump's D and G inch/mm values do not agree as printed (5.335” vs 722.94mm, 18.996” vs 465.40mm)."
+    }
+  ],
+  "page_notes": {
+    "640": "7-86 90 Degree Wide Double Pivot Bracket Assembly with “T” Handles: 15 series rows 4324 and 4324-Black extracted; 10 series 4131 rows skipped; 3320 suggested hardware attached.",
+    "641": "7-87 180 Degree Pivot Bracket: 15 series rows 4424 and 4424-Black extracted; 10 series and metric rows skipped; 3320 suggested hardware attached.",
+    "642": "7-88 180 Degree Pivot Bracket Assembly with “L” Handle: 15 series rows 4451 and 4451-Black extracted; 10 series and metric rows skipped.",
+    "643": "7-89 180 Degree Double Pivot Bracket Assembly with “L” Handles: 15 series rows 4453 and 4453-Black extracted; 10 series and metric rows skipped.",
+    "644": "7-90 180 Degree Wide Double Pivot Bracket Assembly with “L” Handles: 15 series rows 4455 and 4455-Black extracted; 10 series and metric rows skipped.",
+    "645": "7-91 “L” Handle Kit and “T” Handle Kit - Dynamic Pivot: 15 series rows 2797 and 2799 extracted; 10 series and metric rows skipped.",
+    "646": "7-92 Hand Crank Lift System: Linear Leg Unit 2371 (badged 15/30/40/45) extracted with the kit bullets and material specifications.",
+    "647": "7-93 Hand Crank Lift System (Continued): pump, mounting bracket and rubber leveling feet tables have no part numbers, so they are recorded in the notes of 2371; the 15/40 suggested hardware row (11-8316, 11-6042, 3838) is attached to 2371."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4324: dimension_notes 'F = plate width' -> 'F = side-view width including the protruding T handle; E = plate height added'",
+      "4324: description 'giving 90 degrees of pivot' (inferred) -> '90 degree wide double pivot bracket assembly' (title wording)",
+      "4324-Black: dimension_notes 'F = plate width' -> 'F = side-view width including the protruding T handle; E = plate height added'",
+      "4324-Black: description 'giving 90 degrees of pivot' (inferred) -> '90 degree wide double pivot bracket assembly' (title wording)",
+      "4424: dimension_notes 'K = plate thickness' -> 'K = thickness at top edge, L = thickness at bottom edge (side view)'",
+      "4424-Black: dimension_notes 'K = plate thickness' -> 'K = thickness at top edge, L = thickness at bottom edge (side view)'",
+      "2797: dimension_notes 'A = overall height' -> 'A = knob top to bolt head bottom; C = overall height'",
+      "4424-Black: notes (missing) -> same assembly-usage note as 4424"
+    ],
+    "remaining_doubts": [
+      "2371: the only part number for the Hand Crank Lift System sits in the Linear Leg Unit table; unclear whether it is the full kit or the leg unit alone. Pump, mounting bracket and leveling feet have no part numbers and are kept in 2371's notes.",
+      "2371 suggested hardware (11-8316 bolt, 11-6042 washer, 3838 T-nut; row badged 15 and 40) is printed beside the Mounting Bracket on 7-93; attached to 2371 as the kit's only part number.",
+      "Hydraulic pump D and G inch/mm values disagree as printed (5.335” vs 722.94mm, 18.996” vs 465.40mm); kept verbatim in notes.",
+      "4424 K/L: side view shows .250” at the top edge and .220” at the bottom edge; exact meaning of the step is not labeled."
+    ]
+  }
+}

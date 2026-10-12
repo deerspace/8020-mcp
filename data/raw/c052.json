@@ -1,0 +1,710 @@
+{
+  "chunk": "c052",
+  "pages": [
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607
+  ],
+  "parts": [
+    {
+      "part_number": "6897",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Insert Linear Bearing Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-46",
+      "description": "Extruded UHMW PE bearing pad that inserts into the T-slot and is used with bearings to create linear motion. It has rounded corners and holes for mounting hardware and brake kits.",
+      "features": [
+        "Used with bearings to create linear motion",
+        "Low coefficient of friction; rounded corners",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Natural",
+      "weight": ".046 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": "1.250”",
+        "B": "—",
+        "C": "—",
+        "D": ".365”",
+        "E": ".656”",
+        "F": "—",
+        "G": "—",
+        "H": "—",
+        "J": ".625”",
+        "K": ".125”",
+        "L": "1.500”",
+        "M": ".700”",
+        "N": "2.800”",
+        "P": "—",
+        "Q": ".360”",
+        "R": ".240”",
+        "S": ".195”",
+        "T": ".300”",
+        "U": "45º",
+        "V": ".300”"
+      },
+      "dimension_notes": "A = overall width, N = overall length, M = overall height, L = hole center-to-center spacing, ø K = mounting hole diameter, Uº = angle shown on the end view",
+      "suggested_hardware": [
+        {
+          "part_number": "3628",
+          "qty": 2,
+          "description": "#10 x 5/8” Bearing Pad Screw",
+          "context": "Mount Pad to Bearing Housing"
+        }
+      ],
+      "notes": "Plain version (no B, C, F, G, H or P dimensions), the 15-series counterpart of the pictured 10-series 6797. Metric counterpart: 40-6897."
+    },
+    {
+      "part_number": "6898",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Insert Linear Bearing Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-46",
+      "description": "Extruded UHMW PE bearing pad that inserts into the T-slot and is used with bearings to create linear motion. It has rounded corners and holes for mounting hardware and brake kits.",
+      "features": [
+        "Used with bearings to create linear motion",
+        "Low coefficient of friction; rounded corners",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Natural",
+      "weight": ".040 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": "1.250”",
+        "B": ".469”",
+        "C": ".312”",
+        "D": ".365”",
+        "E": ".656”",
+        "F": ".369”",
+        "G": ".219”",
+        "H": ".312”",
+        "J": ".625”",
+        "K": ".125”",
+        "L": "1.500”",
+        "M": ".700”",
+        "N": "2.800”",
+        "P": ".750”",
+        "Q": ".360”",
+        "R": ".240”",
+        "S": ".195”",
+        "T": ".300”",
+        "U": "45º",
+        "V": ".300”"
+      },
+      "dimension_notes": "A = overall width, N = overall length, M = overall height, L = hole center-to-center spacing, ø K = mounting hole diameter, Uº = angle shown on the end view",
+      "suggested_hardware": [
+        {
+          "part_number": "3628",
+          "qty": 2,
+          "description": "#10 x 5/8” Bearing Pad Screw",
+          "context": "Mount Pad to Bearing Housing"
+        }
+      ],
+      "notes": "Version with the additional B, C, F, G, H and P dimensions, the 15-series counterpart of the pictured 10-series 6798 (pad with a center relief). Metric counterpart: 40-6898."
+    },
+    {
+      "part_number": "6814",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed UniBearing™ Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-47",
+      "description": "Injection-molded UHMW PE single-keyed pad used with a UniBearing™ to create custom bearings. It mounts to the bearing housing with included stainless steel flathead socket cap screws and has holes for mounting hardware and brake kits.",
+      "features": [
+        "Used with a UniBearing™ to create custom bearings",
+        "Rounded corners; mounts to housing with steel flathead socket cap screw that have Loctite®.",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "White",
+      "weight": ".035 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": "1.250”",
+        "B": ".635”",
+        "C": ".594”",
+        "D": ".312”",
+        "E": ".625”",
+        "F": ".193”",
+        "G": "1.500”",
+        "H": ".375”",
+        "J": "2.770”",
+        "K": ".243”",
+        "L": ".469”",
+        "M": ".312”"
+      },
+      "dimension_notes": "A = overall width, J = overall length, G = hole center-to-center spacing, ø F = mounting hole diameter, H = overall pad thickness including key, K = base thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3650",
+          "qty": 2,
+          "description": "SS 10-24 x 3/8” FHSCS",
+          "context": "Included Hardware (Mount Pad to Bearing Housing)"
+        }
+      ],
+      "notes": "Hardware 3650 (2x SS 10-24 x 3/8” FHSCS) is included; *Stainless steel (SS) hardware included. Black version: 6817. Metric counterpart: 40-6814 (listed as Natural)."
+    },
+    {
+      "part_number": "6817",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed UniBearing™ Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-47",
+      "description": "Injection-molded UHMW PE single-keyed pad used with a UniBearing™ to create custom bearings. It mounts to the bearing housing with included stainless steel flathead socket cap screws and has holes for mounting hardware and brake kits.",
+      "features": [
+        "Used with a UniBearing™ to create custom bearings",
+        "Rounded corners; mounts to housing with steel flathead socket cap screw that have Loctite®.",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Black",
+      "weight": ".035 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": "1.250”",
+        "B": ".635”",
+        "C": ".594”",
+        "D": ".312”",
+        "E": ".625”",
+        "F": ".193”",
+        "G": "1.500”",
+        "H": ".375”",
+        "J": "2.770”",
+        "K": ".243”",
+        "L": ".469”",
+        "M": ".312”"
+      },
+      "dimension_notes": "A = overall width, J = overall length, G = hole center-to-center spacing, ø F = mounting hole diameter, H = overall pad thickness including key, K = base thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3650",
+          "qty": 2,
+          "description": "SS 10-24 x 3/8” FHSCS",
+          "context": "Included Hardware (Mount Pad to Bearing Housing)"
+        }
+      ],
+      "notes": "Hardware 3650 (2x SS 10-24 x 3/8” FHSCS) is included; *Stainless steel (SS) hardware included. White version: 6814. Metric counterpart: 40-6817."
+    },
+    {
+      "part_number": "6892",
+      "series": [
+        "15"
+      ],
+      "name": "Double-Keyed UniBearing™ Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-48",
+      "description": "Injection-molded UHMW PE double-keyed pad used with a UniBearing™ to create custom bearings. It has rounded corners and mounts to the housing with steel flathead socket cap screws.",
+      "features": [
+        "Used with a UniBearing™ to create custom bearings",
+        "Rounded corners; mounts to housing with steel flathead socket cap screw"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "White",
+      "weight": ".112 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": "1.250”",
+        "B": ".625”",
+        "C": ".635”",
+        "D": "1.500”",
+        "E": ".258”",
+        "F": ".513”",
+        "G": "2.770”",
+        "H": ".243”",
+        "J": ".469”",
+        "K": ".312”",
+        "L": ".135”"
+      },
+      "dimension_notes": "A = overall width, G = overall length, D = hole center-to-center spacing, ø E = mounting hole diameter, F = overall pad thickness including both keys, H = base thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "206701",
+          "qty": 2,
+          "description": "Bolt (stainless steel)",
+          "context": "Included Hardware (Mount Pad to Profile)"
+        },
+        {
+          "part_number": "3263",
+          "qty": 1,
+          "description": "T-Nut",
+          "context": "Included Hardware (Mount Pad to Profile)"
+        }
+      ],
+      "notes": "Included hardware for 15 series: 2x bolt 206701* and 1x T-nut 3263; *Stainless steel (SS) hardware included (asterisk is on 206701 only). Black version: 6893. Metric counterpart: 40-6892 (listed as Natural)."
+    },
+    {
+      "part_number": "6893",
+      "series": [
+        "15"
+      ],
+      "name": "Double-Keyed UniBearing™ Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-48",
+      "description": "Injection-molded UHMW PE double-keyed pad used with a UniBearing™ to create custom bearings. It has rounded corners and mounts to the housing with steel flathead socket cap screws.",
+      "features": [
+        "Used with a UniBearing™ to create custom bearings",
+        "Rounded corners; mounts to housing with steel flathead socket cap screw"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Black",
+      "weight": ".112 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": "1.250”",
+        "B": ".625”",
+        "C": ".635”",
+        "D": "1.500”",
+        "E": ".258”",
+        "F": ".513”",
+        "G": "2.770”",
+        "H": ".243”",
+        "J": ".469”",
+        "K": ".312”",
+        "L": ".135”"
+      },
+      "dimension_notes": "A = overall width, G = overall length, D = hole center-to-center spacing, ø E = mounting hole diameter, F = overall pad thickness including both keys, H = base thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "206701",
+          "qty": 2,
+          "description": "Bolt (stainless steel)",
+          "context": "Included Hardware (Mount Pad to Profile)"
+        },
+        {
+          "part_number": "3263",
+          "qty": 1,
+          "description": "T-Nut",
+          "context": "Included Hardware (Mount Pad to Profile)"
+        }
+      ],
+      "notes": "Included hardware for 15 series: 2x bolt 206701* and 1x T-nut 3263; *Stainless steel (SS) hardware included (asterisk is on 206701 only). White version: 6892. Metric counterpart: 40-6893."
+    },
+    {
+      "part_number": "6810",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed Standard Bearing Pad Profile",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-49",
+      "description": "Extruded UHMW PE single-keyed bearing pad profile with a low coefficient of friction that can be cut to the desired length.",
+      "features": [
+        "Profile can be cut to desired length",
+        "Low coefficient of friction",
+        "Cut-to-length machining service (pg. 11-2)"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Natural",
+      "weight": ".011 lb / ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".243”",
+        "B": ".469”",
+        "C": ".312”",
+        "D": ".375”",
+        "E": ".132”",
+        "F": "1.250”",
+        "Stock Length": "145”"
+      },
+      "dimension_notes": "F = overall width, D = overall thickness including key, A = base thickness, C = key width, E = key height",
+      "notes": "Required machining service: Cut to Length (Machined: Bearing Pad Profile, reference page 11-2). Black version: 6811. Metric counterpart: 40-6810."
+    },
+    {
+      "part_number": "6811",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed Standard Bearing Pad Profile",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-49",
+      "description": "Extruded UHMW PE single-keyed bearing pad profile with a low coefficient of friction that can be cut to the desired length.",
+      "features": [
+        "Profile can be cut to desired length",
+        "Low coefficient of friction",
+        "Cut-to-length machining service (pg. 11-2)"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Black",
+      "weight": ".011 lb / ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".243”",
+        "B": ".469”",
+        "C": ".312”",
+        "D": ".375”",
+        "E": ".132”",
+        "F": "1.250”",
+        "Stock Length": "145”"
+      },
+      "dimension_notes": "F = overall width, D = overall thickness including key, A = base thickness, C = key width, E = key height",
+      "notes": "Required machining service: Cut to Length (Machined: Bearing Pad Profile, reference page 11-2). Natural version: 6810. Metric counterpart: 40-6811."
+    },
+    {
+      "part_number": "6812",
+      "series": [
+        "15"
+      ],
+      "name": "Double-Keyed Standard Bearing Pad Profile",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-50",
+      "description": "Extruded UHMW PE double-keyed bearing pad profile with a low coefficient of friction that can be cut to the desired length.",
+      "features": [
+        "Profile can be cut to desired length",
+        "Low coefficient of friction",
+        "Cut-to-length machining service (pg. 11-2)"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Natural",
+      "weight": ".125 lb / ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".243”",
+        "B": ".469”",
+        "C": ".312”",
+        "D": ".493”",
+        "E": ".125”",
+        "F": "1.250”",
+        "Stock Length": "145”"
+      },
+      "dimension_notes": "F = overall width, D = overall thickness including both keys, A = base thickness, C = key width, E = key height",
+      "notes": "Required machining service: Cut to Length (Machined: Bearing Pad Profile, reference page 11-2). Black version: 6813. Metric counterpart: 40-6812."
+    },
+    {
+      "part_number": "6813",
+      "series": [
+        "15"
+      ],
+      "name": "Double-Keyed Standard Bearing Pad Profile",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-50",
+      "description": "Extruded UHMW PE double-keyed bearing pad profile with a low coefficient of friction that can be cut to the desired length.",
+      "features": [
+        "Profile can be cut to desired length",
+        "Low coefficient of friction",
+        "Cut-to-length machining service (pg. 11-2)"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Black",
+      "weight": ".125 lb / ft",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".243”",
+        "B": ".469”",
+        "C": ".312”",
+        "D": ".493”",
+        "E": ".125”",
+        "F": "1.250”",
+        "Stock Length": "145”"
+      },
+      "dimension_notes": "F = overall width, D = overall thickness including both keys, A = base thickness, C = key width, E = key height",
+      "notes": "Required machining service: Cut to Length (Machined: Bearing Pad Profile, reference page 11-2). Natural version: 6812. Metric counterpart: 40-6813."
+    },
+    {
+      "part_number": "6881",
+      "series": [
+        "15"
+      ],
+      "name": "Linear Bearing Shim Stock",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-51",
+      "description": "Stamped clear Mylar slotted shim used to create a precise fit in linear bearings; by loosening the bearing pad, shims slide between the pad and the housing.",
+      "features": [
+        "Used to create a precise fit in linear bearings",
+        "By loosening the bearing pad, shim(s) slide between pad and housing",
+        "Sold in packs of 10"
+      ],
+      "material": "Mylar",
+      "color": "Clear",
+      "weight": ".011 lb",
+      "specs": {
+        "Process": "Stamped",
+        "A": "1.250”",
+        "B": ".250”",
+        "C": "2.156”",
+        "D": ".625”",
+        "E": ".005”",
+        "F": "2.812”"
+      },
+      "dimension_notes": "A = overall width, F = overall length, B = slot width, C = slot length, E = shim thickness",
+      "notes": "Sold in packs of 10. 6881 and 6882 have identical listed dimensions and weight; the page does not state how they differ. Metric counterpart: 40-6881."
+    },
+    {
+      "part_number": "6882",
+      "series": [
+        "15"
+      ],
+      "name": "Linear Bearing Shim Stock",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-51",
+      "description": "Stamped clear Mylar slotted shim used to create a precise fit in linear bearings; by loosening the bearing pad, shims slide between the pad and the housing.",
+      "features": [
+        "Used to create a precise fit in linear bearings",
+        "By loosening the bearing pad, shim(s) slide between pad and housing",
+        "Sold in packs of 10"
+      ],
+      "material": "Mylar",
+      "color": "Clear",
+      "weight": ".011 lb",
+      "specs": {
+        "Process": "Stamped",
+        "A": "1.250”",
+        "B": ".250”",
+        "C": "2.156”",
+        "D": ".625”",
+        "E": ".005”",
+        "F": "2.812”"
+      },
+      "dimension_notes": "A = overall width, F = overall length, B = slot width, C = slot length, E = shim thickness",
+      "notes": "Sold in packs of 10. 6881 and 6882 have identical listed dimensions and weight; the page does not state how they differ. Metric counterpart: 40-6882."
+    },
+    {
+      "part_number": "6800",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Handle Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-52",
+      "description": "Die-cast zinc L-shaped handle brake kit for brake-ready linear bearings; it adds grip to aid with adjustments and secures the bearing in a semi-permanent position. Mounting hardware is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Zinc",
+      "finish": "Gloss",
+      "color": "Gray",
+      "weight": ".336 lb",
+      "specs": {
+        "Process": "Die Cast",
+        "A": "2.234”",
+        "B": "3.505”",
+        "C": "2.985”",
+        "D": "2.235”",
+        "E": ".703”",
+        "F": ".871”",
+        "G": ".688”"
+      },
+      "dimension_notes": "B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter",
+      "notes": "Includes mounting hardware. Also available in Blue (6805), Red (6806) and Yellow (6807). Metric counterpart: 40-6800."
+    },
+    {
+      "part_number": "6805",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Handle Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-52",
+      "description": "Die-cast zinc L-shaped handle brake kit for brake-ready linear bearings; it adds grip to aid with adjustments and secures the bearing in a semi-permanent position. Mounting hardware is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Zinc",
+      "finish": "Gloss",
+      "color": "Blue",
+      "weight": ".336 lb",
+      "specs": {
+        "Process": "Die Cast",
+        "A": "2.234”",
+        "B": "3.505”",
+        "C": "2.985”",
+        "D": "2.235”",
+        "E": ".703”",
+        "F": ".871”",
+        "G": ".688”"
+      },
+      "dimension_notes": "B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter",
+      "notes": "Includes mounting hardware. Also available in Gray (6800), Red (6806) and Yellow (6807). Metric counterpart: 40-6805."
+    },
+    {
+      "part_number": "6806",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Handle Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-52",
+      "description": "Die-cast zinc L-shaped handle brake kit for brake-ready linear bearings; it adds grip to aid with adjustments and secures the bearing in a semi-permanent position. Mounting hardware is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Zinc",
+      "finish": "Gloss",
+      "color": "Red",
+      "weight": ".336 lb",
+      "specs": {
+        "Process": "Die Cast",
+        "A": "2.234”",
+        "B": "3.505”",
+        "C": "2.985”",
+        "D": "2.235”",
+        "E": ".703”",
+        "F": ".871”",
+        "G": ".688”"
+      },
+      "dimension_notes": "B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter",
+      "notes": "Includes mounting hardware. Also available in Gray (6800), Blue (6805) and Yellow (6807). Metric counterpart: 40-6806."
+    },
+    {
+      "part_number": "6807",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Handle Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-52",
+      "description": "Die-cast zinc L-shaped handle brake kit for brake-ready linear bearings; it adds grip to aid with adjustments and secures the bearing in a semi-permanent position. Mounting hardware is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Zinc",
+      "finish": "Gloss",
+      "color": "Yellow",
+      "weight": ".336 lb",
+      "specs": {
+        "Process": "Die Cast",
+        "A": "2.234”",
+        "B": "3.505”",
+        "C": "2.985”",
+        "D": "2.235”",
+        "E": ".703”",
+        "F": ".871”",
+        "G": ".688”"
+      },
+      "dimension_notes": "B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter",
+      "notes": "Includes mounting hardware. Also available in Gray (6800), Blue (6805) and Red (6806). Metric counterpart: 40-6807."
+    },
+    {
+      "part_number": "6801",
+      "series": [
+        "15"
+      ],
+      "name": "“T” Handle Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-53",
+      "description": "Black T-handle brake kit for brake-ready linear bearings; it adds grip to aid with adjustments and secures the bearing in a semi-permanent position. Mounting hardware (bolt and washer, as pictured) is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Steel / Polyproylene",
+      "finish": "Zinc / Matte",
+      "color": "Black",
+      "weight": ".091 lb",
+      "specs": {
+        "A": "2.036”",
+        "B": "2.491”",
+        "C": "1.250”",
+        "D": ".750”",
+        "E": ".703”",
+        "F": ".150”"
+      },
+      "dimension_notes": "A = overall height, B = handle width, C = handle height, D = handle depth, E = bolt head diameter",
+      "notes": "Includes mounting hardware. Material is printed \"Steel / Polyproylene\" (likely a misprint of Polypropylene, as used for the Star Handle 6802). Metric counterpart: 40-6801."
+    },
+    {
+      "part_number": "6802",
+      "series": [
+        "15"
+      ],
+      "name": "Star Handle Linear Bearing Brake Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-53",
+      "description": "Black star-knob brake kit for brake-ready linear bearings; it adds grip to aid with adjustments and secures the bearing in a semi-permanent position. Mounting hardware (bolt and washer, as pictured) is included.",
+      "features": [
+        "Adds grip to aid with adjustments with brake-ready bearing and secures it into semi-permanent position",
+        "Includes mounting hardware"
+      ],
+      "material": "Steel / Polypropylene",
+      "finish": "Zinc / Texture",
+      "color": "Black",
+      "weight": ".069 lb",
+      "specs": {
+        "A": "1.766”",
+        "B": "1.380”",
+        "C": ".860”",
+        "D": ".703”",
+        "E": ".150”"
+      },
+      "dimension_notes": "A = overall height, B = knob diameter, C = knob height, D = bolt head diameter",
+      "notes": "Includes mounting hardware. Metric counterpart: 40-6802."
+    }
+  ],
+  "page_notes": {
+    "600": "T-Slot Insert Linear Bearing Pad (7-46): 15-series 6897 and 6898 extracted with UHMW PE/Extruded/Smooth specs and suggested hardware 3628 (2x #10 x 5/8” Bearing Pad Screw); 10-series 6797/6798, metric rows and hardware 3625/25-3625/40-3628 skipped.",
+    "601": "Single-Keyed UniBearing™ Pad (7-47): 15-series 6814 (White) and 6817 (Black) extracted; included hardware 3650 (badged 15 + 40) attached; 10-series 6705/6706, metric rows and 3649 skipped.",
+    "602": "Double-Keyed UniBearing™ Pad (7-48): 15-series 6892 (White) and 6893 (Black) extracted; included hardware for 15 series (2x 206701 bolt, 1x 3263 T-nut) attached; 10-series 6792/6793 and metric rows skipped.",
+    "603": "Single-Keyed Standard Bearing Pad Profile (7-49): 15-series 6810 (Natural) and 6811 (Black) extracted; Cut to Length required machining (pg. 11-2) has no service number or series badge, so it is recorded in notes only.",
+    "604": "Double-Keyed Standard Bearing Pad Profile (7-50): 15-series 6812 (Natural) and 6813 (Black) extracted; Cut to Length required machining (pg. 11-2) recorded in notes; 10-series and metric rows skipped.",
+    "605": "Linear Bearing Shim Stock (7-51): 15-series 6881 and 6882 extracted (Mylar, Stamped, Clear, packs of 10); 10-series 6780/6782 and metric rows skipped.",
+    "606": "“L” Handle Linear Bearing Brake Kit (7-52): 15-series 6800 Gray, 6805 Blue, 6806 Red, 6807 Yellow extracted; 10-series 6850 and metric rows (including 45-6800 with drop-in t-nut 13173) skipped.",
+    "607": "“T” Handle (6801) and Star Handle (6802) Linear Bearing Brake Kits (7-53): both 15-series rows extracted; metric 40-6801 and 40-6802 skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "6800: dimension_notes 'A = overall height, B = overall handle length' -> 'B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter' (drawing shows C, not A, is the overall height)",
+      "6805: dimension_notes 'A = overall height, B = overall handle length' -> 'B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter' (drawing shows C, not A, is the overall height)",
+      "6806: dimension_notes 'A = overall height, B = overall handle length' -> 'B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter' (drawing shows C, not A, is the overall height)",
+      "6807: dimension_notes 'A = overall height, B = overall handle length' -> 'B = overall length, C = overall height (top of handle to bottom of bolt head), D = top of handle to washer, A = top of hub to bottom of bolt head, E = bolt head diameter' (drawing shows C, not A, is the overall height)",
+      "6814: dimension_notes 'H = pad thickness' -> 'H = overall pad thickness including key, K = base thickness'",
+      "6817: dimension_notes 'H = pad thickness' -> 'H = overall pad thickness including key, K = base thickness'",
+      "6892: dimension_notes 'F = pad thickness' -> 'F = overall pad thickness including both keys, H = base thickness'",
+      "6893: dimension_notes 'F = pad thickness' -> 'F = overall pad thickness including both keys, H = base thickness'",
+      "6897: dimension_notes added M = overall height, L = hole center-to-center spacing",
+      "6898: dimension_notes added M = overall height, L = hole center-to-center spacing"
+    ],
+    "remaining_doubts": [
+      "Required Machining Services 'Cut to Length' (Bearing Pad Profile, ref. 11-2) on pages 7-49/7-50 has no service number or series badge, so it was left in notes of 6810-6813 rather than extracted as a machining_service part.",
+      "6881 and 6882 (shim stock) have identical printed dimensions and weight; the page does not say how they differ.",
+      "6801 material is printed 'Steel / Polyproylene' (misprint kept verbatim, confirmed in the image).",
+      "6812/6813 weight .125 lb / ft is much higher than the single-keyed 6810/6811 (.011 lb / ft); copied as printed."
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "source": "8020.net product pages, read by hand. List prices before tax, shipping and machining.",
+  "prices": {
+    "1515": { "price": 0.98, "price_unit": "per_inch", "cut_charge": 3.0, "url": "https://8020.net/1515.html", "verified": "2026-10-11" }
+  }
+}

@@ -1,0 +1,710 @@
+{
+  "chunk": "c010",
+  "pages": [
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225
+  ],
+  "parts": [
+    {
+      "part_number": "4330",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - 30 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-54",
+      "description": "Clear anodized aluminum 6 hole flat plate that joins 15 series profiles at a 30 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 30 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".338 lb",
+      "specs": {
+        "A": "5.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "4.299”",
+        "H": "1.786”",
+        "J": "1.616”",
+        "K": "30°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Metric equivalent 40-4330 (not extracted)."
+    },
+    {
+      "part_number": "4330-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - 30 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-54",
+      "description": "Black anodized aluminum 6 hole flat plate that joins 15 series profiles at a 30 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 30 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".338 lb",
+      "specs": {
+        "A": "5.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "4.299”",
+        "H": "1.786”",
+        "J": "1.616”",
+        "K": "30°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Metric equivalent 40-4330-Black (not extracted)."
+    },
+    {
+      "part_number": "4346",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - 45 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-55",
+      "description": "Clear anodized aluminum 4 hole flat plate that joins 15 series profiles at a 45 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 45 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".270 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "2.561”",
+        "H": "1.061”",
+        "J": "1.811”",
+        "K": "45°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). 10 series equivalent 4145; metric equivalent 40-4346 (not extracted)."
+    },
+    {
+      "part_number": "4346-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - 45 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-55",
+      "description": "Black anodized aluminum 4 hole flat plate that joins 15 series profiles at a 45 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 45 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".270 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "2.561”",
+        "H": "1.061”",
+        "J": "1.811”",
+        "K": "45°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). 10 series equivalent 4145-Black; metric equivalent 40-4346-Black (not extracted)."
+    },
+    {
+      "part_number": "4345",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - 45 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-56",
+      "description": "Clear anodized aluminum 6 hole flat plate that joins 15 series profiles at a 45 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 45 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".368 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "4.061”",
+        "H": "1.061”",
+        "J": "1.811”",
+        "K": "45°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Metric equivalent 40-4345 (not extracted)."
+    },
+    {
+      "part_number": "4345-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - 45 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-56",
+      "description": "Black anodized aluminum 6 hole flat plate that joins 15 series profiles at a 45 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 45 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".368 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "4.061”",
+        "H": "1.061”",
+        "J": "1.811”",
+        "K": "45°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Metric equivalent 40-4345-Black (not extracted)."
+    },
+    {
+      "part_number": "4361",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - 60 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-57",
+      "description": "Clear anodized aluminum 4 hole flat plate that joins 15 series profiles at a 60 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 60 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".280 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "2.250”",
+        "H": "1.701”",
+        "J": "1.558”",
+        "K": "60°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). 10 series equivalent 4164; metric equivalent 40-4361 (not extracted)."
+    },
+    {
+      "part_number": "4361-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - 60 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-57",
+      "description": "Black anodized aluminum 4 hole flat plate that joins 15 series profiles at a 60 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 60 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".280 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "2.250”",
+        "H": "1.701”",
+        "J": "1.558”",
+        "K": "60°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). 10 series equivalent 4164-Black; metric equivalent 40-4361-Black (not extracted)."
+    },
+    {
+      "part_number": "4362",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - 60 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-58",
+      "description": "Clear anodized aluminum 6 hole flat plate that joins 15 series profiles at a 60 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 60 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".384 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.750”",
+        "H": "1.701”",
+        "J": "1.558”",
+        "K": "60°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Metric equivalent 40-4362 (not extracted)."
+    },
+    {
+      "part_number": "4362-Black",
+      "series": [
+        "15"
+      ],
+      "name": "6 Hole - 60 Degree Angled Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-58",
+      "description": "Black anodized aluminum 6 hole flat plate that joins 15 series profiles at a 60 degree angle; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Creates 60 degree angle between profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".384 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.750”",
+        "H": "1.701”",
+        "J": "1.558”",
+        "K": "60°"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight long side edge up to the angled cut, H = width of the straight short end edge, J = vertical offset from the hole row to the hole on the angled leg, K = angle created between profiles",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Metric equivalent 40-4362-Black (not extracted)."
+    },
+    {
+      "part_number": "4341",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-59",
+      "description": "Clear anodized aluminum 4 hole tee-shaped flat plate for joining 15 series profiles in a tee; no machining required and it can be pre-loaded to simplify assembly; also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".267 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height (stem direction), B = overall width (across the base row of holes), C = hole center-to-center spacing, D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the narrow end edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 4, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut. 10 series equivalent 4141; metric equivalents 25-4141 and 40-4341 (not extracted)."
+    },
+    {
+      "part_number": "4341-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "4 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-59",
+      "description": "Black anodized aluminum 4 hole tee-shaped flat plate for joining 15 series profiles in a tee; no machining required and it can be pre-loaded to simplify assembly; also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".267 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height (stem direction), B = overall width (across the base row of holes), C = hole center-to-center spacing, D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the narrow end edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 4 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 4, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut. 10 series equivalent 4141-Black; metric equivalents 25-4141-Black and 40-4341-Black (not extracted)."
+    },
+    {
+      "part_number": "4340",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "5 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-60",
+      "description": "Clear anodized aluminum 5 hole tee-shaped flat plate for joining 15 series profiles in a tee; no machining required and it can be pre-loaded to simplify assembly; also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".364 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height (stem direction), B = overall width (across the base row of holes), C = hole center-to-center spacing, D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the narrow end edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 5 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 5, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut. 10 series equivalent 4140; metric equivalents 25-4140, 30-4340, 40-4340 and 45-4340 (not extracted)."
+    },
+    {
+      "part_number": "4340-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "5 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-60",
+      "description": "Black anodized aluminum 5 hole tee-shaped flat plate for joining 15 series profiles in a tee; no machining required and it can be pre-loaded to simplify assembly; also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".364 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height (stem direction), B = overall width (across the base row of holes), C = hole center-to-center spacing, D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the narrow end edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 5 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 5, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut. 10 series equivalent 4140-Black; metric equivalents 25-4140-Black, 30-4340-Black, 40-4340-Black and 45-4340-Black (not extracted)."
+    },
+    {
+      "part_number": "4310",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "6 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-61",
+      "description": "Clear anodized aluminum 6 hole tee-shaped flat plate for joining 15 series profiles in a tee; no machining required and it can be pre-loaded to simplify assembly; also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".416 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height (stem direction), B = overall width (across the base row of holes), C = hole center-to-center spacing, D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the narrow end edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 6, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut. 10 series equivalent 4123 (not extracted)."
+    },
+    {
+      "part_number": "4310-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "6 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-61",
+      "description": "Black anodized aluminum 6 hole tee-shaped flat plate for joining 15 series profiles in a tee; no machining required and it can be pre-loaded to simplify assembly; also badged for Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".416 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height (stem direction), B = overall width (across the base row of holes), C = hole center-to-center spacing, D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the narrow end edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 6 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 6, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut. 10 series equivalent 4123-Black (not extracted)."
+    }
+  ],
+  "page_notes": {
+    "218": "6 Hole - 30 Degree Angled Flat Plate (4-54): 4330 and 4330-Black (15) extracted; metric 40-4330/-Black skipped. Suggested hardware 3320 x6 attached; metric 75-3422 skipped.",
+    "219": "4 Hole - 45 Degree Angled Flat Plate (4-55): 4346 and 4346-Black (15) extracted; 10 series 4145/-Black and metric 40-4346/-Black skipped. Suggested hardware 3320 x4 attached; 3321 (10) and 75-3422 (metric) skipped.",
+    "220": "6 Hole - 45 Degree Angled Flat Plate (4-56): 4345 and 4345-Black (15) extracted; metric 40-4345/-Black skipped. Suggested hardware 3320 x6 attached; metric 75-3422 skipped.",
+    "221": "4 Hole - 60 Degree Angled Flat Plate (4-57): 4361 and 4361-Black (15) extracted; 10 series 4164/-Black and metric 40-4361/-Black skipped. Suggested hardware 3320 x4 attached; 3321 (10) and 75-3422 (metric) skipped.",
+    "222": "6 Hole - 60 Degree Angled Flat Plate (4-58): 4362 and 4362-Black (15) extracted; metric 40-4362/-Black skipped. Suggested hardware 3320 x6 attached; metric 75-3422 skipped.",
+    "223": "4 Hole - Tee Flat Plate (4-59): 4341 and 4341-Black (15 + RT) extracted; 10 series 4141/-Black and metric 25-4141, 40-4341 (and -Black) skipped. T-slot hardware 3320 x4 attached; Ready Tube hardware 3960 x4 (RT only) recorded in notes.",
+    "224": "5 Hole - Tee Flat Plate (4-60): 4340 and 4340-Black (15 + RT) extracted; 10 series 4140/-Black and metric 25-4140, 30-4340, 40-4340, 45-4340 (and -Black) skipped. T-slot hardware 3320 x5 attached; Ready Tube hardware 3960 x5 (RT only) recorded in notes.",
+    "225": "6 Hole - Tee Flat Plate (4-61): 4310 and 4310-Black (15 + RT) extracted; 10 series 4123/-Black skipped. T-slot hardware 3320 x6 attached; Ready Tube hardware 3960 x6 (RT only) recorded in notes."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "4341/4341-Black, 4340/4340-Black, 4310/4310-Black are badged 15 + RT; the 'Mount to Ready Tube' row 3960 is RT-only, so it is recorded in notes, not in suggested_hardware, per the 15/F-rows rule. Downstream may want it as structured hardware.",
+      "dimension_notes letters were read from the drawings; G (side edge below the angled cut / straight side edge) and J (vertical offset from the angled-leg hole to the hole row) are interpretations of the drawing, not printed definitions."
+    ]
+  }
+}

@@ -1,0 +1,1142 @@
+{
+  "chunk": "c019",
+  "pages": [
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307
+  ],
+  "parts": [
+    {
+      "part_number": "4402",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Structural Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-136",
+      "description": "Milled aluminum structural pivot nub that mounts to a 15 series profile with no machining, perpendicular to the mounting profile. Structural pivot arms bolt to it to create a structural pivot ranging from 0-180 degrees; a slot tab helps prevent rotation and assists alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".338 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall height, B = width, G = depth (bottom view), C = base to pivot hole center, D = back face to pivot hole center, E = pivot hole size (printed as a thread size, 5/16)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Included hardware (Mount Nub to T-Slot): 1 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut. Suggested hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 11/16” FBHSCS. Fractional 10 series equivalent is 4002."
+    },
+    {
+      "part_number": "4402-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Structural Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-136",
+      "description": "Milled aluminum structural pivot nub that mounts to a 15 series profile with no machining, perpendicular to the mounting profile. Structural pivot arms bolt to it to create a structural pivot ranging from 0-180 degrees; a slot tab helps prevent rotation and assists alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".338 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall height, B = width, G = depth (bottom view), C = base to pivot hole center, D = back face to pivot hole center, E = pivot hole size (printed as a thread size, 5/16)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Included hardware (Mount Nub to T-Slot): 1 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut. Suggested hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 11/16” FBHSCS. Fractional 10 series equivalent is 4002."
+    },
+    {
+      "part_number": "4403",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Structural Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-137",
+      "description": "Milled aluminum two-bolt structural pivot nub for 15 series that mounts with no machining, parallel or perpendicular to the mounting profile. Structural pivot arms bolt to it to create a structural pivot ranging from 0-180 degrees; it is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Reconfigurable, reusable",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".685 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall height, B = overall length, G = depth (bottom view), H (typ) = center-to-center spacing of the two mounting holes, C = base to pivot hole center, D = back face to pivot hole center, ø E = pivot hole size (printed as a thread size, 5/16)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Included hardware (Mount Nub to T-Slot): 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut. Suggested hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 11/16” FBHSCS. Fractional 10 series equivalent is 4003."
+    },
+    {
+      "part_number": "4403-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Structural Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-137",
+      "description": "Milled aluminum two-bolt structural pivot nub for 15 series that mounts with no machining, parallel or perpendicular to the mounting profile. Structural pivot arms bolt to it to create a structural pivot ranging from 0-180 degrees; it is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Reconfigurable, reusable",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".685 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall height, B = overall length, G = depth (bottom view), H (typ) = center-to-center spacing of the two mounting holes, C = base to pivot hole center, D = back face to pivot hole center, ø E = pivot hole size (printed as a thread size, 5/16)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Included hardware (Mount Nub to T-Slot): 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut. Suggested hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 11/16” FBHSCS. Fractional 10 series equivalent is 4003."
+    },
+    {
+      "part_number": "4349",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Structural Pivot Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-138",
+      "description": "Milled aluminum L-shaped structural pivot arm for 15 series that creates a structural angle on a perpendicular axis. It mounts to the T-slot with no machining, is reconfigurable and reusable, and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Reconfigurable, reusable",
+        "Creates structural angle on a perpendicular axis",
+        "Pre-load to simplify assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".142 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": ".250”",
+        "H": "3.000”",
+        "J": ".250”",
+        "K": ".312”",
+        "L": ".750”",
+        "M": ".750”",
+        "N": ".755”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "F = arm width, B = center-to-center spacing of the two holes in the flat leg, ø E = hole diameter (typ), G = material thickness (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount Arm to T-slot): 3 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Used as the arm (qty 2) in the Standard Structural Pivot Assemblies with Dual “L” Arms (4353, 4354, 4356). Fractional 10 series equivalent is 4149."
+    },
+    {
+      "part_number": "4349-Black",
+      "series": [
+        "15"
+      ],
+      "name": "“L” Structural Pivot Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-138",
+      "description": "Milled aluminum L-shaped structural pivot arm for 15 series that creates a structural angle on a perpendicular axis. It mounts to the T-slot with no machining, is reconfigurable and reusable, and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Reconfigurable, reusable",
+        "Creates structural angle on a perpendicular axis",
+        "Pre-load to simplify assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".142 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": ".250”",
+        "H": "3.000”",
+        "J": ".250”",
+        "K": ".312”",
+        "L": ".750”",
+        "M": ".750”",
+        "N": ".755”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "F = arm width, B = center-to-center spacing of the two holes in the flat leg, ø E = hole diameter (typ), G = material thickness (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount Arm to T-slot): 3 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Used as the arm (qty 2) in the Standard Structural Pivot Assemblies with Dual “L” Arms (4353, 4354, 4356). Fractional 10 series equivalent is 4149."
+    },
+    {
+      "part_number": "4396",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Straight Structural Pivot Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-139",
+      "description": "Standard-length milled aluminum straight structural pivot arm for 15 series that creates a structured angle connection between profiles. It is used with a structural pivot nub or mounted directly to the T-slot with no machining, and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".149 lb",
+      "specs": {
+        "Type": "Standard",
+        "A": ".745”",
+        "B": ".750”",
+        "C": "4.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": "1.490”",
+        "H": ".250”",
+        "J": "-",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length, R. D = end radius, ø E = hole diameter (typ), A = edge to hole centerline, B = square end to first hole center, F = first-to-second hole spacing, J = second-to-third hole spacing (Extended only), G = arm width, H = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Catalog title: Standard / Extended Straight Structural Pivot Arm (Type = Standard). J is printed as '-' for the Standard arm. Suggested hardware (Mount Arm to T-slot): 3 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Used as the arm (qty 2) in the Standard Structural Pivot Assemblies with Dual Straight Arms (4395, 4397, 4398). Fractional 10 series equivalent is 4196."
+    },
+    {
+      "part_number": "4396-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Straight Structural Pivot Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-139",
+      "description": "Standard-length milled aluminum straight structural pivot arm for 15 series that creates a structured angle connection between profiles. It is used with a structural pivot nub or mounted directly to the T-slot with no machining, and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".149 lb",
+      "specs": {
+        "Type": "Standard",
+        "A": ".745”",
+        "B": ".750”",
+        "C": "4.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": "1.490”",
+        "H": ".250”",
+        "J": "-",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length, R. D = end radius, ø E = hole diameter (typ), A = edge to hole centerline, B = square end to first hole center, F = first-to-second hole spacing, J = second-to-third hole spacing (Extended only), G = arm width, H = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Catalog title: Standard / Extended Straight Structural Pivot Arm (Type = Standard). J is printed as '-' for the Standard arm. Suggested hardware (Mount Arm to T-slot): 3 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Used as the arm (qty 2) in the Standard Structural Pivot Assemblies with Dual Straight Arms (4395, 4397, 4398). Fractional 10 series equivalent is 4196."
+    },
+    {
+      "part_number": "4399",
+      "series": [
+        "15"
+      ],
+      "name": "Extended Straight Structural Pivot Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-139",
+      "description": "Extended-length milled aluminum straight structural pivot arm for 15 series that creates a structured angle connection between profiles. It is used with a structural pivot nub or mounted directly to the T-slot with no machining, and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".203 lb",
+      "specs": {
+        "Type": "Extended",
+        "A": ".745”",
+        "B": ".750”",
+        "C": "6.000”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": "1.490”",
+        "H": ".250”",
+        "J": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length, R. D = end radius, ø E = hole diameter (typ), A = edge to hole centerline, B = square end to first hole center, F = first-to-second hole spacing, J = second-to-third hole spacing (Extended only), G = arm width, H = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Catalog title: Standard / Extended Straight Structural Pivot Arm (Type = Extended). Suggested hardware (Mount Arm to T-slot): 3 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Fractional 10 series equivalent is 4199."
+    },
+    {
+      "part_number": "4399-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Extended Straight Structural Pivot Arm",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-139",
+      "description": "Extended-length milled aluminum straight structural pivot arm for 15 series that creates a structured angle connection between profiles. It is used with a structural pivot nub or mounted directly to the T-slot with no machining, and can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".203 lb",
+      "specs": {
+        "Type": "Extended",
+        "A": ".745”",
+        "B": ".750”",
+        "C": "6.000”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": "1.500”",
+        "G": "1.490”",
+        "H": ".250”",
+        "J": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length, R. D = end radius, ø E = hole diameter (typ), A = edge to hole centerline, B = square end to first hole center, F = first-to-second hole spacing, J = second-to-third hole spacing (Extended only), G = arm width, H = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Catalog title: Standard / Extended Straight Structural Pivot Arm (Type = Extended). Suggested hardware (Mount Arm to T-slot): 3 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Fractional 10 series equivalent is 4199."
+    },
+    {
+      "part_number": "4397",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual Straight Arms (0 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-140",
+      "description": "Preassembled 15 series structural pivot consisting of one 0 degree structural pivot nub (4387) and two straight structural pivot arms (4396), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".663 lb",
+      "specs": {
+        "Nub (Qty.)": "4387 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "B = overall length, E (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 0 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4387 (1), arm 4396 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-141."
+    },
+    {
+      "part_number": "4397-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual Straight Arms (0 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-140",
+      "description": "Preassembled 15 series structural pivot consisting of one 0 degree structural pivot nub (4387) and two straight structural pivot arms (4396), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".663 lb",
+      "specs": {
+        "Nub (Qty.)": "4387 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "B = overall length, E (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 0 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4387 (1), arm 4396 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-141."
+    },
+    {
+      "part_number": "4398",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual Straight Arms (90 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-140",
+      "description": "Preassembled 15 series structural pivot consisting of one 90 degree structural pivot nub (4388) and two straight structural pivot arms (4396), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".476 lb",
+      "specs": {
+        "Nub (Qty.)": "4388 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "B = overall length, E (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 90 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4388 (1), arm 4396 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-141."
+    },
+    {
+      "part_number": "4398-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual Straight Arms (90 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-140",
+      "description": "Preassembled 15 series structural pivot consisting of one 90 degree structural pivot nub (4388) and two straight structural pivot arms (4396), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".476 lb",
+      "specs": {
+        "Nub (Qty.)": "4388 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": "2.318”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "B = overall length, E (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 90 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4388 (1), arm 4396 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-141."
+    },
+    {
+      "part_number": "4395",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual Straight Arms (Universal)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-141",
+      "description": "Preassembled 15 series structural pivot consisting of one universal structural pivot nub (4386) and two straight structural pivot arms (4396), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.118 lb",
+      "specs": {
+        "Nub (Qty.)": "4386 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "3.000”",
+        "B": "4.500”",
+        "C": "3.313”",
+        "D": "1.945”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "B = overall length, E (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: Universal Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4386 (1), arm 4396 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-141."
+    },
+    {
+      "part_number": "4395-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual Straight Arms (Universal)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-141",
+      "description": "Preassembled 15 series structural pivot consisting of one universal structural pivot nub (4386) and two straight structural pivot arms (4396), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two straight structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.118 lb",
+      "specs": {
+        "Nub (Qty.)": "4386 (1)",
+        "Arm (Qty.)": "4396 (2)",
+        "A": "3.000”",
+        "B": "4.500”",
+        "C": "3.313”",
+        "D": "1.945”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "B = overall length, E (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: Universal Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4386 (1), arm 4396 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-141."
+    },
+    {
+      "part_number": "4353",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual “L” Arms (0 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-142",
+      "description": "Preassembled 15 series structural pivot consisting of one 0 degree structural pivot nub (4387) and two “L” structural pivot arms (4349), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".651 lb",
+      "specs": {
+        "Nub (Qty.)": "4387 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 0 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4387 (1), arm 4349 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-143."
+    },
+    {
+      "part_number": "4353-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual “L” Arms (0 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-142",
+      "description": "Preassembled 15 series structural pivot consisting of one 0 degree structural pivot nub (4387) and two “L” structural pivot arms (4349), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".651 lb",
+      "specs": {
+        "Nub (Qty.)": "4387 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 0 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4387 (1), arm 4349 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-143."
+    },
+    {
+      "part_number": "4354",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual “L” Arms (90 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-142",
+      "description": "Preassembled 15 series structural pivot consisting of one 90 degree structural pivot nub (4388) and two “L” structural pivot arms (4349), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".654 lb",
+      "specs": {
+        "Nub (Qty.)": "4388 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 90 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4388 (1), arm 4349 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-143."
+    },
+    {
+      "part_number": "4354-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual “L” Arms (90 Degree)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-142",
+      "description": "Preassembled 15 series structural pivot consisting of one 90 degree structural pivot nub (4388) and two “L” structural pivot arms (4349), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".654 lb",
+      "specs": {
+        "Nub (Qty.)": "4388 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "7.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: 90 Degree Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4388 (1), arm 4349 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-143."
+    },
+    {
+      "part_number": "4356",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual “L” Arms (Universal)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-143",
+      "description": "Preassembled 15 series structural pivot consisting of one universal structural pivot nub (4386) and two “L” structural pivot arms (4349), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".972 lb",
+      "specs": {
+        "Nub (Qty.)": "4386 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "9.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: Universal Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4386 (1), arm 4349 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-143."
+    },
+    {
+      "part_number": "4356-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Structural Pivot Assembly with Dual “L” Arms (Universal)",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-143",
+      "description": "Preassembled 15 series structural pivot consisting of one universal structural pivot nub (4386) and two “L” structural pivot arms (4349), with hardware included to connect the nub to the mounting profile.",
+      "features": [
+        "Preassembled and includes hardware to connect nub to mounting profile",
+        "Consists of 0 degree, 90 degree or universal structural pivot nub and two “L” structural pivot arms"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".972 lb",
+      "specs": {
+        "Nub (Qty.)": "4386 (1)",
+        "Arm (Qty.)": "4349 (2)",
+        "A": "9.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.945”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C (typ) = spacing between arm holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” FBHSCS",
+          "context": "Mount Arm to Nub (included hardware)"
+        },
+        {
+          "part_number": "3613",
+          "qty": "1 or 2",
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Mount Nub to T-Slot (included hardware)"
+        },
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount Arm to T-Slot"
+        }
+      ],
+      "notes": "Sub-table: Universal Standard Structural Pivot. Preassembled; includes hardware to connect nub to mounting profile. Components: nub 4386 (1), arm 4349 (2). Included hardware (Mount Arm to Nub): 2 x 3330 5/16-18 x 5/8” FBHSCS. Included hardware (Mount Nub to T-Slot): 1 or 2 x 3613 5/16-18 x 1.5” SHCS with Economy T-nut (qty printed as '1 or 2'). Suggested hardware (Mount Arm to T-Slot): 4 x 3320 5/16-18 x 11/16” FBHSCS with Economy T-nut. Material specifications and hardware tables are printed once for the product on page 4-143."
+    }
+  ],
+  "page_notes": {
+    "300": "4-136 90 Degree Structural Right Angle Pivot Nub: 15 rows 4402/4402-Black extracted with included (3613) and suggested (3330) hardware; 10-series 4002 rows skipped.",
+    "301": "4-137 Universal Structural Right Angle Pivot Nub: 15 rows 4403/4403-Black extracted with included (3613 x2) and suggested (3330) hardware; 10-series 4003 rows skipped.",
+    "302": "4-138 “L” Structural Pivot Arm: 15 rows 4349/4349-Black extracted with suggested hardware 3320 x3; 10-series 4149 and metric 25-/40- rows skipped.",
+    "303": "4-139 Standard / Extended Straight Structural Pivot Arm: 15 rows 4396/4396-Black (Standard) and 4399/4399-Black (Extended) extracted with suggested hardware 3320 x3; 10-series 4196/4199 and metric rows skipped.",
+    "304": "4-140 Standard Structural Pivot Assembly with Dual Straight Arms (0 Degree and 90 Degree tables): 15 rows 4397/4397-Black and 4398/4398-Black extracted; material and hardware tables for this product are on 4-141; 10-series and metric rows skipped.",
+    "305": "4-141 Dual Straight Arms assembly (continued), Universal table: 15 rows 4395/4395-Black extracted; material spec, included hardware (3330, 3613) and suggested hardware (3320 x4) applied to all three straight-arm assemblies; 10-series and metric rows skipped.",
+    "306": "4-142 Standard Structural Pivot Assembly with Dual “L” Arms (0 Degree and 90 Degree tables): 15 rows 4353/4353-Black and 4354/4354-Black extracted; material and hardware tables for this product are on 4-143; 10-series and metric rows skipped.",
+    "307": "4-143 Dual “L” Arms assembly (continued), Universal table: 15 rows 4356/4356-Black extracted; material spec, included hardware (3330, 3613) and suggested hardware (3320 x4) applied to all three L-arm assemblies; 10-series and metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "3330 is printed as 5/16-18 x 11/16” FBHSCS on 4-136/4-137 (Mount Arm to Nub) but as 5/16-18 x 5/8” FBHSCS on 4-141/4-143 (Included Hardware, Mount Arm to Nub); each part keeps the text of its own page.",
+      "Included Hardware (Mount Nub to T-Slot) qty is printed as '1 or 2' for all assembly variants (0 Degree, 90 Degree, Universal); kept verbatim as a string rather than guessing per nub type.",
+      "The assemblies use nubs 4387 (0 Degree), 4388 (90 Degree) and 4386 (Universal), which are not the nubs listed on 4-136/4-137 (4402, 4403); those nub part numbers are not detailed in this chunk.",
+      "Material specification and hardware tables for the 0/90 Degree assemblies (4-140, 4-142) are printed only on the continuation pages 4-141/4-143 and were applied to all assemblies of the same product."
+    ]
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "chunk": "c012",
+  "pages": [
+    234,
+    235,
+    236,
+    238,
+    239,
+    240,
+    241,
+    243
+  ],
+  "parts": [
+    {
+      "part_number": "4423",
+      "series": [
+        "15"
+      ],
+      "name": "20 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-70",
+      "description": "A clear anodized aluminum 20 hole cross-shaped flat plate for 15 series profiles that joins more than two profiles and creates a 4-way connection hub; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.291 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "10.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "4.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall length, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight short end edges, H = length of the straight top/bottom edges",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 20,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 20 suggested bolt and T-nut sets (3320). The same table also lists 10 series rows 4023 and 4023-Black (not extracted)."
+    },
+    {
+      "part_number": "4423-Black",
+      "series": [
+        "15"
+      ],
+      "name": "20 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-70",
+      "description": "A black anodized aluminum 20 hole cross-shaped flat plate for 15 series profiles that joins more than two profiles and creates a 4-way connection hub; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": "1.291 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "10.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "4.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall length, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = length of the straight short end edges, H = length of the straight top/bottom edges",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 20,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 20 suggested bolt and T-nut sets (3320). The same table also lists 10 series rows 4023 and 4023-Black (not extracted)."
+    },
+    {
+      "part_number": "4481",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - “L” Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-71",
+      "description": "A clear anodized aluminum 5 hole L-shaped flat plate for 15 series profiles that forms a corner connection, creating a 90º angle between profiles; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Forms a corner connection",
+        "Creates 90º angle between profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".257 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.464”",
+        "H": "1.464”",
+        "J": ".125”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = width of the horizontal leg, H = width of the vertical leg, J = inside corner radius (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 5 suggested bolt and T-nut sets (3320). Metric rows with the same base part number: 30-4481, 40-4481, 45-4481 (not extracted)."
+    },
+    {
+      "part_number": "4481-Black",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - “L” Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-71",
+      "description": "A black anodized aluminum 5 hole L-shaped flat plate for 15 series profiles that forms a corner connection, creating a 90º angle between profiles; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Forms a corner connection",
+        "Creates 90º angle between profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".257 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.464”",
+        "H": "1.464”",
+        "J": ".125”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = width of the horizontal leg, H = width of the vertical leg, J = inside corner radius (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 5 suggested bolt and T-nut sets (3320). Metric rows with the same base part number: 30-4481, 40-4481, 45-4481 (not extracted)."
+    },
+    {
+      "part_number": "4480",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - “T” Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-72",
+      "description": "A clear anodized aluminum 5 hole T-shaped flat plate for 15 series profiles that creates a 90º angle between profiles; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Creates 90º angle between profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".247 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.426”",
+        "H": "1.463”",
+        "J": ".125”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = width of the horizontal stem, H = width of the vertical bar, J = inside corner radius (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 5 suggested bolt and T-nut sets (3320). Metric rows with the same base part number: 30-4480, 40-4480, 45-4480 (not extracted)."
+    },
+    {
+      "part_number": "4480-Black",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - “T” Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-72",
+      "description": "A black anodized aluminum 5 hole T-shaped flat plate for 15 series profiles that creates a 90º angle between profiles; no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Creates 90º angle between profiles"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".247 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.426”",
+        "H": "1.463”",
+        "J": ".125”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = edge to hole center (typ), E = hole diameter (typ), F = plate thickness, G = width of the horizontal stem, H = width of the vertical bar, J = inside corner radius (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 5,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 5 suggested bolt and T-nut sets (3320). Metric rows with the same base part number: 30-4480, 40-4480, 45-4480 (not extracted)."
+    },
+    {
+      "part_number": "4302",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-74",
+      "description": "A clear anodized aluminum 2 hole inside corner bracket for joining 15 series profiles (also badged for Ready Tube); no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".081 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".655”",
+        "F": "1.310”",
+        "G": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), E = hole center to side edge (typ), F = bracket width, G = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 2 bolts (3330) and 2 Economy T-nuts (3278). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 2, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. Metric rows with the same base part number: 30-4302, 40-4302, 45-4302 (not extracted)."
+    },
+    {
+      "part_number": "4302-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-74",
+      "description": "A black anodized aluminum 2 hole inside corner bracket for joining 15 series profiles (also badged for Ready Tube); no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".081 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".655”",
+        "F": "1.310”",
+        "G": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), E = hole center to side edge (typ), F = bracket width, G = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 2 bolts (3330) and 2 Economy T-nuts (3278). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 2, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. Metric rows with the same base part number: 30-4302, 40-4302, 45-4302 (not extracted)."
+    },
+    {
+      "part_number": "4295",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-75",
+      "description": "A clear anodized aluminum 2 hole inside corner bracket with one slotted hole and one round hole, for joining 15 series profiles (also badged for Ready Tube); no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".078 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": ".500”",
+        "G": ".328”",
+        "H": "1.312”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), G = slot width, H = bracket width, J = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 2 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 2, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. Metric rows with the same base part number: 40-4295 (not extracted)."
+    },
+    {
+      "part_number": "4295-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "2 Hole - Slotted Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-75",
+      "description": "A black anodized aluminum 2 hole inside corner bracket with one slotted hole and one round hole, for joining 15 series profiles (also badged for Ready Tube); no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".078 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".500”",
+        "E": ".656”",
+        "F": ".500”",
+        "G": ".328”",
+        "H": "1.312”",
+        "J": ".328”"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness (typ), G = slot width, H = bracket width, J = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 2 suggested bolt and T-nut sets (3320). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 2, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. Metric rows with the same base part number: 40-4295 (not extracted)."
+    },
+    {
+      "part_number": "14120",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Inside Corner Bracket with Single Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-76",
+      "description": "A zinc-finished steel 2 hole inside corner bracket with a single triangular support (gusset), with slotted mounting holes; listed for 15 series and 40 mm metric profiles. No machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".2626 kg",
+      "specs": {
+        "A": "43.00mm",
+        "B": "43.00mm",
+        "C": "3.00mm",
+        "D": "17.50mm",
+        "E": "15.00mm",
+        "F": "6.00mm",
+        "G": "30.00mm",
+        "H": "9.00mm",
+        "J": "13.00mm",
+        "K": "17.50mm",
+        "L": "17.50mm"
+      },
+      "dimension_notes": "A and B = leg lengths, C = material thickness, F = diameter of the hole in the support, G = bracket width",
+      "suggested_hardware": [
+        {
+          "part_number": "3450",
+          "qty": 2,
+          "description": "5/16-18 x 1/2” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "One part number shared by the 15 series and 40 mm metric series (badged 15 and 40); dimensions and weight are given in metric units only. Mount to T-Slot uses 2 suggested bolt and T-nut sets (3450); metric alternative 75-3624 (not extracted)."
+    },
+    {
+      "part_number": "14205",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole Slotted Inside Powder Coated Corner Bracket with Dual Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-77",
+      "description": "A silver powder coated aluminum 2 hole slotted inside corner bracket with dual supports, with the optional slot tabs for alignment and to prevent rotation; listed for 15 series and 40 mm metric profiles. No machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Aluminum",
+      "finish": "Powder Coat",
+      "color": "Silver",
+      "weight": ".0303 kg",
+      "specs": {
+        "Tabs": "Yes",
+        "A": "36.00mm",
+        "B": "36.00mm",
+        "C": "4.00mm",
+        "D": "18.70mm",
+        "E": "19.00mm",
+        "F": "5.11mm",
+        "G": "20.20mm",
+        "H": "8.80mm",
+        "J": "38.00mm",
+        "K": "7.80mm"
+      },
+      "dimension_notes": "A and B = leg lengths; C and K are tab dimensions (shown as — on the version without tabs)",
+      "suggested_hardware": [
+        {
+          "part_number": "3111",
+          "qty": 2,
+          "description": "5/16-18 x .625” BHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "Slide-in T-nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "One part number shared by the 15 series and 40 mm metric series (badged 15 and 40); dimensions and weight are given in metric units only. Mount to T-Slot uses 2 bolts (3111) and 2 Slide-in T-nuts (3203). Corner bracket covers are sold separately; the cover badged for the same series (15, 40) is 14207."
+    },
+    {
+      "part_number": "14206",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole Slotted Inside Powder Coated Corner Bracket with Dual Support",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-77",
+      "description": "A silver powder coated aluminum 2 hole slotted inside corner bracket with dual supports, without slot tabs; listed for 15 series and 40 mm metric profiles. No machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Corner bracket covers sold separately",
+        "Optional slot tab for alignment and prevent rotation"
+      ],
+      "material": "Aluminum",
+      "finish": "Powder Coat",
+      "color": "Silver",
+      "weight": ".0294 kg",
+      "specs": {
+        "Tabs": "No",
+        "A": "36.00mm",
+        "B": "36.00mm",
+        "C": "—",
+        "D": "18.70mm",
+        "E": "19.00mm",
+        "F": "5.11mm",
+        "G": "20.20mm",
+        "H": "8.80mm",
+        "J": "38.00mm",
+        "K": "—"
+      },
+      "dimension_notes": "A and B = leg lengths; C and K are tab dimensions (shown as — on the version without tabs)",
+      "suggested_hardware": [
+        {
+          "part_number": "3111",
+          "qty": 2,
+          "description": "5/16-18 x .625” BHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "Slide-in T-nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "One part number shared by the 15 series and 40 mm metric series (badged 15 and 40); dimensions and weight are given in metric units only. Mount to T-Slot uses 2 bolts (3111) and 2 Slide-in T-nuts (3203). Corner bracket covers are sold separately; the cover badged for the same series (15, 40) is 14207."
+    },
+    {
+      "part_number": "14207",
+      "series": [
+        "15"
+      ],
+      "name": "Corner Bracket Cover (for 2 Hole Slotted Inside Powder Coated Corner Bracket with Dual Support)",
+      "category": "accessory",
+      "section": "External Fasteners",
+      "catalog_page": "4-77",
+      "description": "A nylon cover for the 2 hole slotted inside powder coated corner bracket with dual support; the corner bracket covers are sold separately from the brackets.",
+      "material": "Nylon",
+      "weight": ".0045 kg",
+      "specs": {
+        "A": "14.97mm",
+        "B": "57.23mm",
+        "C": "38.17mm"
+      },
+      "notes": "Badged 15 and 40 (same series as brackets 14205 and 14206); dimensions and weight are given in metric units only. Color is not stated in the table (product photo shows black)."
+    },
+    {
+      "part_number": "4376",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "3 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-79",
+      "description": "A clear anodized aluminum 3 hole inside corner bracket (two holes on the long leg, one on the short leg) for joining 15 series profiles (also badged for Ready Tube); no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".126 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".655”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = long leg length, B = short leg length, C = material thickness (typ), F = hole center-to-center spacing on the long leg, G = bracket width, H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3278",
+          "qty": 3,
+          "description": "Economy T-nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 3 bolts (3330) and 3 Economy T-nuts (3278). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 3, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. Metric rows with the same base part number: 30-4376, 40-4376, 45-4376 (not extracted)."
+    },
+    {
+      "part_number": "4376-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "3 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-79",
+      "description": "A black anodized aluminum 3 hole inside corner bracket (two holes on the long leg, one on the short leg) for joining 15 series profiles (also badged for Ready Tube); no machining required.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".126 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".655”",
+        "F": "1.500”",
+        "G": "1.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = long leg length, B = short leg length, C = material thickness (typ), F = hole center-to-center spacing on the long leg, G = bracket width, H = hole diameter (typ)",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3278",
+          "qty": 3,
+          "description": "Economy T-nut",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 3 bolts (3330) and 3 Economy T-nuts (3278). Suggested Hardware (Mount to Ready Tube): 3961 (RT), qty 3, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut. Metric rows with the same base part number: 30-4376, 40-4376, 45-4376 (not extracted)."
+    }
+  ],
+  "page_notes": {
+    "234": "4-70 20 Hole - Cross Flat Plate: 15 series rows 4423 and 4423-Black extracted; 10 series rows skipped.",
+    "235": "4-71 5 Hole - “L” Flat Plate: 15 series rows 4481 and 4481-Black extracted; 10 series and metric rows skipped.",
+    "236": "4-72 5 Hole - “T” Flat Plate: 15 series rows 4480 and 4480-Black extracted; 10 series and metric rows skipped.",
+    "238": "4-74 2 Hole - Inside Corner Bracket: 15/RT rows 4302 and 4302-Black extracted; 10 series and metric rows skipped; RT hardware 3961 recorded in notes.",
+    "239": "4-75 2 Hole - Slotted Inside Corner Bracket: 15/RT rows 4295 and 4295-Black extracted; 10 series and metric rows skipped; RT hardware 3961 recorded in notes.",
+    "240": "4-76 2 Hole - Inside Corner Bracket with Single Support: single steel/zinc part 14120 (badged 15 and 40 metric) extracted.",
+    "241": "4-77 2 Hole Slotted Inside Powder Coated Corner Bracket with Dual Support: 15-badged brackets 14205, 14206 and cover 14207 extracted; 10 series and metric-only rows skipped.",
+    "243": "4-79 3 Hole - Inside Corner Bracket: 15/RT rows 4376 and 4376-Black extracted; 10 series and metric rows skipped; RT hardware 3961 recorded in notes."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4423: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4423-Black: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4481: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4481-Black: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4480: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4480-Black: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4302: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4302-Black: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4295: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4295-Black: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4376: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)",
+      "4376-Black: notes 'equivalent' wording -> neutral listing of other rows (page does not call them equivalents)"
+    ],
+    "remaining_doubts": [
+      "14207 has no title bar of its own; name 'Corner Bracket Cover (...)' is derived from the bullet 'Corner bracket covers sold separately' on 4-77.",
+      "14205/14206 dimension_notes treat C and K as tab dimensions; inferred from the drawing and the '—' values on the no-tab rows, not stated in words.",
+      "3961 (Mount to Ready Tube hardware on 4-74, 4-75, 4-79) is RT-only, so it is kept in notes rather than suggested_hardware of the 15/RT brackets."
+    ]
+  }
+}

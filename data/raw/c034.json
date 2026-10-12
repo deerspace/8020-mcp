@@ -1,0 +1,1111 @@
+{
+  "chunk": "c034",
+  "pages": [
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438
+  ],
+  "parts": [
+    {
+      "part_number": "2282",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Permanent Lubricated Bushing",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-65",
+      "description": "Glass-fiber-reinforced nylon roller wheel with a permanently lubricated bushing and a threaded mounting stud.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".070 lb",
+      "specs": {
+        "Series": "10 to 15",
+        "Grade": "K222-D",
+        "Process": "Injection Molding",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": "5/32",
+        "D": "1.156”",
+        "E": ".480”",
+        "F": ".310”",
+        "G": ".085”",
+        "H": "1/4-20",
+        "J": ".365”"
+      },
+      "dimension_notes": "ø A and ø B are diameters; H = thread of the mounting stud",
+      "notes": "Series is printed as '10 to 15' (10 badge to 15 badge). No assembly using this wheel is listed on the following pages."
+    },
+    {
+      "part_number": "2290",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Permanent Lubricated Bushing",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-65",
+      "description": "Glass-fiber-reinforced nylon roller wheel with a permanently lubricated bushing and a threaded mounting stud.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".158 lb",
+      "specs": {
+        "Series": "15 to 15",
+        "Grade": "K222-D",
+        "Process": "Injection Molding",
+        "A": "2.000”",
+        "B": "1.625”",
+        "C": "3/16",
+        "D": "1.500”",
+        "E": ".720”",
+        "F": ".312”",
+        "G": ".204”",
+        "H": "5/16-18",
+        "J": ".485”"
+      },
+      "dimension_notes": "ø A and ø B are diameters; H = thread of the mounting stud",
+      "notes": "Series is printed as '15 to 15'. Used in Dual Roller Wheel Bracket Assemblies 2756/2756-Black (with bracket 2754) and 2759/2759-Black (with bracket 2757), pg. 5-67."
+    },
+    {
+      "part_number": "2280",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Dual Roller Bearing",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-65",
+      "description": "Glass-fiber-reinforced nylon roller wheel with a dual roller bearing and a threaded mounting stud; the drawing shows it fastened to a mounting profile and riding in the T-slot of a second profile.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".181 lb",
+      "specs": {
+        "Series": "15 to 15",
+        "Grade": "K222-D",
+        "Process": "Injection Molding",
+        "A": "2.000”",
+        "B": "1.625”",
+        "C": ".875”",
+        "D": "3/16",
+        "E": "1.495”",
+        "F": ".720”",
+        "G": ".312”",
+        "H": ".204”",
+        "J": "5/16-18",
+        "K": ".485”"
+      },
+      "dimension_notes": "ø A, ø B and ø C are diameters; J = thread of the mounting stud",
+      "notes": "Series is printed as '15 to 15'. Material specifications from the separate Material Specifications table. Used in Dual Roller Wheel Bracket Assemblies 2755/2755-Black (with bracket 2754) and 2758/2758-Black (with bracket 2757), pg. 5-67."
+    },
+    {
+      "part_number": "2754",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-66",
+      "description": "Milled aluminum bracket that holds two roller wheels, used to build door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".458 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "1.883”",
+        "E": ".860”",
+        "F": ".383”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "4.625”",
+        "N": "1.438”",
+        "P": "1.750”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). Complete assemblies using this bracket: 2755/2755-Black and 2756/2756-Black (pg. 5-67)."
+    },
+    {
+      "part_number": "2754-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-66",
+      "description": "Milled aluminum bracket that holds two roller wheels, used to build door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".458 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "1.883”",
+        "E": ".860”",
+        "F": ".383”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "4.625”",
+        "N": "1.438”",
+        "P": "1.750”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). Complete assemblies using this bracket: 2755/2755-Black and 2756/2756-Black (pg. 5-67)."
+    },
+    {
+      "part_number": "2757",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-66",
+      "description": "Milled aluminum bracket that holds two roller wheels, used to build door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".534 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "2.313”",
+        "E": "1.500”",
+        "F": ".382”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "6.125”",
+        "N": "1.438”",
+        "P": "3.250”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). Complete assemblies using this bracket: 2758/2758-Black and 2759/2759-Black (pg. 5-67)."
+    },
+    {
+      "part_number": "2757-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-66",
+      "description": "Milled aluminum bracket that holds two roller wheels, used to build door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".534 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "2.313”",
+        "E": "1.500”",
+        "F": ".382”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "6.125”",
+        "N": "1.438”",
+        "P": "3.250”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). Complete assemblies using this bracket: 2758/2758-Black and 2759/2759-Black (pg. 5-67)."
+    },
+    {
+      "part_number": "2755",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2754 bracket with two 2280 roller wheels (Roller Wheel with Dual Roller Bearing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".777 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "1.500”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2754 (1), wheels 2280 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2755-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2754 bracket with two 2280 roller wheels (Roller Wheel with Dual Roller Bearing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".777 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "1.500”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2754 (1), wheels 2280 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2758",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2757 bracket with two 2280 roller wheels (Roller Wheel with Dual Roller Bearing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".855 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "3.000”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2757 (1), wheels 2280 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2758-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2757 bracket with two 2280 roller wheels (Roller Wheel with Dual Roller Bearing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".855 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "3.000”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2757 (1), wheels 2280 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2756",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2754 bracket with two 2290 roller wheels (Roller Wheel with Permanent Lubricated Bushing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".735 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "1.500”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2754 (1), wheels 2290 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2756-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2754 bracket with two 2290 roller wheels (Roller Wheel with Permanent Lubricated Bushing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".735 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "1.500”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2754 (1), wheels 2290 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2759",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2757 bracket with two 2290 roller wheels (Roller Wheel with Permanent Lubricated Bushing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".813 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "3.000”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2757 (1), wheels 2290 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2759-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-67",
+      "description": "Assembled dual roller wheel bracket: one 2757 bracket with two 2290 roller wheels (Roller Wheel with Permanent Lubricated Bushing), for door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "weight": ".813 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Material": "Nylon PA Glass Fiber Reinforced K222-D",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "3.000”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "275401",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Included Hardware"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Included Hardware"
+        }
+      ],
+      "notes": "Assembly components: bracket 2757 (1), wheels 2290 (2); included hardware bolt 275401 (2) and T-nut 3203 (2). The Material and Process columns describe the nylon wheels (Wheel Color Black); the bracket is aluminum per the bracket page (5-66)."
+    },
+    {
+      "part_number": "2093",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand with Single Long Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-68",
+      "description": "Milled aluminum right-hand lift-off hinge with a single long pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create lift-off hinge assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".086 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2093-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand with Single Long Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-68",
+      "description": "Milled aluminum right-hand lift-off hinge with a single long pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create lift-off hinge assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".086 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2095",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand with Single Short Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-69",
+      "description": "Milled aluminum right-hand lift-off hinge with a single short pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create captivated assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".082 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.110”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2095-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand with Single Short Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-69",
+      "description": "Milled aluminum right-hand lift-off hinge with a single short pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create captivated assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".082 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.110”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2094",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand with Single Long Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-70",
+      "description": "Milled aluminum left-hand lift-off hinge with a single long pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create lift-off hinge assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".087 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2094-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand with Single Long Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-70",
+      "description": "Milled aluminum left-hand lift-off hinge with a single long pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create lift-off hinge assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".087 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2096",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand with Single Short Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-71",
+      "description": "Milled aluminum left-hand lift-off hinge with a single short pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create captivated assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".082 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.110”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2096-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand with Single Short Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-71",
+      "description": "Milled aluminum left-hand lift-off hinge with a single short pin, mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used to create captivated assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".082 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.110”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall length including pin, D = body length, F = mounting screw thread, ø G = pin diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1). The Standard Lift-Off Hinge - Mating Hub (15 series 2097, pg. 5-72) is used with lift-off hinges to create assemblies."
+    },
+    {
+      "part_number": "2097",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Mating Hub",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-72",
+      "description": "Milled aluminum mating hub with a pin bore, used with lift-off hinges to create hinge assemblies; mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used with lift-off hinges to create assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".076 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": ".750”",
+        "D": ".375”",
+        "E": "1/4-20",
+        "F": ".250”",
+        "G": ".875”",
+        "H": ".500”",
+        "J": ".250”",
+        "K": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = body length, E = mounting screw thread, ø F = pin bore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1)."
+    },
+    {
+      "part_number": "2097-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Mating Hub",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-72",
+      "description": "Milled aluminum mating hub with a pin bore, used with lift-off hinges to create hinge assemblies; mounted to the T-slot with an included screw and economy T-nut.",
+      "features": [
+        "Used with lift-off hinges to create assemblies (pg. 5-74)",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".076 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": ".750”",
+        "D": ".375”",
+        "E": "1/4-20",
+        "F": ".250”",
+        "G": ".875”",
+        "H": ".500”",
+        "J": ".250”",
+        "K": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = body length, E = mounting screw thread, ø F = pin bore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot) - Bolt"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot) - T-Nut"
+        }
+      ],
+      "notes": "*The gap distance between the two mating profiles is .063” (1.60mm). Included hardware (mount to T-slot): 3067 bolt (1) and 3286 Economy T-nut (1)."
+    }
+  ],
+  "page_notes": {
+    "431": "5-65 Roller Wheel with Permanent Lubricated Bushing (extracted 2282 '10 to 15' and 2290 '15 to 15'; 2281 10-only and metric rows skipped) and Roller Wheel with Dual Roller Bearing (extracted 2280; metric 40-2280 skipped).",
+    "432": "5-66 Dual Roller Wheel Bracket; extracted 15-series 2754, 2754-Black, 2757, 2757-Black with weights/material from the specifications grid; 10-series and metric rows skipped.",
+    "433": "5-67 Dual Roller Wheel Bracket Assembly; extracted 15-series 2755, 2758, 2756, 2759 and -Black variants with components and included hardware; 10-series and metric rows skipped.",
+    "434": "5-68 Standard Lift-Off Hinge - Right Hand with Single Long Pin; extracted 2093, 2093-Black; included hardware (15 row) attached; 10-series and metric rows skipped.",
+    "435": "5-69 Standard Lift-Off Hinge - Right Hand with Single Short Pin; extracted 2095, 2095-Black; included hardware (15 row) attached; 10-series and metric rows skipped.",
+    "436": "5-70 Standard Lift-Off Hinge - Left Hand with Single Long Pin; extracted 2094, 2094-Black; included hardware (15 row) attached; 10-series and metric rows skipped.",
+    "437": "5-71 Standard Lift-Off Hinge - Left Hand with Single Short Pin; extracted 2096, 2096-Black; included hardware (15 row) attached; 10-series and metric rows skipped.",
+    "438": "5-72 Standard Lift-Off Hinge - Mating Hub; extracted 2097, 2097-Black; included hardware (15 row) attached; 10-series and metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "2282 is printed with series '10 to 15' (pg. 5-65); kept as a 15-touching row with series ['15'] and the original '10 to 15' preserved in specs.Series.",
+      "Dual Roller Wheel Bracket Assemblies (2755-2759-Black): the 'Included Hardware' bolt 275401 (2) and T-nut 3203 (2) are stored in suggested_hardware with context 'Included Hardware'; the page gives no description for these part numbers beyond the column headers.",
+      "Assembly Material/Process columns (Nylon PA Glass Fiber Reinforced K222-D, Injection Molding) are merged across all rows and appear to describe the wheels; left in specs rather than top-level material.",
+      "Lift-off hinge Included Hardware (Mount to T-Slot) 15-series row (3067 bolt, 3286 Economy T-nut) is attached as suggested_hardware to all 15-series hinge and mating hub parts."
+    ]
+  }
+}

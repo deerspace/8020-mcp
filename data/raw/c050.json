@@ -1,0 +1,1448 @@
+{
+  "chunk": "c050",
+  "pages": [
+    577,
+    579,
+    581,
+    583,
+    585,
+    586,
+    587,
+    588
+  ],
+  "parts": [
+    {
+      "part_number": "6831",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Single Flange Long High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-23",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, single flange, long), in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.495 lb",
+      "specs": {
+        "A": "2.750”",
+        "B": ".750”",
+        "C": ".375”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": "2.005”",
+        "G": ".493”",
+        "H": ".250”",
+        "J": "2.000”",
+        "K": ".500”",
+        "L": "6.000”",
+        "M": "—",
+        "N": ".750”",
+        "P": "1.253”",
+        "Q": "1.500”",
+        "R": "1.500”",
+        "S": "10-32 FHSCS",
+        "T": "—",
+        "U": ".328”",
+        "V": "1.500”",
+        "W": ".656”",
+        "X": ".375”",
+        "Y": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-23 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). A version with brake holes is 6531."
+    },
+    {
+      "part_number": "6831-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Single Flange Long High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-23",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, single flange, long), in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.495 lb",
+      "specs": {
+        "A": "2.750”",
+        "B": ".750”",
+        "C": ".375”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": "2.005”",
+        "G": ".493”",
+        "H": ".250”",
+        "J": "2.000”",
+        "K": ".500”",
+        "L": "6.000”",
+        "M": "—",
+        "N": ".750”",
+        "P": "1.253”",
+        "Q": "1.500”",
+        "R": "1.500”",
+        "S": "10-32 FHSCS",
+        "T": "—",
+        "U": ".328”",
+        "V": "1.500”",
+        "W": ".656”",
+        "X": ".375”",
+        "Y": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-23 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). A version with brake holes is 6531."
+    },
+    {
+      "part_number": "6531",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Single Flange Long High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-23",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, single flange, long), with brake holes, in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.476 lb",
+      "specs": {
+        "A": "2.750”",
+        "B": ".750”",
+        "C": ".375”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": "2.005”",
+        "G": ".493”",
+        "H": ".250”",
+        "J": "2.000”",
+        "K": ".500”",
+        "L": "6.000”",
+        "M": "1.500”",
+        "N": ".750”",
+        "P": "1.253”",
+        "Q": "1.500”",
+        "R": "1.500”",
+        "S": "10-32 FHSCS",
+        "T": ".344”",
+        "U": ".328”",
+        "V": "1.500”",
+        "W": ".656”",
+        "X": ".375”",
+        "Y": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-23 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). Brake-hole version of 6831."
+    },
+    {
+      "part_number": "6531-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Single Flange Long High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-23",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, single flange, long), with brake holes, in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.476 lb",
+      "specs": {
+        "A": "2.750”",
+        "B": ".750”",
+        "C": ".375”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": "2.005”",
+        "G": ".493”",
+        "H": ".250”",
+        "J": "2.000”",
+        "K": ".500”",
+        "L": "6.000”",
+        "M": "1.500”",
+        "N": ".750”",
+        "P": "1.253”",
+        "Q": "1.500”",
+        "R": "1.500”",
+        "S": "10-32 FHSCS",
+        "T": ".344”",
+        "U": ".328”",
+        "V": "1.500”",
+        "W": ".656”",
+        "X": ".375”",
+        "Y": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-23 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). Brake-hole version of 6831."
+    },
+    {
+      "part_number": "6835",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Short High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-25",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, short), in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".673 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "2.812”",
+        "N": "—",
+        "P": ".656”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": "—",
+        "V": ".328”",
+        "W": "3.250”",
+        "X": "1.500”",
+        "Y": ".656”",
+        "Z": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-25 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with 4 Slide-In T-nuts (T-nut part no. printed as '-'). A version with brake holes is 6535."
+    },
+    {
+      "part_number": "6835-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Short High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-25",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, short), in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".673 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "2.812”",
+        "N": "—",
+        "P": ".656”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": "—",
+        "V": ".328”",
+        "W": "3.250”",
+        "X": "1.500”",
+        "Y": ".656”",
+        "Z": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-25 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with 4 Slide-In T-nuts (T-nut part no. printed as '-'). A version with brake holes is 6535."
+    },
+    {
+      "part_number": "6535",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Short High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-25",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, short), with brake holes, in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".665 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "2.812”",
+        "N": "1.406”",
+        "P": ".656”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": ".344”",
+        "V": ".328”",
+        "W": "3.250”",
+        "X": "1.500”",
+        "Y": ".656”",
+        "Z": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-25 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with 4 Slide-In T-nuts (T-nut part no. printed as '-'). Brake-hole version of 6835."
+    },
+    {
+      "part_number": "6535-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Short High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-25",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, short), with brake holes, in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".665 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "2.812”",
+        "N": "1.406”",
+        "P": ".656”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": ".344”",
+        "V": ".328”",
+        "W": "3.250”",
+        "X": "1.500”",
+        "Y": ".656”",
+        "Z": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-25 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with 4 Slide-In T-nuts (T-nut part no. printed as '-'). Brake-hole version of 6835."
+    },
+    {
+      "part_number": "6836",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Long High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-27",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, long), in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.425 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "6.000”",
+        "N": "—",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": "—",
+        "W": ".328”",
+        "X": "3.250”",
+        "Y": "1.500”",
+        "Z": ".750”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-27 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with 8 Slide-In T-nuts (T-nut part no. printed as '-'). A version with brake holes is 6536."
+    },
+    {
+      "part_number": "6836-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Long High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-27",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, long), in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.425 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "6.000”",
+        "N": "—",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": "—",
+        "W": ".328”",
+        "X": "3.250”",
+        "Y": "1.500”",
+        "Z": ".750”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-27 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with 8 Slide-In T-nuts (T-nut part no. printed as '-'). A version with brake holes is 6536."
+    },
+    {
+      "part_number": "6536",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Long High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-27",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, long), with brake holes, in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.408 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "6.000”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": ".344”",
+        "W": ".328”",
+        "X": "3.250”",
+        "Y": "1.500”",
+        "Z": ".750”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-27 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with 8 Slide-In T-nuts (T-nut part no. printed as '-'). Brake-hole version of 6836."
+    },
+    {
+      "part_number": "6536-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Slot Mount - Double Flange Long High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-27",
+      "description": "High-cycle linear bearing for 15 series profile (3 slot mount, double flange, long), with brake holes, in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.408 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "2.505”",
+        "F": ".250”",
+        "G": "2.005”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "4.000”",
+        "M": "6.000”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": ".344”",
+        "W": ".328”",
+        "X": "3.250”",
+        "Y": "1.500”",
+        "Z": ".750”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-27 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with 8 Slide-In T-nuts (T-nut part no. printed as '-'). Brake-hole version of 6836."
+    },
+    {
+      "part_number": "6833",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Short High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-29",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, short), in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".818 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "2.812”",
+        "N": "—",
+        "P": ".656”",
+        "Q": "2.000”",
+        "R": ".375”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": "—",
+        "V": ".328”",
+        "W": "4.750”",
+        "X": "1.500”",
+        "Y": "1.500”",
+        "Z": ".656”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-29 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). A version with brake holes is 6533."
+    },
+    {
+      "part_number": "6833-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Short High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-29",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, short), in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".818 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "2.812”",
+        "N": "—",
+        "P": ".656”",
+        "Q": "2.000”",
+        "R": ".375”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": "—",
+        "V": ".328”",
+        "W": "4.750”",
+        "X": "1.500”",
+        "Y": "1.500”",
+        "Z": ".656”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-29 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). A version with brake holes is 6533."
+    },
+    {
+      "part_number": "6533",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Short High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-29",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, short), with brake holes, in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".808 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "2.812”",
+        "N": "1.406”",
+        "P": ".656”",
+        "Q": "2.000”",
+        "R": ".375”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": ".343”",
+        "V": ".328”",
+        "W": "4.750”",
+        "X": "1.500”",
+        "Y": "1.500”",
+        "Z": ".656”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-29 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). Brake-hole version of 6833."
+    },
+    {
+      "part_number": "6533-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Short High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-29",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, short), with brake holes, in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".808 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "2.812”",
+        "N": "1.406”",
+        "P": ".656”",
+        "Q": "2.000”",
+        "R": ".375”",
+        "S": "1.500”",
+        "T": "10-32 FHSCS",
+        "U": ".343”",
+        "V": ".328”",
+        "W": "4.750”",
+        "X": "1.500”",
+        "Y": "1.500”",
+        "Z": ".656”",
+        "AA": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 4,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-29 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 4 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). Brake-hole version of 6833."
+    },
+    {
+      "part_number": "6834",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Long High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-31",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, long), in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.727 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "6.000”",
+        "N": "—",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": "—",
+        "W": ".328”",
+        "X": "4.750”",
+        "Y": "1.500”",
+        "Z": "1.500”",
+        "AA": ".750”",
+        "AB": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-31 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). A version with brake holes is 6534."
+    },
+    {
+      "part_number": "6834-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Long High-Cycle Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-31",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, long), in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.727 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "6.000”",
+        "N": "—",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": "—",
+        "W": ".328”",
+        "X": "4.750”",
+        "Y": "1.500”",
+        "Z": "1.500”",
+        "AA": ".750”",
+        "AB": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-31 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. '—' in specs means the dimension is printed as a dash (not applicable) for this part. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). A version with brake holes is 6534."
+    },
+    {
+      "part_number": "6534",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Long High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-31",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, long), with brake holes, in clear anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.706 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "6.000”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": ".343”",
+        "W": ".328”",
+        "X": "4.750”",
+        "Y": "1.500”",
+        "Z": "1.500”",
+        "AA": ".750”",
+        "AB": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-31 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). Brake-hole version of 6834."
+    },
+    {
+      "part_number": "6534-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Slot Mount - Double Flange Long High-Cycle Linear Bearing with Brake Holes",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-31",
+      "description": "High-cycle linear bearing for 15 series profile (4 slot mount, double flange, long), with brake holes, in black anodized 6063-T6 aluminum. Mounts to the T-slot with the suggested hardware listed on the page.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.706 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".375”",
+        "C": "1.500”",
+        "D": ".125”",
+        "E": "4.005”",
+        "F": ".250”",
+        "G": "3.505”",
+        "H": ".493”",
+        "J": ".748”",
+        "K": ".250”",
+        "L": "5.500”",
+        "M": "6.000”",
+        "N": "1.500”",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": "2.000”",
+        "S": "1.500”",
+        "T": "1.500”",
+        "U": "10-32 FHSCS",
+        "V": ".343”",
+        "W": ".328”",
+        "X": "4.750”",
+        "Y": "1.500”",
+        "Z": "1.500”",
+        "AA": ".750”",
+        "AB": ".625”",
+        "Process": "Extrude"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3455",
+          "qty": 8,
+          "description": "5/16-18 x .750” Black SHCS, Slide-In T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Title bar on page 7-31 is marked '(Continued)'; the product introduction/drawing is on a preceding page not in this chunk, so dimension letters are not defined here. Suggested mounting hardware: 8 x 3455 (5/16-18 x .750” Black SHCS) with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column). Brake-hole version of 6834."
+    },
+    {
+      "part_number": "6860",
+      "series": [
+        "15"
+      ],
+      "name": "Single Short UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-32",
+      "description": "Single short UniBearing for 15 series profile in clear anodized 6063-T6 aluminum, with pre-drilled brake holes and tapped mounting holes for accessories; it can move or be fixed, with pads mounted using stainless steel flathead socket cap screws.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".449 lb",
+      "specs": {
+        "A": "3.125”",
+        "B": ".309”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": ".656”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "2.812”",
+        "P": "5/16 SHCS",
+        "Q": "5/16-18",
+        "R": "10-24",
+        "S": ".328”",
+        "Process": "Extrude"
+      },
+      "dimension_notes": "P, Q, R and ø S are typical (TYP) hole callouts on the top view: P = 5/16 SHCS, Q = 5/16-18, R = 10-24, ø S = hole diameter.",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 1,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is INCLUDED (table 'Included Hardware (Mount to T-Slot)'): 2 x 3110 (5/16-18 x 5/8” SHCS) and 1 x 3279 (Double Slide-in Economy T-nut). Bearing pads are mounted with stainless steel flathead socket cap screws."
+    },
+    {
+      "part_number": "6860-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Short UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-32",
+      "description": "Single short UniBearing for 15 series profile in black anodized 6063-T6 aluminum, with pre-drilled brake holes and tapped mounting holes for accessories; it can move or be fixed, with pads mounted using stainless steel flathead socket cap screws.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".449 lb",
+      "specs": {
+        "A": "3.125”",
+        "B": ".309”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": ".656”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "2.812”",
+        "P": "5/16 SHCS",
+        "Q": "5/16-18",
+        "R": "10-24",
+        "S": ".328”",
+        "Process": "Extrude"
+      },
+      "dimension_notes": "P, Q, R and ø S are typical (TYP) hole callouts on the top view: P = 5/16 SHCS, Q = 5/16-18, R = 10-24, ø S = hole diameter.",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 1,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is INCLUDED (table 'Included Hardware (Mount to T-Slot)'): 2 x 3110 (5/16-18 x 5/8” SHCS) and 1 x 3279 (Double Slide-in Economy T-nut). Bearing pads are mounted with stainless steel flathead socket cap screws."
+    },
+    {
+      "part_number": "6862",
+      "series": [
+        "15"
+      ],
+      "name": "Single Long UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-33",
+      "description": "Single long UniBearing for 15 series profile in clear anodized 6063-T6 aluminum, with pre-drilled brake holes and tapped mounting holes for accessories; it can move or be fixed, with pads mounted using stainless steel flathead socket cap screws.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".933 lb",
+      "specs": {
+        "A": "3.125”",
+        "B": ".309”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": ".750”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "1.500”",
+        "P": "6.000”",
+        "Q": "5/16 SHCS",
+        "R": "5/16-18",
+        "S": "10-24",
+        "T": ".328”",
+        "Process": "Extrude"
+      },
+      "dimension_notes": "Q, R, S and ø T are typical (TYP) hole callouts on the top view: Q = 5/16 SHCS, R = 5/16-18, S = 10-24, ø T = hole diameter; P = overall length in the top view.",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is INCLUDED (table 'Included Hardware (Mount to T-Slot)'): 4 x 3110 (5/16-18 x 5/8” SHCS) and 2 x 3279 (Double Slide-in Economy T-nut). Bearing pads are mounted with stainless steel flathead socket cap screws."
+    },
+    {
+      "part_number": "6862-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Long UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-33",
+      "description": "Single long UniBearing for 15 series profile in black anodized 6063-T6 aluminum, with pre-drilled brake holes and tapped mounting holes for accessories; it can move or be fixed, with pads mounted using stainless steel flathead socket cap screws.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".933 lb",
+      "specs": {
+        "A": "3.125”",
+        "B": ".309”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": ".750”",
+        "L": ".750”",
+        "M": "1.500”",
+        "N": "1.500”",
+        "P": "6.000”",
+        "Q": "5/16 SHCS",
+        "R": "5/16-18",
+        "S": "10-24",
+        "T": ".328”",
+        "Process": "Extrude"
+      },
+      "dimension_notes": "Q, R, S and ø T are typical (TYP) hole callouts on the top view: Q = 5/16 SHCS, R = 5/16-18, S = 10-24, ø T = hole diameter; P = overall length in the top view.",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is INCLUDED (table 'Included Hardware (Mount to T-Slot)'): 4 x 3110 (5/16-18 x 5/8” SHCS) and 2 x 3279 (Double Slide-in Economy T-nut). Bearing pads are mounted with stainless steel flathead socket cap screws."
+    },
+    {
+      "part_number": "6864",
+      "series": [
+        "15"
+      ],
+      "name": "Double Short UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-34",
+      "description": "Double short UniBearing for 15 series profile in clear anodized 6063-T6 aluminum, with pre-drilled brake holes and tapped mounting holes for accessories; it can move or be fixed, with pads mounted using stainless steel flathead socket cap screws.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".588 lb",
+      "specs": {
+        "A": "4.750”",
+        "B": ".308”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": "3.125”",
+        "L": "4.134”",
+        "M": ".656”",
+        "N": ".750”",
+        "P": "1.500”",
+        "Q": "2.812”",
+        "R": "5/16 SHCS",
+        "S": "5/16-18",
+        "T": "10-24",
+        "U": ".328”",
+        "Process": "Extrude"
+      },
+      "dimension_notes": "R, S, T and ø U are typical (TYP) hole callouts on the top view: R = 5/16 SHCS, S = 5/16-18, T = 10-24, ø U = hole diameter; Q = overall width in the top view.",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 1,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is INCLUDED (table 'Included Hardware (Mount to T-Slot)'): 2 x 3110 (5/16-18 x 5/8” SHCS) and 1 x 3279 (Double Slide-in Economy T-nut). Bearing pads are mounted with stainless steel flathead socket cap screws."
+    },
+    {
+      "part_number": "6864-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Short UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-34",
+      "description": "Double short UniBearing for 15 series profile in black anodized 6063-T6 aluminum, with pre-drilled brake holes and tapped mounting holes for accessories; it can move or be fixed, with pads mounted using stainless steel flathead socket cap screws.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".588 lb",
+      "specs": {
+        "A": "4.750”",
+        "B": ".308”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": "3.125”",
+        "L": "4.134”",
+        "M": ".656”",
+        "N": ".750”",
+        "P": "1.500”",
+        "Q": "2.812”",
+        "R": "5/16 SHCS",
+        "S": "5/16-18",
+        "T": "10-24",
+        "U": ".328”",
+        "Process": "Extrude"
+      },
+      "dimension_notes": "R, S, T and ø U are typical (TYP) hole callouts on the top view: R = 5/16 SHCS, S = 5/16-18, T = 10-24, ø U = hole diameter; Q = overall width in the top view.",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 1,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is INCLUDED (table 'Included Hardware (Mount to T-Slot)'): 2 x 3110 (5/16-18 x 5/8” SHCS) and 1 x 3279 (Double Slide-in Economy T-nut). Bearing pads are mounted with stainless steel flathead socket cap screws."
+    }
+  ],
+  "page_notes": {
+    "577": "7-23: 3 Slot Mount - Single Flange Long High-Cycle Linear Bearing (continued) tables: 6831/6531 (+Black) 15 series; metric 40- rows skipped; suggested hardware 3455 x4.",
+    "579": "7-25: 3 Slot Mount - Double Flange Short High-Cycle Linear Bearing (continued): 6835/6535 (+Black) 15 series; metric 40-/45- rows skipped; suggested hardware 3455 x4.",
+    "581": "7-27: 3 Slot Mount - Double Flange Long High-Cycle Linear Bearing (continued): 6836/6536 (+Black) 15 series; metric 40-/45- rows skipped; suggested hardware 3455 x8.",
+    "583": "7-29: 4 Slot Mount - Double Flange Short High-Cycle Linear Bearing (continued): 6833/6533 (+Black) 15 series; metric 40- rows skipped; suggested hardware 3455 x4.",
+    "585": "7-31: 4 Slot Mount - Double Flange Long High-Cycle Linear Bearing (continued): 6834/6534 (+Black) 15 series; metric 40- rows skipped; suggested hardware 3455 x8.",
+    "586": "7-32: Single Short UniBearing: 6860/6860-Black 15 series extracted; 10 series 6760 and metric 25-/40- rows skipped; included hardware 3110 x2 + 3279 x1.",
+    "587": "7-33: Single Long UniBearing: 6862/6862-Black 15 series extracted; 10 series 6762 and metric 25-/40- rows skipped; included hardware 3110 x4 + 3279 x2.",
+    "588": "7-34: Double Short UniBearing: 6864/6864-Black 15 series extracted; 10 series 6764 and metric 25-/40- rows skipped; included hardware 3110 x2 + 3279 x1."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "6831: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6831-Black: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6531: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6531-Black: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6833: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6833-Black: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6533: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6533-Black: notes \"with 4 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6834: notes \"with 8 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6834-Black: notes \"with 8 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6534: notes \"with 8 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6534-Black: notes \"with 8 Slide-In T-nuts (T-nut part no. printed as '-').\" -> \"with Slide-In T-nuts (this table has no T-nut part number or T-nut quantity column).\"",
+      "6860: description 'can move along the profile or be fixed' -> 'can move or be fixed' (\"along the profile\" is not on the page)",
+      "6860-Black: description 'can move along the profile or be fixed' -> 'can move or be fixed' (\"along the profile\" is not on the page)",
+      "6862: description 'can move along the profile or be fixed' -> 'can move or be fixed' (\"along the profile\" is not on the page)",
+      "6862-Black: description 'can move along the profile or be fixed' -> 'can move or be fixed' (\"along the profile\" is not on the page)",
+      "6864: description 'can move along the profile or be fixed' -> 'can move or be fixed' (\"along the profile\" is not on the page)",
+      "6864-Black: description 'can move along the profile or be fixed' -> 'can move or be fixed' (\"along the profile\" is not on the page)"
+    ],
+    "remaining_doubts": [
+      "Pages 7-23/25/27/29/31 are '(Continued)' pages; the drawings defining dimension letters A-AB are on preceding pages outside this chunk, so dimension_notes are omitted for the high-cycle linear bearings.",
+      "UniBearing hardware tables are 'Included Hardware' (supplied with the part), not 'Suggested Hardware'; they are kept in suggested_hardware with that context and stated as included in notes.",
+      "Merged dash cells (e.g. M/T on 6831, N/U on 6835, N/V on 6836, N/U on 6833, N/V on 6834) are kept in specs as the printed '—'."
+    ]
+  }
+}

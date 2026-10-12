@@ -1,0 +1,858 @@
+{
+  "chunk": "c048",
+  "pages": [
+    549,
+    550,
+    551,
+    552,
+    553,
+    554
+  ],
+  "parts": [
+    {
+      "part_number": "2411",
+      "series": [
+        "15"
+      ],
+      "name": "Steel Floor Mount Bracket",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-37",
+      "description": "Carbon steel floor mount bracket with an attached profile socket on a base plate; the profile is held by the included M8 x 25mm SHCS set screw and four holes in the base plate mount it to the floor.",
+      "features": [
+        "Attached profile with included set screw",
+        "Four holes for flooring mounting",
+        "Install two extrusions with 2412 or 45-2412"
+      ],
+      "material": "Carbon Steel",
+      "finish": "Black Powder Coated",
+      "weight": "3.134 lbs (1.421 kg)",
+      "specs": {
+        "A": "6.024” (153.00mm)",
+        "B": "1.593” (40.45mm)",
+        "C": "1.593” (40.45mm)",
+        "D": "6.024” (153.00mm)",
+        "E": ".630” (16.00mm)",
+        "F": "5.118” (130.00mm)",
+        "Bolt": "M8 x 25mm SHCS"
+      },
+      "dimension_notes": "A = base plate length, D = base plate width, B and C = socket opening (inside) dimensions, ØE = floor mounting hole diameter, F = overall height",
+      "notes": "Also badged 40 (metric) series. Suggested profile series (qty 1): One 1.50” or 40mm square profile. Set screw M8 x 25mm SHCS included."
+    },
+    {
+      "part_number": "2412",
+      "series": [
+        "15"
+      ],
+      "name": "Steel Floor Mount Bracket",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-37",
+      "description": "Carbon steel floor mount bracket with an attached profile socket on a base plate; the profile is held by the included M8 x 25mm SHCS set screw and four holes in the base plate mount it to the floor.",
+      "features": [
+        "Attached profile with included set screw",
+        "Four holes for flooring mounting",
+        "Install two extrusions with 2412 or 45-2412"
+      ],
+      "material": "Carbon Steel",
+      "finish": "Black Powder Coated",
+      "weight": "3.646 lbs (1.653 kg)",
+      "specs": {
+        "A": "6.024” (153.00mm)",
+        "B": "3.179” (80.75mm)",
+        "C": "1.593” (40.45mm)",
+        "D": "6.024” (153.00mm)",
+        "E": ".630” (16.00mm)",
+        "F": "5.118” (130.00mm)",
+        "Bolt": "M8 x 25mm SHCS"
+      },
+      "dimension_notes": "A = base plate length, D = base plate width, B and C = socket opening (inside) dimensions, ØE = floor mounting hole diameter, F = overall height",
+      "notes": "Also badged 40 (metric) series. Suggested profile series (qty 1-2): Two 1.50” or 40mm profiles or one 1.50” x 3.00” or 40mm x 80mm profile. Set screw M8 x 25mm SHCS included."
+    },
+    {
+      "part_number": "2390",
+      "series": [
+        "15"
+      ],
+      "name": "Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-38",
+      "description": "Aluminum floor mount base plate with two upright plates that support the sides of a profile and enable vertical adjustment, plus anchor slots that let the frame bolt to the floor with lateral adjustment.",
+      "features": [
+        "Two upright plates support sides of profile and enable vertical adjustments",
+        "Anchor slots allow frame to bolt to floor and provide lateral adjustments"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.584 lb",
+      "specs": {
+        "A": "3.750”",
+        "B": ".625”",
+        "C": "6.000”",
+        "D": "4.750”",
+        "E": "2.750”",
+        "F": "1.520”",
+        "G": ".265”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "1.500”",
+        "M": "2.750”",
+        "N": ".375”",
+        "P": "5.000”",
+        "Q": ".328”",
+        "R": "1.500”",
+        "S": ".750”",
+        "T": "—",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall base plate width, P = overall base plate depth, N = base plate thickness, A = anchor slot center-to-center distance, F = gap between the two upright plates, H = upright plate thickness, R = upright plate width, øQ = upright plate hole diameter, R. G = anchor slot end radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-39 (Floor Mount Base Plate continued). Use 4 to 8 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2390-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-38",
+      "description": "Aluminum floor mount base plate with two upright plates that support the sides of a profile and enable vertical adjustment, plus anchor slots that let the frame bolt to the floor with lateral adjustment.",
+      "features": [
+        "Two upright plates support sides of profile and enable vertical adjustments",
+        "Anchor slots allow frame to bolt to floor and provide lateral adjustments"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.584 lb",
+      "specs": {
+        "A": "3.750”",
+        "B": ".625”",
+        "C": "6.000”",
+        "D": "4.750”",
+        "E": "2.750”",
+        "F": "1.520”",
+        "G": ".265”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "1.500”",
+        "M": "2.750”",
+        "N": ".375”",
+        "P": "5.000”",
+        "Q": ".328”",
+        "R": "1.500”",
+        "S": ".750”",
+        "T": "—",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall base plate width, P = overall base plate depth, N = base plate thickness, A = anchor slot center-to-center distance, F = gap between the two upright plates, H = upright plate thickness, R = upright plate width, øQ = upright plate hole diameter, R. G = anchor slot end radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-39 (Floor Mount Base Plate continued). Use 4 to 8 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2400",
+      "series": [
+        "15"
+      ],
+      "name": "Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-38",
+      "description": "Aluminum floor mount base plate with two upright plates that support the sides of a profile and enable vertical adjustment, plus anchor slots that let the frame bolt to the floor with lateral adjustment.",
+      "features": [
+        "Two upright plates support sides of profile and enable vertical adjustments",
+        "Anchor slots allow frame to bolt to floor and provide lateral adjustments"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.489 lb",
+      "specs": {
+        "A": "4.750”",
+        "B": ".625”",
+        "C": "6.500”",
+        "D": "5.250”",
+        "E": "3.250”",
+        "F": "1.520”",
+        "G": ".265”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "1.500”",
+        "M": "2.750”",
+        "N": ".375”",
+        "P": "6.000”",
+        "Q": ".328”",
+        "R": "3.000”",
+        "S": ".750”",
+        "T": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall base plate width, P = overall base plate depth, N = base plate thickness, A = anchor slot center-to-center distance, F = gap between the two upright plates, H = upright plate thickness, R = upright plate width, øQ = upright plate hole diameter, R. G = anchor slot end radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-39 (Floor Mount Base Plate continued). Use 4 to 8 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2400-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-38",
+      "description": "Aluminum floor mount base plate with two upright plates that support the sides of a profile and enable vertical adjustment, plus anchor slots that let the frame bolt to the floor with lateral adjustment.",
+      "features": [
+        "Two upright plates support sides of profile and enable vertical adjustments",
+        "Anchor slots allow frame to bolt to floor and provide lateral adjustments"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.489 lb",
+      "specs": {
+        "A": "4.750”",
+        "B": ".625”",
+        "C": "6.500”",
+        "D": "5.250”",
+        "E": "3.250”",
+        "F": "1.520”",
+        "G": ".265”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "1.500”",
+        "M": "2.750”",
+        "N": ".375”",
+        "P": "6.000”",
+        "Q": ".328”",
+        "R": "3.000”",
+        "S": ".750”",
+        "T": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall base plate width, P = overall base plate depth, N = base plate thickness, A = anchor slot center-to-center distance, F = gap between the two upright plates, H = upright plate thickness, R = upright plate width, øQ = upright plate hole diameter, R. G = anchor slot end radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-39 (Floor Mount Base Plate continued). Use 4 to 8 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2410",
+      "series": [
+        "15"
+      ],
+      "name": "Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-38",
+      "description": "Aluminum floor mount base plate with two upright plates that support the sides of a profile and enable vertical adjustment, plus anchor slots that let the frame bolt to the floor with lateral adjustment.",
+      "features": [
+        "Two upright plates support sides of profile and enable vertical adjustments",
+        "Anchor slots allow frame to bolt to floor and provide lateral adjustments"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.822 lb",
+      "specs": {
+        "A": "4.750”",
+        "B": ".625”",
+        "C": "8.000”",
+        "D": "6.750”",
+        "E": "4.750”",
+        "F": "3.020”",
+        "G": ".265”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "1.500”",
+        "M": "2.750”",
+        "N": ".375”",
+        "P": "6.000”",
+        "Q": ".328”",
+        "R": "3.000”",
+        "S": ".750”",
+        "T": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall base plate width, P = overall base plate depth, N = base plate thickness, A = anchor slot center-to-center distance, F = gap between the two upright plates, H = upright plate thickness, R = upright plate width, øQ = upright plate hole diameter, R. G = anchor slot end radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-39 (Floor Mount Base Plate continued). Use 4 to 8 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2410-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-38",
+      "description": "Aluminum floor mount base plate with two upright plates that support the sides of a profile and enable vertical adjustment, plus anchor slots that let the frame bolt to the floor with lateral adjustment.",
+      "features": [
+        "Two upright plates support sides of profile and enable vertical adjustments",
+        "Anchor slots allow frame to bolt to floor and provide lateral adjustments"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.822 lb",
+      "specs": {
+        "A": "4.750”",
+        "B": ".625”",
+        "C": "8.000”",
+        "D": "6.750”",
+        "E": "4.750”",
+        "F": "3.020”",
+        "G": ".265”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "1.500”",
+        "M": "2.750”",
+        "N": ".375”",
+        "P": "6.000”",
+        "Q": ".328”",
+        "R": "3.000”",
+        "S": ".750”",
+        "T": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = overall base plate width, P = overall base plate depth, N = base plate thickness, A = anchor slot center-to-center distance, F = gap between the two upright plates, H = upright plate thickness, R = upright plate width, øQ = upright plate hole diameter, R. G = anchor slot end radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-39 (Floor Mount Base Plate continued). Use 4 to 8 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2415",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-40",
+      "description": "Aluminum angle-style floor mount base plate that bolts directly to a profile's T-slot for vertical adjustment, with counterbored holes in the base for floor anchors.",
+      "features": [
+        "Bolts directly to T-slot to allow vertical adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".263 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "—",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": "—",
+        "K": ".531”",
+        "L": ".312”",
+        "M": "1.125”",
+        "N": ".250”",
+        "P": "5.000”",
+        "Q": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright plate width, P = overall height, Q = base depth, N = plate thickness, ØF = T-slot mounting hole diameter, ØK = floor anchor hole diameter, øM = counterbore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-41 (Economy Floor Mount Base Plate continued). Use 2 to 6 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2415-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-40",
+      "description": "Aluminum angle-style floor mount base plate that bolts directly to a profile's T-slot for vertical adjustment, with counterbored holes in the base for floor anchors.",
+      "features": [
+        "Bolts directly to T-slot to allow vertical adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".263 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "—",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": "—",
+        "K": ".531”",
+        "L": ".312”",
+        "M": "1.125”",
+        "N": ".250”",
+        "P": "5.000”",
+        "Q": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright plate width, P = overall height, Q = base depth, N = plate thickness, ØF = T-slot mounting hole diameter, ØK = floor anchor hole diameter, øM = counterbore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-41 (Economy Floor Mount Base Plate continued). Use 2 to 6 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2417",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-40",
+      "description": "Aluminum angle-style floor mount base plate that bolts directly to a profile's T-slot for vertical adjustment, with counterbored holes in the base for floor anchors.",
+      "features": [
+        "Bolts directly to T-slot to allow vertical adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".545 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": "1.500”",
+        "K": ".531”",
+        "L": ".312”",
+        "M": "1.125”",
+        "N": ".250”",
+        "P": "5.000”",
+        "Q": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright plate width, P = overall height, Q = base depth, N = plate thickness, ØF = T-slot mounting hole diameter, ØK = floor anchor hole diameter, øM = counterbore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-41 (Economy Floor Mount Base Plate continued). Use 2 to 6 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2417-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-40",
+      "description": "Aluminum angle-style floor mount base plate that bolts directly to a profile's T-slot for vertical adjustment, with counterbored holes in the base for floor anchors.",
+      "features": [
+        "Bolts directly to T-slot to allow vertical adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".545 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": "1.500”",
+        "K": ".531”",
+        "L": ".312”",
+        "M": "1.125”",
+        "N": ".250”",
+        "P": "5.000”",
+        "Q": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright plate width, P = overall height, Q = base depth, N = plate thickness, ØF = T-slot mounting hole diameter, ØK = floor anchor hole diameter, øM = counterbore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-41 (Economy Floor Mount Base Plate continued). Use 2 to 6 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2405",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-40",
+      "description": "Aluminum angle-style floor mount base plate that bolts directly to a profile's T-slot for vertical adjustment, with counterbored holes in the base for floor anchors.",
+      "features": [
+        "Bolts directly to T-slot to allow vertical adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".785 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "4.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": "1.500”",
+        "K": ".531”",
+        "L": ".312”",
+        "M": "1.125”",
+        "N": ".250”",
+        "P": "5.000”",
+        "Q": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright plate width, P = overall height, Q = base depth, N = plate thickness, ØF = T-slot mounting hole diameter, ØK = floor anchor hole diameter, øM = counterbore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-41 (Economy Floor Mount Base Plate continued). Use 2 to 6 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2405-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-40",
+      "description": "Aluminum angle-style floor mount base plate that bolts directly to a profile's T-slot for vertical adjustment, with counterbored holes in the base for floor anchors.",
+      "features": [
+        "Bolts directly to T-slot to allow vertical adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".785 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": ".750”",
+        "C": "4.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": "1.500”",
+        "K": ".531”",
+        "L": ".312”",
+        "M": "1.125”",
+        "N": ".250”",
+        "P": "5.000”",
+        "Q": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright plate width, P = overall height, Q = base depth, N = plate thickness, ØF = T-slot mounting hole diameter, ØK = floor anchor hole diameter, øM = counterbore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3325",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 3/4” Economy T-Slot Stud w/ Washer & Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": "2 to 6",
+          "description": "5/16-18 x 11/16” FBHSCS & Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Material specifications and suggested hardware are printed on page 6-41 (Economy Floor Mount Base Plate continued). Use 2 to 6 suggested bolt assemblies to mount to the T-slot."
+    },
+    {
+      "part_number": "2413",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Slotted Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-42",
+      "description": "Aluminum angle-style floor mount base plate with slotted holes in the upright for positioning and adjustment and a counterbored hole in the base for a floor anchor.",
+      "features": [
+        "Slotted holes assist with positioning and adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".255 lb",
+      "specs": {
+        "A": "2.750”",
+        "B": "1.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".500”",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": ".530”",
+        "K": ".312”",
+        "L": "1.125”",
+        "M": ".250”",
+        "N": "5.000”",
+        "P": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright width, øF = slot width, øJ = floor anchor hole diameter, øL = spot face diameter, M = plate thickness, N = overall height, P = base depth",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x .687” FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "For Ready Tube mounting the suggested hardware is 3960 (RT): qty 2, 5/16-18 x 2.000” Flanged Hex Head Bolt with Flanged Hex Nut."
+    },
+    {
+      "part_number": "2413-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Slotted Economy Floor Mount Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-42",
+      "description": "Aluminum angle-style floor mount base plate with slotted holes in the upright for positioning and adjustment and a counterbored hole in the base for a floor anchor.",
+      "features": [
+        "Slotted holes assist with positioning and adjustments",
+        "Counterbored holes incorporate floor anchors"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".255 lb",
+      "specs": {
+        "A": "2.750”",
+        "B": "1.250”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".500”",
+        "F": ".328”",
+        "G": "1.312”",
+        "H": ".750”",
+        "J": ".530”",
+        "K": ".312”",
+        "L": "1.125”",
+        "M": ".250”",
+        "N": "5.000”",
+        "P": "2.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C = upright width, øF = slot width, øJ = floor anchor hole diameter, øL = spot face diameter, M = plate thickness, N = overall height, P = base depth",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x .687” FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "For Ready Tube mounting the suggested hardware is 3960 (RT): qty 2, 5/16-18 x 2.000” Flanged Hex Head Bolt with Flanged Hex Nut."
+    }
+  ],
+  "page_notes": {
+    "549": "Steel Floor Mount Brackets (6-37): 2411 and 2412 badged 15 + 40 metric extracted; 45-2411/45-2412 metric-only skipped; Suggested Profile Series table folded into notes.",
+    "550": "Floor Mount Base Plate (6-38): 15-series 2390/2400/2410 Clear and Black extracted; 10-series 2380/2385/2387 skipped.",
+    "551": "Floor Mount Base Plate continued (6-39): metric-only rows skipped; Material Specifications and Suggested Hardware (3325, 3320 15-series rows) applied to the 15-series parts from 6-38.",
+    "552": "Economy Floor Mount Base Plate (6-40): 15-series 2415/2417/2405 Clear and Black extracted; 10-series 2414/2416/2404 skipped.",
+    "553": "Economy Floor Mount Base Plate continued (6-41): metric-only rows skipped; Material Specifications and Suggested Hardware (3325, 3320) applied to the 15-series parts from 6-40.",
+    "554": "Slotted Economy Floor Mount Base Plate (6-42): 2413 and 2413-Black (15 + RT) extracted with material specs; 3320 suggested hardware attached, 3960 RT-only hardware noted."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2390, 2390-Black, 2400, 2400-Black, 2410, 2410-Black: dimension_notes 'P = upright plate height, N = upright plate thickness, R. G = corner radius' -> 'P = overall base plate depth, N = base plate thickness, R. G = anchor slot end radius' (side view shows P/N on the base plate seen edge-on, R. G leader points to slot end; B = (P - A)/2 confirms); also added A, F, H, R definitions",
+      "2390, 2390-Black, 2400, 2400-Black, 2410, 2410-Black: description 'two upright plates bolt to the sides of a profile' -> 'two upright plates that support the sides of a profile' (wording of the printed feature)",
+      "2411, 2412: dimension_notes 'B and C = socket outside dimensions' -> 'B and C = socket opening (inside) dimensions' (45-2412 B = 3.593” vs a 90mm profile leaves no room for a wall, so B/C are inside dimensions)"
+    ],
+    "remaining_doubts": [
+      "2411/2412 are badged 15 and 40 (metric); series kept as [\"15\"] with the metric badge mentioned in notes.",
+      "Suggested hardware qty kept as the printed range strings ('4 to 8', '2 to 6') rather than integers.",
+      "Material Specifications and Suggested Hardware for the Floor Mount Base Plate and Economy Floor Mount Base Plate are printed on the continued pages (6-39, 6-41) and were applied to the inch 15-series parts from 6-38 and 6-40.",
+      "2413/2413-Black: RT-only suggested hardware 3960 kept in notes, not in suggested_hardware."
+    ]
+  }
+}

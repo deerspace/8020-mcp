@@ -1,0 +1,738 @@
+{
+  "chunk": "c033",
+  "pages": [
+    422,
+    423,
+    424,
+    426,
+    427,
+    428,
+    429,
+    430
+  ],
+  "parts": [
+    {
+      "part_number": "2518",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Narrow Mesh Retainer with Narrow Backing Plates",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-56",
+      "description": "Mesh retainer assembly made up of a narrow mesh retainer and two narrow backing plates, used to hold mesh panels to a T-slot frame.",
+      "features": [
+        "Consists of one single arm narrow mesh retainer (pg. 5-50) and two narrow backing plates (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".240 lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "Title says Double Arm but the bullet says single arm narrow mesh retainer (printed as is). For mounting to Ready Tube the page suggests 3960 (RT only), qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut."
+    },
+    {
+      "part_number": "2518-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Narrow Mesh Retainer with Narrow Backing Plates",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-56",
+      "description": "Mesh retainer assembly made up of a narrow mesh retainer and two narrow backing plates, used to hold mesh panels to a T-slot frame.",
+      "features": [
+        "Consists of one single arm narrow mesh retainer (pg. 5-50) and two narrow backing plates (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".240lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "Title says Double Arm but the bullet says single arm narrow mesh retainer (printed as is). For mounting to Ready Tube the page suggests 3960 (RT only), qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut."
+    },
+    {
+      "part_number": "2520",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Wide Mesh Retainer with Wide Backing Plates",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-57",
+      "description": "Mesh retainer assembly made up of a double arm wide mesh retainer and two wide backing plates, used to hold mesh panels to a T-slot frame.",
+      "features": [
+        "Consists of one double arm wide mesh retainer (pg. 5-51) and two wide backing plate (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".482 lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "For mounting to Ready Tube the page suggests 3960 (RT only), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut."
+    },
+    {
+      "part_number": "2520-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Wide Mesh Retainer with Wide Backing Plates",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-57",
+      "description": "Mesh retainer assembly made up of a double arm wide mesh retainer and two wide backing plates, used to hold mesh panels to a T-slot frame.",
+      "features": [
+        "Consists of one double arm wide mesh retainer (pg. 5-51) and two wide backing plate (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".482 lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 4,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "For mounting to Ready Tube the page suggests 3960 (RT only), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut."
+    },
+    {
+      "part_number": "2810",
+      "series": [
+        "15"
+      ],
+      "name": "Tabletop Fastening Kit",
+      "category": "fastener_assembly",
+      "section": "Panels & Doors",
+      "catalog_page": "5-58",
+      "description": "Kit used to help secure a tabletop to a frame; it includes a slotted inside corner bracket plus the bolt, roll-in T-nut, washer and sheet metal screw needed to install it.",
+      "features": [
+        "Used to help secure a tabletop to a frame",
+        "Includes all required hardware"
+      ],
+      "weight": ".139 lb",
+      "specs": {
+        "Bracket": "Slotted Inside Corner Bracket",
+        "Bolt": "5/16-18 x 11/16 FBHSCS",
+        "Nut": "5/16-18 Roll-In T-Nut",
+        "Washer": "5/16 Bright Zinc Washer",
+        "Screw": "#14 x 1.25 Phillips Pan Head Sheet Metal Screw"
+      },
+      "notes": "Companion kit 2811/2811-Black is for Ready Tube (RT only) and is not included here."
+    },
+    {
+      "part_number": "2810-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Tabletop Fastening Kit",
+      "category": "fastener_assembly",
+      "section": "Panels & Doors",
+      "catalog_page": "5-58",
+      "description": "Kit used to help secure a tabletop to a frame; it includes a slotted inside corner bracket plus the bolt, roll-in T-nut, washer and sheet metal screw needed to install it.",
+      "features": [
+        "Used to help secure a tabletop to a frame",
+        "Includes all required hardware"
+      ],
+      "weight": ".139 lb",
+      "specs": {
+        "Bracket": "Slotted Inside Corner Bracket",
+        "Bolt": "5/16-18 x 11/16 FBHSCS",
+        "Nut": "5/16-18 Roll-In T-Nut",
+        "Washer": "5/16 Bright Zinc Washer",
+        "Screw": "#14 x 1.25 Phillips Pan Head Sheet Metal Screw"
+      },
+      "notes": "Black variant of 2810 (per part number suffix); the table gives no separate finish or color column."
+    },
+    {
+      "part_number": "2442",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-in Mesh Panel Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-58",
+      "description": "Molded nylon retainer that rolls into the T-slot to hold a mesh panel recessed within the slot, fastened with an included self-threading screw.",
+      "features": [
+        "Used to mount mesh panel when recessed within the T-slot",
+        "Self-threading screw is included; requires no machining"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".006 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".625\"",
+        "B": ".150\"",
+        "C": ".758\"",
+        "D": ".400\"",
+        "E": "No. 2 Phillips"
+      },
+      "dimension_notes": "E = screw drive (No. 2 Phillips)",
+      "notes": "Row is badged both 15 and 40 (metric); same part number for both."
+    },
+    {
+      "part_number": "2068",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Sliding Door Glide",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-60",
+      "description": "UHMW glide that attaches to a profile end and lets the profile glide along a T-slot, rotating freely as the door pivots.",
+      "features": [
+        "Helps profiles glide along T-slot; attaches to profile end and freely rotates as door pivots",
+        "Requires no lubrication; stainless steel mounting screw is included"
+      ],
+      "material": "UHMW",
+      "weight": ".016 lb",
+      "specs": {
+        "Pad Color": "Natural",
+        "A": ".750”",
+        "B": "1.500”",
+        "C": "5/16-18 x .625",
+        "D": ".625”",
+        "E": "1.25”",
+        "F": ".375”",
+        "G": ".875”",
+        "H": ".469”",
+        "J": ".312”",
+        "K": ".240”"
+      },
+      "dimension_notes": "C = mounting screw thread x length",
+      "notes": "Includes stainless steel mounting screw. The page's Required Machining Services table (End Tap, Mounting Profile, reference page 11-3) is printed below the Standard Sliding Door Glide table; the page does not state whether it also applies to this glide."
+    },
+    {
+      "part_number": "2051",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Sliding Door Glide",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-60",
+      "description": "UHMW glide used to create a top rail sliding or bi-fold door; it attaches to the profile end and rotates freely as the door pivots.",
+      "features": [
+        "Used to create a top rail sliding or bi-fold door; attaches to profile end and freely rotates as door pivots"
+      ],
+      "material": "UHMW",
+      "weight": ".054 lb",
+      "specs": {
+        "Pad Color": "Natural",
+        "A": ".750”",
+        "B": "1.500”",
+        "C": "5/16-18",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".700”",
+        "G": "1.480”",
+        "H": ".365”",
+        "J": ".770”",
+        "K": ".265”",
+        "L": ".195”"
+      },
+      "dimension_notes": "C = mounting screw thread",
+      "notes": "Required machining: End Tap of the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "6808",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Sliding Door Glide Profile",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-61",
+      "description": "Extruded UHMW glide profile used to create a top rail sliding or bi-fold door; it attaches to the profile end and rotates freely as the door pivots.",
+      "features": [
+        "Used to create a top rail sliding or bi-fold door; attaches to profile end and freely rotates as door pivots",
+        "Requires no lubrication"
+      ],
+      "material": "UHMW",
+      "finish": "Natural",
+      "weight": ".018 lb / in.",
+      "specs": {
+        "A": "1.500”",
+        "B": ".365”",
+        "C": ".770”",
+        "D": "45º",
+        "E": ".265”",
+        "F": ".195”",
+        "G": ".700”",
+        "H": ".600”",
+        "J": ".300”",
+        "Length": "per inch",
+        "Grade": "Virgin",
+        "Process": "Extruded"
+      },
+      "dimension_notes": "D = angle in degrees",
+      "notes": "Sold per inch; Cut to Length machining required (Door Glide Profile, reference page 11-2)."
+    },
+    {
+      "part_number": "6808-145",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Sliding Door Glide Profile",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-61",
+      "description": "Extruded UHMW glide profile used to create a top rail sliding or bi-fold door; it attaches to the profile end and rotates freely as the door pivots.",
+      "features": [
+        "Used to create a top rail sliding or bi-fold door; attaches to profile end and freely rotates as door pivots",
+        "Requires no lubrication"
+      ],
+      "material": "UHMW",
+      "finish": "Natural",
+      "weight": "2.711 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".365”",
+        "C": ".770”",
+        "D": "45º",
+        "E": ".265”",
+        "F": ".195”",
+        "G": ".700”",
+        "H": ".600”",
+        "J": ".300”",
+        "Length": "145.00”",
+        "Grade": "Virgin",
+        "Process": "Extruded"
+      },
+      "dimension_notes": "D = angle in degrees",
+      "notes": "Full stock length of 145.00”. Cut to Length machining service applies to the door glide profile (reference page 11-2)."
+    },
+    {
+      "part_number": "2210",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Upper Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum upper door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".025 lb / in.",
+      "specs": {
+        "Slide Track": "Upper Door",
+        "Process": "Extruded",
+        "A": ".075”",
+        "B": ".650”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "per inch"
+      },
+      "notes": "Sold per inch; Cut to Length machining required (Door Track Profile, reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2210-48",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Upper Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum upper door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.217 lb",
+      "specs": {
+        "Slide Track": "Upper Door",
+        "Process": "Extruded",
+        "A": ".075”",
+        "B": ".650”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "48.000”"
+      },
+      "notes": "Fixed stock length 48.000”. Cut to Length machining service applies to the door track profile (reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2210-120",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Upper Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum upper door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "3.000 lb",
+      "specs": {
+        "Slide Track": "Upper Door",
+        "Process": "Extruded",
+        "A": ".075”",
+        "B": ".650”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "120.000”"
+      },
+      "notes": "Fixed stock length 120.000”. Cut to Length machining service applies to the door track profile (reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2210-145",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Upper Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum upper door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "3.677 lb",
+      "specs": {
+        "Slide Track": "Upper Door",
+        "Process": "Extruded",
+        "A": ".075”",
+        "B": ".650”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "145.000”"
+      },
+      "notes": "Fixed stock length 145.000”. Cut to Length machining service applies to the door track profile (reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2210-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Upper Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum upper door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".025 lb / in.",
+      "specs": {
+        "Slide Track": "Upper Door",
+        "Process": "Extruded",
+        "A": ".075”",
+        "B": ".650”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "per inch"
+      },
+      "notes": "Sold per inch; Cut to Length machining required (Door Track Profile, reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2220",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Lower Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum lower door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".022 lb / in.",
+      "specs": {
+        "Slide Track": "Lower Door",
+        "Process": "Extruded",
+        "A": ".169”",
+        "B": ".400”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "per inch"
+      },
+      "notes": "Sold per inch; Cut to Length machining required (Door Track Profile, reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2220-48",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Lower Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum lower door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.083 lb",
+      "specs": {
+        "Slide Track": "Lower Door",
+        "Process": "Extruded",
+        "A": ".169”",
+        "B": ".400”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "48.000”"
+      },
+      "notes": "Fixed stock length 48.000”. Cut to Length machining service applies to the door track profile (reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2220-120",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Lower Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum lower door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "2.640 lb.",
+      "specs": {
+        "Slide Track": "Lower Door",
+        "Process": "Extruded",
+        "A": ".169”",
+        "B": ".400”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "120.000”"
+      },
+      "notes": "Fixed stock length 120.000”. Cut to Length machining service applies to the door track profile (reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2220-145",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Lower Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum lower door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "3.273 lb.",
+      "specs": {
+        "Slide Track": "Lower Door",
+        "Process": "Extruded",
+        "A": ".169”",
+        "B": ".400”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "145.000”"
+      },
+      "notes": "Fixed stock length 145.000”. Cut to Length machining service applies to the door track profile (reference page 11-2). For panel height subtract .500” from overall height."
+    },
+    {
+      "part_number": "2220-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Upper & Lower Door Slide Track - Lower Door",
+      "category": "door_track",
+      "section": "Panels & Doors",
+      "catalog_page": "5-62",
+      "description": "Extruded aluminum lower door slide track for sliding panels.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".0226 lb / in.",
+      "specs": {
+        "Slide Track": "Lower Door",
+        "Process": "Extruded",
+        "A": ".169”",
+        "B": ".400”",
+        "C": ".275”",
+        "D": "1.125”",
+        "Length": "per inch"
+      },
+      "notes": "Sold per inch; Cut to Length machining required (Door Track Profile, reference page 11-2). For panel height subtract .500” from overall height. Weight printed as .0226 lb / in. while clear 2220 shows .022 lb / in."
+    },
+    {
+      "part_number": "4445",
+      "series": [
+        "15"
+      ],
+      "name": "Wheel Bracket",
+      "category": "linear_motion",
+      "section": "Panels & Doors",
+      "catalog_page": "5-63",
+      "description": "Zinc bracket housing with a nylon wheel that mounts to a profile end; it doubles as a corner bracket and a linear motion component.",
+      "features": [
+        "Doubles as corner bracket and linear motion",
+        "Kit includes housing, wheel and screw",
+        "Three offset configurations"
+      ],
+      "material": "Zinc Bracket / Nylon Wheel",
+      "weight": ".588 lbs (.266 kg)",
+      "specs": {
+        "Load Capacity": "56.20 lbs (25.491 kg)",
+        "A": ".750” (19.05mm)",
+        "B": "1.500” (38.10mm)",
+        "C": ".083” (2.10mm)",
+        "D": "1.500” (38.10mm)",
+        "E": ".300” (7.62mm)",
+        "F": "1.535” (38.98mm)",
+        "G": "1.909” (48.48mm)",
+        "H": ".158” (4.01mm)",
+        "J": "1.909” (48.48mm)",
+        "K": "1.500” (38.10mm)",
+        "L": ".158” (4.01mm)",
+        "M": ".829” (21.05mm)"
+      },
+      "dimension_notes": "F = wheel diameter (Ø F)",
+      "suggested_hardware": [
+        {
+          "part_number": "3118",
+          "qty": 2,
+          "description": "5/16-18 x 1” BHSCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining: End Tap of the mounting profile (reference page 11-3). Load capacity 56.20 lbs."
+    },
+    {
+      "part_number": "12017",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Ball Bearing Hub",
+      "category": "linear_motion",
+      "section": "Panels & Doors",
+      "catalog_page": "5-64",
+      "description": "Injection molded glass fiber reinforced nylon roller wheel with a ball bearing hub.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0292 kg",
+      "specs": {
+        "Grade": "PA6GK20",
+        "Process": "Injection Molding",
+        "A": "39.00mm",
+        "B": "25.80mm",
+        "C": "6.00mm",
+        "D": "17.60mm",
+        "E": "8.00mm",
+        "F": "5.80mm"
+      },
+      "dimension_notes": "ø A = outer diameter, ø B = diameter (TYP), ø C = through-hole diameter; D, E, F are widths from the side view",
+      "notes": "Row is badged both 15 and 40 (metric); dimensions are given in metric only."
+    },
+    {
+      "part_number": "12020",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Ball Bearing Hub",
+      "category": "linear_motion",
+      "section": "Panels & Doors",
+      "catalog_page": "5-64",
+      "description": "Injection molded glass fiber reinforced nylon roller wheel with a ball bearing hub.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0462 kg",
+      "specs": {
+        "Grade": "PA6GK20",
+        "Process": "Injection Molding",
+        "A": "47.00mm",
+        "B": "33.60mm",
+        "C": "8.00mm",
+        "D": "19.40mm",
+        "E": "7.80mm",
+        "F": "5.80mm"
+      },
+      "dimension_notes": "ø A = outer diameter, ø B = diameter (TYP), ø C = through-hole diameter; D, E, F are widths from the side view",
+      "notes": "Row is badged both 15 and 40 (metric); dimensions are given in metric only."
+    }
+  ],
+  "page_notes": {
+    "422": "5-56 Double Arm Narrow Mesh Retainer with Narrow Backing Plates: 2518/2518-Black (15, RT) extracted with suggested T-slot and backing-plate hardware; 10 and metric rows skipped; 3960 (RT only) noted.",
+    "423": "5-57 Double Arm Wide Mesh Retainer with Wide Backing Plates: 2520/2520-Black (15, RT) extracted with suggested hardware; 10 and metric rows skipped; 3960 (RT only) noted.",
+    "424": "5-58 Tabletop Fastening Kit 2810/2810-Black (15) and Roll-in Mesh Panel Retainer 2442 (15/40) extracted; 2811/2811-Black (RT only) and 65-2810 (metric) skipped.",
+    "426": "5-60 Economy Sliding Door Glide 2068 and Standard Sliding Door Glide 2051 (15) extracted; 10 and metric rows skipped; Required Machining Services table (End Tap) has no service number or 15 badge, so it is recorded in notes only.",
+    "427": "5-61 Standard Sliding Door Glide Profile 6808 and 6808-145 (15) extracted, UHMW material specs applied; 10 and metric rows skipped; Cut to Length requirement (ref 11-2) noted.",
+    "428": "5-62 Upper & Lower Door Slide Track: 2210 family (Upper Door) and 2220 family (Lower Door) 15-series rows extracted; 10 and metric rows skipped; Cut to Length requirement (ref 11-2) noted.",
+    "429": "5-63 Wheel Bracket 4445 (15) extracted with suggested 3118 profile-end bolts and End Tap requirement; 4043 (10/25) and 40-4445 (metric) skipped.",
+    "430": "5-64 Roller Wheel with Ball Bearing Hub 12017 and 12020 (15/40) extracted; 12018, 12021 (45 metric), 12024 Roller Wheel with Steel Hub (10/25) and 12022 Reinforced Roller Wheel (45) skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "5-62: the note 'For panel height subtract .500” from overall height' is printed between the upper and lower track drawings in each column; it was applied to both the 2210 (upper) and 2220 (lower) families, but it may refer only to the upper track or to the upper/lower pair.",
+      "5-60: the Required Machining Services table (End Tap, Mounting Profile, ref 11-3) is printed below the Standard Sliding Door Glide table; it is attached to 2051 and only mentioned as uncertain for 2068 Economy Sliding Door Glide.",
+      "5-62: 2220-Black weight is printed as .0226 lb / in. while 2220 (clear) is .022 lb / in.; both kept verbatim.",
+      "No machining_service parts were created: the Required Machining Services tables on 5-60, 5-61, 5-62 and 5-63 carry no service numbers and no series badge.",
+      "3960 (RT only) Ready Tube mounting bolt assembly on 5-56/5-57 kept in notes rather than suggested_hardware, since only 15/F rows are attached."
+    ]
+  }
+}

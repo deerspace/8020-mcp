@@ -1,0 +1,1701 @@
+{
+  "chunk": "c001",
+  "pages": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91
+  ],
+  "parts": [
+    {
+      "part_number": "1515-ULS",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Ultra-Lite Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "1.50” x 1.50” Ultra-Lite smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0790 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1765”⁴, IY = 0.1765”⁴",
+        "Surface Area": "0.802 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .087 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1765,
+        "iy_in4": 0.1765,
+        "weight_lb_per_in": 0.079,
+        "area_in2": 0.802,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-ULS-Black",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Ultra-Lite Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "1.50” x 1.50” Ultra-Lite smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0790 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1765”⁴, IY = 0.1765”⁴",
+        "Surface Area": "0.802 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .087 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1765,
+        "iy_in4": 0.1765,
+        "weight_lb_per_in": 0.079,
+        "area_in2": 0.802,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-ULS-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Ultra-Lite Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "1.50” x 1.50” Ultra-Lite smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0790 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1765”⁴, IY = 0.1765”⁴",
+        "Surface Area": "0.802 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .087 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1765,
+        "iy_in4": 0.1765,
+        "weight_lb_per_in": 0.079,
+        "area_in2": 0.802,
+        "sold_per_inch": true,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-UL",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Ultra-Lite T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "1.50” x 1.50” Ultra-Lite fractional 15 series aluminum T-slotted profile with four open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0768 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1772”⁴, IY = 0.1772”⁴",
+        "Surface Area": "0.787 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .087 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1772,
+        "iy_in4": 0.1772,
+        "weight_lb_per_in": 0.0768,
+        "area_in2": 0.787,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-UL-Black",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Ultra-Lite T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "1.50” x 1.50” Ultra-Lite fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0768 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1772”⁴, IY = 0.1772”⁴",
+        "Surface Area": "0.787 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .087 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1772,
+        "iy_in4": 0.1772,
+        "weight_lb_per_in": 0.0768,
+        "area_in2": 0.787,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-UL-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Ultra-Lite T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "1.50” x 1.50” Ultra-Lite fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0768 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1772”⁴, IY = 0.1772”⁴",
+        "Surface Area": "0.787 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .087 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1772,
+        "iy_in4": 0.1772,
+        "weight_lb_per_in": 0.0768,
+        "area_in2": 0.787,
+        "sold_per_inch": true,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-LS",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-33",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0860 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1921”⁴, IY = 0.1921”⁴",
+        "Surface Area": "0.882 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .120 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1921,
+        "iy_in4": 0.1921,
+        "weight_lb_per_in": 0.086,
+        "area_in2": 0.882,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-LS-Black",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-33",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0860 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1921”⁴, IY = 0.1921”⁴",
+        "Surface Area": "0.882 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .120 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1921,
+        "iy_in4": 0.1921,
+        "weight_lb_per_in": 0.086,
+        "area_in2": 0.882,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-LS-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-33",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0860 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1921”⁴, IY = 0.1921”⁴",
+        "Surface Area": "0.882 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .120 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1921,
+        "iy_in4": 0.1921,
+        "weight_lb_per_in": 0.086,
+        "area_in2": 0.882,
+        "sold_per_inch": true,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-Lite",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-33",
+      "description": "1.50” x 1.50” Lite fractional 15 series aluminum T-slotted profile with four open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0873 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1853”⁴, IY = 0.1853”⁴",
+        "Surface Area": "0.896 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .120 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1853,
+        "iy_in4": 0.1853,
+        "weight_lb_per_in": 0.0873,
+        "area_in2": 0.896,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-Lite-Black",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-33",
+      "description": "1.50” x 1.50” Lite fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0873 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1853”⁴, IY = 0.1853”⁴",
+        "Surface Area": "0.896 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .120 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1853,
+        "iy_in4": 0.1853,
+        "weight_lb_per_in": 0.0873,
+        "area_in2": 0.896,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-Lite-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-33",
+      "description": "1.50” x 1.50” Lite fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0873 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1853”⁴, IY = 0.1853”⁴",
+        "Surface Area": "0.896 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .120 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1853,
+        "iy_in4": 0.1853,
+        "weight_lb_per_in": 0.0873,
+        "area_in2": 0.896,
+        "sold_per_inch": true,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-Lite-Yellow",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-33",
+      "description": "1.50” x 1.50” Lite fractional 15 series aluminum T-slotted profile with four open T-slots, yellow powder coat finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Yellow Powder Coat",
+      "color": "Yellow",
+      "weight": "0.0873 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1853”⁴, IY = 0.1853”⁴",
+        "Surface Area": "0.896 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .120 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1853,
+        "iy_in4": 0.1853,
+        "weight_lb_per_in": 0.0873,
+        "area_in2": 0.896,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-S",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-34",
+      "description": "1.50” x 1.50” smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.1109 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.2631”⁴, IY = 0.2631”⁴",
+        "Surface Area": "1.138 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .160 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.2631,
+        "iy_in4": 0.2631,
+        "weight_lb_per_in": 0.1109,
+        "area_in2": 1.138,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-S-Black",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-34",
+      "description": "1.50” x 1.50” smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.1109 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.2631”⁴, IY = 0.2631”⁴",
+        "Surface Area": "1.138 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .160 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.2631,
+        "iy_in4": 0.2631,
+        "weight_lb_per_in": 0.1109,
+        "area_in2": 1.138,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-S-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Smooth Surface T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-34",
+      "description": "1.50” x 1.50” smooth surface fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.1109 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.2631”⁴, IY = 0.2631”⁴",
+        "Surface Area": "1.138 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .160 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.2631,
+        "iy_in4": 0.2631,
+        "weight_lb_per_in": 0.1109,
+        "area_in2": 1.138,
+        "sold_per_inch": true,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-34",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with four open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.1123 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.2542”⁴, IY = 0.2542”⁴",
+        "Surface Area": "1.152 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .160 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.2542,
+        "iy_in4": 0.2542,
+        "weight_lb_per_in": 0.1123,
+        "area_in2": 1.152,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-Black",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-34",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.1123 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.2542”⁴, IY = 0.2542”⁴",
+        "Surface Area": "1.152 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .160 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.2542,
+        "iy_in4": 0.2542,
+        "weight_lb_per_in": 0.1123,
+        "area_in2": 1.152,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-34",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with four open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.1123 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.2542”⁴, IY = 0.2542”⁴",
+        "Surface Area": "1.152 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .160 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.2542,
+        "iy_in4": 0.2542,
+        "weight_lb_per_in": 0.1123,
+        "area_in2": 1.152,
+        "sold_per_inch": true,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1515-Yellow",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Four Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-34",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with four open T-slots, yellow powder coat finish, in 242” stock length.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Yellow Powder Coat",
+      "color": "Yellow",
+      "weight": "0.1123 lb / in.",
+      "specs": {
+        "Stock Length": "242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.2542”⁴, IY = 0.2542”⁴",
+        "Surface Area": "1.152 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .484 TYP, .531 TYP, .315 TYP, .810 TYP, .750 TYP, .160 TYP, .160 TYP (corner diagonal).",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.2542,
+        "iy_in4": 0.2542,
+        "weight_lb_per_in": 0.1123,
+        "area_in2": 1.152,
+        "stock_lengths": [
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 4,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1501-LS",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Single Open T-slot",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-35",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with a single open T-slot, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0788 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1820”⁴, IY = 0.1799”⁴",
+        "Surface Area": "0.815 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 T-slot opening; ø.262 THRU center bore; other callouts .810, .484 TYP, .160, .315, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.182,
+        "iy_in4": 0.1799,
+        "weight_lb_per_in": 0.0788,
+        "area_in2": 0.815,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 1,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1501-LS-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Single Open T-slot",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-35",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with a single open T-slot, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0788 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1820”⁴, IY = 0.1799”⁴",
+        "Surface Area": "0.815 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 T-slot opening; ø.262 THRU center bore; other callouts .810, .484 TYP, .160, .315, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.182,
+        "iy_in4": 0.1799,
+        "weight_lb_per_in": 0.0788,
+        "area_in2": 0.815,
+        "sold_per_inch": true,
+        "open_slots": 1,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1501",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Single Open T-slot",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-35",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with a single open T-slot, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0805 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1726”⁴, IY = 0.1694”⁴",
+        "Surface Area": "0.826 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 T-slot opening; ø.262 THRU center bore; other callouts .810, .484 TYP, .160, .315, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1726,
+        "iy_in4": 0.1694,
+        "weight_lb_per_in": 0.0805,
+        "area_in2": 0.826,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 1,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1501-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Single Open T-slot",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-35",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with a single open T-slot, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0805 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1726”⁴, IY = 0.1694”⁴",
+        "Surface Area": "0.826 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 T-slot opening; ø.262 THRU center bore; other callouts .810, .484 TYP, .160, .315, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1726,
+        "iy_in4": 0.1694,
+        "weight_lb_per_in": 0.0805,
+        "area_in2": 0.826,
+        "sold_per_inch": true,
+        "open_slots": 1,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1502-LS",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Two Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-36",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with two adjacent open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0811 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1834”⁴, IY = 0.1834”⁴",
+        "Surface Area": "0.832 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1834,
+        "iy_in4": 0.1834,
+        "weight_lb_per_in": 0.0811,
+        "area_in2": 0.832,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1502-LS-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Two Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-36",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with two adjacent open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0811 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1834”⁴, IY = 0.1834”⁴",
+        "Surface Area": "0.832 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1834,
+        "iy_in4": 0.1834,
+        "weight_lb_per_in": 0.0811,
+        "area_in2": 0.832,
+        "sold_per_inch": true,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1502",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Two Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-36",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with two adjacent open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0823 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1660”⁴, IY = 0.1730”⁴",
+        "Surface Area": "0.844 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.166,
+        "iy_in4": 0.173,
+        "weight_lb_per_in": 0.0823,
+        "area_in2": 0.844,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1502-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Two Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-36",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with two adjacent open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0823 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1660”⁴, IY = 0.1730”⁴",
+        "Surface Area": "0.844 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.166,
+        "iy_in4": 0.173,
+        "weight_lb_per_in": 0.0823,
+        "area_in2": 0.844,
+        "sold_per_inch": true,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1503-LS",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Three Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-37",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with three adjacent open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0827 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1859”⁴, IY = 0.1840”⁴",
+        "Surface Area": "0.848 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1859,
+        "iy_in4": 0.184,
+        "weight_lb_per_in": 0.0827,
+        "area_in2": 0.848,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 3,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1503-LS-Black",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Three Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-37",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with three adjacent open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0827 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1859”⁴, IY = 0.1840”⁴",
+        "Surface Area": "0.848 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1859,
+        "iy_in4": 0.184,
+        "weight_lb_per_in": 0.0827,
+        "area_in2": 0.848,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 3,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1503-LS-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Three Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-37",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with three adjacent open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0827 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1859”⁴, IY = 0.1840”⁴",
+        "Surface Area": "0.848 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1859,
+        "iy_in4": 0.184,
+        "weight_lb_per_in": 0.0827,
+        "area_in2": 0.848,
+        "sold_per_inch": true,
+        "open_slots": 3,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1503",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Three Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-37",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with three adjacent open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0840 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1760”⁴, IY = 0.1790”⁴",
+        "Surface Area": "0.862 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.176,
+        "iy_in4": 0.179,
+        "weight_lb_per_in": 0.084,
+        "area_in2": 0.862,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 3,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1503-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Three Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-37",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with three adjacent open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0840 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1760”⁴, IY = 0.1790”⁴",
+        "Surface Area": "0.862 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.176,
+        "iy_in4": 0.179,
+        "weight_lb_per_in": 0.084,
+        "area_in2": 0.862,
+        "sold_per_inch": true,
+        "open_slots": 3,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1504-LS",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Two Opposite Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-38",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with two opposite open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0795 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1796”⁴, IY = 0.1759”⁴",
+        "Surface Area": "0.815 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1796,
+        "iy_in4": 0.1759,
+        "weight_lb_per_in": 0.0795,
+        "area_in2": 0.815,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1504-LS-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface T-slotted Profile - Two Opposite Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-38",
+      "description": "1.50” x 1.50” Lite smooth surface fractional 15 series aluminum T-slotted profile with two opposite open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0795 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1796”⁴, IY = 0.1759”⁴",
+        "Surface Area": "0.815 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1796,
+        "iy_in4": 0.1759,
+        "weight_lb_per_in": 0.0795,
+        "area_in2": 0.815,
+        "sold_per_inch": true,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1504",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Two Opposite Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-38",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with two opposite open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0807 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1729”⁴, IY = 0.1665”⁴",
+        "Surface Area": "0.827 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1729,
+        "iy_in4": 0.1665,
+        "weight_lb_per_in": 0.0807,
+        "area_in2": 0.827,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1504-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” T-slotted Profile - Two Opposite Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-38",
+      "description": "1.50” x 1.50” fractional 15 series aluminum T-slotted profile with two opposite open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0807 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1729”⁴, IY = 0.1665”⁴",
+        "Surface Area": "0.827 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; other callouts .810 TYP, .484 TYP, .160 TYP, .315 TYP, .531 TYP, .070 TYP, .120 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1729,
+        "iy_in4": 0.1665,
+        "weight_lb_per_in": 0.0807,
+        "area_in2": 0.827,
+        "sold_per_inch": true,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1547",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” 45 Degree Closed Side T-slotted Profile - Two Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-39",
+      "description": "1.50” x 1.50” 45 degree closed side fractional 15 series aluminum T-slotted profile with two adjacent open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0723 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1365”⁴, IY = 0.1365”⁴",
+        "Surface Area": "0.740 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; 45º closed side; other callouts .810 TYP, .120 TYP, .484 TYP, .315 TYP, .160 TYP, .531 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1365,
+        "iy_in4": 0.1365,
+        "weight_lb_per_in": 0.0723,
+        "area_in2": 0.74,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1547-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” 45 Degree Closed Side T-slotted Profile - Two Adjacent Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-39",
+      "description": "1.50” x 1.50” 45 degree closed side fractional 15 series aluminum T-slotted profile with two adjacent open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0723 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1365”⁴, IY = 0.1365”⁴",
+        "Surface Area": "0.740 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; 45º closed side; other callouts .810 TYP, .120 TYP, .484 TYP, .315 TYP, .160 TYP, .531 TYP, .750 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1365,
+        "iy_in4": 0.1365,
+        "weight_lb_per_in": 0.0723,
+        "area_in2": 0.74,
+        "sold_per_inch": true,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1517-LS",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface Quarter Round T-slotted Profile - Two Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-39",
+      "description": "1.50” x 1.50” Lite smooth surface quarter round fractional 15 series aluminum T-slotted profile with two open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "0.0729 lb / in.",
+      "specs": {
+        "Stock Length": "120”, 242”",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1686”⁴, IY = 0.1686”⁴",
+        "Surface Area": "0.748 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; R 1.125 quarter-round outer radius; other callouts .810 TYP, .120 TYP, .484 TYP, .160 TYP, .315 TYP, .750 TYP, .526 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1686,
+        "iy_in4": 0.1686,
+        "weight_lb_per_in": 0.0729,
+        "area_in2": 0.748,
+        "stock_lengths": [
+          "120”",
+          "242”"
+        ],
+        "sold_per_inch": false,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "1517-LS-Black-FB",
+      "series": [
+        "15"
+      ],
+      "name": "1.50” X 1.50” Lite Smooth Surface Quarter Round T-slotted Profile - Two Open T-slots",
+      "category": "profile",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-39",
+      "description": "1.50” x 1.50” Lite smooth surface quarter round fractional 15 series aluminum T-slotted profile with two open T-slots, black anodize finish, sold per inch.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "0.0729 lb / in.",
+      "specs": {
+        "Stock Length": "per inch",
+        "Drop Lock": "2°",
+        "Moment of Inertia": "IX = 0.1686”⁴, IY = 0.1686”⁴",
+        "Surface Area": "0.748 in.²",
+        "Yield Strength": "25,000 psi",
+        "Modulus of Elasticity": "10,000,000 lb / in.²"
+      },
+      "dimension_notes": "Drawing callouts: 1.500 TYP overall width and height; .320 TYP T-slot opening; ø.262 THRU center bore; R 1.125 quarter-round outer radius; other callouts .810 TYP, .120 TYP, .484 TYP, .160 TYP, .315 TYP, .750 TYP, .526 TYP.",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "ix_in4": 0.1686,
+        "iy_in4": 0.1686,
+        "weight_lb_per_in": 0.0729,
+        "area_in2": 0.748,
+        "sold_per_inch": true,
+        "open_slots": 2,
+        "drop_lock": "2°"
+      },
+      "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 1.50” x 1.50” listed with this profile: 7010 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7060 Tap Profile End (p. 11-3); other machining services available in Section 11."
+    },
+    {
+      "part_number": "7010",
+      "series": [
+        "15"
+      ],
+      "name": "Cut to Length",
+      "category": "machining_service",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "Cut to Length machining service, listed under Standard Machining Services for 1.50” x 1.50” profiles (15 series) on catalog pages 3-32 through 3-39.",
+      "specs": {
+        "Reference Page": "11-2"
+      },
+      "notes": "Reference page 11-2. Other machining services available in Section 11."
+    },
+    {
+      "part_number": "7050",
+      "series": [
+        "15"
+      ],
+      "name": "Access Hole",
+      "category": "machining_service",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "Access Hole machining service, listed under Standard Machining Services for 1.50” x 1.50” profiles (15 series) on catalog pages 3-32 through 3-39.",
+      "specs": {
+        "Reference Page": "11-5"
+      },
+      "notes": "Reference page 11-5. Other machining services available in Section 11."
+    },
+    {
+      "part_number": "7040",
+      "series": [
+        "15"
+      ],
+      "name": "Anchor Counterbore",
+      "category": "machining_service",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "Anchor Counterbore machining service, listed under Standard Machining Services for 1.50” x 1.50” profiles (15 series) on catalog pages 3-32 through 3-39.",
+      "specs": {
+        "Reference Page": "11-7"
+      },
+      "notes": "Reference page 11-7. Other machining services available in Section 11."
+    },
+    {
+      "part_number": "7060",
+      "series": [
+        "15"
+      ],
+      "name": "Tap Profile End",
+      "category": "machining_service",
+      "section": "T-slot Profiles",
+      "catalog_page": "3-32",
+      "description": "Tap Profile End machining service, listed under Standard Machining Services for 1.50” x 1.50” profiles (15 series) on catalog pages 3-32 through 3-39.",
+      "specs": {
+        "Reference Page": "11-3"
+      },
+      "notes": "Reference page 11-3. Other machining services available in Section 11."
+    }
+  ],
+  "page_notes": {
+    "84": "3-32: 1.50” x 1.50” Ultra-Lite Smooth Surface (1515-ULS) and Ultra-Lite (1515-UL) four-open-slot 15 series profiles, 3 finish/length variants each, plus Standard Machining Services table (7010, 7050, 7040, 7060). All rows extracted.",
+    "85": "3-33: Lite Smooth Surface (1515-LS, 3 variants) and Lite (1515-Lite, 4 variants incl. Yellow Powder Coat) four-open-slot 15 series profiles; machining services table repeats 7010/7050/7040/7060 (already extracted).",
+    "86": "3-34: Smooth Surface (1515-S, 3 variants) and standard 1515 (4 variants incl. 1515-Yellow, 242” only) four-open-slot 15 series profiles; machining services table repeated.",
+    "87": "3-35: Single open T-slot 15 series profiles 1501-LS and 1501 (clear stock length + black per-inch variant each); machining services table repeated.",
+    "88": "3-36: Two adjacent open T-slot 15 series profiles 1502-LS and 1502 (2 variants each); machining services table repeated.",
+    "89": "3-37: Three adjacent open T-slot 15 series profiles 1503-LS (3 variants incl. 1503-LS-Black) and 1503 (2 variants); machining services table repeated.",
+    "90": "3-38: Two opposite open T-slot 15 series profiles 1504-LS and 1504 (2 variants each); machining services table repeated.",
+    "91": "3-39: 45 Degree Closed Side profile 1547 and Lite Smooth Surface Quarter Round profile 1517-LS (2 variants each), 15 series; machining services table repeated."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "1501-LS: dimension_notes '.320 TYP', '.810 TYP', '.160 TYP', '.315 TYP' -> '.320', '.810', '.160', '.315' (no TYP printed on 3-35 drawings)",
+      "1501-LS-Black-FB: dimension_notes '.320 TYP', '.810 TYP', '.160 TYP', '.315 TYP' -> '.320', '.810', '.160', '.315' (no TYP printed on 3-35 drawings)",
+      "1501: dimension_notes '.320 TYP', '.810 TYP', '.160 TYP', '.315 TYP' -> '.320', '.810', '.160', '.315' (no TYP printed on 3-35 drawings)",
+      "1501-Black-FB: dimension_notes '.320 TYP', '.810 TYP', '.160 TYP', '.315 TYP' -> '.320', '.810', '.160', '.315' (no TYP printed on 3-35 drawings)",
+      "1503: dimension_notes '.070 TYP' -> '.070' (no TYP printed on the 1503 drawing, 3-37)",
+      "1503-Black-FB: dimension_notes '.070 TYP' -> '.070' (no TYP printed on the 1503 drawing, 3-37)"
+    ],
+    "remaining_doubts": [
+      "color ('Black'/'Yellow') is derived from the Finish column (Black Anodize / Yellow Powder Coat); the catalog prints no separate color column.",
+      "dimension_notes labels ('T-slot opening', 'center bore', 'corner diagonal', 'quarter-round outer radius') are read from the drawings; the catalog only prints the numeric callouts."
+    ]
+  }
+}

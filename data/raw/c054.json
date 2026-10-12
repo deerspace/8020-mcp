@@ -1,0 +1,856 @@
+{
+  "chunk": "c054",
+  "pages": [
+    616,
+    617,
+    618,
+    619,
+    620,
+    621,
+    622,
+    623
+  ],
+  "parts": [
+    {
+      "part_number": "4385",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Straight Dynamic Pivot Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-62",
+      "description": "Straight aluminum pivot arm for 15 series profile, used to create a dynamic pivot between profiles. It has lubricated bronze bushings, and the hardware to mount the arm to the profile is included.",
+      "features": [
+        "Used to create dynamic pivot between profiles",
+        "Includes lubricated bronze bushings",
+        "Pre-load hardware prior to connecting profiles",
+        "Hardware to mount arm to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".254 lb",
+      "specs": {
+        "A": ".745”",
+        "B": ".750”",
+        "C": "4.495”",
+        "D": ".750”",
+        "E": ".500”",
+        "F": "1.500”",
+        "G": "1.490”",
+        "H": ".250”"
+      },
+      "dimension_notes": "A = long edge to hole centerline, B = square end to first hole center, C = overall length, R. D = radius of the rounded end, ø E = bushing bore diameter, F TYP = hole spacing, G = arm width (side view), H = arm thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Hardware (Mount Arm to T-Slot)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Suggested Hardware (Mount Arm to Nub)"
+        }
+      ],
+      "notes": "Hardware to mount the arm to the T-slot is INCLUDED: 1 x 3355 (5/16-18 x 11/16” SHCS with Double Economy T-nut). Hardware to mount the arm to a nub is listed only as SUGGESTED (the page does not say it is included): 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Pre-load hardware prior to connecting profiles. This arm is the straight arm used in assemblies 4380, 4383, 4379 and 4363."
+    },
+    {
+      "part_number": "4385-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Straight Dynamic Pivot Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-62",
+      "description": "Black straight aluminum pivot arm for 15 series profile, used to create a dynamic pivot between profiles. It has lubricated bronze bushings, and the hardware to mount the arm to the profile is included.",
+      "features": [
+        "Used to create dynamic pivot between profiles",
+        "Includes lubricated bronze bushings",
+        "Pre-load hardware prior to connecting profiles",
+        "Hardware to mount arm to profile included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".254 lb",
+      "specs": {
+        "A": ".745”",
+        "B": ".750”",
+        "C": "4.495”",
+        "D": ".750”",
+        "E": ".500”",
+        "F": "1.500”",
+        "G": "1.490”",
+        "H": ".250”"
+      },
+      "dimension_notes": "A = long edge to hole centerline, B = square end to first hole center, C = overall length, R. D = radius of the rounded end, ø E = bushing bore diameter, F TYP = hole spacing, G = arm width (side view), H = arm thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Hardware (Mount Arm to T-Slot)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Suggested Hardware (Mount Arm to Nub)"
+        }
+      ],
+      "notes": "Hardware to mount the arm to the T-slot is INCLUDED: 1 x 3355 (5/16-18 x 11/16” SHCS with Double Economy T-nut). Hardware to mount the arm to a nub is listed only as SUGGESTED (the page does not say it is included): 1 x 3500 (3/8 x 3/8” Shoulder Bolt & Thrust Washer). Pre-load hardware prior to connecting profiles. Black version of 4385."
+    },
+    {
+      "part_number": "4380",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 0 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-63",
+      "description": "Dynamic pivot assembly for 15 series profile made of one 4381 nub and two 4385 straight arms. It gives full axial motion from 0-180 degrees parallel to the mounting profile; hardware and skim kit are included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware and skim kit included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".883 lb",
+      "specs": {
+        "Nub (Qty.)": "4381 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = clear distance between the two arms, B = overall length, C = overall width across the bolt heads (end view), D = end-view depth, E = spacing between the arm mounting holes, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4381 nub and 2 x 4385 straight arms. Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 2 x 3355. Skim kit included. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 is not described in this chunk."
+    },
+    {
+      "part_number": "4380-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 0 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-63",
+      "description": "Black dynamic pivot assembly for 15 series profile made of one 4381 nub and two 4385 straight arms. It gives full axial motion from 0-180 degrees parallel to the mounting profile; hardware and skim kit are included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware and skim kit included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".883 lb",
+      "specs": {
+        "Nub (Qty.)": "4381 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = clear distance between the two arms, B = overall length, C = overall width across the bolt heads (end view), D = end-view depth, E = spacing between the arm mounting holes, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4381 nub and 2 x 4385 straight arms (the Nub/Arm columns list the plain part numbers for the Black assembly too). Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 2 x 3355. Skim kit included. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 is not described in this chunk."
+    },
+    {
+      "part_number": "4383",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 90 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-64",
+      "description": "Dynamic pivot assembly for 15 series profile made of one 4384 nub and two 4385 straight arms. It gives full axial motion from 0-180 degrees perpendicular to the mounting profile; hardware and skim kit are included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware and skim kit included",
+        "Creates full axial motion ranging from 0-180 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".889 lb",
+      "specs": {
+        "Nub (Qty.)": "4384 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = clear distance between the two arms, B = overall length, C = overall width across the bolt heads (end view), D = end-view depth, E = spacing between the arm mounting holes, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4384 nub and 2 x 4385 straight arms. Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 2 x 3355. Skim kit included. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 is not described in this chunk."
+    },
+    {
+      "part_number": "4383-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 90 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-64",
+      "description": "Black dynamic pivot assembly for 15 series profile made of one 4384 nub and two 4385 straight arms. It gives full axial motion from 0-180 degrees perpendicular to the mounting profile; hardware and skim kit are included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware and skim kit included",
+        "Creates full axial motion ranging from 0-180 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".889 lb",
+      "specs": {
+        "Nub (Qty.)": "4384 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = clear distance between the two arms, B = overall length, C = overall width across the bolt heads (end view), D = end-view depth, E = spacing between the arm mounting holes, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4384 nub and 2 x 4385 straight arms (the Nub/Arm columns list the plain part numbers for the Black assembly too). Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 2 x 3355. Skim kit included. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 is not described in this chunk."
+    },
+    {
+      "part_number": "4379",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Universal Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-65",
+      "description": "Universal dynamic pivot assembly for 15 series profile made of one 4377 nub and two 4385 straight arms. It gives full axial motion from 0-180 degrees, parallel or perpendicular to the mounting profile; hardware and skim kit are included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware and skim kit included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.214 lb",
+      "specs": {
+        "Nub (Qty.)": "4377 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "3.012”",
+        "B": "4.500”",
+        "C": "3.813”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = clear distance between the two arms, B = overall length, C = overall width across the bolt heads (end view), D = end-view depth, E = spacing between the arm mounting holes, F = overall height including the studs (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4377 nub and 2 x 4385 straight arms; the exploded view shows the nub mounting to a double-width (two-slot) profile face. Mounting hardware is INCLUDED: Nub to Profile 2 x 3613; Arms to Nub 1 x 3500; Arms to Profile 2 x 3355. Skim kit included. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 is not described in this chunk."
+    },
+    {
+      "part_number": "4379-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Universal Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-65",
+      "description": "Black universal dynamic pivot assembly for 15 series profile made of one 4377 nub and two 4385 straight arms. It gives full axial motion from 0-180 degrees, parallel or perpendicular to the mounting profile; hardware and skim kit are included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware and skim kit included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.214 lb",
+      "specs": {
+        "Nub (Qty.)": "4377 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "3.012”",
+        "B": "4.500”",
+        "C": "3.813”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = clear distance between the two arms, B = overall length, C = overall width across the bolt heads (end view), D = end-view depth, E = spacing between the arm mounting holes, F = overall height including the studs (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4377 nub and 2 x 4385 straight arms (the Nub/Arm columns list the plain part numbers for the Black assembly too). Mounting hardware is INCLUDED: Nub to Profile 2 x 3613; Arms to Nub 1 x 3500; Arms to Profile 2 x 3355. Skim kit included. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 is not described in this chunk."
+    },
+    {
+      "part_number": "4321",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 0 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-66",
+      "description": "Dynamic pivot assembly for 15 series profile made of one 4381 nub and two 4343 “L” arms. It gives full axial motion from 0-180 degrees perpendicular to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".813 lb",
+      "specs": {
+        "Nub (Qty.)": "4381 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.600”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length, B = arm edge to hole centerline, C = spacing between the end hole and the next hole, D = end-view height of the nub, E = end-view depth, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4381 nub and 2 x 4343 “L” arms. Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 4 x 3412. Unlike the straight-arm assemblies, the bullets do not mention a skim kit. Description of 3500 is taken from page 7-62; 3613 and 3412 are not described in this chunk."
+    },
+    {
+      "part_number": "4321-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 0 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-66",
+      "description": "Black dynamic pivot assembly for 15 series profile made of one 4381 nub and two 4343 “L” arms. It gives full axial motion from 0-180 degrees perpendicular to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".813 lb",
+      "specs": {
+        "Nub (Qty.)": "4381 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.600”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length, B = arm edge to hole centerline, C = spacing between the end hole and the next hole, D = end-view height of the nub, E = end-view depth, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4381 nub and 2 x 4343 “L” arms (the Nub/Arm columns list the plain part numbers for the Black assembly too). Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 4 x 3412. Description of 3500 is taken from page 7-62; 3613 and 3412 are not described in this chunk."
+    },
+    {
+      "part_number": "4322",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 90 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-67",
+      "description": "Dynamic pivot assembly for 15 series profile made of one 4384 nub and two 4343 “L” arms. It gives full axial motion from 0-180 degrees parallel to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".810 lb",
+      "specs": {
+        "Nub (Qty.)": "4384 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length, B = arm edge to hole centerline, C = spacing between the end hole and the next hole, D = end-view height of the nub, E = end-view depth, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4384 nub and 2 x 4343 “L” arms. Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 4 x 3412. Description of 3500 is taken from page 7-62; 3613 and 3412 are not described in this chunk."
+    },
+    {
+      "part_number": "4322-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 90 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-67",
+      "description": "Black dynamic pivot assembly for 15 series profile made of one 4384 nub and two 4343 “L” arms. It gives full axial motion from 0-180 degrees parallel to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".810 lb",
+      "specs": {
+        "Nub (Qty.)": "4384 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length, B = arm edge to hole centerline, C = spacing between the end hole and the next hole, D = end-view height of the nub, E = end-view depth, F = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4384 nub and 2 x 4343 “L” arms (the Nub/Arm columns list the plain part numbers for the Black assembly too). Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 4 x 3412. Description of 3500 is taken from page 7-62; 3613 and 3412 are not described in this chunk."
+    },
+    {
+      "part_number": "4323",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Universal Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-68",
+      "description": "Universal dynamic pivot assembly for 15 series profile made of one 4377 nub and two 4343 “L” arms. It gives full axial motion from 0-180 degrees, parallel or perpendicular to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.275 lb",
+      "specs": {
+        "Nub (Qty.)": "4377 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "9.012”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length, B = arm edge to hole centerline, C = spacing between the end hole and the next hole, D = end-view height of the nub, E = end-view depth, F = overall height including the studs (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4377 nub and 2 x 4343 “L” arms; the exploded view shows the nub mounting to a double-width (two-slot) profile face. Mounting hardware is INCLUDED: Nub to Profile 2 x 3613; Arms to Nub 1 x 3500; Arms to Profile 4 x 3412. Description of 3500 is taken from page 7-62; 3613 and 3412 are not described in this chunk."
+    },
+    {
+      "part_number": "4323-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Universal Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-68",
+      "description": "Black universal dynamic pivot assembly for 15 series profile made of one 4377 nub and two 4343 “L” arms. It gives full axial motion from 0-180 degrees, parallel or perpendicular to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.275 lb",
+      "specs": {
+        "Nub (Qty.)": "4377 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "9.012”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length, B = arm edge to hole centerline, C = spacing between the end hole and the next hole, D = end-view height of the nub, E = end-view depth, F = overall height including the studs (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4377 nub and 2 x 4343 “L” arms (the Nub/Arm columns list the plain part numbers for the Black assembly too). Mounting hardware is INCLUDED: Nub to Profile 2 x 3613; Arms to Nub 1 x 3500; Arms to Profile 4 x 3412. Description of 3500 is taken from page 7-62; 3613 and 3412 are not described in this chunk."
+    },
+    {
+      "part_number": "4363",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 0 Degree Dynamic Pivot Assembly with Straight and “L” Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-69",
+      "description": "Dynamic pivot assembly for 15 series profile made of one 4381 nub, one 4385 straight arm and one 4343 “L” arm. It gives full axial motion from 0-180 degrees parallel to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".848 lb",
+      "specs": {
+        "Nub (Qty.)": "4381 (1)",
+        "Arm (Qty.)": "4385 (1) 4343 (1)",
+        "A": "5.074”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), B = “L” arm edge to hole centerline, C = “L” arm hole spacing, D = straight arm overall length, E = straight arm hole spacing, F = straight arm edge to hole centerline, G = straight arm width, H = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4381 nub, 1 x 4385 straight arm and 1 x 4343 “L” arm. Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 1 x 3355 AND 2 x 3412. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 and 3412 are not described in this chunk. No metric equivalent is listed for this assembly."
+    },
+    {
+      "part_number": "4363-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 0 Degree Dynamic Pivot Assembly with Straight and “L” Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-69",
+      "description": "Black dynamic pivot assembly for 15 series profile made of one 4381 nub, one 4385 straight arm and one 4343 “L” arm. It gives full axial motion from 0-180 degrees parallel to the mounting profile; hardware is included.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".848 lb",
+      "specs": {
+        "Nub (Qty.)": "4381 (1)",
+        "Arm (Qty.)": "4385 (1) 4343 (1)",
+        "A": "5.074”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), B = “L” arm edge to hole centerline, C = “L” arm hole spacing, D = straight arm overall length, E = straight arm hole spacing, F = straight arm edge to hole centerline, G = straight arm width, H = overall height including the stud (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "description": "3/8 x 3/8” Shoulder Bolt & Thrust Washer",
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” SHCS, Double Economy T-Nut",
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly of 1 x 4381 nub, 1 x 4385 straight arm and 1 x 4343 “L” arm (the Nub/Arm columns list the plain part numbers for the Black assembly too). Mounting hardware is INCLUDED: Nub to Profile 1 x 3613; Arms to Nub 1 x 3500; Arms to Profile 1 x 3355 AND 2 x 3412. Descriptions of 3500 and 3355 are taken from page 7-62; 3613 and 3412 are not described in this chunk."
+    }
+  ],
+  "page_notes": {
+    "616": "7-62: Standard Straight Dynamic Pivot Arm; 4385/4385-Black (15) extracted with included T-slot hardware 3355 and suggested nub hardware 3500; 10 series 4185 and metric 25-/40- rows skipped.",
+    "617": "7-63: Standard 0 Degree Dynamic Pivot Assembly with Dual Straight Arms; 4380/4380-Black (15) extracted with included hardware 3613/3500/3355; 10 series 4180 and metric rows skipped.",
+    "618": "7-64: Standard 90 Degree Dynamic Pivot Assembly with Dual Straight Arms; 4383/4383-Black (15) extracted with included hardware 3613/3500/3355; 10 series 4183 and metric rows skipped.",
+    "619": "7-65: Standard Universal Dynamic Pivot Assembly with Dual Straight Arms; 4379/4379-Black (15) extracted with included hardware 3613 x2/3500/3355 x2; 10 series 4178 and metric rows skipped.",
+    "620": "7-66: Standard 0 Degree Dynamic Pivot Assembly with Dual “L” Arms; 4321/4321-Black (15) extracted with included hardware 3613/3500/3412 x4; 10 series 4168 and metric rows skipped.",
+    "621": "7-67: Standard 90 Degree Dynamic Pivot Assembly with Dual “L” Arms; 4322/4322-Black (15) extracted with included hardware 3613/3500/3412 x4; 10 series 4169 and metric rows skipped.",
+    "622": "7-68: Standard Universal Dynamic Pivot Assembly with Dual “L” Arms; 4323/4323-Black (15) extracted with included hardware 3613 x2/3500/3412 x4; 10 series 4171 and metric rows skipped.",
+    "623": "7-69: Standard 0 Degree Dynamic Pivot Assembly with Straight and “L” Arm; 4363/4363-Black (15) extracted with included hardware 3613/3500/3355 + 3412 x2; 10 series 4161 rows skipped (no metric rows on this page)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4385: notes \"only SUGGESTED (sold separately)\" -> \"listed only as SUGGESTED (the page does not say it is included)\" (sold separately is not stated on the page)",
+      "4385-Black: notes \"only SUGGESTED (sold separately)\" -> \"listed only as SUGGESTED (the page does not say it is included)\" (sold separately is not stated on the page)"
+    ],
+    "remaining_doubts": [
+      "Category: 4385/4385-Black (Straight Dynamic Pivot Arm) are 'hinge' here while the sibling component 4343 (“L” Dynamic Pivot Arm) and the pivot nubs in c053 are 'bracket_plate'; assemblies in c054/c055 are 'hinge'. Pick one convention for pivot arms when merging.",
+      "dimension_notes for all parts are read from the drawings (arrow positions); the letter meanings are consistent with the printed values but are interpretations, not printed labels.",
+      "3613 (Nub to Profile) and 3412 (“L” arms to profile) have no description anywhere in this chunk; only part number and qty are recorded."
+    ]
+  }
+}

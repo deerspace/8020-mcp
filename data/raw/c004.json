@@ -1,0 +1,371 @@
+{
+ "chunk": "c004",
+ "pages": [
+  108,
+  109,
+  155
+ ],
+ "parts": [
+  {
+   "part_number": "3030",
+   "series": [
+    "15"
+   ],
+   "name": "3.00” X 3.00” T-slotted Profile - Eight Open T-slots",
+   "category": "profile",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-56",
+   "description": "3.00” x 3.00” fractional 15 series aluminum T-slotted profile with eight open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+   "material": "Aluminum",
+   "alloy": "6063-T6",
+   "finish": "Clear Anodize",
+   "weight": "0.3132 lb / in.",
+   "specs": {
+    "Stock Length": "120”, 242”",
+    "Drop Lock": "2°",
+    "Moment of Inertia": "IX = 3.4133”⁴, IY = 3.4133”⁴",
+    "Surface Area": "3.212 in.²",
+    "Yield Strength": "25,000 psi",
+    "Modulus of Elasticity": "10,000,000 lb / in.²"
+   },
+   "dimension_notes": "Drawing callouts: 3.000 TYP overall width and height; 1.500 TYP and .750 TYP (slot center spacing callouts); .320 TYP T-slot opening; ø.262 THRU bores; 1.475 diagonal; other callouts .160 TYP, .531 TYP, .810 TYP, .484 TYP, .315 TYP.",
+   "profile": {
+    "width_in": 3.0,
+    "height_in": 3.0,
+    "ix_in4": 3.4133,
+    "iy_in4": 3.4133,
+    "weight_lb_per_in": 0.3132,
+    "area_in2": 3.212,
+    "stock_lengths": [
+     "120”",
+     "242”"
+    ],
+    "sold_per_inch": false,
+    "open_slots": 8,
+    "drop_lock": "2°"
+   },
+   "notes": "Standard machining services for 3.00” x 3.00” listed with this profile: 7030 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7055 Tap Profile End (p. 11-3); other machining services available in Section 11."
+  },
+  {
+   "part_number": "3030-Black",
+   "series": [
+    "15"
+   ],
+   "name": "3.00” X 3.00” T-slotted Profile - Eight Open T-slots",
+   "category": "profile",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-56",
+   "description": "3.00” x 3.00” fractional 15 series aluminum T-slotted profile with eight open T-slots, black anodize finish, in 120” or 242” stock lengths.",
+   "material": "Aluminum",
+   "alloy": "6063-T6",
+   "finish": "Black Anodize",
+   "color": "Black",
+   "weight": "0.3132 lb / in.",
+   "specs": {
+    "Stock Length": "120”, 242”",
+    "Drop Lock": "2°",
+    "Moment of Inertia": "IX = 3.4133”⁴, IY = 3.4133”⁴",
+    "Surface Area": "3.212 in.²",
+    "Yield Strength": "25,000 psi",
+    "Modulus of Elasticity": "10,000,000 lb / in.²"
+   },
+   "dimension_notes": "Drawing callouts: 3.000 TYP overall width and height; 1.500 TYP and .750 TYP (slot center spacing callouts); .320 TYP T-slot opening; ø.262 THRU bores; 1.475 diagonal; other callouts .160 TYP, .531 TYP, .810 TYP, .484 TYP, .315 TYP.",
+   "profile": {
+    "width_in": 3.0,
+    "height_in": 3.0,
+    "ix_in4": 3.4133,
+    "iy_in4": 3.4133,
+    "weight_lb_per_in": 0.3132,
+    "area_in2": 3.212,
+    "stock_lengths": [
+     "120”",
+     "242”"
+    ],
+    "sold_per_inch": false,
+    "open_slots": 8,
+    "drop_lock": "2°"
+   },
+   "notes": "Standard machining services for 3.00” x 3.00” listed with this profile: 7030 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7055 Tap Profile End (p. 11-3); other machining services available in Section 11."
+  },
+  {
+   "part_number": "3030-Black-FB",
+   "series": [
+    "15"
+   ],
+   "name": "3.00” X 3.00” T-slotted Profile - Eight Open T-slots",
+   "category": "profile",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-56",
+   "description": "3.00” x 3.00” fractional 15 series aluminum T-slotted profile with eight open T-slots, black anodize finish, sold per inch.",
+   "material": "Aluminum",
+   "alloy": "6063-T6",
+   "finish": "Black Anodize",
+   "color": "Black",
+   "weight": "0.3132 lb / in.",
+   "specs": {
+    "Stock Length": "per inch",
+    "Drop Lock": "2°",
+    "Moment of Inertia": "IX = 3.4133”⁴, IY = 3.4133”⁴",
+    "Surface Area": "3.212 in.²",
+    "Yield Strength": "25,000 psi",
+    "Modulus of Elasticity": "10,000,000 lb / in.²"
+   },
+   "dimension_notes": "Drawing callouts: 3.000 TYP overall width and height; 1.500 TYP and .750 TYP (slot center spacing callouts); .320 TYP T-slot opening; ø.262 THRU bores; 1.475 diagonal; other callouts .160 TYP, .531 TYP, .810 TYP, .484 TYP, .315 TYP.",
+   "profile": {
+    "width_in": 3.0,
+    "height_in": 3.0,
+    "ix_in4": 3.4133,
+    "iy_in4": 3.4133,
+    "weight_lb_per_in": 0.3132,
+    "area_in2": 3.212,
+    "sold_per_inch": true,
+    "open_slots": 8,
+    "drop_lock": "2°"
+   },
+   "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 3.00” x 3.00” listed with this profile: 7030 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7055 Tap Profile End (p. 11-3); other machining services available in Section 11."
+  },
+  {
+   "part_number": "3060",
+   "series": [
+    "15"
+   ],
+   "name": "3.00” X 6.00” T-slotted Profile - Twelve Open T-slots",
+   "category": "profile",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-57",
+   "description": "3.00” x 6.00” fractional 15 series aluminum T-slotted profile with twelve open T-slots, clear anodize finish, in 120” or 242” stock lengths.",
+   "material": "Aluminum",
+   "alloy": "6063-T6",
+   "finish": "Clear Anodize",
+   "weight": "0.5815 lb / in.",
+   "specs": {
+    "Stock Length": "120”, 242”",
+    "Drop Lock": "2°",
+    "Moment of Inertia": "IX = 22.0300”⁴, IY = 6.5164”⁴",
+    "Surface Area": "5.963 in.²",
+    "Yield Strength": "25,000 psi",
+    "Modulus of Elasticity": "10,000,000 lb / in.²"
+   },
+   "dimension_notes": "Drawing callouts: 3.000 overall width, 6.000 overall height; 1.500 TYP and .750 TYP (slot center spacing callouts); .320 TYP T-slot opening; ø.262 THRU bores; 1.475 TYP diagonal; other callouts .160 TYP, .531 TYP, .810 TYP, .484 TYP, .315 TYP.",
+   "profile": {
+    "width_in": 3.0,
+    "height_in": 6.0,
+    "ix_in4": 22.03,
+    "iy_in4": 6.5164,
+    "weight_lb_per_in": 0.5815,
+    "area_in2": 5.963,
+    "stock_lengths": [
+     "120”",
+     "242”"
+    ],
+    "sold_per_inch": false,
+    "open_slots": 12,
+    "drop_lock": "2°"
+   },
+   "notes": "Standard machining services for 3.00” x 6.00” listed with this profile: 7023 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7029 Tap Profile End (p. 11-3); other machining services available in Section 11."
+  },
+  {
+   "part_number": "3060-Black-FB",
+   "series": [
+    "15"
+   ],
+   "name": "3.00” X 6.00” T-slotted Profile - Twelve Open T-slots",
+   "category": "profile",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-57",
+   "description": "3.00” x 6.00” fractional 15 series aluminum T-slotted profile with twelve open T-slots, black anodize finish, sold per inch.",
+   "material": "Aluminum",
+   "alloy": "6063-T6",
+   "finish": "Black Anodize",
+   "color": "Black",
+   "weight": "0.5815 lb / in.",
+   "specs": {
+    "Stock Length": "per inch",
+    "Drop Lock": "2°",
+    "Moment of Inertia": "IX = 22.0300”⁴, IY = 6.5164”⁴",
+    "Surface Area": "5.963 in.²",
+    "Yield Strength": "25,000 psi",
+    "Modulus of Elasticity": "10,000,000 lb / in.²"
+   },
+   "dimension_notes": "Drawing callouts: 3.000 overall width, 6.000 overall height; 1.500 TYP and .750 TYP (slot center spacing callouts); .320 TYP T-slot opening; ø.262 THRU bores; 1.475 TYP diagonal; other callouts .160 TYP, .531 TYP, .810 TYP, .484 TYP, .315 TYP.",
+   "profile": {
+    "width_in": 3.0,
+    "height_in": 6.0,
+    "ix_in4": 22.03,
+    "iy_in4": 6.5164,
+    "weight_lb_per_in": 0.5815,
+    "area_in2": 5.963,
+    "sold_per_inch": true,
+    "open_slots": 12,
+    "drop_lock": "2°"
+   },
+   "notes": "Stock length listed as \"per inch\" (sold per inch). Standard machining services for 3.00” x 6.00” listed with this profile: 7023 Cut to Length (p. 11-2), 7050 Access Hole (p. 11-5), 7040 Anchor Counterbore (p. 11-7), 7029 Tap Profile End (p. 11-3); other machining services available in Section 11."
+  },
+  {
+   "part_number": "1515FRP-BLACK",
+   "series": [
+    "15"
+   ],
+   "name": "1.50” X 1.50” Fiber Reinforced Polyurethane T-slotted Profile - Four Open T-slots",
+   "category": "profile",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-103",
+   "description": "1.50” x 1.50” 15 series T-slotted profile with four open T-slots made from Fiber Reinforced Polyurethane (FRP), black, in a 120” stock length; electrically and thermally non-conductive and corrosion-resistant.",
+   "features": [
+    "15 Series Profile made from high-strength Fiber Reinforced Polyurethane (FRP) consisting of 80% fiberglass and 20% polyurethane resin.",
+    "Key benefits: Electrically non-conductive, thermally non-conductive, and corrosion-resistant",
+    "Typical applications: EMI/RFI-sensitive environments, data center racks and enclosures, automotive battery facilities, and marine & shipyard installations"
+   ],
+   "material": "Fiber Reinforced Polyurethane",
+   "color": "Black",
+   "weight": "0.0880 lb / in.",
+   "specs": {
+    "Stock Length": "120”",
+    "Moment of Inertia": "IX = .2671 in⁴, IY = .2671 in⁴",
+    "Surface Area": "1.235 in²",
+    "Yield Strength": "171,000 psi",
+    "Modulus of Elasticity": "7,800,000 psi",
+    "Hardness": "For the 4800 neat the Shore D Hardness has been measured between 78-80",
+    "Flatness": ".008 per inch of width",
+    "Straightness": ".03 per foot of length",
+    "Twist": "1° per foot of length, total twist not to exceed 7°"
+   },
+   "dimension_notes": "Drawing callouts: 1.500 overall width and height; .332 TYP T-slot opening; other callouts .160 TYP, .485 TYP, .531 TYP, .325 TYP, .777 TYP.",
+   "profile": {
+    "width_in": 1.5,
+    "height_in": 1.5,
+    "ix_in4": 0.2671,
+    "iy_in4": 0.2671,
+    "weight_lb_per_in": 0.088,
+    "area_in2": 1.235,
+    "stock_lengths": [
+     "120”"
+    ],
+    "sold_per_inch": false,
+    "open_slots": 4
+   },
+   "notes": "Series badge printed in the table reads \"FRP\" (red badge); the product details describe it as a 15 Series profile. No alloy, finish or drop lock listed. Hardness, Flatness, Straightness and Twist come from the Profile Specifications table. Standard machining services for 1.50” x 1.50” FRP Profile: 7618 Cut to Length (p. 11-2). Page text layer is font-garbled; values read from the page image."
+  },
+  {
+   "part_number": "7030",
+   "series": [
+    "15"
+   ],
+   "name": "Cut to Length",
+   "category": "machining_service",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-56",
+   "description": "Cut to Length machining service, listed under Standard Machining Services for 3.00” x 3.00” profiles (15 series) on catalog page 3-56.",
+   "specs": {
+    "Reference Page": "11-2"
+   },
+   "notes": "Reference page 11-2. Other machining services available in Section 11."
+  },
+  {
+   "part_number": "7050",
+   "series": [
+    "15"
+   ],
+   "name": "Access Hole",
+   "category": "machining_service",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-56",
+   "description": "Access Hole machining service, listed under Standard Machining Services for 3.00” x 3.00” and 3.00” x 6.00” profiles (15 series) on catalog pages 3-56 and 3-57.",
+   "specs": {
+    "Reference Page": "11-5"
+   },
+   "notes": "Reference page 11-5. Other machining services available in Section 11."
+  },
+  {
+   "part_number": "7040",
+   "series": [
+    "15"
+   ],
+   "name": "Anchor Counterbore",
+   "category": "machining_service",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-56",
+   "description": "Anchor Counterbore machining service, listed under Standard Machining Services for 3.00” x 3.00” and 3.00” x 6.00” profiles (15 series) on catalog pages 3-56 and 3-57.",
+   "specs": {
+    "Reference Page": "11-7"
+   },
+   "notes": "Reference page 11-7. Other machining services available in Section 11."
+  },
+  {
+   "part_number": "7055",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End",
+   "category": "machining_service",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-56",
+   "description": "Tap Profile End machining service, listed under Standard Machining Services for 3.00” x 3.00” profiles (15 series) on catalog page 3-56.",
+   "specs": {
+    "Reference Page": "11-3"
+   },
+   "notes": "Reference page 11-3. Other machining services available in Section 11."
+  },
+  {
+   "part_number": "7023",
+   "series": [
+    "15"
+   ],
+   "name": "Cut to Length",
+   "category": "machining_service",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-57",
+   "description": "Cut to Length machining service, listed under Standard Machining Services for 3.00” x 6.00” profiles (15 series) on catalog page 3-57.",
+   "specs": {
+    "Reference Page": "11-2"
+   },
+   "notes": "Reference page 11-2. Other machining services available in Section 11."
+  },
+  {
+   "part_number": "7029",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End",
+   "category": "machining_service",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-57",
+   "description": "Tap Profile End machining service, listed under Standard Machining Services for 3.00” x 6.00” profiles (15 series) on catalog page 3-57.",
+   "specs": {
+    "Reference Page": "11-3"
+   },
+   "notes": "Reference page 11-3. Other machining services available in Section 11."
+  },
+  {
+   "part_number": "7618",
+   "series": [
+    "15"
+   ],
+   "name": "Cut to Length",
+   "category": "machining_service",
+   "section": "T-slot Profiles",
+   "catalog_page": "3-103",
+   "description": "Cut to Length machining service, listed under Standard Machining Services for 1.50” x 1.50” FRP Profile (1515FRP-BLACK) on catalog page 3-103.",
+   "specs": {
+    "Reference Page": "11-2"
+   },
+   "notes": "Reference page 11-2. Series badge printed reads \"FRP\"; applies to the 15 series FRP profile 1515FRP-BLACK. Other machining services available in Section 11."
+  }
+ ],
+ "page_notes": {
+  "108": "3-56: 3.00” x 3.00” eight-open-slot 15 series profile 3030 (3030, 3030-Black, 3030-Black-FB) plus Standard Machining Services table (7030, 7050, 7040, 7055). All rows extracted.",
+  "109": "3-57: 3.00” x 6.00” twelve-open-slot 15 series profile 3060 (3060, 3060-Black-FB) plus Standard Machining Services table (7023, 7050, 7040, 7029); 7050/7040 already extracted from 3-56.",
+  "155": "3-103: 1.50” x 1.50” Fiber Reinforced Polyurethane four-open-slot profile 1515FRP-BLACK (badge printed \"FRP\", described as 15 Series), Profile Specifications table, and machining service 7618 Cut to Length. Text layer garbled; values read from image."
+ },
+ "verification": {
+  "added": [],
+  "removed": [],
+  "corrected": [],
+  "remaining_doubts": [
+   "1515FRP-BLACK and 7618 (p. 3-103): the printed series badge reads \"FRP\", not 15. Kept as series [\"15\"] because the Product Details bullet says \"15 Series Profile\"; downstream may prefer a dedicated FRP marker.",
+   "p. 3-103 text layer is font-garbled; all 1515FRP-BLACK, Profile Specifications and 7618 values were confirmed from the page image only (they matched).",
+   "color \"Black\" on 3030-Black, 3030-Black-FB, 3060-Black-FB comes from the part-number suffix and Black Anodize finish; the aluminum tables have no Color column.",
+   "dimension_notes interpretations (.320 TYP / .332 TYP as T-slot opening, 1.500/.750 as slot-center spacing) are read from the drawing geometry, not labeled on the page."
+  ]
+ }
+}

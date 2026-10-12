@@ -1,0 +1,847 @@
+{
+  "chunk": "c018",
+  "pages": [
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299
+  ],
+  "parts": [
+    {
+      "part_number": "4372",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-128",
+      "description": "Three-hole triangular aluminum pivot plate that creates a structured angle connection between profiles. It can be used with a pivot nub or mounted directly to the T-slot.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".168 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".750”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": "3.000”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": "3.000”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = bottom edge to lower hole centers, B = lower hole centers to upper hole center, R. C = top radius, ø D TYP = hole diameter, E = straight side height, F = overall width, G = lower hole spacing, H TYP = side edge to hole center, J = overall height, K = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-slot"
+        }
+      ],
+      "notes": "Suggested hardware to mount to T-slot: 3 x 3320 (5/16-18 x 11/16” FBHSCS with Economy T-nut). Material, alloy and process (Milled) printed once as merged cells for all rows."
+    },
+    {
+      "part_number": "4372-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-128",
+      "description": "Three-hole triangular aluminum pivot plate that creates a structured angle connection between profiles. It can be used with a pivot nub or mounted directly to the T-slot.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".168 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": ".750”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": "3.000”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": "3.000”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = bottom edge to lower hole centers, B = lower hole centers to upper hole center, R. C = top radius, ø D TYP = hole diameter, E = straight side height, F = overall width, G = lower hole spacing, H TYP = side edge to hole center, J = overall height, K = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-slot"
+        }
+      ],
+      "notes": "Suggested hardware to mount to T-slot: 3 x 3320 (5/16-18 x 11/16” FBHSCS with Economy T-nut). Material, alloy and process (Milled) printed once as merged cells for all rows."
+    },
+    {
+      "part_number": "4392",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Recessed Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-129",
+      "description": "Three-hole triangular aluminum pivot plate with a recessed (thinned) pivot end. Used in pairs to create a custom angle between profiles; the recess replaces the need for a pivot nub.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Used in pairs to create a custom angle between profiles",
+        "Recess replaces need for a nub in a pivot assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".272 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": "1.500”",
+        "M": "3.000”"
+      },
+      "dimension_notes": "A = overall width, B = side edge to centerline, R. C = top radius, ø D TYP = hole diameter, E = upper hole center to lower hole centers, F = lower hole centers to bottom edge, G = lower hole spacing, H = side edge to hole center, J = overall thickness, K = recessed section thickness, L = full-thickness section height, M = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3443",
+          "qty": 2,
+          "description": "5/16-18 x 1” BHSCS, Economy T-nut, Washer",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3446",
+          "qty": 1,
+          "description": "5/16-18 x 7/8” SHCS, Washer & Hex Nut",
+          "context": "Mount to Pivot Plate"
+        }
+      ],
+      "notes": "Used in pairs. Suggested hardware: 2 x 3443 (5/16-18 x 1” BHSCS, Economy T-nut, with washer) to mount to T-slot; 1 x 3446 (5/16-18 x 7/8” SHCS, washer & hex nut) to join to the mating pivot plate."
+    },
+    {
+      "part_number": "4392-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Recessed Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-129",
+      "description": "Three-hole triangular aluminum pivot plate with a recessed (thinned) pivot end. Used in pairs to create a custom angle between profiles; the recess replaces the need for a pivot nub.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Used in pairs to create a custom angle between profiles",
+        "Recess replaces need for a nub in a pivot assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".272 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": "1.500”",
+        "M": "3.000”"
+      },
+      "dimension_notes": "A = overall width, B = side edge to centerline, R. C = top radius, ø D TYP = hole diameter, E = upper hole center to lower hole centers, F = lower hole centers to bottom edge, G = lower hole spacing, H = side edge to hole center, J = overall thickness, K = recessed section thickness, L = full-thickness section height, M = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3443",
+          "qty": 2,
+          "description": "5/16-18 x 1” BHSCS, Economy T-nut, Washer",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3446",
+          "qty": 1,
+          "description": "5/16-18 x 7/8” SHCS, Washer & Hex Nut",
+          "context": "Mount to Pivot Plate"
+        }
+      ],
+      "notes": "Used in pairs. Suggested hardware: 2 x 3443 (5/16-18 x 1” BHSCS, Economy T-nut, with washer) to mount to T-slot; 1 x 3446 (5/16-18 x 7/8” SHCS, washer & hex nut) to join to the mating pivot plate."
+    },
+    {
+      "part_number": "4371",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-130",
+      "description": "Five-hole triangular aluminum pivot plate that creates a structured angle connection between profiles. It can be used with a pivot nub or mounted directly to the T-slot.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".267 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".250”",
+        "K": "3.000”",
+        "L": "4.500”"
+      },
+      "dimension_notes": "A = overall width, B = side edge to centerline, R. C = top radius, ø D = hole diameter, E TYP = vertical hole spacing, F = lower hole centers to bottom edge, G TYP = horizontal hole spacing, H = side edge to hole center, J = thickness, K = straight side height, L = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to Pivot Nub"
+        }
+      ],
+      "notes": "Suggested hardware: 4 x 3320 (5/16-18 x 11/16” FBHSCS, Economy T-nut) to mount to T-slot; 1 x 3330 (5/16-18 x 11/16” FBHSCS) to mount to a pivot nub."
+    },
+    {
+      "part_number": "4371-Black",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-130",
+      "description": "Five-hole triangular aluminum pivot plate that creates a structured angle connection between profiles. It can be used with a pivot nub or mounted directly to the T-slot.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Creates a structured angle connection between profiles",
+        "Used with nub or mounted directly to T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".267 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".250”",
+        "K": "3.000”",
+        "L": "4.500”"
+      },
+      "dimension_notes": "A = overall width, B = side edge to centerline, R. C = top radius, ø D = hole diameter, E TYP = vertical hole spacing, F = lower hole centers to bottom edge, G TYP = horizontal hole spacing, H = side edge to hole center, J = thickness, K = straight side height, L = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 4,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount to Pivot Nub"
+        }
+      ],
+      "notes": "Suggested hardware: 4 x 3320 (5/16-18 x 11/16” FBHSCS, Economy T-nut) to mount to T-slot; 1 x 3330 (5/16-18 x 11/16” FBHSCS) to mount to a pivot nub."
+    },
+    {
+      "part_number": "4394",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Recessed Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-131",
+      "description": "Five-hole triangular aluminum pivot plate with a recessed (thinned) pivot end. Used in pairs to create a custom angle between profiles; the recess replaces the need for a pivot nub.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Used in pairs to create a custom angle between profiles",
+        "Recess replaces need for a nub in a pivot assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".485 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": "3.000”",
+        "M": "4.500”"
+      },
+      "dimension_notes": "A = overall width, B = side edge to centerline, R. C = top radius, ø D = hole diameter, E TYP = vertical hole spacing, F = lower hole centers to bottom edge, G TYP = horizontal hole spacing, H = side edge to hole center, J = overall thickness, K = recessed section thickness, L = full-thickness section height, M = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3443",
+          "qty": 4,
+          "description": "5/16-18 x 1” BHSCS, Economy T-nut, Washer",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3446",
+          "qty": 1,
+          "description": "5/16-18 x 7/8” SHCS, Washer & Hex Nut",
+          "context": "Mount to Pivot Plate"
+        }
+      ],
+      "notes": "Used in pairs. Suggested hardware: 4 x 3443 (5/16-18 x 1” BHSCS, Economy T-nut, with washer) to mount to T-slot; 1 x 3446 (5/16-18 x 7/8” SHCS, washer & hex nut) to join to the mating pivot plate."
+    },
+    {
+      "part_number": "4394-Black",
+      "series": [
+        "15"
+      ],
+      "name": "5 Hole - Recessed Triangular Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-131",
+      "description": "Five-hole triangular aluminum pivot plate with a recessed (thinned) pivot end. Used in pairs to create a custom angle between profiles; the recess replaces the need for a pivot nub.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Used in pairs to create a custom angle between profiles",
+        "Recess replaces need for a nub in a pivot assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".485 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": "3.000”",
+        "M": "4.500”"
+      },
+      "dimension_notes": "A = overall width, B = side edge to centerline, R. C = top radius, ø D = hole diameter, E TYP = vertical hole spacing, F = lower hole centers to bottom edge, G TYP = horizontal hole spacing, H = side edge to hole center, J = overall thickness, K = recessed section thickness, L = full-thickness section height, M = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3443",
+          "qty": 4,
+          "description": "5/16-18 x 1” BHSCS, Economy T-nut, Washer",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3446",
+          "qty": 1,
+          "description": "5/16-18 x 7/8” SHCS, Washer & Hex Nut",
+          "context": "Mount to Pivot Plate"
+        }
+      ],
+      "notes": "Used in pairs. Suggested hardware: 4 x 3443 (5/16-18 x 1” BHSCS, Economy T-nut, with washer) to mount to T-slot; 1 x 3446 (5/16-18 x 7/8” SHCS, washer & hex nut) to join to the mating pivot plate."
+    },
+    {
+      "part_number": "4387",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Structural Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-132",
+      "description": "Milled aluminum pivot nub that mounts to a T-slot and provides a structural pivot point ranging from 0-180 degrees, parallel to the mounting profile. A slot tab helps prevent rotation and assists in alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".312 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".750”",
+        "K": ".312”",
+        "L": ".100”",
+        "M": ".750”",
+        "N": ".594”",
+        "P": ".312”"
+      },
+      "dimension_notes": "E = thru & counterbore hole (bolt size), F = tapped thru hole (thread), R. M = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4387-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Structural Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-132",
+      "description": "Milled aluminum pivot nub that mounts to a T-slot and provides a structural pivot point ranging from 0-180 degrees, parallel to the mounting profile. A slot tab helps prevent rotation and assists in alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".312 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".750”",
+        "K": ".312”",
+        "L": ".100”",
+        "M": ".750”",
+        "N": ".594”",
+        "P": ".312”"
+      },
+      "dimension_notes": "E = thru & counterbore hole (bolt size), F = tapped thru hole (thread), R. M = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4388",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Structural Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-133",
+      "description": "Milled aluminum pivot nub that mounts to a T-slot and provides a structural pivot point ranging from 0-180 degrees, perpendicular to the mounting profile. A slot tab helps prevent rotation and assists in alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".324 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".312”",
+        "K": ".594”",
+        "L": ".750”",
+        "M": ".750”",
+        "N": ".100”",
+        "P": ".312”"
+      },
+      "dimension_notes": "E = thru & counterbore hole (bolt size), F = tapped thru hole (thread), R. L = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4388-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Structural Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-133",
+      "description": "Milled aluminum pivot nub that mounts to a T-slot and provides a structural pivot point ranging from 0-180 degrees, perpendicular to the mounting profile. A slot tab helps prevent rotation and assists in alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Perpendicular to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".324 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": "5/16-18",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".312”",
+        "K": ".594”",
+        "L": ".750”",
+        "M": ".750”",
+        "N": ".100”",
+        "P": ".312”"
+      },
+      "dimension_notes": "E = thru & counterbore hole (bolt size), F = tapped thru hole (thread), R. L = radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4386",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Structural Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-134",
+      "description": "Milled aluminum pivot nub that mounts to a T-slot with two bolts and provides a structural pivot point ranging from 0-180 degrees, either parallel or perpendicular to the mounting profile. It is repositionable and reusable.",
+      "features": [
+        "No machining required",
+        "Repositioning, reusable",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".648 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, ø E = hole (bolt size), H TYP = mounting hole spacing, G = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 2 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4386-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Universal Structural Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-134",
+      "description": "Milled aluminum pivot nub that mounts to a T-slot with two bolts and provides a structural pivot point ranging from 0-180 degrees, either parallel or perpendicular to the mounting profile. It is repositionable and reusable.",
+      "features": [
+        "No machining required",
+        "Repositioning, reusable",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".648 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”",
+        "H": "1.500"
+      },
+      "dimension_notes": "A = height, B = overall length, ø E = hole (bolt size), H TYP = mounting hole spacing, G = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 2 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table. Catalog prints H for this row as \"1.500\" with no inch mark (Clear row shows 1.500”); copied verbatim."
+    },
+    {
+      "part_number": "4401",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Structural Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-135",
+      "description": "Milled aluminum right angle pivot nub that mounts to a T-slot and provides a structural pivot point ranging from 0-180 degrees, parallel to the mounting profile. A slot tab helps prevent rotation and assists in alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".344 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = pivot hole (bolt size)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table."
+    },
+    {
+      "part_number": "4401-Black",
+      "series": [
+        "15"
+      ],
+      "name": "0 Degree Structural Right Angle Pivot Nub",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-135",
+      "description": "Milled aluminum right angle pivot nub that mounts to a T-slot and provides a structural pivot point ranging from 0-180 degrees, parallel to the mounting profile. A slot tab helps prevent rotation and assists in alignment with the T-slot.",
+      "features": [
+        "No machining required",
+        "Parallel to mounting profile",
+        "Creates structural pivot ranging from 0-180 degrees",
+        "Slot tab helps prevent rotation, assists in alignment with T-slot"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".344 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".750”",
+        "E": "5/16",
+        "F": ".450”",
+        "G": "1.500”"
+      },
+      "dimension_notes": "A = height, B = overall length, E = pivot hole (bolt size)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "description": "5/16-18 x 1.5” SHCS, Economy T-nut",
+          "context": "Included Hardware - Mount Nub to T-Slot"
+        },
+        {
+          "part_number": "3330",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Mount Arm to Nub"
+        }
+      ],
+      "notes": "Includes 1 x 3613 (5/16-18 x 1.5” SHCS with Economy T-nut) to mount the nub to the T-slot. Suggested hardware to mount an arm to the nub: 2 x 3330 (5/16-18 x 11/16” FBHSCS). Material, alloy, process (Milled) and finish (Anodize) from the page's Material Specifications table."
+    }
+  ],
+  "page_notes": {
+    "292": "4-128 3 Hole - Triangular Pivot Plate: 15 rows 4372/4372-Black extracted with suggested hardware 3320; metric 40-4372 rows and 75-3422 skipped.",
+    "293": "4-129 3 Hole - Recessed Triangular Pivot Plate: 15 rows 4392/4392-Black extracted with suggested hardware 3443 (T-slot) and 3446 (pivot plate).",
+    "294": "4-130 5 Hole - Triangular Pivot Plate: 15 rows 4371/4371-Black extracted with suggested hardware 3320 (T-slot) and 3330 (pivot nub).",
+    "295": "4-131 5 Hole - Recessed Triangular Pivot Plate: 15 rows 4394/4394-Black extracted with suggested hardware 3443 and 3446; metric 40-4394 rows, 75-3427 and 75-3434 skipped.",
+    "296": "4-132 0 Degree Structural Pivot Nub: 15 rows 4387/4387-Black extracted with included 3613 and suggested 3330; 10-series 4187 and metric 25-/40-4187 rows skipped.",
+    "297": "4-133 90 Degree Structural Pivot Nub: 15 rows 4388/4388-Black extracted with included 3613 and suggested 3330; 10-series 4188 and metric 25-/40-4188 rows skipped.",
+    "298": "4-134 Universal Structural Pivot Nub: 15 rows 4386/4386-Black extracted with included 3613 (qty 2) and suggested 3330; 10-series 4186 and metric 25-/40-4186 rows skipped.",
+    "299": "4-135 0 Degree Structural Right Angle Pivot Nub: 15 rows 4401/4401-Black extracted with included 3613 and suggested 3330; 10-series 4001 rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "Pivot nubs (4386, 4387, 4388, 4401 and Black variants) are categorized bracket_plate; hardware_other would also be defensible.",
+      "4386-Black H is printed as 1.500 with no inch mark (Clear row prints 1.500”); kept verbatim.",
+      "Included Hardware (3613) for the pivot nubs is stored in suggested_hardware with context 'Included Hardware - Mount Nub to T-Slot' because the schema has no separate included-hardware field."
+    ]
+  }
+}

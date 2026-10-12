@@ -1,0 +1,1339 @@
+{
+ "chunk": "c075",
+ "pages": [
+  776,
+  777,
+  779,
+  781,
+  782,
+  784,
+  786,
+  787
+ ],
+ "parts": [
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7010",
+   "series": [
+    "15",
+    "RT"
+   ],
+   "name": "T-Slot Profile Cut to Length - 1515 / 1501-1504 / 1517 / 1547 / 1575 Profiles",
+   "catalog_page": "11-2",
+   "description": "Cut to length machining service for T-slot profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1534-Lite, 1547, 1575; also listed for Ready Tube profiles 9700, 9701. Cut squareness +/- .002” / in, cut tolerance +/- .015”.",
+   "specs": {
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1534-Lite, 1547, 1575",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”",
+    "Applicable Profiles (Ready Tube)": "9700, 9701"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (T-Slot Profile Cut to Length table). The same service number 7010 is also listed with an RT badge in the Ready Tube® & Quick Frame® Profile Cut to Length table for Ready Tube profiles 9700, 9701 (same squareness/tolerance)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7020",
+   "series": [
+    "15",
+    "RT"
+   ],
+   "name": "T-Slot Profile Cut to Length - 1530 / 3034-Lite / 3075 Profiles",
+   "catalog_page": "11-2",
+   "description": "Cut to length machining service for T-slot profiles 1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS, 3034-Lite, 3075; also listed for Ready Tube profiles 9705, 9706, 9725, 9726, 9728. Cut squareness +/- .002” / in, cut tolerance +/- .015”.",
+   "specs": {
+    "Applicable Profiles": "1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS, 3034-Lite, 3075",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”",
+    "Applicable Profiles (Ready Tube)": "9705, 9706, 9725, 9726, 9728"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (T-Slot Profile Cut to Length table). The same service number 7020 is also listed with an RT badge in the Ready Tube® & Quick Frame® Profile Cut to Length table for Ready Tube profiles 9705, 9706, 9725, 9726, 9728 (same squareness/tolerance)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7021",
+   "series": [
+    "15"
+   ],
+   "name": "T-Slot Profile Cut to Length - 1545 Profiles",
+   "catalog_page": "11-2",
+   "description": "Cut to length machining service for T-slot profiles 1545, 1545-S, 1545-LS, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Applicable Profiles": "1545, 1545-S, 1545-LS",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (T-Slot Profile Cut to Length table)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7030",
+   "series": [
+    "15"
+   ],
+   "name": "T-Slot Profile Cut to Length - 3030 Profiles",
+   "catalog_page": "11-2",
+   "description": "Cut to length machining service for T-slot profiles 3030, 3030-Lite, 3030-LS, 3030-S, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Applicable Profiles": "3030, 3030-Lite, 3030-LS, 3030-S",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (T-Slot Profile Cut to Length table)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7023",
+   "series": [
+    "15"
+   ],
+   "name": "T-Slot Profile Cut to Length - 3060 Profile",
+   "catalog_page": "11-2",
+   "description": "Cut to length machining service for T-slot profiles 3060, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Applicable Profiles": "3060",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (T-Slot Profile Cut to Length table)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7618",
+   "series": [
+    "15"
+   ],
+   "name": "T-Slot Profile Cut to Length - 1515FRP-BLACK Profile",
+   "catalog_page": "11-2",
+   "description": "Cut to length machining service for T-slot profiles 1515FRP-BLACK, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Applicable Profiles": "1515FRP-BLACK",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (T-Slot Profile Cut to Length table). Series badge printed on this row reads \"FRP\" (red), not \"15\"; the applicable profile is the 15 series FRP profile 1515FRP-BLACK."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "MOV-VCOTH",
+   "series": [
+    "F"
+   ],
+   "name": "Cut to Length Roller Track",
+   "catalog_page": "11-2",
+   "description": "Cut to Length Roller Track machining service; no cut squareness or cut tolerance is listed (shown as \"-\").",
+   "specs": {
+    "Service Type": "Cut to Length Roller Track",
+    "Cut Squareness": "-",
+    "Cut Tolerance": "-"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table). Series badges printed: F and M (metric). Part number read from the page image (text layer is garbled); printed as \"MOV-VCOTH\"."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7001",
+   "series": [
+    "F",
+    "RT"
+   ],
+   "name": "Cut to Length .750” Round Connector Rod",
+   "catalog_page": "11-2",
+   "description": "Cut to Length .750” Round Connector Rod machining service, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Service Type": "Cut to Length .750” Round Connector Rod",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7205",
+   "series": [
+    "F"
+   ],
+   "name": "Cut to Length 1.00” Round Tube",
+   "catalog_page": "11-2",
+   "description": "Cut to Length 1.00” Round Tube machining service, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Service Type": "Cut to Length 1.00” Round Tube",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7210",
+   "series": [
+    "F"
+   ],
+   "name": "Cut to Length 1.50” Round Tube",
+   "catalog_page": "11-2",
+   "description": "Cut to Length 1.50” Round Tube machining service, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Service Type": "Cut to Length 1.50” Round Tube",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7213",
+   "series": [
+    "F"
+   ],
+   "name": "Cut to Length 2.00” Round Tube",
+   "catalog_page": "11-2",
+   "description": "Cut to Length 2.00” Round Tube machining service, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Service Type": "Cut to Length 2.00” Round Tube",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7212",
+   "series": [
+    "F"
+   ],
+   "name": "Cut to Length Shapes with ALL Profile Sides < 3.250” / T-slot Cover / Gravity Roller Tube",
+   "catalog_page": "11-2",
+   "description": "Cut to Length Shapes with ALL Profile Sides < 3.250” / T-slot Cover / Gravity Roller Tube machining service, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Service Type": "Cut to Length Shapes with ALL Profile Sides < 3.250” / T-slot Cover / Gravity Roller Tube",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table). Metric counterpart 65-7212 (Cut to Length Shapes with ALL Profile Sides < 82mm)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7224",
+   "series": [
+    "F"
+   ],
+   "name": "Cut to Length Shapes with ANY Profile Side ≥ 3.250”",
+   "catalog_page": "11-2",
+   "description": "Cut to Length Shapes with ANY Profile Side ≥ 3.250” machining service, with cut squareness +/- .002” / in and cut tolerance +/- .015”.",
+   "specs": {
+    "Service Type": "Cut to Length Shapes with ANY Profile Side ≥ 3.250”",
+    "Cut Squareness": "+/- .002” / in",
+    "Cut Tolerance": "+/- .015”"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table). Metric counterpart 65-7224 (Cut to Length Shapes with ANY Profile Side ≥ 82mm)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7604",
+   "series": [
+    "F"
+   ],
+   "name": "Cut to Length for Steel Shapes (5005, 5010, 5015, 5020, 5025, 5030, 8900, 8901, 25-8901, 40-8900)",
+   "catalog_page": "11-2",
+   "description": "Cut to Length for Steel Shapes (5005, 5010, 5015, 5020, 5025, 5030, 8900, 8901, 25-8901, 40-8900) machining service, with cut squareness +/- .002” / in (+/- .02mm / cm) and cut tolerance +/- .015” (+/- .38mm).",
+   "specs": {
+    "Service Type": "Cut to Length for Steel Shapes (5005, 5010, 5015, 5020, 5025, 5030, 8900, 8901, 25-8901, 40-8900)",
+    "Cut Squareness": "+/- .002” / in (+/- .02mm / cm)",
+    "Cut Tolerance": "+/- .015” (+/- .38mm)"
+   },
+   "notes": "Machining service listed on catalog page 11-2 (Shaped Profile Cut to Length table). Series badges printed: F and M (metric)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7035",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Single Hole End Tap 1/8 NPT",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Single Hole End Tap) that adds 1/8 NPT threads to the extruded end hole(s) of profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547; no minimum depth is listed.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "1/8 NPT",
+    "Minimum Depth": "—",
+    "Service Type": "Single Hole End Tap",
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7060",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Single Hole End Tap 5/16-18",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Single Hole End Tap) that adds 5/16-18 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "5/16-18",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Single Hole End Tap",
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7059",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Single Hole End Tap M8 x 1.25",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Single Hole End Tap) that adds M8 x 1.25 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M8 x 1.25",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Single Hole End Tap",
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7025",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Single Hole End Tap 3/8-16",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Single Hole End Tap) that adds 3/8-16 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "3/8-16",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Single Hole End Tap",
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7053",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Single Hole End Tap M10 x 1.50",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Single Hole End Tap) that adds M10 x 1.50 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M10 x 1.50",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Single Hole End Tap",
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7054",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Single Hole End Tap 7/16-14",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Single Hole End Tap) that adds 7/16-14 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "7/16-14",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Single Hole End Tap",
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7014",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap 5/16-18",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds 5/16-18 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1534-Lite, 1575.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "5/16-18",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "1534-Lite, 1575"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7015",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap M8 x 1.25",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds M8 x 1.25 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1534-Lite, 1575.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M8 x 1.25",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "1534-Lite, 1575"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7016",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap 5/16-18",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds 5/16-18 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 3034-Lite, 3075.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "5/16-18",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "3034-Lite, 3075"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7017",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap M8 x 1.25",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds M8 x 1.25 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 3034-Lite, 3075.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M8 x 1.25",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "3034-Lite, 3075"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7045",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap 5/16-18",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds 5/16-18 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "5/16-18",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7048",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap M8 x 1.25",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds M8 x 1.25 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M8 x 1.25",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7024",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap 3/8-16",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds 3/8-16 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "3/8-16",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7032",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap M10 x 1.50",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds M10 x 1.50 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M10 x 1.50",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7033",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Two Hole End Tap 7/16-14",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Two Hole End Tap) that adds 7/16-14 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "7/16-14",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Two Hole End Tap",
+    "Applicable Profiles": "1530, 1530-S, 1530-Lite, 1530-LS, 1530-UL, 1530-ULS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7049",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Three Hole End Tap 3/8-16",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Three Hole End Tap) that adds 3/8-16 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 1545, 1545-S, 1545-LS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "3/8-16",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Three Hole End Tap",
+    "Applicable Profiles": "1545, 1545-S, 1545-LS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7026",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Three Hole End Tap 5/16-18",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Three Hole End Tap) that adds 5/16-18 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1545, 1545-S, 1545-LS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "5/16-18",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Three Hole End Tap",
+    "Applicable Profiles": "1545, 1545-S, 1545-LS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7028",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Three Hole End Tap M8 x 1.25",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Three Hole End Tap) that adds M8 x 1.25 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 1545, 1545-S, 1545-LS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M8 x 1.25",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Three Hole End Tap",
+    "Applicable Profiles": "1545, 1545-S, 1545-LS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7052",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Four Hole End Tap 3/8-16",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Four Hole End Tap) that adds 3/8-16 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 3030, 3030-S, 3030-Lite, 3030-LS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "3/8-16",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Four Hole End Tap",
+    "Applicable Profiles": "3030, 3030-S, 3030-Lite, 3030-LS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7055",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Four Hole End Tap 5/16-18",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Four Hole End Tap) that adds 5/16-18 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 3030, 3030-S, 3030-Lite, 3030-LS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "5/16-18",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Four Hole End Tap",
+    "Applicable Profiles": "3030, 3030-S, 3030-Lite, 3030-LS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7056",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Four Hole End Tap M8 x 1.25",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Four Hole End Tap) that adds M8 x 1.25 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 3030, 3030-S, 3030-Lite, 3030-LS.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M8 x 1.25",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Four Hole End Tap",
+    "Applicable Profiles": "3030, 3030-S, 3030-Lite, 3030-LS"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7057",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Eight Hole End Tap 3/8-16",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Eight Hole End Tap) that adds 3/8-16 threads to the extruded end hole(s), minimum depth 1.500”, for profiles 3060.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "3/8-16",
+    "Minimum Depth": "1.500”",
+    "Service Type": "Eight Hole End Tap",
+    "Applicable Profiles": "3060"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7029",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Eight Hole End Tap 5/16-18",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Eight Hole End Tap) that adds 5/16-18 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 3060.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "5/16-18",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Eight Hole End Tap",
+    "Applicable Profiles": "3060"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7031",
+   "series": [
+    "15"
+   ],
+   "name": "Tap Profile End - Eight Hole End Tap M8 x 1.25",
+   "catalog_page": "11-3",
+   "description": "Tap Profile End service (Eight Hole End Tap) that adds M8 x 1.25 threads to the extruded end hole(s), minimum depth 1.250”, for profiles 3060.",
+   "features": [
+    "Used to add threads to extruded holes in T-slot profile",
+    "When ordering, designate profile end (left, right, or both) that requires tap"
+   ],
+   "specs": {
+    "Tap Size": "M8 x 1.25",
+    "Minimum Depth": "1.250”",
+    "Service Type": "Eight Hole End Tap",
+    "Applicable Profiles": "3060"
+   },
+   "notes": "Machining service listed on catalog page 11-3. Designate the profile end (left, right, or both) to be tapped when ordering."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7050",
+   "series": [
+    "15"
+   ],
+   "name": "Open Style Access Hole for 15 Series Profiles",
+   "catalog_page": "11-5",
+   "description": "Access hole machining service that provides a .295” diameter clearance hole at custom or predetermined locations along the length of a 15 series profile; locations are specified from the left end of the profile.",
+   "features": [
+    "Provides clearance hole at custom or predetermined locations along length of profile"
+   ],
+   "specs": {
+    "Service Type": "Access Hole for 15 Series Profiles",
+    "Hole Diameter": ".295”"
+   },
+   "notes": "Machining service listed on catalog page 11-5. Open Style Access Hole (specify from the left end of profile); hole locations use the Access Hole Designations (slot letters) diagrams on the page. Ordering Example: (2) 1530 x 35.75 w/ #7050 in slot T at .750” and in slot U at .750” from Left End."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7040",
+   "series": [
+    "15"
+   ],
+   "name": "Anchor Fastener Counterbore (15 Series)",
+   "catalog_page": "11-7",
+   "description": "Counterbore machining service (.813” diameter x .660” deep) at the designated profile end, required when using 15 series anchor fasteners.",
+   "features": [
+    "Required when using anchor fasteners (pg. 4-12) and butt fasteners (pg. 4-14)",
+    "When ordering, designate profile end (left, right, or both) that requires counterbore"
+   ],
+   "specs": {
+    "Counterbore Size": ".813” Diameter x .660” Deep",
+    "A": ".855”",
+    "B": ".750”",
+    "C": "1.500”",
+    "D": ".813” x .660” Deep"
+   },
+   "dimension_notes": "ø D = counterbore diameter x depth; A and B locate the counterbore center from the .00 references on the drawing; C = profile width",
+   "notes": "Machining service listed on catalog page 11-7; A-D values from the Anchor Fastener Counterbore Details table. Anchor fasteners are on pg. 4-12. Matching butt fastener counterbore: 7041. Locations use the Anchor Fastener Designations diagrams. Ordering Example: (3) 1530 x 35.75 w/ #7040 at F, G, in Left End and at H in Right End."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7041",
+   "series": [
+    "15"
+   ],
+   "name": "Butt Fastener Counterbore (15 Series)",
+   "catalog_page": "11-7",
+   "description": "Counterbore machining service (.813” diameter x .660” deep) at the designated profile end, required when using 15 series butt fasteners.",
+   "features": [
+    "Required when using anchor fasteners (pg. 4-12) and butt fasteners (pg. 4-14)",
+    "When ordering, designate profile end (left, right, or both) that requires counterbore"
+   ],
+   "specs": {
+    "Counterbore Size": ".813” Diameter x .660” Deep",
+    "A": ".721”",
+    "B": ".750”",
+    "C": "1.500”",
+    "D": ".813” x .660” Deep"
+   },
+   "dimension_notes": "ø D = counterbore diameter x depth; A and B locate the counterbore center from the .00 references on the drawing; C = profile width",
+   "notes": "Machining service listed on catalog page 11-7; A-D values from the Butt Fastener Counterbore Details table. Butt fasteners are on pg. 4-14. Matching anchor fastener counterbore: 7040."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7117",
+   "series": [
+    "15"
+   ],
+   "name": "Anchor Fastener Counterbore (40 Series Counterbore Machined for 15 Series)",
+   "catalog_page": "11-7",
+   "description": "Anchor fastener counterbore machining service with a 40 series size counterbore (20.00mm diameter x 16.69mm deep) machined in a 15 series profile.",
+   "features": [
+    "Required when using anchor fasteners (pg. 4-12) and butt fasteners (pg. 4-14)",
+    "When ordering, designate profile end (left, right, or both) that requires counterbore"
+   ],
+   "specs": {
+    "Counterbore Size": "20.00mm Diameter x 16.69mm Deep"
+   },
+   "notes": "Machining service listed on catalog page 11-7. Printed as \"7117*\"; footnote: *40 Series Counterbore Machined for 15 Series. Matching butt fastener counterbore: 7118. No A-C detail dimensions are given for this counterbore size on a 15 series profile."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7118",
+   "series": [
+    "15"
+   ],
+   "name": "Butt Fastener Counterbore (40 Series Counterbore Machined for 15 Series)",
+   "catalog_page": "11-7",
+   "description": "Butt fastener counterbore machining service with a 40 series size counterbore (20.00mm diameter x 16.69mm deep) machined in a 15 series profile.",
+   "features": [
+    "Required when using anchor fasteners (pg. 4-12) and butt fasteners (pg. 4-14)",
+    "When ordering, designate profile end (left, right, or both) that requires counterbore"
+   ],
+   "specs": {
+    "Counterbore Size": "20.00mm Diameter x 16.69mm Deep"
+   },
+   "notes": "Machining service listed on catalog page 11-7. Printed as \"7118*\"; footnote: *40 Series Counterbore Machined for 15 Series. Matching anchor fastener counterbore: 7117. No A-C detail dimensions are given for this counterbore size on a 15 series profile."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7257",
+   "series": [
+    "15"
+   ],
+   "name": "Open Style Drill Thru & Counterbore (15 Series)",
+   "catalog_page": "11-8",
+   "description": "Drill thru and counterbore machining service for 15 series profiles: .328” drill thru with a .531” counterbore, .495” deep; locations specified from the left end of the profile.",
+   "features": [
+    "Includes drill thru and counterbore"
+   ],
+   "specs": {
+    "A": ".328”",
+    "B": ".531”",
+    "C": ".495”"
+   },
+   "dimension_notes": "ø A = drill thru diameter, ø B = counterbore diameter, C = counterbore depth",
+   "notes": "Machining service listed on catalog page 11-8. Locations use the Drill Thru & Counterbore Designations diagrams. Ordering Example: (2) 1530 x 24.00 w/ #7257 in F @ .750” and 23.50” from Left End."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7258",
+   "series": [
+    "15"
+   ],
+   "name": "Open Style Drill Thru & Counterbore (15 Series, Deep Counterbore)",
+   "catalog_page": "11-8",
+   "description": "Drill thru and counterbore machining service for 15 series profiles: .328” drill thru with a .531” counterbore, .796” deep.",
+   "features": [
+    "Includes drill thru and counterbore"
+   ],
+   "specs": {
+    "A": ".328”",
+    "B": ".531”",
+    "C": ".796”"
+   },
+   "dimension_notes": "ø A = drill thru diameter, ø B = counterbore diameter, C = counterbore depth",
+   "notes": "Machining service listed on catalog page 11-8. Printed as \"7258*\"; footnote: *Machining only available in locations designated with (*) on the Drill Thru & Counterbore Designations diagrams."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7065",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut - 1515 / 1501-1504 / 1517 / 1547 / 1575 Profiles",
+   "catalog_page": "11-10",
+   "description": "Miter cut machining service for profiles 1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1534-Lite, 1547, 1575, at angles from 0º to 75º (angle refers to dimension A on the drawing).",
+   "features": [
+    "T-slotted profiles can be miter cut to angles of 0 to 75 degrees or 0 to 60 degrees for select profiles (with the exception of 3060, 40-1620 and 40-8016, which can only be cut to an angle of 45 degrees across the 6.00” (160mm) side",
+    "When ordering, designate profile end (left, right, or both) that requires miter; A drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net/design-assistance"
+   ],
+   "specs": {
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1534-Lite, 1547, 1575",
+    "Minimum Angle": "0º",
+    "Maximum Angle": "75º"
+   },
+   "dimension_notes": "A = miter angle measured from 0º (square cut); minimum and maximum angle refer to dimension A",
+   "notes": "Machining service listed on catalog page 11-10. Designate the profile end (left, right, or both) to be mitered; a drawing is required with this service."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7075",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut - 1530 / 3034-Lite / 3075 Profiles",
+   "catalog_page": "11-10",
+   "description": "Miter cut machining service for profiles 1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS, 3034-Lite, 3075, at angles from 0º to 60º (angle refers to dimension A on the drawing).",
+   "features": [
+    "T-slotted profiles can be miter cut to angles of 0 to 75 degrees or 0 to 60 degrees for select profiles (with the exception of 3060, 40-1620 and 40-8016, which can only be cut to an angle of 45 degrees across the 6.00” (160mm) side",
+    "When ordering, designate profile end (left, right, or both) that requires miter; A drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net/design-assistance"
+   ],
+   "specs": {
+    "Applicable Profiles": "1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS, 3034-Lite, 3075",
+    "Minimum Angle": "0º",
+    "Maximum Angle": "60º"
+   },
+   "dimension_notes": "A = miter angle measured from 0º (square cut); minimum and maximum angle refer to dimension A",
+   "notes": "Machining service listed on catalog page 11-10. Designate the profile end (left, right, or both) to be mitered; a drawing is required with this service."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7076",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut - 1545 Profiles",
+   "catalog_page": "11-10",
+   "description": "Miter cut machining service for profiles 1545, 1545-S, 1545-LS, at angles from 0º to 60º (angle refers to dimension A on the drawing).",
+   "features": [
+    "T-slotted profiles can be miter cut to angles of 0 to 75 degrees or 0 to 60 degrees for select profiles (with the exception of 3060, 40-1620 and 40-8016, which can only be cut to an angle of 45 degrees across the 6.00” (160mm) side",
+    "When ordering, designate profile end (left, right, or both) that requires miter; A drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net/design-assistance"
+   ],
+   "specs": {
+    "Applicable Profiles": "1545, 1545-S, 1545-LS",
+    "Minimum Angle": "0º",
+    "Maximum Angle": "60º"
+   },
+   "dimension_notes": "A = miter angle measured from 0º (square cut); minimum and maximum angle refer to dimension A",
+   "notes": "Machining service listed on catalog page 11-10. Designate the profile end (left, right, or both) to be mitered; a drawing is required with this service."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7085",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut - 3030 Profiles",
+   "catalog_page": "11-10",
+   "description": "Miter cut machining service for profiles 3030, 3030-Lite, 3030-LS, 3030-S, at angles from 0º to 60º (angle refers to dimension A on the drawing).",
+   "features": [
+    "T-slotted profiles can be miter cut to angles of 0 to 75 degrees or 0 to 60 degrees for select profiles (with the exception of 3060, 40-1620 and 40-8016, which can only be cut to an angle of 45 degrees across the 6.00” (160mm) side",
+    "When ordering, designate profile end (left, right, or both) that requires miter; A drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net/design-assistance"
+   ],
+   "specs": {
+    "Applicable Profiles": "3030, 3030-Lite, 3030-LS, 3030-S",
+    "Minimum Angle": "0º",
+    "Maximum Angle": "60º"
+   },
+   "dimension_notes": "A = miter angle measured from 0º (square cut); minimum and maximum angle refer to dimension A",
+   "notes": "Machining service listed on catalog page 11-10. Designate the profile end (left, right, or both) to be mitered; a drawing is required with this service."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7087",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut - 3060 Profile",
+   "catalog_page": "11-10",
+   "description": "Miter cut machining service for profiles 3060, at angles from 0º to 45º (angle refers to dimension A on the drawing).",
+   "features": [
+    "T-slotted profiles can be miter cut to angles of 0 to 75 degrees or 0 to 60 degrees for select profiles (with the exception of 3060, 40-1620 and 40-8016, which can only be cut to an angle of 45 degrees across the 6.00” (160mm) side",
+    "When ordering, designate profile end (left, right, or both) that requires miter; A drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net/design-assistance"
+   ],
+   "specs": {
+    "Applicable Profiles": "3060",
+    "Minimum Angle": "0º",
+    "Maximum Angle": "45º"
+   },
+   "dimension_notes": "A = miter angle measured from 0º (square cut); minimum and maximum angle refer to dimension A",
+   "notes": "Machining service listed on catalog page 11-10. Designate the profile end (left, right, or both) to be mitered; a drawing is required with this service. Per the page, 3060 can only be cut to an angle of 45 degrees across the 6.00” side."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7082",
+   "series": [
+    "15"
+   ],
+   "name": "Miter Cut Counterbore - 1515 / 1501-1504 Profiles",
+   "catalog_page": "11-12",
+   "description": "Drill-through and counterbore machining service for one end of a mitered profile (1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS) to create custom supports at 30º - 60º; mounting hardware is included.",
+   "features": [
+    "Includes drill through and counterbore to create custom supports with angles ranging from 30 to 60 degrees; service is for one end of profile with included mounting hardware",
+    "When ordering, designate profile end (left, right, or both) that requires miter"
+   ],
+   "specs": {
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS",
+    "A": "1.500”",
+    "B": ".750”",
+    "C": ".250”",
+    "D*": "1.061”",
+    "E": ".328”"
+   },
+   "dimension_notes": "A = profile width; ø B = counterbore diameter; ø E = drill-through hole diameter; C and D locate the counterbore as shown on the drawing; *the D dimension is for profiles positioned at a 45 degree angle",
+   "suggested_hardware": [
+    {
+     "part_number": "3112",
+     "qty": "1 to 6",
+     "description": "5/16-18 x 3/4” Black SHCS",
+     "context": "Included Mounting Hardware - Bolt"
+    },
+    {
+     "part_number": "3278",
+     "qty": "1 to 6",
+     "description": "Economy T-Nut",
+     "context": "Included Mounting Hardware - T-Nut"
+    },
+    {
+     "part_number": "3260",
+     "qty": "1 to 6",
+     "description": "Washer",
+     "context": "Included Mounting Hardware - Washer"
+    }
+   ],
+   "notes": "Machining service listed on catalog page 11-12; service is for one end of the profile; the ordering example pairs it with Profile Miter Cut 7065. Included mounting hardware (15 series): 3112 bolt, 3278 Economy T-nut and 3260 washer, 1 to 6 of each. Ordering Example: (2) 1515 x 14.00” w/ #7065 @ 45º Left End Per Drawing and #7082 Left End."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7092",
+   "series": [
+    "15"
+   ],
+   "name": "Miter Cut Counterbore - 1530 Profiles",
+   "catalog_page": "11-12",
+   "description": "Drill-through and counterbore machining service for one end of a mitered profile (1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS) to create custom supports at 30º - 60º; mounting hardware is included.",
+   "features": [
+    "Includes drill through and counterbore to create custom supports with angles ranging from 30 to 60 degrees; service is for one end of profile with included mounting hardware",
+    "When ordering, designate profile end (left, right, or both) that requires miter"
+   ],
+   "specs": {
+    "Applicable Profiles": "1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS",
+    "A": "1.500”",
+    "B": ".750”",
+    "C": ".250”",
+    "D*": "1.061”",
+    "E": ".328”"
+   },
+   "dimension_notes": "A = profile width; ø B = counterbore diameter; ø E = drill-through hole diameter; C and D locate the counterbore as shown on the drawing; *the D dimension is for profiles positioned at a 45 degree angle",
+   "suggested_hardware": [
+    {
+     "part_number": "3112",
+     "qty": "1 to 6",
+     "description": "5/16-18 x 3/4” Black SHCS",
+     "context": "Included Mounting Hardware - Bolt"
+    },
+    {
+     "part_number": "3278",
+     "qty": "1 to 6",
+     "description": "Economy T-Nut",
+     "context": "Included Mounting Hardware - T-Nut"
+    },
+    {
+     "part_number": "3260",
+     "qty": "1 to 6",
+     "description": "Washer",
+     "context": "Included Mounting Hardware - Washer"
+    }
+   ],
+   "notes": "Machining service listed on catalog page 11-12; service is for one end of the profile. Included mounting hardware (15 series): 3112 bolt, 3278 Economy T-nut and 3260 washer, 1 to 6 of each. The page's ordering example is for 7082 (paired with Profile Miter Cut 7065): (2) 1515 x 14.00” w/ #7065 @ 45º Left End Per Drawing and #7082 Left End."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7094",
+   "series": [
+    "15"
+   ],
+   "name": "Miter Cut Counterbore - 1545 Profiles",
+   "catalog_page": "11-12",
+   "description": "Drill-through and counterbore machining service for one end of a mitered profile (1545, 1545-S, 1545-LS) to create custom supports at 30º - 60º; mounting hardware is included.",
+   "features": [
+    "Includes drill through and counterbore to create custom supports with angles ranging from 30 to 60 degrees; service is for one end of profile with included mounting hardware",
+    "When ordering, designate profile end (left, right, or both) that requires miter"
+   ],
+   "specs": {
+    "Applicable Profiles": "1545, 1545-S, 1545-LS",
+    "A": "1.500”",
+    "B": ".750”",
+    "C": ".250”",
+    "D*": "1.061”",
+    "E": ".328”"
+   },
+   "dimension_notes": "A = profile width; ø B = counterbore diameter; ø E = drill-through hole diameter; C and D locate the counterbore as shown on the drawing; *the D dimension is for profiles positioned at a 45 degree angle",
+   "suggested_hardware": [
+    {
+     "part_number": "3112",
+     "qty": "1 to 6",
+     "description": "5/16-18 x 3/4” Black SHCS",
+     "context": "Included Mounting Hardware - Bolt"
+    },
+    {
+     "part_number": "3278",
+     "qty": "1 to 6",
+     "description": "Economy T-Nut",
+     "context": "Included Mounting Hardware - T-Nut"
+    },
+    {
+     "part_number": "3260",
+     "qty": "1 to 6",
+     "description": "Washer",
+     "context": "Included Mounting Hardware - Washer"
+    }
+   ],
+   "notes": "Machining service listed on catalog page 11-12; service is for one end of the profile. Included mounting hardware (15 series): 3112 bolt, 3278 Economy T-nut and 3260 washer, 1 to 6 of each. The page's ordering example is for 7082 (paired with Profile Miter Cut 7065): (2) 1515 x 14.00” w/ #7065 @ 45º Left End Per Drawing and #7082 Left End."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7080",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut with Counterbore - 1515 / 1501-1504 Profiles",
+   "catalog_page": "11-13",
+   "description": "Machining service that puts a 45 degree cut and a counterbore on both ends of a profile (1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS); mounting hardware is included.",
+   "features": [
+    "Includes a 45 degree cut and counterbore on both ends of a profile and includes mounting hardware"
+   ],
+   "specs": {
+    "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS",
+    "A": "1.500”",
+    "B": ".750”",
+    "C": ".250”",
+    "D": "1.061”",
+    "E": ".328”",
+    "F": "Custom"
+   },
+   "dimension_notes": "F = overall profile length (custom); A = profile width; ø E = drilled hole diameter; B, C and D locate the counterbore as shown on the drawing",
+   "suggested_hardware": [
+    {
+     "part_number": "3112",
+     "qty": "2 to 6",
+     "description": "5/16-18 x 3/4” Black SHCS",
+     "context": "Included Mounting Hardware - Bolt"
+    },
+    {
+     "part_number": "3278",
+     "qty": "2 to 6",
+     "description": "Economy T-Nut",
+     "context": "Included Mounting Hardware - T-Nut"
+    },
+    {
+     "part_number": "3260",
+     "qty": "2 to 6",
+     "description": "Washer",
+     "context": "Included Mounting Hardware - Washer"
+    }
+   ],
+   "notes": "Machining service listed on catalog page 11-13. Included mounting hardware (15 series): 3112 bolt, 3278 Economy T-nut and 3260 washer, 2 to 6 of each. The page's ordering example is for 7090: (2) 1530 x 23.625 w/ #7090 Miter Cut and Counterbore, F = 23.625."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7090",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut with Counterbore - 1530 Profiles",
+   "catalog_page": "11-13",
+   "description": "Machining service that puts a 45 degree cut and a counterbore on both ends of a profile (1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS); mounting hardware is included.",
+   "features": [
+    "Includes a 45 degree cut and counterbore on both ends of a profile and includes mounting hardware"
+   ],
+   "specs": {
+    "Applicable Profiles": "1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS",
+    "A": "1.500”",
+    "B": ".750”",
+    "C": ".250”",
+    "D": "1.061”",
+    "E": ".328”",
+    "F": "Custom"
+   },
+   "dimension_notes": "F = overall profile length (custom); A = profile width; ø E = drilled hole diameter; B, C and D locate the counterbore as shown on the drawing",
+   "suggested_hardware": [
+    {
+     "part_number": "3112",
+     "qty": "2 to 6",
+     "description": "5/16-18 x 3/4” Black SHCS",
+     "context": "Included Mounting Hardware - Bolt"
+    },
+    {
+     "part_number": "3278",
+     "qty": "2 to 6",
+     "description": "Economy T-Nut",
+     "context": "Included Mounting Hardware - T-Nut"
+    },
+    {
+     "part_number": "3260",
+     "qty": "2 to 6",
+     "description": "Washer",
+     "context": "Included Mounting Hardware - Washer"
+    }
+   ],
+   "notes": "Machining service listed on catalog page 11-13. Included mounting hardware (15 series): 3112 bolt, 3278 Economy T-nut and 3260 washer, 2 to 6 of each. Ordering Example: (2) 1530 x 23.625 w/ #7090 Miter Cut and Counterbore, F = 23.625."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7093",
+   "series": [
+    "15"
+   ],
+   "name": "Profile Miter Cut with Counterbore - 1545 Profiles",
+   "catalog_page": "11-13",
+   "description": "Machining service that puts a 45 degree cut and a counterbore on both ends of a profile (1545, 1545-S, 1545-LS); mounting hardware is included.",
+   "features": [
+    "Includes a 45 degree cut and counterbore on both ends of a profile and includes mounting hardware"
+   ],
+   "specs": {
+    "Applicable Profiles": "1545, 1545-S, 1545-LS",
+    "A": "1.500”",
+    "B": ".750”",
+    "C": ".250”",
+    "D": "1.061”",
+    "E": ".328”",
+    "F": "Custom"
+   },
+   "dimension_notes": "F = overall profile length (custom); A = profile width; ø E = drilled hole diameter; B, C and D locate the counterbore as shown on the drawing",
+   "suggested_hardware": [
+    {
+     "part_number": "3112",
+     "qty": "2 to 6",
+     "description": "5/16-18 x 3/4” Black SHCS",
+     "context": "Included Mounting Hardware - Bolt"
+    },
+    {
+     "part_number": "3278",
+     "qty": "2 to 6",
+     "description": "Economy T-Nut",
+     "context": "Included Mounting Hardware - T-Nut"
+    },
+    {
+     "part_number": "3260",
+     "qty": "2 to 6",
+     "description": "Washer",
+     "context": "Included Mounting Hardware - Washer"
+    }
+   ],
+   "notes": "Machining service listed on catalog page 11-13. Included mounting hardware (15 series): 3112 bolt, 3278 Economy T-nut and 3260 washer, 2 to 6 of each. The page's ordering example is for 7090: (2) 1530 x 23.625 w/ #7090 Miter Cut and Counterbore, F = 23.625."
+  }
+ ],
+ "page_notes": {
+  "776": "11-2 Cut to Length services: T-Slot Profile (15 rows 7010/7020/7021/7030/7023 plus FRP-badged 7618), Ready Tube & Quick Frame (RT 7010/7020 merged into the 15 rows; QF 7310 skipped) and Shaped Profile Cut to Length (F rows; P-only MOD-VC and metric 65-72xx skipped).",
+  "777": "11-3 Tap Profile End: 24 fractional 15 series tap services extracted; 10 series and metric rows skipped.",
+  "779": "11-5 Open Style Access Hole: only 7050 (15 series) extracted; designation diagrams produce no parts.",
+  "781": "11-7 Anchor/Butt Fastener Counterbore: 7040, 7041, 7117, 7118 (15 badge) extracted with 15 series counterbore details; 10/metric rows skipped.",
+  "782": "11-8 Open Style Drill Thru & Counterbore: 7257 and 7258 (15 series) extracted; designation diagrams produce no parts.",
+  "784": "11-10 Profile Miter Cut: 5 fractional 15 series rows (7065, 7075, 7076, 7085, 7087) extracted.",
+  "786": "11-12 Miter Cut Counterbore: 7082, 7092, 7094 extracted; 15 series Included Mounting Hardware row attached as suggested_hardware.",
+  "787": "11-13 Profile Miter Cut with Counterbore: 7080, 7090, 7093 extracted; 15 series Included Mounting Hardware row attached as suggested_hardware."
+ },
+ "verification": {
+  "added": [],
+  "removed": [],
+  "corrected": [
+   "7092: notes \"the ordering example pairs it with Profile Miter Cut 7065\" (example is for 7082, not 7092) -> ordering example attributed to 7082",
+   "7094: notes \"the ordering example pairs it with Profile Miter Cut 7065\" (example is for 7082, not 7094) -> ordering example attributed to 7082",
+   "7080: notes ordering example (for 7090) presented as if for 7080 -> attributed to 7090",
+   "7093: notes ordering example (for 7090) presented as if for 7093 -> attributed to 7090"
+  ],
+  "remaining_doubts": [
+   "7618: series badge printed is \"FRP\" (not 15); kept with series [\"15\"] because its only applicable profile is 1515FRP-BLACK, consistent with c004's treatment of 1515FRP-BLACK/7618.",
+   "7010 and 7020: the same service numbers appear in both the T-Slot (15 badge) and Ready Tube (RT badge) Cut to Length tables on 11-2; merged into one part each with series [\"15\",\"RT\"] and the RT applicable profiles kept in specs.",
+   "MOV-VCOTH: part number read from the page image (text layer is garbled); badges F and M.",
+   "Suggested-hardware qty values are kept as the printed ranges (\"1 to 6\", \"2 to 6\") rather than integers."
+  ]
+ }
+}

@@ -1,0 +1,752 @@
+{
+  "chunk": "c015",
+  "pages": [
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271
+  ],
+  "parts": [
+    {
+      "part_number": "4420",
+      "series": [
+        "15"
+      ],
+      "name": "10 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-100",
+      "description": "Ten-hole aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".522 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": "1.405”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": "4.310”",
+        "J": ".654”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), G = width across top of tapered vertical leg, H = overall width, øL = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 10,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 10 x 3320. The 10 series versions (4020, 4020-Black) are on the same page."
+    },
+    {
+      "part_number": "4420-Black",
+      "series": [
+        "15"
+      ],
+      "name": "10 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-100",
+      "description": "Ten-hole aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".522 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": "1.405”",
+        "F": "1.500”",
+        "G": "2.810”",
+        "H": "4.310”",
+        "J": ".654”",
+        "K": ".750”",
+        "L": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), G = width across top of tapered vertical leg, H = overall width, øL = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 10,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 10 x 3320. The 10 series versions (4020, 4020-Black) are on the same page."
+    },
+    {
+      "part_number": "4414",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Tall Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-101",
+      "description": "Twelve-hole tall aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".560 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "2.812”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing, G = overall width, øH = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 12 x 3320. The 10 series versions (4014, 4014-Black) are on the same page."
+    },
+    {
+      "part_number": "4414-Black",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Tall Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-101",
+      "description": "Twelve-hole tall aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".560 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "2.812”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing, G = overall width, øH = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 12 x 3320. The 10 series versions (4014, 4014-Black) are on the same page."
+    },
+    {
+      "part_number": "4416",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Wide Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-102",
+      "description": "Twelve-hole wide aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".564 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "4.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing, G = overall width, øH = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 12 x 3320. The 10 series versions (4016, 4016-Black) are on the same page."
+    },
+    {
+      "part_number": "4416-Black",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Wide Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-102",
+      "description": "Twelve-hole wide aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".564 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "4.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing, G = overall width, øH = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 12 x 3320. The 10 series versions (4016, 4016-Black) are on the same page."
+    },
+    {
+      "part_number": "4417",
+      "series": [
+        "15"
+      ],
+      "name": "18 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-103",
+      "description": "Eighteen-hole aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".861 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "4.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing, G = overall width, øH = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 18,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 18 x 3320. The 10 series versions (4017, 4017-Black) are on the same page."
+    },
+    {
+      "part_number": "4417-Black",
+      "series": [
+        "15"
+      ],
+      "name": "18 Hole - Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-103",
+      "description": "Eighteen-hole aluminum inside corner bracket for 15 series profile that mounts to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".861 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "4.500”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".656”",
+        "F": "1.500”",
+        "G": "4.310”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing, G = overall width, øH = hole diameter (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 18,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Suggested hardware (Mount to T-Slot) for 15 series: 18 x 3320. The 10 series versions (4017, 4017-Black) are on the same page."
+    },
+    {
+      "part_number": "4509",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Lite Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-104",
+      "description": "Two-hole lite aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects profiles in same product type but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".020 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.000”",
+        "C": ".125”",
+        "D": ".500”",
+        "E": ".500”",
+        "F": ".257”",
+        "G": "1.000”",
+        "H": ".328”",
+        "J": ".500”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), G = width, øF and øH = hole diameters",
+      "suggested_hardware": [
+        {
+          "part_number": "3386",
+          "qty": 1,
+          "description": "1/4-20 x 3/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3319",
+          "qty": 1,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 1 x 3386 (1/4-20 bolt) and 1 x 3319 (5/16-18 bolt). Metric 25-to-40 versions (65-4509) are on the same page."
+    },
+    {
+      "part_number": "4509-Black",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Lite Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-104",
+      "description": "Two-hole lite aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects profiles in same product type but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".020 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.000”",
+        "C": ".125”",
+        "D": ".500”",
+        "E": ".500”",
+        "F": ".257”",
+        "G": "1.000”",
+        "H": ".328”",
+        "J": ".500”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), G = width, øF and øH = hole diameters",
+      "suggested_hardware": [
+        {
+          "part_number": "3386",
+          "qty": 1,
+          "description": "1/4-20 x 3/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3319",
+          "qty": 1,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 1 x 3386 (1/4-20 bolt) and 1 x 3319 (5/16-18 bolt). Metric 25-to-40 versions (65-4509) are on the same page."
+    },
+    {
+      "part_number": "4503",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-105",
+      "description": "Two-hole aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects profiles in same product type but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".041 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".188”",
+        "D": ".750”",
+        "E": ".438”",
+        "F": ".328”",
+        "G": ".875”",
+        "H": ".257”",
+        "J": ".750”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), G = width, øF and øH = hole diameters",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3435",
+          "qty": 1,
+          "description": "5/16-18 x 5/8 BHSCS, Washer, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 1 x 3393 (1/4-20 bolt) and 1 x 3435 (5/16-18 bolt with washer). Metric 25-to-40 versions (65-4503) are on the same page."
+    },
+    {
+      "part_number": "4503-Black",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-105",
+      "description": "Two-hole aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects profiles in same product type but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".041 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".188”",
+        "D": ".750”",
+        "E": ".438”",
+        "F": ".328”",
+        "G": ".875”",
+        "H": ".257”",
+        "J": ".750”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), G = width, øF and øH = hole diameters",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3435",
+          "qty": 1,
+          "description": "5/16-18 x 5/8 BHSCS, Washer, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 1 x 3393 (1/4-20 bolt) and 1 x 3435 (5/16-18 bolt with washer). Metric 25-to-40 versions (65-4503) are on the same page."
+    },
+    {
+      "part_number": "4504",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Tall Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-106",
+      "description": "Four-hole tall aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects profiles in same product type but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".113 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".438”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": ".875”",
+        "J": ".257”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing (typ.), H = width, øG and øJ = hole diameters (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 2 x 3393 (1/4-20 bolt) and 2 x 3320 (5/16-18 bolt). Metric 25-to-40 versions (65-4504) are on the same page."
+    },
+    {
+      "part_number": "4504-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Tall Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-106",
+      "description": "Four-hole tall aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects profiles in same product type but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".113 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": ".750”",
+        "E": ".438”",
+        "F": "1.500”",
+        "G": ".328”",
+        "H": ".875”",
+        "J": ".257”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness (typ.), F = hole spacing (typ.), H = width, øG and øJ = hole diameters (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3393",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” BHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 2 x 3393 (1/4-20 bolt) and 2 x 3320 (5/16-18 bolt). Metric 25-to-40 versions (65-4504) are on the same page."
+    },
+    {
+      "part_number": "4511",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Lite Wide Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-107",
+      "description": "Four-hole lite wide aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects fractional profiles but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".048 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.000”",
+        "C": ".125”",
+        "D": ".500”",
+        "E": ".750”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": ".281”",
+        "J": "2.500”",
+        "K": "1.500”",
+        "L": ".500”",
+        "M": ".500”",
+        "N": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness, F = hole spacing, G = width across top of tapered vertical leg, J = overall width, K = hole spacing, øH and øN = hole diameters (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3386",
+          "qty": 2,
+          "description": "1/4-20 x 3/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3319",
+          "qty": 2,
+          "description": "5/16-18 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 2 x 3386 (1/4-20 bolt) and 2 x 3319 (5/16-18 bolt)."
+    },
+    {
+      "part_number": "4511-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Lite Wide Transition Inside Corner Bracket",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-107",
+      "description": "Four-hole lite wide aluminum inside corner bracket that connects a 10 series profile to a 15 series profile, mounting to the T-slots with the suggested hardware. It requires no machining and is reconfigurable and reusable.",
+      "features": [
+        "No machining required",
+        "Connects fractional profiles but differing series",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".048 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": "1.000”",
+        "C": ".125”",
+        "D": ".500”",
+        "E": ".750”",
+        "F": "1.000”",
+        "G": "1.500”",
+        "H": ".281”",
+        "J": "2.500”",
+        "K": "1.500”",
+        "L": ".500”",
+        "M": ".500”",
+        "N": ".328”"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg length, C = thickness, F = hole spacing, G = width across top of tapered vertical leg, J = overall width, K = hole spacing, øH and øN = hole diameters (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3386",
+          "qty": 2,
+          "description": "1/4-20 x 3/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3319",
+          "qty": 2,
+          "description": "5/16-18 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series printed as \"10 to 15\": transition bracket connecting a 10 series profile to a 15 series profile. Suggested hardware (Mount to T-Slot), both rows badged \"10 to 15\": 2 x 3386 (1/4-20 bolt) and 2 x 3319 (5/16-18 bolt)."
+    }
+  ],
+  "page_notes": {
+    "264": "10 Hole - Inside Corner Bracket (4-100): extracted 15 series rows 4420, 4420-Black with 15 series suggested hardware 3320; 10 series rows 4020/4020-Black and hardware 3393 skipped.",
+    "265": "12 Hole - Tall Inside Corner Bracket (4-101): extracted 4414, 4414-Black with suggested hardware 3320; 10 series rows 4014/4014-Black and 3393 skipped.",
+    "266": "12 Hole - Wide Inside Corner Bracket (4-102): extracted 4416, 4416-Black with suggested hardware 3320; 10 series rows 4016/4016-Black and 3393 skipped.",
+    "267": "18 Hole - Inside Corner Bracket (4-103): extracted 4417, 4417-Black with suggested hardware 3320; 10 series rows 4017/4017-Black and 3393 skipped.",
+    "268": "2 Hole - Lite Transition Inside Corner Bracket (4-104): extracted 10-to-15 rows 4509, 4509-Black with hardware 3386/3319; metric 25-to-40 rows 65-4509 and 75-3404/75-3421 skipped.",
+    "269": "2 Hole - Transition Inside Corner Bracket (4-105): extracted 10-to-15 rows 4503, 4503-Black with hardware 3393/3435; metric 25-to-40 rows 65-4503 and 75-3405/75-3422 skipped.",
+    "270": "4 Hole - Tall Transition Inside Corner Bracket (4-106): extracted 10-to-15 rows 4504, 4504-Black with hardware 3393/3320; metric 25-to-40 rows 65-4504 and 75-3405/75-3422 skipped.",
+    "271": "4 Hole - Lite Wide Transition Inside Corner Bracket (4-107): extracted 10-to-15 rows 4511, 4511-Black with hardware 3386/3319."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "Transition brackets 4509, 4503, 4504, 4511 (and -Black) are badged \"10 to 15\" on the page; series recorded as [\"15\"] only because the schema excludes \"10\". The 10-to-15 nature is kept in notes and description.",
+      "Hardware rows 3386, 3393, 3319, 3435 and 3320 on pages 4-104 to 4-107 are badged \"10 to 15\", so both bolt sizes are attached to each transition bracket. The 1/4-20 bolt (3386/3393) presumably goes on the 10 series side, but the page does not say that outright."
+    ]
+  }
+}

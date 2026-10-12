@@ -1,0 +1,484 @@
+{
+  "chunk": "c078",
+  "pages": [
+    805,
+    806,
+    807,
+    808,
+    809,
+    811,
+    812,
+    813
+  ],
+  "parts": [
+    {
+      "part_number": "7320",
+      "series": [
+        "15"
+      ],
+      "name": "Central Connector Clearance Notch (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-31",
+      "description": "Corner notch machined into a panel so it clears the central connector (pg. 4-20) when the panel mounts inside a 15 series T-slot. 7320 is the service's Panel & Wire Part No.; the Aluminum Part No. is 7204.",
+      "features": [
+        "Used to clear central connector (pg. 4-20) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Aluminum Part No.": "7204",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "B": "2.000”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = horizontal width of the corner notch, B = vertical height of the corner notch; notch inside corner radius R .125” (3.18mm)",
+      "notes": "Reference page 11-31. Specify vertical or horizontal orientation and the panel corner when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 23.000” x (AB) 28.000” w/7320 Vertical on Corner B. Metric equivalents 30-, 40-, 45-7320/7204 not extracted."
+    },
+    {
+      "part_number": "7204",
+      "series": [
+        "15"
+      ],
+      "name": "Central Connector Clearance Notch (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-31",
+      "description": "Corner notch machined into a panel so it clears the central connector (pg. 4-20) when the panel mounts inside a 15 series T-slot. 7204 is the service's Aluminum Part No.; the Panel & Wire Part No. is 7320.",
+      "features": [
+        "Used to clear central connector (pg. 4-20) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7320",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "B": "2.000”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = horizontal width of the corner notch, B = vertical height of the corner notch; notch inside corner radius R .125” (3.18mm)",
+      "notes": "Reference page 11-31. Specify vertical or horizontal orientation and the panel corner when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 23.000” x (AB) 28.000” w/7320 Vertical on Corner B. Metric equivalents 30-, 40-, 45-7320/7204 not extracted."
+    },
+    {
+      "part_number": "7516",
+      "series": [
+        "15"
+      ],
+      "name": "Corner Connector Clearance Notch (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-32",
+      "description": "Square corner notch machined into a panel so it clears the locating tab of the tri-corner connector (corner connector tabs, pg. 4-119) when the panel mounts inside a 15 series T-slot. 7516 is the service's Panel & Wire Part No.; the Aluminum Part No. is 7218.",
+      "features": [
+        "Used to clear corner connector tabs (pg. 4-119) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Aluminum Part No.": "7218",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch size, dimensioned both horizontally and vertically (square notch); notch inside corner radius R .125” (3.18mm)",
+      "notes": "Reference page 11-32. Ordering example printed on the page (uses the 10 series number): 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7515 on Corner B. 10 series 7515/7217 and metric 25-7515/25-7217, 40-7516/40-7218 not extracted."
+    },
+    {
+      "part_number": "7218",
+      "series": [
+        "15"
+      ],
+      "name": "Corner Connector Clearance Notch (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-32",
+      "description": "Square corner notch machined into a panel so it clears the locating tab of the tri-corner connector (corner connector tabs, pg. 4-119) when the panel mounts inside a 15 series T-slot. 7218 is the service's Aluminum Part No.; the Panel & Wire Part No. is 7516.",
+      "features": [
+        "Used to clear corner connector tabs (pg. 4-119) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7516",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch size, dimensioned both horizontally and vertically (square notch); notch inside corner radius R .125” (3.18mm)",
+      "notes": "Reference page 11-32. Ordering example printed on the page (uses the 10 series number): 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7515 on Corner B. 10 series 7515/7217 and metric 25-7515/25-7217, 40-7516/40-7218 not extracted."
+    },
+    {
+      "part_number": "7161",
+      "series": [
+        "15"
+      ],
+      "name": "Inside Corner Connector Clearance Notch (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-33",
+      "description": "Stepped, angled corner notch machined into a panel so it clears the inside corner connector (pg. 4-19) when the panel mounts inside a 15 series T-slot. 7161 is the service's Panel & Wire Part No.; the Aluminum Part No. is 7219.",
+      "features": [
+        "Used to clear inside corner connector (pg. 4-19) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Aluminum Part No.": "7219",
+        "Service Type": "Corner Notch",
+        "A": ".435”",
+        "B": "2.500”",
+        "C": "1.393”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = width of the narrow upper step of the notch, B = overall notch height, C = height from the start of the angled cut to the panel edge (per drawing); inside corner radius R .125”",
+      "notes": "Reference page 11-33. Row is badged both 15 and 40 (the same service number serves the 40 series). Ordering example printed on the page: 2609 (1) @ (AD) 22.000” x (AB) 18.000” w/ 7161 on Corner B."
+    },
+    {
+      "part_number": "7219",
+      "series": [
+        "15"
+      ],
+      "name": "Inside Corner Connector Clearance Notch (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-33",
+      "description": "Stepped, angled corner notch machined into a panel so it clears the inside corner connector (pg. 4-19) when the panel mounts inside a 15 series T-slot. 7219 is the service's Aluminum Part No.; the Panel & Wire Part No. is 7161.",
+      "features": [
+        "Used to clear inside corner connector (pg. 4-19) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7161",
+        "Service Type": "Corner Notch",
+        "A": ".435”",
+        "B": "2.500”",
+        "C": "1.393”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = width of the narrow upper step of the notch, B = overall notch height, C = height from the start of the angled cut to the panel edge (per drawing); inside corner radius R .125”",
+      "notes": "Reference page 11-33. Row is badged both 15 and 40 (the same service number serves the 40 series). Ordering example printed on the page: 2609 (1) @ (AD) 22.000” x (AB) 18.000” w/ 7161 on Corner B."
+    },
+    {
+      "part_number": "7321",
+      "series": [
+        "15"
+      ],
+      "name": "T-Matic Connector Clearance Notch (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-34",
+      "description": "Corner notch machined into a panel so it clears the T-Matic connector (pg. 4-22) when the panel mounts inside a 15 series T-slot. 7321 is the service's Panel & Wire Part No.; the Aluminum Part No. is 7237.",
+      "features": [
+        "Used to clear an T-Matic Connector (pg. 4-22) when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Aluminum Part No.": "7237",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "B": "1.875”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = horizontal width of the corner notch, B = vertical height of the corner notch; notch inside corner radius R .125” (3.18mm)",
+      "notes": "Reference page 11-34. Specify vertical or horizontal orientation when ordering. The ordering example printed on this page reads 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7605 Vertical on Corner B (7605 is the Pipe Mount Clearance Notch number on page 11-37). 10 series 7322/7238 and metric 25-7322/25-7238, 40-7321/40-7237 not extracted."
+    },
+    {
+      "part_number": "7237",
+      "series": [
+        "15"
+      ],
+      "name": "T-Matic Connector Clearance Notch (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-34",
+      "description": "Corner notch machined into a panel so it clears the T-Matic connector (pg. 4-22) when the panel mounts inside a 15 series T-slot. 7237 is the service's Aluminum Part No.; the Panel & Wire Part No. is 7321.",
+      "features": [
+        "Used to clear an T-Matic Connector (pg. 4-22) when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7321",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "B": "1.875”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = horizontal width of the corner notch, B = vertical height of the corner notch; notch inside corner radius R .125” (3.18mm)",
+      "notes": "Reference page 11-34. Specify vertical or horizontal orientation when ordering. The ordering example printed on this page reads 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7605 Vertical on Corner B (7605 is the Pipe Mount Clearance Notch number on page 11-37). 10 series 7322/7238 and metric 25-7322/25-7238, 40-7321/40-7237 not extracted."
+    },
+    {
+      "part_number": "7522",
+      "series": [
+        "15"
+      ],
+      "name": "Hidden Corner Connector Clearance Notch (Inside to Inside)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-35",
+      "description": "Stepped corner notch machined into a panel so it clears the 15 series inside to inside hidden corner connector (33450, pg. 4-18) when the panel mounts inside a T-slot.",
+      "features": [
+        "Used to clear hidden corner connector (pg. 4-18) when a panel mounts inside T-slot; two styles available",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Service Type": "Corner Notch for Inside to Inside Hidden Connector",
+        "Connector Part No.": "33450",
+        "A": ".405”",
+        "B": "1.263”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-35. Table column is Panel & Wire Part No. (no separate aluminum number listed). For hidden connector 33450. Inside to Inside style; drawing shows a stepped notch dimensioned with A and B, inside radius R .125” (3.18mm). Specify vertical or horizontal orientation when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 22.000” x (AB) 18.000” w/ 7522 on Corner B. 10 series 7422 and metric 25-7422, 30-7522, 40-7522, 45-7522 not extracted.",
+      "dimension_notes": "Two-step corner notch: B = overall notch width and overall notch height (from the panel edges), A = depth of the outer step measured horizontally from the panel edge and vertically from the panel edge; inside radius R .125” (3.18mm)"
+    },
+    {
+      "part_number": "7523",
+      "series": [
+        "15"
+      ],
+      "name": "Hidden Corner Connector Clearance Notch (Inside to Outside)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-35",
+      "description": "Corner notch machined into a panel so it clears the 15 series inside to outside hidden corner connector (33470, pg. 4-18) when the panel mounts inside a T-slot.",
+      "features": [
+        "Used to clear hidden corner connector (pg. 4-18) when a panel mounts inside T-slot; two styles available",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Service Type": "Corner Notch for Inside to Outside Hidden Connector",
+        "Connector Part No.": "33470",
+        "A": ".405”",
+        "B": "1.263”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = horizontal width of the corner notch, B = vertical height of the corner notch; inside corner radius R .125” (3.18mm)",
+      "notes": "Reference page 11-35. Table column is Panel & Wire Part No. (no separate aluminum number listed). For hidden connector 33470. Inside to Outside style. Specify vertical or horizontal orientation when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7523 Vertical on Corner B. 10 series 7423 and metric 25-7423, 30-7523, 40-7523, 45-7523 not extracted."
+    },
+    {
+      "part_number": "7605",
+      "series": [
+        "15"
+      ],
+      "name": "Pipe Mount Clearance Notch - Corner Pipe Mount (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-37",
+      "description": "Stepped corner notch machined into a panel so it clears a corner pipe mount when the panel mounts inside a 15 series T-slot. 7605 is the service's Panel & Wire Part No.; the Aluminum Part No. is 7606.",
+      "features": [
+        "Used to clear a pipe mount when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Aluminum Part No.": "7606",
+        "Service Type": "Corner Pipe Mount Notch",
+        "A": "1.690”",
+        "B": ".827”",
+        "C": ".200”",
+        "D": "1.260”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = overall notch height, B = height of the wider lower step, C = width of the narrow upper step, D = overall notch width (per drawing); inside radius R .188” (4.76mm)",
+      "notes": "Reference page 11-37. Specify vertical or horizontal orientation when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7605 Vertical on Corner B. Metric 65-7605/65-7606 and 65-7607/65-7608 not extracted."
+    },
+    {
+      "part_number": "7606",
+      "series": [
+        "15"
+      ],
+      "name": "Pipe Mount Clearance Notch - Corner Pipe Mount (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-37",
+      "description": "Stepped corner notch machined into a panel so it clears a corner pipe mount when the panel mounts inside a 15 series T-slot. 7606 is the service's Aluminum Part No.; the Panel & Wire Part No. is 7605.",
+      "features": [
+        "Used to clear a pipe mount when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7605",
+        "Service Type": "Corner Pipe Mount Notch",
+        "A": "1.690”",
+        "B": ".827”",
+        "C": ".200”",
+        "D": "1.260”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = overall notch height, B = height of the wider lower step, C = width of the narrow upper step, D = overall notch width (per drawing); inside radius R .188” (4.76mm)",
+      "notes": "Reference page 11-37. Specify vertical or horizontal orientation when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7605 Vertical on Corner B. Metric 65-7605/65-7606 and 65-7607/65-7608 not extracted."
+    },
+    {
+      "part_number": "7607",
+      "series": [
+        "15"
+      ],
+      "name": "Pipe Mount Clearance Notch - Tee Pipe Mount (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-37",
+      "description": "Stepped corner notch machined into a panel so it clears a tee pipe mount when the panel mounts inside a 15 series T-slot. 7607 is the service's Panel & Wire Part No.; the Aluminum Part No. is 7608.",
+      "features": [
+        "Used to clear a pipe mount when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Aluminum Part No.": "7608",
+        "Service Type": "Tee Pipe Mount Notch",
+        "A": "1.690”",
+        "B": ".830”",
+        "C": ".200”",
+        "D": ".790”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = overall notch height, B = height of the wider lower step, C = width of the narrow upper step, D = overall notch width (per drawing); inside radius R .188” (4.76mm)",
+      "notes": "Reference page 11-37. Specify vertical or horizontal orientation when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7605 Vertical on Corner B. Metric 65-7605/65-7606 and 65-7607/65-7608 not extracted."
+    },
+    {
+      "part_number": "7608",
+      "series": [
+        "15"
+      ],
+      "name": "Pipe Mount Clearance Notch - Tee Pipe Mount (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-37",
+      "description": "Stepped corner notch machined into a panel so it clears a tee pipe mount when the panel mounts inside a 15 series T-slot. 7608 is the service's Aluminum Part No.; the Panel & Wire Part No. is 7607.",
+      "features": [
+        "Used to clear a pipe mount when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7607",
+        "Service Type": "Tee Pipe Mount Notch",
+        "A": "1.690”",
+        "B": ".830”",
+        "C": ".200”",
+        "D": ".790”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = overall notch height, B = height of the wider lower step, C = width of the narrow upper step, D = overall notch width (per drawing); inside radius R .188” (4.76mm)",
+      "notes": "Reference page 11-37. Specify vertical or horizontal orientation when ordering. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7605 Vertical on Corner B. Metric 65-7605/65-7606 and 65-7607/65-7608 not extracted."
+    },
+    {
+      "part_number": "7313",
+      "series": [
+        "F"
+      ],
+      "name": "Grabber™ Door Catch Panel Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-38",
+      "description": "Panel milling service that cuts an edge relief and two 6-32 tapped thru holes in a plastic panel or aluminum plate to provide clearance for the Grabber™ door catch (pg. 5-126).",
+      "features": [
+        "Used to add handle to a plastic panel or aluminum plate",
+        "Provides clearance for the Grabber™ door catch (pg. 5-126) and quick installation of Locking Grabber™ Handle (pg. 5-115)"
+      ],
+      "specs": {
+        "A": "1.600”",
+        "B": "4.750”",
+        "C": ".313”",
+        "D": "1.125”",
+        "Cut Tolerance": "+/- .020”"
+      },
+      "dimension_notes": "A = spacing between the two 6-32 tapped thru holes, B = length of the edge relief, C = depth of the edge relief, D = distance from the panel edge to the hole centers; reference the distance from the top of your panel to the center line",
+      "notes": "Reference page 11-38. Includes 6-32 Tap Thru (2). When ordering, give the distance from the top of the panel to the center line. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 22.000” w/ 7313 on Side AB @ 12.000” (All machining center lines will be called out from point “A” on the panel). Metric 65-7313 not extracted."
+    },
+    {
+      "part_number": "7510",
+      "series": [
+        "F"
+      ],
+      "name": "Locking Grabber™ Handle Panel Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-38",
+      "description": "Panel milling service that cuts a round hole in a plastic panel or aluminum plate for quick installation of the Locking Grabber™ Handle (pg. 5-115).",
+      "features": [
+        "Used to add handle to a plastic panel or aluminum plate",
+        "Provides clearance for the Grabber™ door catch (pg. 5-126) and quick installation of Locking Grabber™ Handle (pg. 5-115)"
+      ],
+      "specs": {
+        "A": "2.000”",
+        "B": "2.000”",
+        "Hole Location Tolerance": "+/- .010”"
+      },
+      "dimension_notes": "A = distance from the panel edge to the hole center, B = hole diameter (ø B); reference the distance from the top of your panel to the center line",
+      "notes": "Reference page 11-38. When ordering, give the distance from the top of the panel to the center line. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7510 on Side AB @ 9.000” (All machining center lines will be called out from point “A” on the panel). Metric 65-7510 not extracted."
+    },
+    {
+      "part_number": "7520",
+      "series": [
+        "F"
+      ],
+      "name": "Flush Handle Plastic Panel Milling (for 2056 handle)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-39",
+      "description": "Milling service that cuts a slot in a plastic panel for quick installation of the 2056 flush plastic panel handle (pg. 5-114).",
+      "features": [
+        "Used with plastic panels to provide slot for quick installation of flush plastic panel handle (pg. 5-114)"
+      ],
+      "specs": {
+        "Handle Part No.": "2056",
+        "A": "2.000”",
+        "B": ".625”",
+        "C": "3.000”",
+        "Hole Location Tolerance": "+/- .010”"
+      },
+      "dimension_notes": "A = distance from the panel edge to the slot center line, B = slot width, C = slot length; reference the distance from the top of your panel to the center line",
+      "notes": "Reference page 11-39. For handle 2056. When ordering, give the distance from the top of the panel to the center line. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7520 side AB @ 10.000” (All machining center lines will be called out from point “A” on the panel). Metric 65-7520 (handle 65-2056) not extracted."
+    },
+    {
+      "part_number": "7521",
+      "series": [
+        "F"
+      ],
+      "name": "Flush Handle Plastic Panel Milling (for 2058 handle)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-39",
+      "description": "Milling service that cuts a slot in a plastic panel for quick installation of the 2058 flush plastic panel handle (pg. 5-114).",
+      "features": [
+        "Used with plastic panels to provide slot for quick installation of flush plastic panel handle (pg. 5-114)"
+      ],
+      "specs": {
+        "Handle Part No.": "2058",
+        "A": "2.000”",
+        "B": ".625”",
+        "C": "4.125”",
+        "Hole Location Tolerance": "+/- .010”"
+      },
+      "dimension_notes": "A = distance from the panel edge to the slot center line, B = slot width, C = slot length; reference the distance from the top of your panel to the center line",
+      "notes": "Reference page 11-39. For handle 2058. When ordering, give the distance from the top of the panel to the center line. Ordering example printed on the page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7520 side AB @ 10.000” (All machining center lines will be called out from point “A” on the panel). Metric 65-7521 (handle 65-2058) not extracted."
+    }
+  ],
+  "page_notes": {
+    "805": "11-31 Central Connector Clearance Notch: 15 row extracted as two services (7320 panel & wire, 7204 aluminum); metric 30-/40-/45- rows skipped.",
+    "806": "11-32 Corner Connector Clearance Notch: 15 row 7516/7218 extracted; 10 series 7515/7217 and metric 25-/40- rows skipped.",
+    "807": "11-33 Inside Corner Connector Clearance Notch: single row 7161/7219 badged 15 and 40, extracted as two services.",
+    "808": "11-34 T-Matic Connector Clearance Notch: 15 row 7321/7237 extracted; 10 series 7322/7238 and metric 25-/40- rows skipped.",
+    "809": "11-35 Hidden Corner Connector Clearance Notch: 15 rows 7522 (inside to inside) and 7523 (inside to outside) extracted; 10 series 7422/7423 and metric 25-/30-/40-/45- rows skipped.",
+    "811": "11-37 Pipe Mount Clearance Notch: 15 rows 7605/7606 (corner) and 7607/7608 (tee) extracted; metric 65- rows skipped.",
+    "812": "11-38 Grabber Door Catch Panel Milling 7313 (F) and Locking Grabber Handle Panel Milling 7510 (F) extracted; metric 65-7313 and 65-7510 skipped.",
+    "813": "11-39 Flush Handle Plastic Panel Milling 7520 and 7521 (F) extracted; metric 65-7520 and 65-7521 skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "7313: description 'to provide clearance for and mount the Grabber™ door catch' -> 'to provide clearance for the Grabber™ door catch' (page only states clearance)",
+      "7522: dimension_notes (missing) -> added from Inside to Inside drawing (A and B each dimensioned horizontally and vertically)",
+      "7161: dimension_notes C 'height of the angled lower portion' -> 'height from the start of the angled cut to the panel edge'",
+      "7219: dimension_notes C 'height of the angled lower portion' -> 'height from the start of the angled cut to the panel edge'"
+    ],
+    "remaining_doubts": [
+      "Each table row with both a Panel & Wire Part No. and an Aluminum Part No. (pages 11-31 to 11-34, 11-37) is output as two machining_service parts sharing the same specs; downstream may prefer merging them.",
+      "Page 11-34 ordering example cites 7605 (the Pipe Mount notch) rather than 7321/7322; recorded verbatim in notes as printed, likely a catalog typo.",
+      "7161/7219 row is badged 15 and 40 (metric); kept as series [\"15\"] with the 40 badge noted."
+    ]
+  }
+}

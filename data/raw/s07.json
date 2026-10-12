@@ -1,0 +1,74 @@
+{
+  "chunk": "s07",
+  "pages": [
+    459,
+    463,
+    464,
+    465,
+    493,
+    499,
+    539
+  ],
+  "parts": [
+    {
+      "part_number": "2406",
+      "series": [
+        "10"
+      ],
+      "name": "Leveling Caster Base Plate - 10 Series, 1/4-20 Thread, Clear Anodize",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-27",
+      "description": "Leveling caster base plate that mounts to the end or side of a profile. Requires tap machining service (pg. 11-3) to mount to the profile end.",
+      "material": "Aluminum",
+      "finish": "Clear Anodize",
+      "weight": ".396 lb",
+      "specs": {
+        "A": "1.414”",
+        "B": ".793”",
+        "C": "3.000”",
+        "D": ".358”",
+        "E": "2.284”",
+        "F": "1.000”",
+        "G": "1/4-20",
+        "H": "1/4 SHCS",
+        "J": "1.000”",
+        "K": ".500”",
+        "L": "3.000”",
+        "Alloy": "6063-T6",
+        "Process": "Milled"
+      },
+      "dimension_notes": "C and F are marked TYP on the drawing; G is the thread size (labelled THREAD); H is given as the SHCS size its holes take; K and L are shown on the side view (thickness and overall height).",
+      "suggested_hardware": [
+        {
+          "part_number": "3491",
+          "qty": 4,
+          "description": "1/4-20 x 1/2” SHCS, Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot), 10 series"
+        },
+        {
+          "part_number": "3064",
+          "qty": 4,
+          "description": "1/4-20 x 3/4” SHCS",
+          "context": "Suggested Hardware (Mount to Profile End), 10 series"
+        }
+      ],
+      "notes": "Required Machining Services: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. A black anodized version, 2406-Black, is listed with the same dimensions and weight."
+    }
+  ],
+  "page_notes": {
+    "459": "2 Hole - Standard Plastic Hinge (12074, 12075, 12252); wanted 75-3589 appears only in the Suggested Hardware Per Leaf (Mount to Panel) table, not defined here.",
+    "463": "4 Hole - Economy Zinc Hinge (12255, 12256, 12062); wanted 11-5716, 11-8716 (bolts) and 11-6041, 11-6042 (washers) appear only in the Suggested Hardware Per Leaf (Mount to Panel) table, not defined here.",
+    "464": "4 Hole - Transition Hinge (12064, 12065); wanted 11-6041 appears only as the washer in the Suggested Hardware Per Leaf (Mount to Panel) table, not defined here.",
+    "465": "4 Hole - Standard Stainless Steel Hinge (12093, 12094, 12096); wanted 11-5716, 11-6041, 11-6042 appear only in the Suggested Hardware Per Leaf (Mount to Panel) table, not defined here.",
+    "493": "Magnetic Door Catch (2090, 65-2090, 9315); wanted 3275 and 209002 appear only in Included Hardware tables, and 11-4710 and 13113 only in Suggested Hardware (Mount Striker Plate to Profile); none defined here.",
+    "499": "Heavy-Duty Door Latch (12023); wanted 13113 appears only in Suggested Latch Hardware, and 11-6514, 11-6516 only in Suggested Hardware (Mount to T-slot for Male Side of Latch); none defined here.",
+    "539": "Leveling Caster Base Plate table; extracted wanted 2406 only. Wanted 3458, 75-3412, 75-3430 (Mount to T-Slot) and 13-6516 (Mount to Profile End) appear only in suggested hardware tables, not defined here."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": []
+  }
+}

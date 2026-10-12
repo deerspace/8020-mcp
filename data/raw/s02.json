@@ -1,0 +1,1787 @@
+{
+  "chunk": "s02",
+  "pages": [
+    349,
+    350,
+    351
+  ],
+  "parts": [
+    {
+      "part_number": "3000",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Double Slide-In Economy T-Nut (2 Bolts), .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 2 x 3340 FBHSCS (.500\" bolt length) and 1 x 3279 Double Slide-In Economy T-Nut. No washer is included.",
+      "weight": ".094 lb",
+      "specs": {
+        "Bolt": "3340",
+        "Bolt Qty.": "2",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3279",
+        "Nut Qty.": "1",
+        "Nut Type": "Double Slide-In Economy T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3318",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3340 FBHSCS (.500\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".038 lb",
+      "specs": {
+        "Bolt": "3340",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3319",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3340 FBHSCS (.500\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".037 lb",
+      "specs": {
+        "Bolt": "3340",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3355",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Double Slide-In Economy T-Nut (2 Bolts), .687\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 2 x 3330 FBHSCS (.687\" bolt length) and 1 x 3279 Double Slide-In Economy T-Nut. No washer is included.",
+      "weight": ".098 lb",
+      "specs": {
+        "Bolt": "3330",
+        "Bolt Qty.": "2",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".687\"",
+        "Nut": "3279",
+        "Nut Qty.": "1",
+        "Nut Type": "Double Slide-In Economy T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3463",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Hex Nut and Washer, .687\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3330 FBHSCS (.687\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".033 lb",
+      "specs": {
+        "Bolt": "3330",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".687\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3323",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .687\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3330 FBHSCS (.687\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3330",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".687\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3320",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .687\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3330 FBHSCS (.687\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".039 lb",
+      "specs": {
+        "Bolt": "3330",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".687\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3631",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .687” (Stainless Steel)",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3607 FBHSCS (.687” bolt length) and 1 x 3678 Slide-In Economy T-Nut - Offset Thread. No washer is included. Assembly comprised of stainless steel (SS) hardware.",
+      "material": "Stainless steel (SS)",
+      "weight": ".046 lb",
+      "specs": {
+        "Bolt": "3607",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".687”",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Footnote: *Assembly comprised of stainless steel (SS) hardware. Part number printed as 3631*."
+    },
+    {
+      "part_number": "3357",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 FBHSCS Bolt Assembly with Triple Slide-In Economy T-Nut (3 Bolts), .687\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 3 x 3330 FBHSCS (.687\" bolt length) and 1 x 3285 Triple Slide-In Economy T-Nut. No washer is included.",
+      "weight": ".134 lb",
+      "specs": {
+        "Bolt": "3330",
+        "Bolt Qty.": "3",
+        "Bolt Type": "FBHSCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".687\"",
+        "Nut": "3285",
+        "Nut Qty.": "1",
+        "Nut Type": "Triple Slide-In Economy T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3970",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Flanged Hex Head Bolt Assembly with Flanged Hex Nut, 1.750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3752 Flanged Hex Head Bolt (1.750\" bolt length) and 1 x 3759 Flanged Hex Nut. No washer is included.",
+      "weight": ".058 lb",
+      "specs": {
+        "Bolt": "3752",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Flanged Hex Head Bolt",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.750\"",
+        "Nut": "3759",
+        "Nut Qty.": "1",
+        "Nut Type": "Flanged Hex Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3960",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Flanged Hex Head Bolt Assembly with Flanged Hex Nut, 2.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3753 Flanged Hex Head Bolt (2.000\" bolt length) and 1 x 3759 Flanged Hex Nut. No washer is included.",
+      "weight": ".063 lb",
+      "specs": {
+        "Bolt": "3753",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Flanged Hex Head Bolt",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.000\"",
+        "Nut": "3759",
+        "Nut Qty.": "1",
+        "Nut Type": "Flanged Hex Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3745",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Economy T-Slot Stud Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3716 Slide-In Economy T-Slot Stud (.750\" bolt length), 1 x 3714 Hex Nut and 1 x 3760 washer.",
+      "weight": ".042 lb",
+      "specs": {
+        "Bolt": "3716",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3714",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3760",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3737",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Economy T-Slot Stud Assembly with Hex Nut and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3720 Slide-In Economy T-Slot Stud (1.000\" bolt length), 1 x 3714 Hex Nut and 1 x 3760 washer.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3720",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3714",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3760",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3325",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Flanged Economy T-Slot Stud Assembly with Hex Nut and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3116 Slide-In Flanged Economy T-Slot Stud (.750\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".039 lb",
+      "specs": {
+        "Bolt": "3116",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Flanged Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3150",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Flanged Economy T-Slot Stud Assembly with Hex Nut and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3120 Slide-In Flanged Economy T-Slot Stud (1.000\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3120",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Flanged Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3474 in the same table."
+    },
+    {
+      "part_number": "3474",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Flanged Economy T-Slot Stud Assembly with Hex Nut and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3120 Slide-In Flanged Economy T-Slot Stud (1.000\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3120",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Flanged Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3150 in the same table."
+    },
+    {
+      "part_number": "3151",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Flanged Economy T-Slot Stud Assembly with Hex Nut and Washer, 1.250\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3126 Slide-In Flanged Economy T-Slot Stud (1.250\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".048 lb",
+      "specs": {
+        "Bolt": "3126",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Flanged Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.250\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3152",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Flanged Economy T-Slot Stud Assembly with Hex Nut and Washer, 1.500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3134 Slide-In Flanged Economy T-Slot Stud (1.500\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".051 lb",
+      "specs": {
+        "Bolt": "3134",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Flanged Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.500\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3153",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Flanged Economy T-Slot Stud Assembly with Hex Nut and Washer, 1.750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3288 Slide-In Flanged Economy T-Slot Stud (1.750\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".056 lb",
+      "specs": {
+        "Bolt": "3288",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Flanged Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.750\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3154",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 Slide-In Flanged Economy T-Slot Stud Assembly with Hex Nut and Washer, 2.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3290 Slide-In Flanged Economy T-Slot Stud (2.000\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".060 lb",
+      "specs": {
+        "Bolt": "3290",
+        "Bolt Qty.": "1",
+        "Bolt Type": "Slide-In Flanged Economy T-Slot Stud",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.000\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3452",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3106 SHCS (.500\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3106",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3839 in the same table."
+    },
+    {
+      "part_number": "75-3839",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3106 SHCS (.500\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3106",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3452 in the same table."
+    },
+    {
+      "part_number": "3450",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3106 SHCS (.500\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".034 lb",
+      "specs": {
+        "Bolt": "3106",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3838 in the same table."
+    },
+    {
+      "part_number": "3634",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .500\" (Stainless Steel)",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3610 SHCS (.500\" bolt length) and 1 x 3678 Slide-In Economy T-Nut - Offset Thread. No washer is included. Assembly comprised of stainless steel (SS) hardware.",
+      "material": "Stainless steel (SS)",
+      "weight": ".035 lb",
+      "specs": {
+        "Bolt": "3610",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Footnote: *Assembly comprised of stainless steel (SS) hardware. Part number printed as 3634*."
+    },
+    {
+      "part_number": "75-3838",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3106 SHCS (.500\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".034 lb",
+      "specs": {
+        "Bolt": "3106",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".500\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3450 in the same table."
+    },
+    {
+      "part_number": "3456",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".053 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3841 in the same table."
+    },
+    {
+      "part_number": "3464",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length), 1 x 3282 Roll-In T-Nut with Flex Handle and 1 x 3260 washer.",
+      "weight": ".057 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3847 in the same table."
+    },
+    {
+      "part_number": "75-3841",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".053 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3456 in the same table."
+    },
+    {
+      "part_number": "75-3847",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length), 1 x 3282 Roll-In T-Nut with Flex Handle and 1 x 3260 washer.",
+      "weight": ".057 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3464 in the same table."
+    },
+    {
+      "part_number": "3454",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3840 in the same table."
+    },
+    {
+      "part_number": "3462",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3846 in the same table."
+    },
+    {
+      "part_number": "3636",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .625\" (Stainless Steel)",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3612 SHCS (.625\" bolt length) and 1 x 3678 Slide-In Economy T-Nut - Offset Thread. No washer is included. Assembly comprised of stainless steel (SS) hardware.",
+      "material": "Stainless steel (SS)",
+      "weight": ".036 lb",
+      "specs": {
+        "Bolt": "3612",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Footnote: *Assembly comprised of stainless steel (SS) hardware. Part number printed as 3636*."
+    },
+    {
+      "part_number": "3699",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .625\" (Stainless Steel)",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3612 SHCS (.625\" bolt length), 1 x 3678 Slide-In Economy T-Nut - Offset Thread and 1 x 3659 washer. Assembly comprised of stainless steel (SS) hardware.",
+      "material": "Stainless steel (SS)",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3612",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3659",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Footnote: *Assembly comprised of stainless steel (SS) hardware. Part number printed as 3699*."
+    },
+    {
+      "part_number": "75-3840",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3454 in the same table."
+    },
+    {
+      "part_number": "75-3846",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3110 SHCS (.625\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3110",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".625\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3462 in the same table."
+    },
+    {
+      "part_number": "3468",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3112 SHCS (.750\" bolt length), 1 x 3282 Roll-In T-Nut with Flex Handle and 1 x 3260 washer.",
+      "weight": ".049 lb",
+      "specs": {
+        "Bolt": "3112",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "75-3843",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-185",
+      "description": "5/16-18 bolt assembly made up of 1 x 3112 SHCS (.750\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".044 lb",
+      "specs": {
+        "Bolt": "3112",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "75-3849",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3112 SHCS (.750\" bolt length), 1 x 3282 Roll-In T-Nut with Flex Handle and 1 x 3260 washer.",
+      "weight": ".053 lb",
+      "specs": {
+        "Bolt": "3112",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3455",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3112 SHCS (.750\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3112",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3842 in the same table."
+    },
+    {
+      "part_number": "3466",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3112 SHCS (.750\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".047 lb",
+      "specs": {
+        "Bolt": "3112",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3640",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .750\" (Stainless Steel)",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3615 SHCS (.750\" bolt length), 1 x 3678 Slide-In Economy T-Nut - Offset Thread and 1 x 3659 washer. Assembly comprised of stainless steel (SS) hardware.",
+      "material": "Stainless steel (SS)",
+      "weight": ".051 lb",
+      "specs": {
+        "Bolt": "3615",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3659",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Footnote: *Assembly comprised of stainless steel (SS) hardware. Part number printed as 3640*."
+    },
+    {
+      "part_number": "75-3842",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3112 SHCS (.750\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3112",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3455 in the same table."
+    },
+    {
+      "part_number": "75-3848",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, .750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3112 SHCS (.750\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3112",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3446",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Hex Nut and Washer, .875\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3119 SHCS (.875\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".040 lb",
+      "specs": {
+        "Bolt": "3119",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".875\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3460",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle, .875\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3119 SHCS (.875\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".055 lb",
+      "specs": {
+        "Bolt": "3119",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".875\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3458",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .875\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3119 SHCS (.875\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".045 lb",
+      "specs": {
+        "Bolt": "3119",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".875\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3638",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, .875\" (Stainless Steel)",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3619 SHCS (.875\" bolt length) and 1 x 3678 Slide-In Economy T-Nut - Offset Thread. No washer is included. Assembly comprised of stainless steel (SS) hardware.",
+      "material": "Stainless steel (SS)",
+      "weight": ".039 lb",
+      "specs": {
+        "Bolt": "3619",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": ".875\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Footnote: *Assembly comprised of stainless steel (SS) hardware. Part number printed as 3638*."
+    },
+    {
+      "part_number": "3473",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Hex Nut and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3122 SHCS (1.000\" bolt length), 1 x 3214 Hex Nut and 1 x 3260 washer.",
+      "weight": ".042 lb",
+      "specs": {
+        "Bolt": "3122",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3214",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3472",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3122 SHCS (1.000\" bolt length), 1 x 3282 Roll-In T-Nut with Flex Handle and 1 x 3260 washer.",
+      "weight": ".060 lb",
+      "specs": {
+        "Bolt": "3122",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3851 in the same table."
+    },
+    {
+      "part_number": "75-3845",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3122 SHCS (1.000\" bolt length) and 1 x 3282 Roll-In T-Nut with Flex Handle. No washer is included.",
+      "weight": ".056 lb",
+      "specs": {
+        "Bolt": "3122",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "75-3851",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Roll-In T-Nut with Flex Handle and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3122 SHCS (1.000\" bolt length), 1 x 3282 Roll-In T-Nut with Flex Handle and 1 x 3260 washer.",
+      "weight": ".060 lb",
+      "specs": {
+        "Bolt": "3122",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3282",
+        "Nut Qty.": "1",
+        "Nut Type": "Roll-In T-Nut with Flex Handle",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3472 in the same table."
+    },
+    {
+      "part_number": "3470",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3122 SHCS (1.000\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".051 lb",
+      "specs": {
+        "Bolt": "3122",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 75-3850 in the same table."
+    },
+    {
+      "part_number": "3642",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.000\" (Stainless Steel)",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3622 SHCS (1.000\" bolt length), 1 x 3678 Slide-In Economy T-Nut - Offset Thread and 1 x 3659 washer. Assembly comprised of stainless steel (SS) hardware.",
+      "material": "Stainless steel (SS)",
+      "weight": ".044 lb",
+      "specs": {
+        "Bolt": "3622",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3678",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3659",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Footnote: *Assembly comprised of stainless steel (SS) hardware. Part number printed as 3642*."
+    },
+    {
+      "part_number": "75-3844",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3122 SHCS (1.000\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".046 lb",
+      "specs": {
+        "Bolt": "3122",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "75-3850",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3122 SHCS (1.000\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".051 lb",
+      "specs": {
+        "Bolt": "3122",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. Same components, length and weight as assembly 3470 in the same table."
+    },
+    {
+      "part_number": "3421",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.300\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3123 SHCS (1.300\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".056 lb",
+      "specs": {
+        "Bolt": "3123",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.300\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3422",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3127 SHCS (1.500\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "3127",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.500\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3613",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, 1.500”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3127 SHCS (1.500” bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".056 lb",
+      "specs": {
+        "Bolt": "3127",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.500”",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3423",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 1.750\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3129 SHCS (1.750\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".065 lb",
+      "specs": {
+        "Bolt": "3129",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.750\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3972",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Flanged Hex Nut and Washer, 1.750”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3955 SHCS (1.750” bolt length), 1 x 3759 Flanged Hex Nut and 1 x 3760 washer.",
+      "weight": ".060 lb",
+      "specs": {
+        "Bolt": "3955",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "1.750”",
+        "Nut": "3759",
+        "Nut Qty.": "1",
+        "Nut Type": "Flanged Hex Nut",
+        "Washer": "3760",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3424",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 2.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3130 SHCS (2.000\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".070 lb",
+      "specs": {
+        "Bolt": "3130",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3962",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Flanged Hex Nut and Washer, 2.000”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3956 SHCS (2.000” bolt length), 1 x 3759 Flanged Hex Nut and 1 x 3760 washer.",
+      "weight": ".064 lb",
+      "specs": {
+        "Bolt": "3956",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.000”",
+        "Nut": "3759",
+        "Nut Qty.": "1",
+        "Nut Type": "Flanged Hex Nut",
+        "Washer": "3760",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3427",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, 2.250\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3131 SHCS (2.250\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".072 lb",
+      "specs": {
+        "Bolt": "3131",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.250\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3428",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread and Washer, 2.500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3132 SHCS (2.500\" bolt length), 1 x 3278 Slide-In Economy T-Nut - Offset Thread and 1 x 3260 washer.",
+      "weight": ".080 lb",
+      "specs": {
+        "Bolt": "3132",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.500\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "3260",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3429",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, 2.500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3132 SHCS (2.500\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".076 lb",
+      "specs": {
+        "Bolt": "3132",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "2.500\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3430",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, 3.000\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3133 SHCS (3.000\" bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".086 lb",
+      "specs": {
+        "Bolt": "3133",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "3.000\"",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3431",
+      "series": [
+        "15"
+      ],
+      "name": "5/16-18 SHCS Bolt Assembly with Slide-In Economy T-Nut - Offset Thread, 3.250”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "5/16-18 bolt assembly made up of 1 x 3140 SHCS (3.250” bolt length) and 1 x 3278 Slide-In Economy T-Nut - Offset Thread. No washer is included.",
+      "weight": ".093 lb",
+      "specs": {
+        "Bolt": "3140",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "5/16-18",
+        "Bolt Length": "3.250”",
+        "Nut": "3278",
+        "Nut Qty.": "1",
+        "Nut Type": "Slide-In Economy T-Nut - Offset Thread",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "3289",
+      "series": [
+        "F"
+      ],
+      "name": "3/8-16 SHCS Bolt Assembly with Washer, 1.000”",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "3/8-16 bolt assembly made up of 1 x 3124 SHCS (1.000” bolt length) and 1 x 3261 washer. No nut is included.",
+      "weight": ".051 lb",
+      "specs": {
+        "Bolt": "3124",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "3/8-16",
+        "Bolt Length": "1.000”",
+        "Nut": "—",
+        "Nut Qty.": "—",
+        "Nut Type": "—",
+        "Washer": "3261",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series not printed; the Bolt Assemblies tables have no series badge. The thread-size rule does not cover 3/8-16; assigned F because its components (bolt 3124, washer 3261) are F (fractional) badged hardware and no nut is included."
+    },
+    {
+      "part_number": "3487",
+      "series": [
+        "10"
+      ],
+      "name": "10-32 BHSCS Bolt Assembly with Standard Slide-In T-Nut, .500\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "10-32 bolt assembly made up of 1 x 3050 BHSCS (.500\" bolt length) and 1 x 3201 Standard Slide-In T-Nut. No washer is included.",
+      "weight": ".030 lb",
+      "specs": {
+        "Bolt": "3050",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "10-32",
+        "Bolt Length": ".500\"",
+        "Nut": "3201",
+        "Nut Qty.": "1",
+        "Nut Type": "Standard Slide-In T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. The 10-32 thread gives 10 under the thread-size rule, but its nut 3201 is the 15 series Standard Slide-In T-Nut (catalog 4-153), so the assembly may be meant for 15 series profile (compare 3426, which uses the 10 series T-nut 3205)."
+    },
+    {
+      "part_number": "3488",
+      "series": [
+        "10"
+      ],
+      "name": "10-32 BHSCS Bolt Assembly with Hex Nut and Washer, .625\"",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-186",
+      "description": "10-32 bolt assembly made up of 1 x 3051 BHSCS (.625\" bolt length), 1 x 3053 Hex Nut and 1 x 3055 washer.",
+      "weight": ".008 lb",
+      "specs": {
+        "Bolt": "3051",
+        "Bolt Qty.": "1",
+        "Bolt Type": "BHSCS",
+        "Thread Size": "10-32",
+        "Bolt Length": ".625\"",
+        "Nut": "3053",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "3055",
+        "Washer Qty.": "1"
+      },
+      "notes": "Series inferred from thread size; the Bolt Assemblies tables have no series badge. It has no T-slot component: bolt 3051, hex nut 3053 and washer 3055 are F (fractional) badged hardware elsewhere in the catalog."
+    }
+  ],
+  "page_notes": {
+    "349": "Catalog 4-185 Bolt Assemblies (Continued): 5/16-18 FBHSCS, Flanged Hex Head Bolt, Slide-In Economy T-Slot Stud, Slide-In Flanged Economy T-Slot Stud and SHCS tables; all 37 rows are 5/16-18 and were extracted (Bolt Type, Thread Size and, where merged, Nut Type cells apply to every row of their table).",
+    "350": "Catalog 4-186: 30 more 5/16-18 SHCS rows extracted, plus wanted 3289 (3/8-16 SHCS) and 3487, 3488 (10-32 BHSCS); 8-32 and 10-32 rows 3483, 3489, 3426, 3457, 3459 skipped (not 5/16-18, not wanted); wanted 3275 and 3276 appear only as nut components, not as assemblies.",
+    "351": "Catalog 4-187: M6 x 1.0 BHSCS assemblies only; no 5/16-18 rows and no wanted assembly numbers, so nothing extracted (wanted 11-6312, 11-6314, 11-6316, 13-6312, 11-6041 and 40-1961 appear only as bolt, nut or washer components)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "3487: series [\"15\"] -> [\"10\"] (10-32 thread; SERIES rule gives 10 for 1/4-20 or smaller fractional threads)",
+      "3488: series [\"F\"] -> [\"10\"] (10-32 thread; SERIES rule gives 10 for 1/4-20 or smaller fractional threads)",
+      "page_notes 350: \"31 more 5/16-18 SHCS rows\" -> \"30 more 5/16-18 SHCS rows\" (30 SHCS 5/16-18 rows on 4-186)"
+    ],
+    "remaining_doubts": [
+      "3289 (3/8-16 SHCS with washer 3261, no nut): the thread-size rule does not cover 3/8-16; series kept as F because bolt 3124 and washer 3261 are F-badged. Omit or change if 3/8-16 should map to a specific series.",
+      "3487: set to 10 by the thread-size rule, but its nut 3201 is the 15 series Standard Slide-In T-Nut (c021, 4-153) and 3487 is wanted by 15 series parts, so it is probably a 15 series assembly; override the rule if badge-free assemblies should follow their T-nut's series.",
+      "3422 weight printed .041 lb (1.500\" SHCS + 3278 + 3260), lighter than 3421 (1.300\", .056 lb) and 3613 (same bolt and nut, no washer, .056 lb); kept as printed in text and image (possible catalog typo).",
+      "Wanted 3275 and 3276 appear on 4-186 only as nut components of 3483 and 3457; wanted 11-6312, 11-6314, 11-6316, 13-6312, 11-6041 and 40-1961 appear on 4-187 only as components; no assembly rows for them were extracted."
+    ]
+  }
+}

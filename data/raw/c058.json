@@ -1,0 +1,485 @@
+{
+  "chunk": "c058",
+  "pages": [
+    648,
+    649,
+    650,
+    651,
+    652,
+    653,
+    655,
+    656
+  ],
+  "parts": [
+    {
+      "part_number": "2372",
+      "series": [
+        "15"
+      ],
+      "name": "Electronic Lift System - Linear Leg Unit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-94",
+      "description": "Electric linear leg unit from the Electronic Lift System, which raises a frame on four motorized legs run from a controller box and remote keypad. The system works with 15, 30, 40 and 45 series profiles.",
+      "features": [
+        "Included in kit: controller box (1), remote keypad (1), linear leg units with 6.5’ cables (4), 9.5’ power cable (1), rubber leveling feet (4), mounting brackets (8), M5 x 8mm bolts (16)",
+        "Kit ships in one box weighing 33 lbs and measuring 30” x 10” x 7” in size",
+        "Works with 15, 30, 40, 45 series profiles",
+        "Made up of primarily aluminum, plastic and stainless steel",
+        "Max load: 600 kg (1320lbs) – includes weight of frame",
+        "Max stroke: 300mm (11.811”)",
+        "Lifting speed: 9mm per second (.354”/sec)",
+        "Retracted Height of legs: 599mm (23.583”)",
+        "Extended Height of legs: 899mm (35.394”)",
+        "Includes 12 programmable height settings, and a digital readout of current height"
+      ],
+      "material": "Aluminum & Steel",
+      "color": "Gray",
+      "specs": {
+        "A": "1.362” (34.59mm)",
+        "B": "1.378” (35.00mm)",
+        "C": "78.00” (1981.20mm)",
+        "D": "8.665” (220.09mm)",
+        "E": "7.677” (194.99mm)",
+        "F": "5.709” (145.01mm)",
+        "G": "23.346” (592.99mm)",
+        "H": "35.394” (899.01mm)",
+        "J": ".945” (24.00mm)",
+        "K": "23.583” (599.01mm)"
+      },
+      "dimension_notes": "A x B = leg cross-section, C = cable length to the 8 pin plug that connects to the controller, D/E/F = spacing along the leg, H = extended length, K = retracted length; the leg end has a ø M10 x 1.5, 25mm deep thread and the side has ø M5 x .80, 5.5mm deep threaded holes",
+      "suggested_hardware": [
+        {
+          "part_number": "11-4312",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-95), Qty. (Controller)"
+        },
+        {
+          "part_number": "11-4312",
+          "qty": 3,
+          "description": "Bolt",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-95), Qty. (Box)"
+        },
+        {
+          "part_number": "13022",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-95), Qty. (Controller)"
+        },
+        {
+          "part_number": "13022",
+          "qty": 3,
+          "description": "T-Nut",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-95), Qty. (Box)"
+        },
+        {
+          "part_number": "11-8316",
+          "qty": 8,
+          "description": "Bolt",
+          "context": "Mounting Bracket - Mount to T-Slot (15/40 series row, used with 11-6042 washer and 3838 T-nut)"
+        },
+        {
+          "part_number": "11-6042",
+          "qty": 8,
+          "description": "Washer",
+          "context": "Mounting Bracket - Mount to T-Slot (15/40 series row)"
+        },
+        {
+          "part_number": "3838",
+          "qty": 8,
+          "description": "T-Nut",
+          "context": "Mounting Bracket - Mount to T-Slot (15/40 series row)"
+        }
+      ],
+      "notes": "Only part number printed for the Electronic Lift System (pages 7-94 and 7-95); it is in the Linear Leg Unit table, so it is unclear whether 2372 is the complete kit or the leg unit alone. Row badged 15, 30, 40 and 45. Mounting bracket included hardware: M5 x 8mm FHSCS (16). Kit components on 7-95 have no part numbers: Remote Keypad (A 5.120” (130.00mm), B .180” (4.50mm), C .390” (10.00mm), D .810” (20.70mm), E 1.260” (31.90mm), F .980” (25.00mm), G .590” (15.00mm), H 6.500” (165.20mm)); Controller Box (A 4.724” (119.99mm), B .394” (10.01mm), C .157” (3.99mm), D 3.40” (86.36mm), E 1.039” (26.39mm), F .394” (10.01mm), G 12.169” (309.09mm), H 10.988” (279.09mm), J .22” (5.59mm), K 3.602” (91.49mm), L .240” (6.09mm), M 2.213” (56.21mm), N .416” (10.57mm), R 2.347” (59.61mm), S 2.166” (55.02mm), T .118” (2.99mm); ø B and ø C are thru holes); Mounting Bracket (Steel, Gray; A 1.929” (48.99mm), B 1.260” (32.00mm), C .157” (3.99mm), D .228” (5.80mm), E .335” (8.50mm), F .984” (24.99mm), G .394” (10.00mm), H .945” (24.00mm), J .630” (16.00mm), K .413” (10.50mm)); Rubber Leveling Feet (A .630” (16.00mm), B 1.850” (46.99mm), C 1.725” (43.82mm), D .819” (20.80mm), E .315” (8.00mm), F .591” (15.01mm), G thread M10 x 1.5). Foot Pedal 50007 (page 7-99) is compatible with all 80/20 electric lift systems."
+    },
+    {
+      "part_number": "50020",
+      "series": [
+        "15"
+      ],
+      "name": "Electric Column Lift System Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-96",
+      "description": "Electric Column Lift System kit with 2 column legs and no controller box or memory controller. The electric column legs raise and lower a frame, have an integrated tilt sensor and are PLC compatible.",
+      "features": [
+        "Max load: 660 lbs (300 kg) per leg up to 3,300 lbs (8-legs)",
+        "Max stroke: 15.750” (400mm)",
+        "Retracted height of legs: 24.803” (630mm)",
+        "Extended height of legs: 40.551” (1030mm)",
+        "Integrated tilt sensor",
+        "Includes 12 programmable height settings, and a digital readout of current height",
+        "Required base plates available for mounting to T-slot or caster see page 6-98"
+      ],
+      "material": "Aluminum",
+      "specs": {
+        "Column Legs": "2",
+        "Controller Box": "-",
+        "Memory Controller": "-",
+        "PLC Compatible": "Yes"
+      },
+      "dimension_notes": "Column leg drawing: A = top plate overall length, B = mounting slot center-to-center, C = top plate width, D = slot length, H = top plate thickness, F = extended length, G = retracted length, ø N = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3150",
+          "qty": 4,
+          "description": "5/16-18 x 1.00” Drop-in T-Slot Stud with Hex Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Kit table rows share a merged series cell badged 15, 40 and 45. System specifications for 2 legs: 1 control box (110v), max system load 600 kg (1320 lbs), stroke length 400 mm (15.750 in). Lift speed 6-8.5mm/s (.24-.31 in/s), load dependent. Column leg dimensions (per leg): A 9.842” (250.00mm), B 8.661” (220.00mm), C 2.755” (70.00mm), D 2.165” (55.00mm), E .334” (8.50mm), F 40.551” (1030.00mm), G 24.803” (630.00mm), H .393” (10.00mm), J 4.685” (119.00mm), K 5.905” (150.00mm), L 1.496” (38.00mm), M 4.291” (109.00mm), N .208” (5.30mm), P 2.755” (70.00mm), Q 2.125” (54.00mm); leg weight 20.500 lbs (9.300 kg); leg cord 70.866” (1800mm). Note: Required base plate to mount to T-slot or caster sold separately (see page 6-100); the base plates are 50002 (mount to T-slot profiles) and 50003 (mount to casters) on page 7-98. Drawing: use T-nut 3278 or 3838 in T-slot for mounting. Additional Cable Components (Sold Separately, page 7-97, no series badge): 50004 Sync Cable 157.48” (4000mm), .244 lbs; 50005 Motor Extension Cable 47.24” (1200mm), .415 lbs; 50006 Remote Control Extension Cable 39.37” (1000mm), .078 lbs. Foot Pedal 50007 (page 7-99) is compatible with all 80/20 electric lift systems."
+    },
+    {
+      "part_number": "50021",
+      "series": [
+        "15"
+      ],
+      "name": "Electric Column Lift System Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-96",
+      "description": "Electric Column Lift System kit with 2 column legs, 1 controller box and 1 memory controller. The electric column legs raise and lower a frame, have an integrated tilt sensor and are PLC compatible.",
+      "features": [
+        "Max load: 660 lbs (300 kg) per leg up to 3,300 lbs (8-legs)",
+        "Max stroke: 15.750” (400mm)",
+        "Retracted height of legs: 24.803” (630mm)",
+        "Extended height of legs: 40.551” (1030mm)",
+        "Integrated tilt sensor",
+        "Includes 12 programmable height settings, and a digital readout of current height",
+        "Required base plates available for mounting to T-slot or caster see page 6-98"
+      ],
+      "material": "Aluminum",
+      "specs": {
+        "Column Legs": "2",
+        "Controller Box": "1",
+        "Memory Controller": "1",
+        "PLC Compatible": "Yes"
+      },
+      "dimension_notes": "Column leg drawing: A = top plate overall length, B = mounting slot center-to-center, C = top plate width, D = slot length, H = top plate thickness, F = extended length, G = retracted length, ø N = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3150",
+          "qty": 4,
+          "description": "5/16-18 x 1.00” Drop-in T-Slot Stud with Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "11-4312",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Controller)"
+        },
+        {
+          "part_number": "11-4312",
+          "qty": 3,
+          "description": "Bolt",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Box)"
+        },
+        {
+          "part_number": "13022",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Controller)"
+        },
+        {
+          "part_number": "13022",
+          "qty": 3,
+          "description": "T-Nut",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Box)"
+        }
+      ],
+      "notes": "Kit table rows share a merged series cell badged 15, 40 and 45. System specifications for 2 legs: 1 control box (110v), max system load 600 kg (1320 lbs), stroke length 400 mm (15.750 in). Lift speed 6-8.5mm/s (.24-.31 in/s), load dependent. Column leg dimensions (per leg): A 9.842” (250.00mm), B 8.661” (220.00mm), C 2.755” (70.00mm), D 2.165” (55.00mm), E .334” (8.50mm), F 40.551” (1030.00mm), G 24.803” (630.00mm), H .393” (10.00mm), J 4.685” (119.00mm), K 5.905” (150.00mm), L 1.496” (38.00mm), M 4.291” (109.00mm), N .208” (5.30mm), P 2.755” (70.00mm), Q 2.125” (54.00mm); leg weight 20.500 lbs (9.300 kg); leg cord 70.866” (1800mm). Note: Required base plate to mount to T-slot or caster sold separately (see page 6-100); the base plates are 50002 (mount to T-slot profiles) and 50003 (mount to casters) on page 7-98. Drawing: use T-nut 3278 or 3838 in T-slot for mounting. Controller components on page 7-97 have no part numbers: Remote Keypad (A 5.120” (130.00mm), B .180” (4.50mm), C .390” (10.00mm), D .810” (20.70mm), E 1.260” (31.90mm), F .980” (25.00mm), G .590” (15.00mm), H 6.500” (165.20mm)); Controller Box (A 4.724” (119.99mm), B .394” (10.01mm), C .157” (3.99mm), D 3.40” (86.36mm), E 1.039” (26.39mm), F .394” (10.01mm), G 12.169” (309.09mm), H 10.988” (279.09mm), J .22” (5.59mm), K 3.602” (91.49mm), L .240” (6.09mm), M 2.213” (56.21mm), N .416” (10.57mm), R 2.347” (59.61mm), S 2.166” (55.02mm), T .118” (2.99mm); ø B and ø C are thru holes). Additional Cable Components (Sold Separately, page 7-97, no series badge): 50004 Sync Cable 157.48” (4000mm), .244 lbs; 50005 Motor Extension Cable 47.24” (1200mm), .415 lbs; 50006 Remote Control Extension Cable 39.37” (1000mm), .078 lbs. Foot Pedal 50007 (page 7-99) is compatible with all 80/20 electric lift systems."
+    },
+    {
+      "part_number": "50041",
+      "series": [
+        "15"
+      ],
+      "name": "Electric Column Lift System Kit",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-96",
+      "description": "Electric Column Lift System kit with 4 column legs, 1 controller box and 1 memory controller. The electric column legs raise and lower a frame, have an integrated tilt sensor and are PLC compatible.",
+      "features": [
+        "Max load: 660 lbs (300 kg) per leg up to 3,300 lbs (8-legs)",
+        "Max stroke: 15.750” (400mm)",
+        "Retracted height of legs: 24.803” (630mm)",
+        "Extended height of legs: 40.551” (1030mm)",
+        "Integrated tilt sensor",
+        "Includes 12 programmable height settings, and a digital readout of current height",
+        "Required base plates available for mounting to T-slot or caster see page 6-98"
+      ],
+      "material": "Aluminum",
+      "specs": {
+        "Column Legs": "4",
+        "Controller Box": "1",
+        "Memory Controller": "1",
+        "PLC Compatible": "Yes"
+      },
+      "dimension_notes": "Column leg drawing: A = top plate overall length, B = mounting slot center-to-center, C = top plate width, D = slot length, H = top plate thickness, F = extended length, G = retracted length, ø N = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3150",
+          "qty": 4,
+          "description": "5/16-18 x 1.00” Drop-in T-Slot Stud with Hex Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "11-4312",
+          "qty": 2,
+          "description": "Bolt",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Controller)"
+        },
+        {
+          "part_number": "11-4312",
+          "qty": 3,
+          "description": "Bolt",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Box)"
+        },
+        {
+          "part_number": "13022",
+          "qty": 2,
+          "description": "T-Nut",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Controller)"
+        },
+        {
+          "part_number": "13022",
+          "qty": 3,
+          "description": "T-Nut",
+          "context": "Mount Keypad or Box to T-Slot (15/40 series row, page 7-97), Qty. (Box)"
+        }
+      ],
+      "notes": "Kit table rows share a merged series cell badged 15, 40 and 45. System specifications for 4 legs: 1 control box (110v), max system load 1000 kg (2200 lbs), stroke length 400 mm (15.750 in). Lift speed 6-8.5mm/s (.24-.31 in/s), load dependent. Column leg dimensions (per leg): A 9.842” (250.00mm), B 8.661” (220.00mm), C 2.755” (70.00mm), D 2.165” (55.00mm), E .334” (8.50mm), F 40.551” (1030.00mm), G 24.803” (630.00mm), H .393” (10.00mm), J 4.685” (119.00mm), K 5.905” (150.00mm), L 1.496” (38.00mm), M 4.291” (109.00mm), N .208” (5.30mm), P 2.755” (70.00mm), Q 2.125” (54.00mm); leg weight 20.500 lbs (9.300 kg); leg cord 70.866” (1800mm). Note: Required base plate to mount to T-slot or caster sold separately (see page 6-100); the base plates are 50002 (mount to T-slot profiles) and 50003 (mount to casters) on page 7-98. Drawing: use T-nut 3278 or 3838 in T-slot for mounting. Controller components on page 7-97 have no part numbers: Remote Keypad (A 5.120” (130.00mm), B .180” (4.50mm), C .390” (10.00mm), D .810” (20.70mm), E 1.260” (31.90mm), F .980” (25.00mm), G .590” (15.00mm), H 6.500” (165.20mm)); Controller Box (A 4.724” (119.99mm), B .394” (10.01mm), C .157” (3.99mm), D 3.40” (86.36mm), E 1.039” (26.39mm), F .394” (10.01mm), G 12.169” (309.09mm), H 10.988” (279.09mm), J .22” (5.59mm), K 3.602” (91.49mm), L .240” (6.09mm), M 2.213” (56.21mm), N .416” (10.57mm), R 2.347” (59.61mm), S 2.166” (55.02mm), T .118” (2.99mm); ø B and ø C are thru holes). Additional Cable Components (Sold Separately, page 7-97, no series badge): 50004 Sync Cable 157.48” (4000mm), .244 lbs; 50005 Motor Extension Cable 47.24” (1200mm), .415 lbs; 50006 Remote Control Extension Cable 39.37” (1000mm), .078 lbs. Foot Pedal 50007 (page 7-99) is compatible with all 80/20 electric lift systems."
+    },
+    {
+      "part_number": "50002",
+      "series": [
+        "15"
+      ],
+      "name": "Electric Column Lift Base Plate for Mounting to T-Slot Profiles",
+      "category": "base_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-98",
+      "description": "Aluminum base plate that mounts an Electric Column Lift leg to T-slot profiles; slots at each end mount to the T-slot profile.",
+      "material": "Aluminum",
+      "color": "Gray",
+      "weight": ".452 lbs (.2050 kg)",
+      "specs": {
+        "A": "7.874” (199.99mm)",
+        "B": "7.087” (180.01mm)",
+        "C": "4.291” (108.99mm)",
+        "D": "2.500” (63.50mm)",
+        "E": "1.772” (45.00mm)",
+        "F": "1.496” (37.99mm)",
+        "G": ".500” (12.70mm)"
+      },
+      "dimension_notes": "A = overall length, B = end slot center-to-center, C = hole center-to-center along the length, D = overall width, E = slot length, F = hole center-to-center across the width, G = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3111",
+          "qty": 4,
+          "description": "5/16-18 x .625” BHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3203",
+          "qty": 4,
+          "description": "Standard Slide-in",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Row badged 15, 40 and 45. Note: Hardware to mount plate to column leg included in column lift system kits (pg. 6-98). Drawing callouts: use slot to mount to T-slot profile; hardware included with column leg kit. Base plate is required and sold separately for the Electric Column Lift System kits 50020, 50021, 50041."
+    },
+    {
+      "part_number": "50003",
+      "series": [
+        "15"
+      ],
+      "name": "Electric Column Lift Base Plate for Mounting to Casters",
+      "category": "base_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-98",
+      "description": "Aluminum base plate that mounts an Electric Column Lift leg to a caster.",
+      "material": "Aluminum",
+      "color": "Gray",
+      "weight": ".334 lbs (.1514 kg)",
+      "specs": {
+        "A": "3.000” (76.20mm)",
+        "B": "1.500” (38.10mm)",
+        "C": ".752” (19.10mm)",
+        "D": ".624” (15.85mm)",
+        "E": "4.921” (124.99mm)",
+        "F": "2.461” (62.51mm)",
+        "G": "1.083” (27.51mm)",
+        "H": ".991” (25.17mm)",
+        "J": ".315” (8.00mm)",
+        "K": "M8 x 1.25",
+        "L": "M10 x 1.5",
+        "M": ".500” (12.70mm)"
+      },
+      "dimension_notes": "A = overall width, E = overall length, M = plate thickness, B/C/D and F/G/H/J = hole locations from the plate edges, K and L = threaded hole callouts (M8 x 1.25 and M10 x 1.5)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8512",
+          "qty": 4,
+          "description": "M8 x 12mm SHCS",
+          "context": "Mount to Caster (row badged 15, 40 and 45)"
+        }
+      ],
+      "notes": "Row badged 15, 40 and 45. Note: Hardware to mount plate to column leg included in column lift system kits (pg. 6-98); the drawing marks the hardware-included holes. Base plate is required and sold separately for the Electric Column Lift System kits 50020, 50021, 50041."
+    },
+    {
+      "part_number": "50007",
+      "series": [
+        "F"
+      ],
+      "name": "Foot Pedal",
+      "category": "accessory",
+      "section": "Motion Systems",
+      "catalog_page": "7-99",
+      "description": "Two-pedal foot switch that gives hands-free up/down control of 80/20 electric lift systems, with a powder-coated diecast housing and shockproof thermoplastic pedal.",
+      "features": [
+        "Compatible with all 80/20 electric lift systems",
+        "Diecast housing-powder coated",
+        "Shockproof thermoplastic pedal",
+        "Self-extinguishing UL94-V0",
+        "IP65",
+        "Allows easy hands free up/down control",
+        "Programmable max upper and lower limits using standard keypad control",
+        "2000mm cable included for direct connection to controller, expandable when needed"
+      ],
+      "material": "Diecast Housing, Thermoplastic Pedal",
+      "color": "Blue",
+      "weight": "6.160 lbs (2.794 kg)",
+      "specs": {
+        "A": "10.541” (267.74mm)",
+        "B": "11.179” (283.95mm)",
+        "C": "5.190” (131.83mm)",
+        "D": "3.742” (95.06mm)",
+        "E": "5.405” (137.28mm)"
+      },
+      "dimension_notes": "A = overall depth (top view), B = overall width, E = overall height (side view)",
+      "notes": "Badged F and M. The page states it is compatible with all 80/20 electric lift systems (in this chunk: Electronic Lift System 2372 and Electric Column Lift System kits 50020, 50021, 50041); it connects to the controller by the included 2000mm cable."
+    },
+    {
+      "part_number": "R40-RT96",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Steel Roller Track Narrow",
+      "category": "accessory",
+      "section": "Motion Systems",
+      "catalog_page": "7-101",
+      "description": "Narrow roller track: a gray steel rail carrying a single row of black polyethylene wheels, ESD, in 96” stock length.",
+      "material": "Steel / Polyethylene",
+      "color": "Gray Rail / Black Wheels",
+      "weight": "5.980 lb (2.72 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Load Capacity per Meter": "507.00 lb (230.00 kg)",
+        "Load Capacity per Wheel": "20.00 lb (9.00 kg)",
+        "Stock Length": "96” (2.438m)",
+        "A (Rail Width)": "1.574” (40.00mm)",
+        "B (Rail Height)": "1.259” (32.00mm)",
+        "C (Overall Height)": "1.751” (44.50mm)",
+        "D (Wheel Width)": ".866” (22.00mm)",
+        "E (Wheel to Wheel)": "1.417” (35.99mm)"
+      },
+      "notes": "Badged F, M and P. Sold in 96” (2.438m) stock length. Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2). What Should the Slope Be? (page 7-102): Cardboard Box 5 lbs (2 kg) .875” (22.20mm) per foot, 9.000” (228.60mm) per 10 feet; 10 lbs (4.5 kg) .750” (19.00mm), 7.500” (190.50mm); 50 lbs (23 kg) .500” (12.70mm), 5.000” (127.00mm). Plastic Bin 10 lbs (4.5 kg) .500” (12.70mm), 5.000” (127.00mm); 25 lbs (11 kg) .375” (9.50mm), 3.750” (95.25mm); 50 lbs (23 kg) .3125” (7.90mm), 3.125” (79.40mm). Note: The following will significantly impact the slope needed for optimal flow: the bottom’s surface, its material, rigidity, and weight."
+    },
+    {
+      "part_number": "R40-RT96FL",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Steel Roller Track Narrow with Flange",
+      "category": "accessory",
+      "section": "Motion Systems",
+      "catalog_page": "7-101",
+      "description": "Narrow roller track with flanged wheels: a gray steel rail carrying black polyethylene wheels with a flange, ESD, in 96” stock length.",
+      "material": "Steel / Polyethylene",
+      "color": "Gray Rail / Black Wheels",
+      "weight": "5.980 lb (2.72 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Load Capacity per Meter": "507.00 lb (230.00 kg)",
+        "Load Capacity per Wheel": "20.00 lb (9.00 kg)",
+        "Stock Length": "96” (2.438m)",
+        "A (Rail Width)": "1.574” (40.00mm)",
+        "B (Rail Height)": "1.259” (32.00mm)",
+        "C (Overall Height)": "1.909” (48.50mm)",
+        "D (Wheel Width)": "1.023” (26.00mm)",
+        "E (Wheel to Wheel)": "1.771” (45.00mm)"
+      },
+      "notes": "Badged F, M and P. Sold in 96” (2.438m) stock length. Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2). What Should the Slope Be? (page 7-102): Cardboard Box 5 lbs (2 kg) .875” (22.20mm) per foot, 9.000” (228.60mm) per 10 feet; 10 lbs (4.5 kg) .750” (19.00mm), 7.500” (190.50mm); 50 lbs (23 kg) .500” (12.70mm), 5.000” (127.00mm). Plastic Bin 10 lbs (4.5 kg) .500” (12.70mm), 5.000” (127.00mm); 25 lbs (11 kg) .375” (9.50mm), 3.750” (95.25mm); 50 lbs (23 kg) .3125” (7.90mm), 3.125” (79.40mm). Note: The following will significantly impact the slope needed for optimal flow: the bottom’s surface, its material, rigidity, and weight."
+    },
+    {
+      "part_number": "R85-RT96",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Steel Roller Track Wide",
+      "category": "accessory",
+      "section": "Motion Systems",
+      "catalog_page": "7-102",
+      "description": "Wide roller track: a gray steel rail carrying wide black polyethylene rollers, ESD, in 96” stock length.",
+      "material": "Steel / Polyethylene",
+      "color": "Gray Rail / Black Wheels",
+      "weight": "10.780 lb (4.88 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Load Capacity per Meter": "507.00 lb (230.00 kg)",
+        "Load Capacity per Wheel": "20.00 lb (9.00 kg)",
+        "Stock Length": "96” (2.438m)",
+        "A (Rail Width)": "3.346” (85.00mm)",
+        "B (Rail Height)": "1.259” (32.00mm)",
+        "C (Overall Height)": "1.417” (36.00mm)",
+        "D (Wheel Width)": "2.755” (70.00mm)",
+        "E (Wheel to Wheel)": ".748” (19.00mm)"
+      },
+      "notes": "Badged F, M and P. Sold in 96” (2.438m) stock length. Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2). What Should the Slope Be? (page 7-102): Cardboard Box 5 lbs (2 kg) .875” (22.20mm) per foot, 9.000” (228.60mm) per 10 feet; 10 lbs (4.5 kg) .750” (19.00mm), 7.500” (190.50mm); 50 lbs (23 kg) .500” (12.70mm), 5.000” (127.00mm). Plastic Bin 10 lbs (4.5 kg) .500” (12.70mm), 5.000” (127.00mm); 25 lbs (11 kg) .375” (9.50mm), 3.750” (95.25mm); 50 lbs (23 kg) .3125” (7.90mm), 3.125” (79.40mm). Note: The following will significantly impact the slope needed for optimal flow: the bottom’s surface, its material, rigidity, and weight."
+    },
+    {
+      "part_number": "MOD-VCOTH",
+      "series": [
+        "F"
+      ],
+      "name": "Cut to Length",
+      "category": "machining_service",
+      "section": "Motion Systems",
+      "catalog_page": "7-101",
+      "description": "Standard machining service that cuts roller track to length.",
+      "specs": {
+        "Reference Page": "11-2"
+      },
+      "notes": "Reference page 11-2. Listed as the Standard Machining Service for Roller Track for R40-RT96 and R40-RT96FL (page 7-101) and R85-RT96 (page 7-102); badged F and M."
+    }
+  ],
+  "page_notes": {
+    "648": "7-94 Electronic Lift System: Linear Leg Unit 2372 (badged 15/30/40/45) extracted with the kit bullets and material specifications.",
+    "649": "7-95 Electronic Lift System (Continued): remote keypad, controller box, mounting bracket and rubber leveling feet tables have no part numbers, so they are recorded in the notes of 2372; the 15/40 suggested hardware rows (11-4312, 13022; 11-8316, 11-6042, 3838) are attached to 2372.",
+    "650": "7-96 Electric Column Lift System: kits 50020, 50021, 50041 (merged 15/40/45 badge) extracted; column leg dimensions and per-leg-count system specs recorded in notes; 15 row of Suggested Hardware (3150) attached; 40/45 rows skipped.",
+    "651": "7-97 Electric Column Lift System (continued): keypad/box suggested hardware 15/40 row (11-4312, 13022) attached to 50021 and 50041 (the kits with a controller box); keypad and controller box tables have no part numbers; cables 50004, 50005, 50006 have no series badge, so they are not standalone parts and are listed in the kit notes.",
+    "652": "7-98 Electric Column Lift base plates: 50002 (T-slot profiles) and 50003 (casters) extracted with their 15 series suggested hardware; 40/45-only hardware rows skipped.",
+    "653": "7-99 Foot Pedal 50007 (badged F/M) extracted.",
+    "655": "7-101 Steel Roller Track Narrow R40-RT96 and Narrow with Flange R40-RT96FL (badged F/M/P) extracted; machining service MOD-VCOTH (F/M) extracted once.",
+    "656": "7-102 Steel Roller Track Wide R85-RT96 (badged F/M/P) extracted; MOD-VCOTH repeat not duplicated; slope guidance table recorded in roller track notes."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "50007: notes \"Works with the Electronic Lift System (2372) and Electric Column Lift System kits (50020, 50021, 50041).\" -> restated as the page's own claim (compatible with all 80/20 electric lift systems) with the chunk's lift systems given as examples"
+    ],
+    "remaining_doubts": [
+      "2372 is the only part number printed for the Electronic Lift System and sits in the Linear Leg Unit table; whether it is the complete kit or a single leg unit is not stated on the page.",
+      "Cables 50004 (Sync Cable), 50005 (Motor Extension Cable) and 50006 (Remote Control Extension Cable) on page 7-97 carry no series badge, so they are kept only in the column lift kit notes rather than as standalone parts.",
+      "Pages 7-94 to 7-97 have garbled text-layer encoding; all values on those pages were verified against zoomed page images only."
+    ]
+  }
+}

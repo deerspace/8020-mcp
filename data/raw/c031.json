@@ -1,0 +1,401 @@
+{
+  "chunk": "c031",
+  "pages": [
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413
+  ],
+  "parts": [
+    {
+      "part_number": "2434",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Narrow Panel Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-40",
+      "description": "Milled aluminum Z-shaped single arm retainer with one tapped hole and one through hole, used to mount a panel recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a panel when it is recessed within the T-slot or on the profile frame",
+        "Requires drill through machining service on the panel (pg. 11-43)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".117 lb",
+      "specs": {
+        "A": "2.874”",
+        "B": "5/16-18",
+        "C": ".750”",
+        "D": "1.656”",
+        "E": ".625”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".250”",
+        "J": "1.377”",
+        "K": ".590”",
+        "L": ".840”",
+        "M": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, B = thread of tapped hole, F = through-hole diameter, G = bend radius (typ.), H = material thickness, L = overall height, M = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Panel Retainer Milling on the Mounting Panel (reference page 11-43); no service number printed. Ready Tube mounting: suggested 3960 [RT], qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-41."
+    },
+    {
+      "part_number": "2434-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Narrow Panel Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-40",
+      "description": "Milled aluminum Z-shaped single arm retainer with one tapped hole and one through hole, used to mount a panel recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a panel when it is recessed within the T-slot or on the profile frame",
+        "Requires drill through machining service on the panel (pg. 11-43)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".117 lb",
+      "specs": {
+        "A": "2.874”",
+        "B": "5/16-18",
+        "C": ".750”",
+        "D": "1.656”",
+        "E": ".625”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".250”",
+        "J": "1.377”",
+        "K": ".590”",
+        "L": ".840”",
+        "M": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, B = thread of tapped hole, F = through-hole diameter, G = bend radius (typ.), H = material thickness, L = overall height, M = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Panel Retainer Milling on the Mounting Panel (reference page 11-43); no service number printed. Ready Tube mounting: suggested 3960 [RT], qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-41."
+    },
+    {
+      "part_number": "2433",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Wide Panel Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-42",
+      "description": "Milled aluminum Z-shaped single arm retainer, wide version with two tapped holes and two through holes, used to mount a panel recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a panel when it is recessed within the T-slot or on the profile frame",
+        "Requires drill through machining service on the panel (pg. 11-43)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".236 lb",
+      "specs": {
+        "A": "2.879”",
+        "B": "5/16-18",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".594”",
+        "F": "1.656”",
+        "G": ".328”",
+        "H": ".250”",
+        "J": ".250”",
+        "K": "1.379”",
+        "L": ".590”",
+        "M": ".840”",
+        "N": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, B = thread of tapped holes, C = hole spacing (typ.), G = through-hole diameter, H = bend radius (typ.), J = material thickness, M = overall height, N = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Panel Retainer Milling on the Mounting Panel (reference page 11-43); no service number printed. Ready Tube mounting: suggested 3960 [RT], qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-43."
+    },
+    {
+      "part_number": "2433-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Wide Panel Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-42",
+      "description": "Milled aluminum Z-shaped single arm retainer, wide version with two tapped holes and two through holes, used to mount a panel recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a panel when it is recessed within the T-slot or on the profile frame",
+        "Requires drill through machining service on the panel (pg. 11-43)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".236 lb",
+      "specs": {
+        "A": "2.879”",
+        "B": "5/16-18",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".594”",
+        "F": "1.656”",
+        "G": ".328”",
+        "H": ".250”",
+        "J": ".250”",
+        "K": "1.379”",
+        "L": ".590”",
+        "M": ".840”",
+        "N": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, B = thread of tapped holes, C = hole spacing (typ.), G = through-hole diameter, H = bend radius (typ.), J = material thickness, M = overall height, N = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Panel Retainer Milling on the Mounting Panel (reference page 11-43); no service number printed. Ready Tube mounting: suggested 3960 [RT], qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-43."
+    },
+    {
+      "part_number": "2515",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Narrow Panel Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-44",
+      "description": "Milled aluminum double arm retainer with a center through hole and a tapped hole on each arm, used to mount panels recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a panel when it is recessed within the T-slot or on the profile frame",
+        "Requires drill through machining service on the panel (pg. 11-43)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".199 lb",
+      "specs": {
+        "A": "4.523”",
+        "B": ".750”",
+        "C": ".594”",
+        "D": "1.668”",
+        "E": ".328”",
+        "F": "5/16-18",
+        "G": ".250”",
+        "H": ".250”",
+        "J": "1.523”",
+        "K": "1.500”",
+        "L": ".590”",
+        "M": ".840”",
+        "N": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, E = through-hole diameter, F = thread of tapped holes, G = bend radius (typ.), H = material thickness, M = overall height, N = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Panel Retainer Milling on the Mounting Panel (reference page 11-43); no service number printed. Ready Tube mounting: suggested 3960 [RT], qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-45."
+    },
+    {
+      "part_number": "2515-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Narrow Panel Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-44",
+      "description": "Milled aluminum double arm retainer with a center through hole and a tapped hole on each arm, used to mount panels recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a panel when it is recessed within the T-slot or on the profile frame",
+        "Requires drill through machining service on the panel (pg. 11-43)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".199 lb",
+      "specs": {
+        "A": "4.523”",
+        "B": ".750”",
+        "C": ".594”",
+        "D": "1.668”",
+        "E": ".328”",
+        "F": "5/16-18",
+        "G": ".250”",
+        "H": ".250”",
+        "J": "1.523”",
+        "K": "1.500”",
+        "L": ".590”",
+        "M": ".840”",
+        "N": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, E = through-hole diameter, F = thread of tapped holes, G = bend radius (typ.), H = material thickness, M = overall height, N = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Panel Retainer Milling on the Mounting Panel (reference page 11-43); no service number printed. Ready Tube mounting: suggested 3960 [RT], qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-45."
+    },
+    {
+      "part_number": "2432",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Narrow Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-46",
+      "description": "Milled aluminum Z-shaped single arm retainer with a through hole and a slotted hole for positioning, used to mount a mesh panel recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires a backing plate (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".113 lb",
+      "specs": {
+        "A": "2.879”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.406”",
+        "G": ".328”",
+        "H": ".250”",
+        "J": ".250”",
+        "K": "1.379”",
+        "L": ".590”",
+        "M": ".840”",
+        "N": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C = slot width, G = through-hole diameter (thru), H = bend radius (typ.), J = material thickness, M = overall height, N = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Requires a backing plate (pg. 5-52). No required machining services table is printed for this retainer. Ready Tube mounting: suggested 3960 [RT], qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-47."
+    },
+    {
+      "part_number": "2432-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Narrow Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-46",
+      "description": "Milled aluminum Z-shaped single arm retainer with a through hole and a slotted hole for positioning, used to mount a mesh panel recessed within the T-slot or on the profile frame.",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires a backing plate (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".113 lb",
+      "specs": {
+        "A": "2.879”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.406”",
+        "G": ".328”",
+        "H": ".250”",
+        "J": ".250”",
+        "K": "1.379”",
+        "L": ".590”",
+        "M": ".840”",
+        "N": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, C = slot width, G = through-hole diameter (thru), H = bend radius (typ.), J = material thickness, M = overall height, N = width",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Requires a backing plate (pg. 5-52). No required machining services table is printed for this retainer. Ready Tube mounting: suggested 3960 [RT], qty 1, 5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut. Material specs and hardware on page 5-47."
+    }
+  ],
+  "page_notes": {
+    "406": "Single Arm Narrow Panel Retainer dimension table (5-40); extracted 15/RT rows 2434 and 2434-Black; 10-series and metric rows skipped.",
+    "407": "Single Arm Narrow Panel Retainer continued (5-41): material specs, required machining (Panel Retainer Milling, pg. 11-43) and suggested hardware merged into 2434/2434-Black; no new parts.",
+    "408": "Single Arm Wide Panel Retainer dimension table (5-42); extracted 15/RT rows 2433 and 2433-Black; 10-series and metric rows skipped.",
+    "409": "Single Arm Wide Panel Retainer continued (5-43): material specs, required machining and suggested hardware (qty 2) merged into 2433/2433-Black; no new parts.",
+    "410": "Double Arm Narrow Panel Retainer dimension table (5-44); extracted 15/RT rows 2515 and 2515-Black; 10-series and metric rows skipped.",
+    "411": "Double Arm Narrow Panel Retainer continued (5-45): material specs, required machining and suggested hardware merged into 2515/2515-Black; no new parts.",
+    "412": "Single Arm Narrow Mesh Retainer dimension table (5-46); extracted 15/RT rows 2432 and 2432-Black; 10-series and metric rows skipped.",
+    "413": "Single Arm Narrow Mesh Retainer continued (5-47): material specs and suggested hardware merged into 2432/2432-Black; no new parts."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "3960 [RT] Ready Tube bolt assembly (qty 1 for 2434/2515/2432, qty 2 for 2433) is kept in notes rather than suggested_hardware because it is an RT-only row; move it if RT hardware should be attached to 15/RT parts.",
+      "Required Machining Services (Panel Retainer Milling, Mounting Panel, pg. 11-43) has no service number or series badge, so no machining_service part was created.",
+      "Description wording 'Z-shaped' and hole counts are read from the drawings, not from printed text."
+    ]
+  }
+}

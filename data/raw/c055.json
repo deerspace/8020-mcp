@@ -1,0 +1,880 @@
+{
+  "chunk": "c055",
+  "pages": [
+    624,
+    625,
+    626,
+    627,
+    628,
+    629,
+    630,
+    631
+  ],
+  "parts": [
+    {
+      "part_number": "4364",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 90 Degree Dynamic Pivot Assembly with Straight and “L” Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-70",
+      "description": "A standard 90 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4384 nub with one straight arm (4385) and one “L” arm (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-180 degrees, perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".849 lb",
+      "specs": {
+        "Nub (Qty.)": "4384 (1)",
+        "Arm (Qty.)": "4385 (1) 4343 (1)",
+        "A": "5.074”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), H = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4384 (1) and arm(s) 4385 (1) 4343 (1) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x1 AND 3412 x2. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4364-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard 90 Degree Dynamic Pivot Assembly with Straight and “L” Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-70",
+      "description": "A standard 90 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4384 nub with one straight arm (4385) and one “L” arm (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-180 degrees, perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".849 lb",
+      "specs": {
+        "Nub (Qty.)": "4384 (1)",
+        "Arm (Qty.)": "4385 (1) 4343 (1)",
+        "A": "5.074”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), H = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4384 (1) and arm(s) 4385 (1) 4343 (1) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x1 AND 3412 x2. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4313",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Universal Dynamic Pivot Assembly with Straight and “L” Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-71",
+      "description": "A standard universal dynamic pivot assembly for 15 series T-slot profile, made of a 4377 nub with one straight arm (4385) and one “L” arm (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-180 degrees, parallel or perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.178 lb",
+      "specs": {
+        "Nub (Qty.)": "4377 (1)",
+        "Arm (Qty.)": "4385 (1) 4343 (1)",
+        "A": "6.574”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), H = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4377 (1) and arm(s) 4385 (1) 4343 (1) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x2; Arms to Nub: 3500 x1; Arms to Profile: 3355 x1 AND 3412 x2. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4313-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Universal Dynamic Pivot Assembly with Straight and “L” Arm",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-71",
+      "description": "A standard universal dynamic pivot assembly for 15 series T-slot profile, made of a 4377 nub with one straight arm (4385) and one “L” arm (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-180 degrees, parallel or perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-180 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.178 lb",
+      "specs": {
+        "Nub (Qty.)": "4377 (1)",
+        "Arm (Qty.)": "4385 (1) 4343 (1)",
+        "A": "6.574”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "4.500”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), H = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4377 (1) and arm(s) 4385 (1) 4343 (1) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x2; Arms to Nub: 3500 x1; Arms to Profile: 3355 x1 AND 3412 x2. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4428",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 0 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-72",
+      "description": "A right angle 0 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4425 nub with two straight arms (4385). It includes lubricated bronze bushings, nylon thrust washers, a skim kit and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; skim kit and hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".903 lb",
+      "specs": {
+        "Nub (Qty.)": "4425 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "B = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4425 (1) and arm(s) 4385 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x2. Skim kit included. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4428-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 0 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-72",
+      "description": "A right angle 0 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4425 nub with two straight arms (4385). It includes lubricated bronze bushings, nylon thrust washers, a skim kit and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; skim kit and hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".903 lb",
+      "specs": {
+        "Nub (Qty.)": "4425 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "B = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4425 (1) and arm(s) 4385 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x2. Skim kit included. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4429",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 90 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-73",
+      "description": "A right angle 90 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4426 nub with two straight arms (4385). It includes lubricated bronze bushings, nylon thrust washers, a skim kit and mounting hardware, and creates full axial motion ranging from 0-90 degrees, perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; skim kit and hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".903 lb",
+      "specs": {
+        "Nub (Qty.)": "4426 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "B = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4426 (1) and arm(s) 4385 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x2. Skim kit included. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4429-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 90 Degree Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-73",
+      "description": "A right angle 90 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4426 nub with two straight arms (4385). It includes lubricated bronze bushings, nylon thrust washers, a skim kit and mounting hardware, and creates full axial motion ranging from 0-90 degrees, perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; skim kit and hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".903 lb",
+      "specs": {
+        "Nub (Qty.)": "4426 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "1.512”",
+        "B": "4.500”",
+        "C": "2.313”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "B = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4426 (1) and arm(s) 4385 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x2. Skim kit included. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4430",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle Universal Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-74",
+      "description": "A right angle universal dynamic pivot assembly for 15 series T-slot profile, made of a 4427 nub with two straight arms (4385). It includes lubricated bronze bushings, nylon thrust washers, a skim kit and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel or perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; skim kit and hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.252 lb",
+      "specs": {
+        "Nub (Qty.)": "4427 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "3.012”",
+        "B": "4.500”",
+        "C": "3.813”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "B = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4427 (1) and arm(s) 4385 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x2; Arms to Nub: 3500 x1; Arms to Profile: 3355 x2. Skim kit included. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4430-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle Universal Dynamic Pivot Assembly with Dual Straight Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-74",
+      "description": "A right angle universal dynamic pivot assembly for 15 series T-slot profile, made of a 4427 nub with two straight arms (4385). It includes lubricated bronze bushings, nylon thrust washers, a skim kit and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel or perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; skim kit and hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.252 lb",
+      "specs": {
+        "Nub (Qty.)": "4427 (1)",
+        "Arm (Qty.)": "4385 (2)",
+        "A": "3.012”",
+        "B": "4.500”",
+        "C": "3.813”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "B = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4427 (1) and arm(s) 4385 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x2; Arms to Nub: 3500 x1; Arms to Profile: 3355 x2. Skim kit included. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4431",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 0 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-75",
+      "description": "A right angle 0 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4425 nub with two “L” arms (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-90 degrees, perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".828 lb",
+      "specs": {
+        "Nub (Qty.)": "4425 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.600”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4425 (1) and arm(s) 4343 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x4. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4431-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 0 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-75",
+      "description": "A right angle 0 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4425 nub with two “L” arms (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-90 degrees, perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".828 lb",
+      "specs": {
+        "Nub (Qty.)": "4425 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.600”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3355",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4425 (1) and arm(s) 4343 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3355 x4. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4432",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 90 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-76",
+      "description": "A right angle 90 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4426 nub with two “L” arms (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".827 lb",
+      "specs": {
+        "Nub (Qty.)": "4426 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4426 (1) and arm(s) 4343 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3412 x4. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4432-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle 90 Degree Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-76",
+      "description": "A right angle 90 degree dynamic pivot assembly for 15 series T-slot profile, made of a 4426 nub with two “L” arms (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".827 lb",
+      "specs": {
+        "Nub (Qty.)": "4426 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "7.512”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4426 (1) and arm(s) 4343 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x1; Arms to Nub: 3500 x1; Arms to Profile: 3412 x4. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4433",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle Universal Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-77",
+      "description": "A right angle universal dynamic pivot assembly for 15 series T-slot profile, made of a 4427 nub with two “L” arms (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel or perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.201 lb",
+      "specs": {
+        "Nub (Qty.)": "4427 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "9.012”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4427 (1) and arm(s) 4343 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x2; Arms to Nub: 3500 x1; Arms to Profile: 3412 x4. Hardware descriptions are not printed on this page."
+    },
+    {
+      "part_number": "4433-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Right Angle Universal Dynamic Pivot Assembly with Dual “L” Arms",
+      "category": "hinge",
+      "section": "Motion Systems",
+      "catalog_page": "7-77",
+      "description": "A right angle universal dynamic pivot assembly for 15 series T-slot profile, made of a 4427 nub with two “L” arms (4343). It includes lubricated bronze bushings, nylon thrust washers and mounting hardware, and creates full axial motion ranging from 0-90 degrees, parallel or perpendicular to the mounting profile.",
+      "features": [
+        "Includes lubricated bronze bushings and nylon thrust washers; hardware included",
+        "Creates full axial motion ranging from 0-90 degrees; parallel or perpendicular to mounting profile"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.201 lb",
+      "specs": {
+        "Nub (Qty.)": "4427 (1)",
+        "Arm (Qty.)": "4343 (2)",
+        "A": "9.012”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": "1.500”",
+        "F": "1.950”"
+      },
+      "dimension_notes": "A = overall length (top view), F = overall height (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3613",
+          "qty": 2,
+          "context": "Included Mounting Hardware (Nub to Profile)"
+        },
+        {
+          "part_number": "3500",
+          "qty": 1,
+          "context": "Included Mounting Hardware (Arms to Nub)"
+        },
+        {
+          "part_number": "3412",
+          "qty": 4,
+          "context": "Included Mounting Hardware (Arms to Profile)"
+        }
+      ],
+      "notes": "Assembly consists of nub 4427 (1) and arm(s) 4343 (2) (part number (qty.) as printed). Included mounting hardware (15 series) - Nub to Profile: 3613 x2; Arms to Nub: 3500 x1; Arms to Profile: 3412 x4. Hardware descriptions are not printed on this page."
+    }
+  ],
+  "page_notes": {
+    "624": "Standard 90 Degree Dynamic Pivot Assembly with Straight and “L” Arm (7-70): 4364 and 4364-Black (15) extracted with material specs and included mounting hardware (3613, 3500, 3355 AND 3412); 10-series 4162 rows skipped.",
+    "625": "Standard Universal Dynamic Pivot Assembly with Straight and “L” Arm (7-71): 4313 and 4313-Black (15) extracted with included mounting hardware (3613 x2, 3500, 3355 AND 3412 x2); 10-series 4163 rows skipped.",
+    "626": "Right Angle 0 Degree Dynamic Pivot Assembly with Dual Straight Arms (7-72): 4428 and 4428-Black (15) extracted with included hardware (3613, 3500, 3355 x2); 10-series 4028 and metric 25-/40- rows skipped.",
+    "627": "Right Angle 90 Degree Dynamic Pivot Assembly with Dual Straight Arms (7-73): 4429 and 4429-Black (15) extracted with included hardware (3613, 3500, 3355 x2); 10-series 4029 and metric rows skipped.",
+    "628": "Right Angle Universal Dynamic Pivot Assembly with Dual Straight Arms (7-74): 4430 and 4430-Black (15) extracted with included hardware (3613 x2, 3500, 3355 x2); 10-series 4030 and metric rows skipped.",
+    "629": "Right Angle 0 Degree Dynamic Pivot Assembly with Dual “L” Arms (7-75): 4431 and 4431-Black (15) extracted with included hardware (3613, 3500, 3355 x4); 10-series 4031 and metric rows skipped.",
+    "630": "Right Angle 90 Degree Dynamic Pivot Assembly with Dual “L” Arms (7-76): 4432 and 4432-Black (15) extracted with included hardware (3613, 3500, 3412 x4); 10-series 4032 and metric rows skipped.",
+    "631": "Right Angle Universal Dynamic Pivot Assembly with Dual “L” Arms (7-77): 4433 and 4433-Black (15) extracted with included hardware (3613 x2, 3500, 3412 x4); 10-series 4033 and metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4364: category linear_motion -> hinge",
+      "4364: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4364-Black: category linear_motion -> hinge",
+      "4364-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4313: category linear_motion -> hinge",
+      "4313: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4313-Black: category linear_motion -> hinge",
+      "4313-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4428: category linear_motion -> hinge",
+      "4428: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers, skim kit and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4428-Black: category linear_motion -> hinge",
+      "4428-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers, skim kit and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4429: category linear_motion -> hinge",
+      "4429: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers, skim kit and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4429-Black: category linear_motion -> hinge",
+      "4429-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers, skim kit and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4430: category linear_motion -> hinge",
+      "4430: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers, skim kit and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4430-Black: category linear_motion -> hinge",
+      "4430-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers, skim kit and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4431: category linear_motion -> hinge",
+      "4431: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4431-Black: category linear_motion -> hinge",
+      "4431-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4432: category linear_motion -> hinge",
+      "4432: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4432-Black: category linear_motion -> hinge",
+      "4432-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4433: category linear_motion -> hinge",
+      "4433: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)",
+      "4433-Black: category linear_motion -> hinge",
+      "4433-Black: description 'uses bushings and thrust washers to create motion' -> 'includes bushings, thrust washers and mounting hardware, and creates motion' (removes unsupported causal claim)"
+    ],
+    "remaining_doubts": [
+      "Category set to hinge (rotary pivot assemblies; matches c054 dynamic pivot assemblies) rather than linear_motion; c053 classed the dynamic pivot nubs/arms as bracket_plate, so the catalog-wide category for pivot hardware may need harmonizing.",
+      "Arm identities (4385 = straight arm, 4343 = “L” arm) are inferred from the dual-straight (4385 x2) and dual-“L” (4343 x2) assemblies in this chunk; the page tables only list the part numbers under Arm (Qty.).",
+      "Included Mounting Hardware part numbers (3613, 3500, 3355, 3412) have no descriptions on these pages; they are attached as suggested_hardware without descriptions."
+    ]
+  }
+}

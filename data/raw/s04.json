@@ -1,0 +1,46 @@
+{
+  "chunk": "s04",
+  "pages": [
+    355,
+    356
+  ],
+  "parts": [
+    {
+      "part_number": "75-3627",
+      "series": [
+        "M"
+      ],
+      "name": "M8 x 1.25 SHCS Bolt Assembly with Self-Aligning Slide-In T-Nut, 18.00mm",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-191",
+      "description": "Bolt assembly made of one 11-8518 M8 x 1.25 socket head cap screw (SHCS), 18.00mm long, and one 13025 Self-Aligning Slide-In T-Nut. No washer is included.",
+      "weight": ".041 lb",
+      "specs": {
+        "Bolt": "11-8518",
+        "Bolt Qty.": "1",
+        "Bolt Type": "SHCS",
+        "Thread Size": "M8 X 1.25",
+        "Bolt Length": "18.00mm",
+        "Nut": "13025",
+        "Nut Qty.": "1",
+        "Nut Type": "Self-Aligning Slide-In T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Listed in the table \"M8 x 1.25 Socket Head Cap Screw (SHCS)\" under Bolt Assemblies (Continued). Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    }
+  ],
+  "page_notes": {
+    "355": "Bolt Assemblies (Continued), M8 x 1.25 SHCS table only (no 5/16-18 rows); extracted only 75-3627, the one assembly number in the WANTED list.",
+    "356": "Bolt Assemblies (Continued), M4 x 0.7 and M5 x 0.8 BHSCS/FHSCS/SHCS tables (no 5/16-18 rows); no assembly number on this page is in the WANTED list, so nothing extracted."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "Several WANTED numbers appear on these pages only as components inside assembly rows, not as assembly numbers: 11-8512 (bolt in 75-3624, 75-3530, 75-3620) and 11-6042 (washer in 75-3534, 75-3535, 75-3536) on p355; 11-4312 (75-3538), 11-4512 (75-3563), 11-4710 (75-3552), 11-5312 (75-3539, 75-3583), 11-5314 (75-3576), 11-5316 (75-3540), 11-5516 (75-3483), 11-5716 (75-3575), 13-5516 (75-3400), 13-6040 (75-3400) and 25-1941 (75-3537) on p356. The pages give no definitions for them, so they were not extracted; the assemblies that contain them are metric and not wanted."
+    ]
+  }
+}

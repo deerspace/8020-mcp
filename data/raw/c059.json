@@ -1,0 +1,664 @@
+{
+  "chunk": "c059",
+  "pages": [
+    657,
+    658,
+    659,
+    665,
+    666,
+    667,
+    668,
+    669
+  ],
+  "parts": [
+    {
+      "part_number": "R40-RT48BD",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Bi-Directional Steel Roller Track Narrow",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-103",
+      "description": "Narrow galvanized steel roller track with polyethylene bi-directional rollers that let material move in multiple directions. Sold in a 48” (1.219m) stock length.",
+      "features": [
+        "Bi-directional rollers for movement in multiple directions"
+      ],
+      "material": "Galvanized Steel / Polyethylene",
+      "color": "Gray Rail / White Rollers",
+      "weight": "2.640 lb (1.19 kg)",
+      "specs": {
+        "ESD": "No",
+        "Load Capacity per Meter": "507.00 lb (230.00 kg)",
+        "Load Capacity per Wheel": "20.00 lb (9.00 kg)",
+        "Stock Length": "48” (1.219m)",
+        "A (Rail Width)": "1.574” (40.00mm)",
+        "B (Rail Height)": "1.259” (32.00mm)",
+        "C (Overall Height)": "1.875” (47.63mm)",
+        "D (Wheel to Wheel)": "1.772” (45.00mm)"
+      },
+      "dimension_notes": "A = rail width, B = rail height, C = overall height, D = wheel to wheel spacing",
+      "notes": "Badges printed: F, M (metric) and P (pipe). Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "R85-RT96SR",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Staggered Steel Roller Track Wide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-103",
+      "description": "Wide galvanized steel roller track with triple-staggered polyethylene wheels for consistent contact. ESD rated; sold in a 96” (2.438m) stock length.",
+      "features": [
+        "Triple-staggered wheel placement for consistent contact"
+      ],
+      "material": "Galvanized Steel / Polyethylene",
+      "color": "Gray Rail / Black Rollers",
+      "weight": "9.820 lb (4.45 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Load Capacity per Meter": "507.00 lb (230.00 kg)",
+        "Load Capacity per Wheel": "20.00 lb (9.00 kg)",
+        "Stock Length": "96” (2.438m)",
+        "A (Rail Width)": "3.375” (85.00mm)",
+        "B (Rail Height)": "1.250” (32.00mm)",
+        "C (Overall Height)": "1.750” (43.50mm)",
+        "D (Wheel to Wheel)": "1.000” (25.00mm)"
+      },
+      "dimension_notes": "A = rail width, B = rail height, C = overall height, D = wheel to wheel spacing",
+      "notes": "Badges printed: F, M (metric) and P (pipe). Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "MOD-VCOTH",
+      "series": [
+        "F"
+      ],
+      "name": "Cut to Length",
+      "category": "machining_service",
+      "section": "Motion Systems",
+      "catalog_page": "7-103",
+      "description": "Standard machining service for roller track: cut to length.",
+      "specs": {
+        "Reference Page": "11-2"
+      },
+      "notes": "Reference page 11-2. Listed in the 'Standard Machining Service for Roller Track' tables (badged F and M) for R40-RT48BD and R85-RT96SR (page 7-103) and R40-SGUIDE, R40-CGUIDE and R40-GUIDE (page 7-104)."
+    },
+    {
+      "part_number": "R40-SGUIDE",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Straight Roller Guide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-104",
+      "description": "Black polyethylene straight roller guide that works with the Steel Roller Track Narrow. ESD rated; sold in a 96” (2.438m) stock length.",
+      "features": [
+        "Works with Steel Roller Track Narrow"
+      ],
+      "material": "Polyethylene",
+      "color": "Black",
+      "weight": "5.282 lb (2.40 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Stock Length": "96” (2.438m)",
+        "A (Rail Width)": "1.850” (47.00mm)",
+        "B (Rail Height)": "1.633” (41.50mm)",
+        "C (Overall Height)": "3.031” (77.00mm)",
+        "D (Flange Height)": "1.397” (35.50mm)"
+      },
+      "dimension_notes": "A = rail width, B = rail height, C = overall height, D = flange height",
+      "notes": "Badges printed: F, M (metric) and P (pipe). Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "R40-CGUIDE",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Center Roller Guide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-104",
+      "description": "Black polyethylene center roller guide for roller track. ESD rated; sold in a 96” (2.438m) stock length.",
+      "material": "Polyethylene",
+      "color": "Black",
+      "weight": "5.500 lb (2.50 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Stock Length": "96” (2.438m)",
+        "A (Rail Width)": "1.574” (40.00mm)",
+        "B (Rail Height)": "1.318” (33.50mm)",
+        "C (Overall Height)": "2.755” (70.00mm)",
+        "D (Flange Height)": "1.437” (36.50mm)"
+      },
+      "dimension_notes": "A = rail width, B = rail height, C = overall height, D = flange height",
+      "notes": "Badges printed: F, M (metric) and P (pipe). Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "R40-GUIDE",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Lateral Roller Guide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-104",
+      "description": "Black polyethylene lateral roller guide that works with the Steel Roller Track Narrow. ESD rated; sold in a 96” (2.438m) stock length.",
+      "features": [
+        "Works with Steel Roller Track Narrow"
+      ],
+      "material": "Polyethylene",
+      "color": "Black",
+      "weight": "6.140 lb (2.79 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Stock Length": "96” (2.438m)",
+        "A (Rail Width)": "2.007” (51.00mm)",
+        "B (Rail Height)": "1.574” (40.00mm)",
+        "C (Overall Height)": "3.070” (78.00mm)",
+        "D (Flange Height)": "1.496” (38.00mm)"
+      },
+      "dimension_notes": "A = rail width, B = rail height, C = overall height, D = flange height",
+      "notes": "Badges printed: F, M (metric) and P (pipe). Standard machining service for roller track: MOD-VCOTH Cut to Length (reference page 11-2)."
+    },
+    {
+      "part_number": "R40-SLOW",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "Roller Decelerator",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-105",
+      "description": "Steel roller decelerator that mounts to all Steel Roller Track Narrow and slows down materials traveling on the track. ESD rated.",
+      "features": [
+        "Mounts to all Steel Roller Track Narrow",
+        "Slows down materials traveling on track"
+      ],
+      "material": "Steel",
+      "color": "Stainless",
+      "weight": ".030 lb (.015 kg)",
+      "specs": {
+        "ESD": "Yes",
+        "Width": ".787” (20.00mm)",
+        "Height": "1.220” (31.00mm)",
+        "Length": "4.251” (108.00mm)"
+      },
+      "notes": "Badges printed: F, M (metric) and P (pipe)."
+    },
+    {
+      "part_number": "6930-SC",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Carriage 30mm and 45mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-111",
+      "description": "30mm standard carriage with an aluminum body and steel rollers that mounts directly to the 30mm standard linear rail. Rated for 180 lbs load and speeds up to 1.5 m/second.",
+      "features": [
+        "Directly mount to standard linear rail 30mm, 45mm",
+        "Load capacity: 180 lbs (30mm) / 391 lbs (45mm)",
+        "Temperature rating: 212° F",
+        "52100 chrome steel, hardened and ground rollers",
+        "Open-end wrench available for preload adjustment",
+        "Speed up to 1.5 m/second"
+      ],
+      "material": "Aluminum body w/ steel roller",
+      "weight": ".220 lb (.1000 kg)",
+      "specs": {
+        "A": "1.040” (26.50mm)",
+        "B": "1.180” (30.00mm)",
+        "C": ".390” (10.00mm)",
+        "D": "3.150” (80.00mm)",
+        "E": ".750” (19.10mm)",
+        "F": "1.380” (35.00mm)",
+        "G": ".890” (22.50mm)",
+        "H": ".790” (20.00mm)",
+        "J": ".390” (10.00mm)",
+        "K": ".900” (22.80mm)",
+        "L": "M6 x 1.0"
+      },
+      "dimension_notes": "D = overall carriage length, F = spacing between the threaded mounting holes, L = mounting hole thread size",
+      "notes": "Badges printed: F and M (metric). Load capacity 180 lbs (30mm size). Preload adjustment wrench for the 30mm carriage: 6081 (Steel, 10mm size; no series badge printed). Catalog note: image and drawings show carriage installed on rail. Flat plate 6900 and offset plate 6901 mount to this carriage (pages 7-113, 7-114)."
+    },
+    {
+      "part_number": "6945-SC",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Carriage 30mm and 45mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-111",
+      "description": "45mm standard carriage with an aluminum body and steel rollers that mounts directly to the 45mm standard linear rail. Rated for 391 lbs load and speeds up to 1.5 m/second.",
+      "features": [
+        "Directly mount to standard linear rail 30mm, 45mm",
+        "Load capacity: 180 lbs (30mm) / 391 lbs (45mm)",
+        "Temperature rating: 212° F",
+        "52100 chrome steel, hardened and ground rollers",
+        "Open-end wrench available for preload adjustment",
+        "Speed up to 1.5 m/second"
+      ],
+      "material": "Aluminum body w/ steel roller",
+      "weight": ".831 lb (.3770 kg)",
+      "specs": {
+        "A": "1.630” (41.50mm)",
+        "B": "1.800” (45.70mm)",
+        "C": ".610” (15.50mm)",
+        "D": "4.720” (120.00mm)",
+        "E": "1.250” (31.80mm)",
+        "F": "1.970” (50.00mm)",
+        "G": "1.380” (35.00mm)",
+        "H": "1.240” (31.50mm)",
+        "J": ".590” (15.00mm)",
+        "K": "1.400” (35.50mm)",
+        "L": "M8 x 1.25"
+      },
+      "dimension_notes": "D = overall carriage length, F = spacing between the threaded mounting holes, L = mounting hole thread size",
+      "notes": "Badges printed: F and M (metric). Load capacity 391 lbs (45mm size). Preload adjustment wrench for the 45mm carriage: 6082 (Steel, 14mm size; no series badge printed). Catalog note: image and drawings show carriage installed on rail. Flat plate 6902 and offset plate 6903 mount to this carriage (pages 7-113, 7-114)."
+    },
+    {
+      "part_number": "6930-SR",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Rail 30mm and 45mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-112",
+      "description": "30mm zinc plated carbon steel standard linear rail with mounting holes that mounts directly to T-slot profiles. Used with the 30mm standard carriage.",
+      "features": [
+        "Directly mount to T-slot with mounting holes",
+        "Compatible with 80/20 T-slot profile series 10, 15, 25, 30, 40, 45",
+        "Temperature rating: 212° F",
+        "Zinc plated carbon steel"
+      ],
+      "material": "Zinc plated carbon steel",
+      "weight": "2.094 lb (.9500 kg) per/m",
+      "specs": {
+        "A": "1.180” (30.00mm)",
+        "B": ".390” (10.00mm)",
+        "C": ".590” (15.00mm)",
+        "D": ".590” (15.00mm)",
+        "E": ".080” (2.00mm)",
+        "F": ".220” (5.50mm)",
+        "G": "3.150” (80.00mm)",
+        "H (Offset)": "Customer Specifies",
+        "Weight per/m": "2.094 lb (.9500 kg)"
+      },
+      "dimension_notes": "F = mounting hole, G = mounting hole spacing, H = offset from rail end to first mounting hole (customer specifies); maximum length 6,000 mm (236.2”)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5312",
+          "qty": 1,
+          "description": "M5 x 12mm BHSCS",
+          "context": "Mount to T-Slot (15 series), 1 per mounting hole"
+        },
+        {
+          "part_number": "13023",
+          "qty": 1,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (15 series), 1 per mounting hole"
+        }
+      ],
+      "notes": "Badges printed: F and M (metric). Maximum length 6,000 mm (236.2”); customer specifies the H (offset) dimension. Included standard machining services: 7614 Cut-to-Size and 7616 Offset. Suggested hardware quantity is 1 per mounting hole. The 15 series suggested-hardware row is shared with the 40 series. Carriage for this rail: 6930-SC (page 7-111)."
+    },
+    {
+      "part_number": "6945-SR",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Rail 30mm and 45mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-112",
+      "description": "45mm zinc plated carbon steel standard linear rail with mounting holes that mounts directly to T-slot profiles. Used with the 45mm standard carriage.",
+      "features": [
+        "Directly mount to T-slot with mounting holes",
+        "Compatible with 80/20 T-slot profile series 10, 15, 25, 30, 40, 45",
+        "Temperature rating: 212° F",
+        "Zinc plated carbon steel"
+      ],
+      "material": "Zinc plated carbon steel",
+      "weight": "4.300 lb (1.950 kg) per/m",
+      "specs": {
+        "A": "1.800” (45.70mm)",
+        "B": ".610” (15.50mm)",
+        "C": ".950” (24.00mm)",
+        "D": ".900” (22.90mm)",
+        "E": ".080” (2.00mm)",
+        "F": ".350” (9.00mm)",
+        "G": "3.150” (80.00mm)",
+        "H (Offset)": "Customer Specifies",
+        "Weight per/m": "4.300 lb (1.950 kg)"
+      },
+      "dimension_notes": "F = mounting hole, G = mounting hole spacing, H = offset from rail end to first mounting hole (customer specifies); maximum length 6,000 mm (236.2”)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8312",
+          "qty": 1,
+          "description": "M8 x 12mm BHSCS",
+          "context": "Mount to T-Slot (15 series), 1 per mounting hole"
+        },
+        {
+          "part_number": "13025",
+          "qty": 1,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (15 series), 1 per mounting hole"
+        }
+      ],
+      "notes": "Badges printed: F and M (metric). Maximum length 6,000 mm (236.2”); customer specifies the H (offset) dimension. Included standard machining services: 7614 Cut-to-Size and 7616 Offset. Suggested hardware quantity is 1 per mounting hole. The 15 series suggested-hardware row is shared with the 40 series. Carriage for this rail: 6945-SC (page 7-111)."
+    },
+    {
+      "part_number": "6900",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Flat (Inline) Plate 30mm and 45mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-113",
+      "description": "Aluminum flat (inline) plate that mounts to the 30mm standard carriage and fastens to T-slot profile, making carriage preload easy to adjust.",
+      "features": [
+        "Mount to standard carriage 30mm, 45mm",
+        "Flat (inline) plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload"
+      ],
+      "material": "Aluminum",
+      "weight": ".076 lb (.0340 kg)",
+      "specs": {
+        "A": ".188” (4.77mm)",
+        "B": ".875” (22.22mm)",
+        "C": ".438” (11.12mm)",
+        "D": "4.646” (118.00mm)",
+        "E": ".375” (9.52mm)",
+        "F": "3.896” (98.95mm)",
+        "G": "M6 FHSCS",
+        "H": ".257” (6.52mm)"
+      },
+      "dimension_notes": "A = plate thickness, B = plate width, C = hole centerline to edge, D = overall length, E = end to outer hole, F = outer hole spacing, G = countersunk holes (for FHSCS), H = through hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6314",
+          "qty": 2,
+          "description": "M6 x 14mm BHSCS",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "11-6714",
+          "qty": 2,
+          "description": "M6 x 14mm FHSCS",
+          "context": "Mount Bracket to Carriage 6930-SC"
+        }
+      ],
+      "notes": "Badges printed: F and M (metric). Pairs with 30mm standard carriage 6930-SC. The 15 series suggested-hardware row is shared with the 40 series."
+    },
+    {
+      "part_number": "6902",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Flat (Inline) Plate 30mm and 45mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-113",
+      "description": "Aluminum flat (inline) plate that mounts to the 45mm standard carriage and fastens to T-slot profile, making carriage preload easy to adjust.",
+      "features": [
+        "Mount to standard carriage 30mm, 45mm",
+        "Flat (inline) plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload"
+      ],
+      "material": "Aluminum",
+      "weight": ".237 lb (.1080 kg)",
+      "specs": {
+        "A": ".250” (6.35mm)",
+        "B": "1.49” (37.84mm)",
+        "C": ".745” (18.92mm)",
+        "D": "6.375” (161.92mm)",
+        "E": ".375” (9.52mm)",
+        "F": "5.625” (142.87mm)",
+        "G": "M8 FHSCS",
+        "H": ".328” (8.33mm)"
+      },
+      "dimension_notes": "A = plate thickness, B = plate width, C = hole centerline to edge, D = overall length, E = end to outer hole, F = outer hole spacing, G = countersunk holes (for FHSCS), H = through hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6314",
+          "qty": 2,
+          "description": "M6 x 14mm BHSCS",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "11-8716",
+          "qty": 2,
+          "description": "M8 x 16mm FHSCS",
+          "context": "Mount Bracket to Carriage 6945-SC"
+        }
+      ],
+      "notes": "Badges printed: F and M (metric). Pairs with 45mm standard carriage 6945-SC. The 15 series suggested-hardware row is shared with the 40 series."
+    },
+    {
+      "part_number": "6901",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Offset Plate 30mm and 45mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-114",
+      "description": "Aluminum offset plate that mounts to the 30mm standard carriage and to T-slot profile, providing close bar to bar connections and easy carriage preload adjustment.",
+      "features": [
+        "Mount to standard carriage 30mm, 45mm",
+        "Offset plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload",
+        "Provides close bar to bar connections"
+      ],
+      "material": "Aluminum",
+      "weight": ".163 lb (.0740 kg)",
+      "specs": {
+        "A": "1.500” (38.1mm)",
+        "B": "1.159” (29.43mm)",
+        "C": ".188” (4.77mm)",
+        "D": "3.150” (80.01mm)",
+        "E": ".257” (6.52mm)",
+        "F": ".375” (9.52mm)",
+        "G": ".534” (13.56mm)",
+        "H": ".257” (6.53mm)",
+        "J": "2.400” (60.96mm)",
+        "K": ".375” (9.52mm)"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg depth, C = plate thickness, D = overall length, ø E = hole diameter (TYP, 3 holes), ø H = slot width (TYP), J = slot center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6314",
+          "qty": 2,
+          "description": "M6 x 14mm BHSCS",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "11-6314",
+          "qty": 2,
+          "description": "M6 x 14mm BHSCS",
+          "context": "Mount Bracket to Carriage 6930-SC"
+        }
+      ],
+      "notes": "Badges printed: F and M (metric). Pairs with 30mm standard carriage 6930-SC. The 15 series suggested-hardware row is shared with the 40 series."
+    },
+    {
+      "part_number": "6903",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Offset Plate 30mm and 45mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-114",
+      "description": "Aluminum offset plate that mounts to the 45mm standard carriage and to T-slot profile, providing close bar to bar connections and easy carriage preload adjustment.",
+      "features": [
+        "Mount to standard carriage 30mm, 45mm",
+        "Offset plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload",
+        "Provides close bar to bar connections"
+      ],
+      "material": "Aluminum",
+      "weight": ".282 lb (.1280 kg)",
+      "specs": {
+        "A": "2.000” (50.8mm)",
+        "B": "1.750” (44.45mm)",
+        "C": ".188” (4.77mm)",
+        "D": "4.000” (101.6mm)",
+        "E": ".328” (8.33mm)",
+        "F": ".375” (9.52mm)",
+        "G": "1.125” (28.57mm)",
+        "H": ".257” (6.53mm)",
+        "J": "3.250 (82.55mm)",
+        "K": ".375” (9.52mm)"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg depth, C = plate thickness, D = overall length, ø E = hole diameter (TYP, 3 holes), ø H = slot width (TYP), J = slot center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6316",
+          "qty": 2,
+          "description": "M6 x 16mm BHSCS",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot (15 series)"
+        },
+        {
+          "part_number": "11-8318",
+          "qty": 2,
+          "description": "M8 x 18mm BHSCS",
+          "context": "Mount Bracket to Carriage 6945-SC"
+        }
+      ],
+      "notes": "Badges printed: F and M (metric). Pairs with 45mm standard carriage 6945-SC. J value is printed without an inch mark (3.250). The 15 series suggested-hardware row is shared with the 40 series."
+    },
+    {
+      "part_number": "6930-HC",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Carriage 30mm and 45mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-115",
+      "description": "30mm heavy-duty carriage with an aluminum body and hardened/ground steel rollers that mounts directly to the 30mm heavy-duty linear rail. Rated for 324 lbs load, 1.5 ft-lbs roll moment and up to 5m/second.",
+      "features": [
+        "Directly mount to heavy-duty linear rail 30mm, 45mm",
+        "Load capacity: 324 lbs (30mm) / 990 lbs (45mm)",
+        "Roll moment capacity: 1.5 ft-lbs (30mm) / 5 ft-lbs (45mm)",
+        "Temperature rating: -4° to 176° F",
+        "3 double row roller bearings made of carbon steel",
+        "Adjustable preload",
+        "Max speed: 5m/second (30mm) / 7m/second (45mm)"
+      ],
+      "material": "Aluminum body, hardened/ground steel roller",
+      "weight": ".198 lb (.0900 kg)",
+      "specs": {
+        "A": ".890” (22.60mm)",
+        "B": "1.100” (28.00mm)",
+        "C": "1.180” (30.00mm)",
+        "D": ".630” (15.90mm)",
+        "E": "3.420” (86.90mm)",
+        "F": "1.020” (26.00mm)",
+        "G": "1.000” (25.40mm)",
+        "H": "M5 x 0.80"
+      },
+      "dimension_notes": "E = overall carriage length, F = spacing between the threaded mounting holes, H = threaded mounting hole size",
+      "notes": "Badges printed: F and M (metric). Load capacity 324 lbs, roll moment capacity 1.5 ft-lbs, max speed 5m/second (30mm size). Catalog note: image and drawings show carriage installed on rail."
+    },
+    {
+      "part_number": "6945-HC",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Carriage 30mm and 45mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-115",
+      "description": "45mm heavy-duty carriage with an aluminum body and hardened/ground steel rollers that mounts directly to the 45mm heavy-duty linear rail. Rated for 990 lbs load, 5 ft-lbs roll moment and up to 7m/second.",
+      "features": [
+        "Directly mount to heavy-duty linear rail 30mm, 45mm",
+        "Load capacity: 324 lbs (30mm) / 990 lbs (45mm)",
+        "Roll moment capacity: 1.5 ft-lbs (30mm) / 5 ft-lbs (45mm)",
+        "Temperature rating: -4° to 176° F",
+        "3 double row roller bearings made of carbon steel",
+        "Adjustable preload",
+        "Max speed: 5m/second (30mm) / 7m/second (45mm)"
+      ],
+      "material": "Aluminum body, hardened/ground steel roller",
+      "weight": ".507 lb (.2300 kg)",
+      "specs": {
+        "A": "1.020” (25.80mm)",
+        "B": "1.300” (33.00mm)",
+        "C": "1.770” (45.00mm)",
+        "D": ".800” (20.40mm)",
+        "E": "4.610” (117.00mm)",
+        "F": "1.420” (36.00mm)",
+        "G": "1.500” (38.10mm)",
+        "H": "M8 x 1.25"
+      },
+      "dimension_notes": "E = overall carriage length, F = spacing between the threaded mounting holes, H = threaded mounting hole size",
+      "notes": "Badges printed: F and M (metric). Load capacity 990 lbs, roll moment capacity 5 ft-lbs, max speed 7m/second (45mm size). Catalog note: image and drawings show carriage installed on rail."
+    }
+  ],
+  "page_notes": {
+    "657": "Bi-Directional Steel Roller Track Narrow R40-RT48BD and Staggered Steel Roller Track Wide R85-RT96SR (badged F/M/P) extracted; cut-to-length service MOD-VCOTH (F/M) extracted once.",
+    "658": "Straight, Center and Lateral Roller Guides R40-SGUIDE, R40-CGUIDE, R40-GUIDE (badged F/M/P) extracted; MOD-VCOTH service repeated (already extracted).",
+    "659": "Roller Decelerator R40-SLOW (F/M/P) extracted; Track Mount Start Narrow R40-MS skipped (badged 10/25/P only) along with its 10/metric/P suggested hardware.",
+    "665": "Standard Carriage 30mm and 45mm 6930-SC and 6945-SC (F/M) extracted; Preload Adjustment Wrench 6081/6082 has no series badge and is recorded in the carriage notes only.",
+    "666": "Standard Rail 30mm and 45mm 6930-SR and 6945-SR (F/M) extracted with the 15 series suggested T-slot hardware rows; 10/25/30/45 rows skipped; included machining services 7614/7616 (no series badge) recorded in notes.",
+    "667": "Standard Flat (Inline) Plate 6900 and 6902 (F/M) extracted; 15 series T-slot hardware rows and bracket-to-carriage FHSCS rows attached; 10/25/30/45 rows skipped.",
+    "668": "Standard Offset Plate 6901 and 6903 (F/M) extracted; 15 series T-slot hardware rows and bracket-to-carriage BHSCS rows attached; 10/25/30/45 rows skipped.",
+    "669": "Heavy-Duty Carriage 30mm and 45mm 6930-HC and 6945-HC (F/M) extracted."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "R85-RT96SR: description 'consistent contact with the conveyed material' -> 'consistent contact' (matches printed bullet)",
+      "6901: description 'offset (angle) plate' -> 'offset plate' (angle not stated on page)",
+      "6903: description 'offset (angle) plate' -> 'offset plate' (angle not stated on page)"
+    ],
+    "remaining_doubts": [
+      "Preload Adjustment Wrench 6081 (30mm) / 6082 (45mm) on page 7-111 has no Series column or badge; left out as standalone parts and recorded only in the 6930-SC/6945-SC notes. Add them if unbadged accessories of F parts should be catalogued.",
+      "Included Standard Machining Services 7614 Cut-to-Size and 7616 Offset (page 7-112) carry no series badge; kept in 6930-SR/6945-SR notes rather than as machining_service parts.",
+      "Bracket-to-carriage bolts (11-6714, 11-8716, 11-6314, 11-8318) come from tables with no series column; attached to the F plates they are listed for.",
+      "Roller track, roller guides and decelerator are categorized linear_motion (Motion Systems section); they are conveyor-type parts and could arguably be accessory/other."
+    ]
+  }
+}

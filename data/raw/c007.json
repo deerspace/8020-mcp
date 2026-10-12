@@ -1,0 +1,824 @@
+{
+  "chunk": "c007",
+  "pages": [
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201
+  ],
+  "parts": [
+    {
+      "part_number": "4510",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Straight Transition Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-30",
+      "description": "Clear anodized aluminum 2 hole straight flat plate that connects a 10 series profile to a 15 series profile; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or 25 to 40 profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".043 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.000”",
+        "C": ".750”",
+        "D": ".500”",
+        "E": ".500”",
+        "F": ".257”",
+        "G": ".188”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of one hole and H = diameter of the other hole, D = end to F hole center, C = opposite end to H hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3435",
+          "qty": 1,
+          "description": "5/16-18 x 5/8” BHSCS, Washer, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Metric 25 to 40 equivalent is 65-4510 (not extracted)."
+    },
+    {
+      "part_number": "4510-Black",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Straight Transition Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-30",
+      "description": "Black anodized aluminum 2 hole straight flat plate that connects a 10 series profile to a 15 series profile; no machining required and it can be pre-loaded to simplify assembly.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or 25 to 40 profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".043 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.000”",
+        "C": ".750”",
+        "D": ".500”",
+        "E": ".500”",
+        "F": ".257”",
+        "G": ".188”",
+        "H": ".328”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of one hole and H = diameter of the other hole, D = end to F hole center, C = opposite end to H hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3435",
+          "qty": 1,
+          "description": "5/16-18 x 5/8” BHSCS, Washer, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Metric 25 to 40 equivalent is 65-4510-Black (not extracted)."
+    },
+    {
+      "part_number": "4521",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Straight Transition Flat Plate with Flush Offset",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-31",
+      "description": "Clear anodized aluminum 2 hole straight plate with a stepped (flush offset) section that connects a 10 series profile to a 15 series profile; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".122 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": ".250”",
+        "E": ".750”",
+        "F": ".257”",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".328”"
+      },
+      "dimension_notes": "A = overall length, B = width, F and K = hole diameters, C = end to K hole center, D = opposite end to F hole center, E = side edge to hole center (typ.), J = length of the offset (thicker) section, G = thickness at the offset section, H = thickness of the thin section",
+      "suggested_hardware": [
+        {
+          "part_number": "3384",
+          "qty": 1,
+          "description": "1/4-20 x 3/4” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. No metric version on this page."
+    },
+    {
+      "part_number": "4521-Black",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Straight Transition Flat Plate with Flush Offset",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-31",
+      "description": "Black anodized aluminum 2 hole straight plate with a stepped (flush offset) section that connects a 10 series profile to a 15 series profile; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".122 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".500”",
+        "D": ".250”",
+        "E": ".750”",
+        "F": ".257”",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".328”"
+      },
+      "dimension_notes": "A = overall length, B = width, F and K = hole diameters, C = end to K hole center, D = opposite end to F hole center, E = side edge to hole center (typ.), J = length of the offset (thicker) section, G = thickness at the offset section, H = thickness of the thin section",
+      "suggested_hardware": [
+        {
+          "part_number": "3384",
+          "qty": 1,
+          "description": "1/4-20 x 3/4” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. No metric version on this page."
+    },
+    {
+      "part_number": "4522",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Straight Slotted Transition Flat Plate with Flush Offset",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-32",
+      "description": "Clear anodized aluminum 2 hole straight plate with a flush offset that connects a 10 series profile to a 15 series profile; one hole is slotted for added adjustability and no machining is required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series profiles",
+        "Pre-load to simplify assembly",
+        "Slotted holes allow for added degree of adjustability"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".117 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".312”",
+        "E": ".750”",
+        "F": ".328”",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".375”",
+        "L": ".141”"
+      },
+      "dimension_notes": "A = overall length, B = width, F = round hole diameter, L = slot end radius, K = slot center-to-center length (between the centers of the slot end radii), C = end to round hole center, D = opposite end to the nearer slot end-radius center, E = side edge to hole/slot center (typ.), J = length of the offset (thicker) section, G = thickness at the offset section, H = thickness of the thin section",
+      "suggested_hardware": [
+        {
+          "part_number": "3384",
+          "qty": 1,
+          "description": "1/4-20 x 3/4” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. No metric version on this page."
+    },
+    {
+      "part_number": "4522-Black",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Straight Slotted Transition Flat Plate with Flush Offset",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-32",
+      "description": "Black anodized aluminum 2 hole straight plate with a flush offset that connects a 10 series profile to a 15 series profile; one hole is slotted for added adjustability and no machining is required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series profiles",
+        "Pre-load to simplify assembly",
+        "Slotted holes allow for added degree of adjustability"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".117 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "1.500”",
+        "C": ".750”",
+        "D": ".312”",
+        "E": ".750”",
+        "F": ".328”",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": ".375”",
+        "L": ".141”"
+      },
+      "dimension_notes": "A = overall length, B = width, F = round hole diameter, L = slot end radius, K = slot center-to-center length (between the centers of the slot end radii), C = end to round hole center, D = opposite end to the nearer slot end-radius center, E = side edge to hole/slot center (typ.), J = length of the offset (thicker) section, G = thickness at the offset section, H = thickness of the thin section",
+      "suggested_hardware": [
+        {
+          "part_number": "3384",
+          "qty": 1,
+          "description": "1/4-20 x 3/4” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. No metric version on this page."
+    },
+    {
+      "part_number": "4506",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Straight Transition Flat Plate Small Series Primary",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-33",
+      "description": "Clear anodized aluminum 3 hole straight flat plate that connects a 10 series profile to a 15 series profile, with two smaller H holes and one larger F hole; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or 25 to 40 profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".078 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": ".875”",
+        "C": "1.250”",
+        "D": ".750”",
+        "E": ".438”",
+        "F": ".328”",
+        "G": ".250”",
+        "H (Qty.)": ".257” (2)",
+        "J": ".500”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of the single hole, H = diameter of the two typ. holes, C = spacing between the two H holes, J = end to nearest H hole center, D = opposite end to F hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Metric 25 to 40 equivalent is 65-4506 (not extracted)."
+    },
+    {
+      "part_number": "4506-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Straight Transition Flat Plate Small Series Primary",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-33",
+      "description": "Black anodized aluminum 3 hole straight flat plate that connects a 10 series profile to a 15 series profile, with two smaller H holes and one larger F hole; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or 25 to 40 profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".078 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": ".875”",
+        "C": "1.250”",
+        "D": ".750”",
+        "E": ".438”",
+        "F": ".328”",
+        "G": ".250”",
+        "H (Qty.)": ".257” (2)",
+        "J": ".500”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of the single hole, H = diameter of the two typ. holes, C = spacing between the two H holes, J = end to nearest H hole center, D = opposite end to F hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Metric 25 to 40 equivalent is 65-4506-Black (not extracted)."
+    },
+    {
+      "part_number": "4505",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Straight Transition Flat Plate Large Series Primary",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-34",
+      "description": "Clear anodized aluminum 3 hole straight flat plate that connects a 10 series profile to a 15 series profile, with one smaller F hole and two larger H holes; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or 25 to 40 profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".078 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": ".875”",
+        "C": "1.500”",
+        "D": ".500”",
+        "E": ".438”",
+        "F": ".257”",
+        "G": ".250”",
+        "H (Qty.)": ".328” (2)",
+        "J": ".750”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of the single hole, H = diameter of the two typ. holes, C = spacing between the two H holes, J = end to nearest H hole center, D = opposite end to F hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Metric 25 to 40 equivalent is 65-4505 (not extracted)."
+    },
+    {
+      "part_number": "4505-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Straight Transition Flat Plate Large Series Primary",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-34",
+      "description": "Black anodized aluminum 3 hole straight flat plate that connects a 10 series profile to a 15 series profile, with one smaller F hole and two larger H holes; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or 25 to 40 profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".078 lb",
+      "specs": {
+        "A": "4.000”",
+        "B": ".875”",
+        "C": "1.500”",
+        "D": ".500”",
+        "E": ".438”",
+        "F": ".257”",
+        "G": ".250”",
+        "H (Qty.)": ".328” (2)",
+        "J": ".750”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of the single hole, H = diameter of the two typ. holes, C = spacing between the two H holes, J = end to nearest H hole center, D = opposite end to F hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 1,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Metric 25 to 40 equivalent is 65-4505-Black (not extracted)."
+    },
+    {
+      "part_number": "4514",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Straight Transition Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-35",
+      "description": "Clear anodized aluminum 4 hole straight flat plate that connects a 10 series profile to a 15 series profile, with two smaller F holes and two larger H holes; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".114 lb",
+      "specs": {
+        "A": "5.000”",
+        "B": "1.000”",
+        "C": "1.000”",
+        "D": ".500”",
+        "E": ".500”",
+        "F (Qty.)": ".257” (2)",
+        "G": ".250”",
+        "H (Qty.)": ".328” (2)",
+        "J": "1.500”",
+        "K": ".750”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of the two F holes, H = diameter of the two H holes, D = end to nearest F hole center, C = spacing between the F holes, J = spacing between the H holes, K = opposite end to nearest H hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. No metric version on this page."
+    },
+    {
+      "part_number": "4514-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Straight Transition Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-35",
+      "description": "Black anodized aluminum 4 hole straight flat plate that connects a 10 series profile to a 15 series profile, with two smaller F holes and two larger H holes; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".114 lb",
+      "specs": {
+        "A": "5.000”",
+        "B": "1.000”",
+        "C": "1.000”",
+        "D": ".500”",
+        "E": ".500”",
+        "F (Qty.)": ".257” (2)",
+        "G": ".250”",
+        "H (Qty.)": ".328” (2)",
+        "J": "1.500”",
+        "K": ".750”"
+      },
+      "dimension_notes": "A = overall length, B = width, G = thickness, F = diameter of the two F holes, H = diameter of the two H holes, D = end to nearest F hole center, C = spacing between the F holes, J = spacing between the H holes, K = opposite end to nearest H hole center, E = side edge to hole center (typ.)",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. No metric version on this page."
+    },
+    {
+      "part_number": "4515",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Rectangular Transition Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-36",
+      "description": "Clear anodized aluminum 4 hole rectangular flat plate that connects a 10 series profile to a 15 series profile, with a pair of smaller F holes along one edge and a pair of larger L holes along the other; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".173 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "3.000”",
+        "C": "1.000”",
+        "D": ".500”",
+        "E": "1.000”",
+        "F (Qty.)": ".257” (2)",
+        "G": ".250”",
+        "H": "1.500”",
+        "J": ".750”",
+        "K": ".750”",
+        "L (Qty.)": ".328” (2)"
+      },
+      "dimension_notes": "A = height, B = width, G = thickness, F = diameter of the two F holes, L = diameter of the two L holes, C = spacing between the F holes, E = side edge to first F hole center, D = edge to F hole centers, H = spacing between the L holes, K = side edge to first L hole center, J = opposite edge to L hole centers",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Feature bullet is printed verbatim as 'Connects 10 to 15 series or profiles' (wording appears truncated in the catalog). No metric version on this page."
+    },
+    {
+      "part_number": "4515-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Rectangular Transition Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-36",
+      "description": "Black anodized aluminum 4 hole rectangular flat plate that connects a 10 series profile to a 15 series profile, with a pair of smaller F holes along one edge and a pair of larger L holes along the other; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".173 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "3.000”",
+        "C": "1.000”",
+        "D": ".500”",
+        "E": "1.000”",
+        "F (Qty.)": ".257” (2)",
+        "G": ".250”",
+        "H": "1.500”",
+        "J": ".750”",
+        "K": ".750”",
+        "L (Qty.)": ".328” (2)"
+      },
+      "dimension_notes": "A = height, B = width, G = thickness, F = diameter of the two F holes, L = diameter of the two L holes, C = spacing between the F holes, E = side edge to first F hole center, D = edge to F hole centers, H = spacing between the L holes, K = side edge to first L hole center, J = opposite edge to L hole centers",
+      "suggested_hardware": [
+        {
+          "part_number": "3321",
+          "qty": 2,
+          "description": "1/4-20 x 1/2” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Feature bullet is printed verbatim as 'Connects 10 to 15 series or profiles' (wording appears truncated in the catalog). No metric version on this page."
+    },
+    {
+      "part_number": "4523",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Rectangular Transition Flat Plate with Flush Offset",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-37",
+      "description": "Clear anodized aluminum 4 hole rectangular plate with a stepped (flush offset) section that connects a 10 series profile to a 15 series profile, with a pair of smaller F holes and a pair of larger N holes; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".243 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "3.000”",
+        "C": "1.000”",
+        "D": ".500”",
+        "E": "1.000”",
+        "F (Qty.)": ".257” (2)",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": "1.500”",
+        "L": ".750”",
+        "M": ".750”",
+        "N": ".328”"
+      },
+      "dimension_notes": "A = height, B = width, F = diameter of the two F holes, N = diameter of the other two holes, C = spacing between the F holes, E = side edge to first F hole center, D = edge to F hole centers, K = spacing between the N holes, M = side edge to first N hole center, L = opposite edge to N hole centers, J = height of the offset (thicker) section, G = thickness at the offset section, H = thickness of the thin section",
+      "suggested_hardware": [
+        {
+          "part_number": "3384",
+          "qty": 2,
+          "description": "1/4-20 x 3/4” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Feature bullet is printed verbatim as 'Connects 10 to 15 series or profiles' (wording appears truncated in the catalog). N column has no (Qty.) marker although the drawing shows two N-size holes. No metric version on this page."
+    },
+    {
+      "part_number": "4523-Black",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Rectangular Transition Flat Plate with Flush Offset",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-37",
+      "description": "Black anodized aluminum 4 hole rectangular plate with a stepped (flush offset) section that connects a 10 series profile to a 15 series profile, with a pair of smaller F holes and a pair of larger N holes; no machining required.",
+      "features": [
+        "No machining required",
+        "Connects 10 to 15 series or profiles",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".243 lb",
+      "specs": {
+        "A": "2.500”",
+        "B": "3.000”",
+        "C": "1.000”",
+        "D": ".500”",
+        "E": "1.000”",
+        "F (Qty.)": ".257” (2)",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "1.000”",
+        "K": "1.500”",
+        "L": ".750”",
+        "M": ".750”",
+        "N": ".328”"
+      },
+      "dimension_notes": "A = height, B = width, F = diameter of the two F holes, N = diameter of the other two holes, C = spacing between the F holes, E = side edge to first F hole center, D = edge to F hole centers, K = spacing between the N holes, M = side edge to first N hole center, L = opposite edge to N hole centers, J = height of the offset (thicker) section, G = thickness at the offset section, H = thickness of the thin section",
+      "suggested_hardware": [
+        {
+          "part_number": "3384",
+          "qty": 2,
+          "description": "1/4-20 x 3/4” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge printed as '10 to 15' (transition plate). Both suggested hardware rows sit under one merged '10 to 15' badge. Feature bullet is printed verbatim as 'Connects 10 to 15 series or profiles' (wording appears truncated in the catalog). N column has no (Qty.) marker although the drawing shows two N-size holes. No metric version on this page."
+    }
+  ],
+  "page_notes": {
+    "194": "2 Hole - Straight Transition Flat Plate (4-30): 4510 and 4510-Black (badged 10 to 15) extracted; metric 25 to 40 rows 65-4510/-Black skipped. Suggested hardware 3321 and 3435 (10 to 15) attached; metric 75-3404/75-3422 skipped.",
+    "195": "2 Hole - Straight Transition Flat Plate with Flush Offset (4-31): 4521 and 4521-Black (10 to 15) extracted. Suggested hardware 3384 and 3320 (10 to 15) attached.",
+    "196": "2 Hole - Straight Slotted Transition Flat Plate with Flush Offset (4-32): 4522 and 4522-Black (10 to 15) extracted. Suggested hardware 3384 and 3320 (10 to 15) attached.",
+    "197": "3 Hole - Straight Transition Flat Plate Small Series Primary (4-33): 4506 and 4506-Black (10 to 15) extracted; metric 65-4506/-Black skipped. Suggested hardware 3321 x2 and 3320 x1 attached; metric 75-3405/75-3422 skipped.",
+    "198": "3 Hole - Straight Transition Flat Plate Large Series Primary (4-34): 4505 and 4505-Black (10 to 15) extracted; metric 65-4505/-Black skipped. Suggested hardware 3321 x1 and 3320 x2 attached; metric 75-3405/75-3422 skipped.",
+    "199": "4 Hole - Straight Transition Flat Plate (4-35): 4514 and 4514-Black (10 to 15) extracted. Suggested hardware 3321 x2 and 3320 x2 attached.",
+    "200": "4 Hole - Rectangular Transition Flat Plate (4-36): 4515 and 4515-Black (10 to 15) extracted. Suggested hardware 3321 x2 and 3320 x2 attached.",
+    "201": "4 Hole - Rectangular Transition Flat Plate with Flush Offset (4-37): 4523 and 4523-Black (10 to 15) extracted. Suggested hardware 3384 x2 and 3320 x2 attached."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4522: dimension_notes 'K = slot length dimension ... D = opposite end to slot' -> 'K = slot center-to-center length ... D = opposite end to the nearer slot end-radius center' (per drawing extension lines)",
+      "4522-Black: dimension_notes 'K = slot length dimension ... D = opposite end to slot' -> 'K = slot center-to-center length ... D = opposite end to the nearer slot end-radius center' (per drawing extension lines)"
+    ],
+    "remaining_doubts": [
+      "All 16 rows are badged '10 to 15' (transition plates); recorded as series ['15'] because '10' is not an allowed series value.",
+      "4521/4521-Black: printed D = .250” although the drawing places the F hole near the middle of the 1.000” J section; printed value kept as-is.",
+      "4523/4523-Black: N column has no (Qty.) marker although two N-size holes are drawn; value .328” kept verbatim."
+    ]
+  }
+}

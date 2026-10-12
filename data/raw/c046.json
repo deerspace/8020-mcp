@@ -1,0 +1,1240 @@
+{
+  "chunk": "c046",
+  "pages": [
+    532,
+    533,
+    534,
+    535,
+    537,
+    538,
+    539,
+    540
+  ],
+  "parts": [
+    {
+      "part_number": "2904",
+      "series": [
+        "F"
+      ],
+      "name": "Wedge Floor Anchor",
+      "category": "hardware_other",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Zinc-finished steel wedge anchor used to mount fixtures directly to a solid concrete surface. Supplied with a washer and hex nut.",
+      "features": [
+        "Used to mount fixtures directly to solid concrete surface",
+        "Includes washer and hex nut"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".033 lb",
+      "specs": {
+        "A": "1.750”",
+        "B": ".750”",
+        "C": "1.125”",
+        "D": "1/4-20",
+        "Tension": "1771.00 lb",
+        "Shear": "1813.00 lb"
+      },
+      "dimension_notes": "A = overall length, C = minimum embedment, D = thread size",
+      "notes": "Includes washer and hex nut. Tension and Shear are the listed load ratings."
+    },
+    {
+      "part_number": "2905",
+      "series": [
+        "F"
+      ],
+      "name": "Wedge Floor Anchor",
+      "category": "hardware_other",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Zinc-finished steel wedge anchor used to mount fixtures directly to a solid concrete surface. Supplied with a washer and hex nut.",
+      "features": [
+        "Used to mount fixtures directly to solid concrete surface",
+        "Includes washer and hex nut"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".049 lb",
+      "specs": {
+        "A": "3.250”",
+        "B": "2.250”",
+        "C": "1.125”",
+        "D": "1/4-20",
+        "Tension": "2748.00 lb",
+        "Shear": "2813.00 lb"
+      },
+      "dimension_notes": "A = overall length, C = minimum embedment, D = thread size",
+      "notes": "Includes washer and hex nut. Tension and Shear are the listed load ratings."
+    },
+    {
+      "part_number": "2901",
+      "series": [
+        "F"
+      ],
+      "name": "Wedge Floor Anchor",
+      "category": "hardware_other",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Zinc-finished steel wedge anchor used to mount fixtures directly to a solid concrete surface. Supplied with a washer and hex nut.",
+      "features": [
+        "Used to mount fixtures directly to solid concrete surface",
+        "Includes washer and hex nut"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".095 lb",
+      "specs": {
+        "A": "2.750”",
+        "B": "1.315”",
+        "C": "1.500”",
+        "D": "3/8-16",
+        "Tension": "3219.00 lb",
+        "Shear": "4029.00 lb"
+      },
+      "dimension_notes": "A = overall length, C = minimum embedment, D = thread size",
+      "notes": "Includes washer and hex nut. Tension and Shear are the listed load ratings."
+    },
+    {
+      "part_number": "2902",
+      "series": [
+        "F"
+      ],
+      "name": "Wedge Floor Anchor",
+      "category": "hardware_other",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Zinc-finished steel wedge anchor used to mount fixtures directly to a solid concrete surface. Supplied with a washer and hex nut.",
+      "features": [
+        "Used to mount fixtures directly to solid concrete surface",
+        "Includes washer and hex nut"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".121 lb",
+      "specs": {
+        "A": "3.750”",
+        "B": "2.315”",
+        "C": "1.500”",
+        "D": "3/8-16",
+        "Tension": "5678.00 lb",
+        "Shear": "4305.00 lb"
+      },
+      "dimension_notes": "A = overall length, C = minimum embedment, D = thread size",
+      "notes": "Includes washer and hex nut. Tension and Shear are the listed load ratings."
+    },
+    {
+      "part_number": "2906",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Wedge Floor Anchor",
+      "category": "hardware_other",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Zinc-finished steel wedge anchor used to mount fixtures directly to a solid concrete surface. Supplied with a washer and hex nut.",
+      "features": [
+        "Used to mount fixtures directly to solid concrete surface",
+        "Includes washer and hex nut"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".229 lb",
+      "specs": {
+        "A": "3.750”",
+        "B": "1.837”",
+        "C": "2.250”",
+        "D": "1/2-13",
+        "Tension": "5384.00 lb",
+        "Shear": "6900.00 lb"
+      },
+      "dimension_notes": "A = overall length, C = minimum embedment, D = thread size",
+      "notes": "Includes washer and hex nut. Tension and Shear are the listed load ratings. Badged F and RT (merged series cell covering 2906, 2907, 2908)."
+    },
+    {
+      "part_number": "2907",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Wedge Floor Anchor",
+      "category": "hardware_other",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Zinc-finished steel wedge anchor used to mount fixtures directly to a solid concrete surface. Supplied with a washer and hex nut.",
+      "features": [
+        "Used to mount fixtures directly to solid concrete surface",
+        "Includes washer and hex nut"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".307 lb",
+      "specs": {
+        "A": "5.500”",
+        "B": "3.587”",
+        "C": "2.250”",
+        "D": "1/2-13",
+        "Tension": "7333.00 lb",
+        "Shear": "7449.00 lb"
+      },
+      "dimension_notes": "A = overall length, C = minimum embedment, D = thread size",
+      "notes": "Includes washer and hex nut. Tension and Shear are the listed load ratings. Badged F and RT (merged series cell covering 2906, 2907, 2908)."
+    },
+    {
+      "part_number": "2908",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Wedge Floor Anchor",
+      "category": "hardware_other",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Zinc-finished steel wedge anchor used to mount fixtures directly to a solid concrete surface. Supplied with a washer and hex nut.",
+      "features": [
+        "Used to mount fixtures directly to solid concrete surface",
+        "Includes washer and hex nut"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": ".371 lb",
+      "specs": {
+        "A": "7.000”",
+        "B": "5.087”",
+        "C": "2.250”",
+        "D": "1/2-13",
+        "Tension": "9003.00 lb",
+        "Shear": "7998.00 lb"
+      },
+      "dimension_notes": "A = overall length, C = minimum embedment, D = thread size",
+      "notes": "Includes washer and hex nut. Tension and Shear are the listed load ratings. Badged F and RT (merged series cell covering 2906, 2907, 2908)."
+    },
+    {
+      "part_number": "12192",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Extended Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-20",
+      "description": "Black powder coated die cast zinc extended swivel foot base that secures directly to a concrete floor with a wedge anchor. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Secures directly to concrete floor with a wedge anchor",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Black Powder Coated",
+      "color": "Black",
+      "weight": ".969 lb",
+      "specs": {
+        "Process": "Die-Casting",
+        "A": "3.110”",
+        "B": ".709”",
+        "C": ".079”",
+        "D": "5.275”",
+        "E": "2.559”",
+        "F": ".445”",
+        "G": ".551”",
+        "Load Capacity": "6600.00 lb"
+      },
+      "dimension_notes": "ø A = diameter of the round end, D = overall length, ø G = hole diameter",
+      "notes": "Load capacity 6600.00 lb. Requires threaded stem (pg. 6-18); anchor with a wedge floor anchor (pg. 6-20). Also badged metric (M)."
+    },
+    {
+      "part_number": "12194",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Trapezoid Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-21",
+      "description": "Heavy-duty black powder coated die cast zinc swivel foot base with a rubber pad that resists vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with rubber pad provides resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Black Powder Coated",
+      "weight": ".480 lb",
+      "specs": {
+        "Process": "Die-Casting",
+        "A": ".866”",
+        "B": "2.992”",
+        "C": ".079”",
+        "Load Capacity": "6600.00 lb"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter",
+      "notes": "Load capacity 6600.00 lb. Requires threaded stem (pg. 6-18). Can be held in place with the trapezoid base anchor 12168. Also badged metric (M)."
+    },
+    {
+      "part_number": "12168",
+      "series": [
+        "F"
+      ],
+      "name": "Trapezoid Base Anchor",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-21",
+      "description": "Black powder coated die cast zinc anchor plate that securely holds the swivel foot trapezoid base in place when used with a wedge floor anchor (pg. 6-20). The base can be repositioned without detaching the anchor.",
+      "features": [
+        "Used with swivel foot trapezoid base securely holds in place when used with wedge floor anchor (pg. 6-20)",
+        "Enables repositioning without having to detach anchor"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Black Powder Coated",
+      "weight": "1.080 lb",
+      "specs": {
+        "Process": "Die-Casting",
+        "A": "2.126”",
+        "B": ".551”",
+        "C": "2.992”",
+        "D": "2.756”",
+        "E": "1.890”",
+        "F": "5.905”",
+        "G": ".787”",
+        "H": "45º",
+        "J": ".590”"
+      },
+      "dimension_notes": "ø A = cutout diameter, ø B = anchor hole diameter, C = plate width, F = overall length, G = overall thickness, H = angle (degrees)",
+      "notes": "For use with swivel foot trapezoid base 12194 and a wedge floor anchor (pg. 6-20). Also badged metric (M)."
+    },
+    {
+      "part_number": "14002",
+      "series": [
+        "15"
+      ],
+      "name": "Die-Cast Floor Bracket - Non-Adjustable",
+      "category": "bracket_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-22",
+      "description": "Non-adjustable black die cast zinc floor bracket that mounts directly to T-slot profile. It is used with wedge floor anchors (pg. 6-20) to fix a frame to the floor.",
+      "features": [
+        "Used with wedge floor anchors (pg. 6-20); Mounts directly to T-slot profile"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coated",
+      "color": "Black",
+      "weight": ".1932 kg",
+      "specs": {
+        "Process": "Die-Casting",
+        "A": "15.20mm",
+        "B": "45.30mm",
+        "C": "120.80mm",
+        "D": "10.10mm",
+        "E": "10.10mm",
+        "F": "30.20mm",
+        "G": "28.20mm"
+      },
+      "dimension_notes": "C = overall base length",
+      "suggested_hardware": [
+        {
+          "part_number": "3493",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 SHCS, Economy T-nut (bolt assembly)",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Dimensions are printed in mm. Also badged for metric 30 and 40 series. Adjustable counterpart is 14003."
+    },
+    {
+      "part_number": "14006",
+      "series": [
+        "15"
+      ],
+      "name": "Die-Cast Floor Bracket - Non-Adjustable",
+      "category": "bracket_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-22",
+      "description": "Non-adjustable black die cast zinc floor bracket that mounts directly to T-slot profile. It is used with wedge floor anchors (pg. 6-20) to fix a frame to the floor.",
+      "features": [
+        "Used with wedge floor anchors (pg. 6-20); Mounts directly to T-slot profile"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Black",
+      "color": "Black",
+      "weight": ".2123 kg",
+      "specs": {
+        "Process": "Formed",
+        "A": "20.00mm",
+        "B": "60.00mm",
+        "C": "160.00mm",
+        "D": "11.10mm",
+        "E": "8.00mm",
+        "F": "40.00mm",
+        "G": "40.00mm"
+      },
+      "dimension_notes": "C = overall base length",
+      "suggested_hardware": [
+        {
+          "part_number": "3454",
+          "qty": 2,
+          "description": "5/16-18 x 5/8 SHCS, Economy T-nut (bolt assembly)",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Dimensions are printed in mm. Process printed as Formed and finish as Black for this row (other rows are Die-Casting / Powder Coated). Also badged for metric 40 series. Adjustable counterpart is 14007."
+    },
+    {
+      "part_number": "14003",
+      "series": [
+        "15"
+      ],
+      "name": "Die-Cast Floor Bracket - Adjustable",
+      "category": "bracket_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-22",
+      "description": "Adjustable black powder coated die cast zinc floor bracket that mounts directly to T-slot profile and is used with wedge floor anchors (pg. 6-20). An included screw and stop plate let the fixture be adjusted up and down without lifting the entire fixture.",
+      "features": [
+        "Used with wedge floor anchors (pg. 6-20); Mounts directly to T-slot profile",
+        "Adjustable include screw and stop plate for adjusting up and down without having to lift entire fixture"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coated",
+      "color": "Black",
+      "weight": ".2122 kg",
+      "specs": {
+        "Process": "Die-Casting",
+        "A": "15.20mm",
+        "B": "45.30mm",
+        "C": "120.80mm",
+        "D": "10.10mm",
+        "E": "10.10mm",
+        "F": "30.20mm",
+        "G": "28.20mm",
+        "H": "11.50mm",
+        "Lifting Height": "52.00mm"
+      },
+      "dimension_notes": "C = overall base length",
+      "suggested_hardware": [
+        {
+          "part_number": "3493",
+          "qty": 2,
+          "description": "1/4-20 x 5/8 SHCS, Economy T-nut (bolt assembly)",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Dimensions are printed in mm. Lifting height 52.00mm. Includes adjusting screw and stop plate. Also badged for metric 30 and 40 series. Non-adjustable counterpart is 14002."
+    },
+    {
+      "part_number": "14007",
+      "series": [
+        "15"
+      ],
+      "name": "Die-Cast Floor Bracket - Adjustable",
+      "category": "bracket_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-22",
+      "description": "Adjustable black powder coated die cast zinc floor bracket that mounts directly to T-slot profile and is used with wedge floor anchors (pg. 6-20). An included screw and stop plate let the fixture be adjusted up and down without lifting the entire fixture.",
+      "features": [
+        "Used with wedge floor anchors (pg. 6-20); Mounts directly to T-slot profile",
+        "Adjustable include screw and stop plate for adjusting up and down without having to lift entire fixture"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coated",
+      "color": "Black",
+      "weight": ".5175 kg",
+      "specs": {
+        "Process": "Die-Casting",
+        "A": "20.00mm",
+        "B": "60.00mm",
+        "C": "160.00mm",
+        "D": "10.30mm",
+        "E": "8.60mm",
+        "F": "40.00mm",
+        "G": "38.00mm",
+        "H": "15.00mm",
+        "Lifting Height": "72.00mm"
+      },
+      "dimension_notes": "C = overall base length",
+      "suggested_hardware": [
+        {
+          "part_number": "3454",
+          "qty": 2,
+          "description": "5/16-18 x 5/8 SHCS, Economy T-nut (bolt assembly)",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Dimensions are printed in mm. Lifting height 72.00mm. Includes adjusting screw and stop plate. Also badged for metric 40 series. Non-adjustable counterpart is 14006."
+    },
+    {
+      "part_number": "14010",
+      "series": [
+        "15"
+      ],
+      "name": "Steel Floor Bracket",
+      "category": "bracket_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-23",
+      "description": "Stamped and formed zinc-plated steel floor bracket that attaches directly to T-slot profile. Wedge anchors (pg. 6-20) mount the bracket directly to the floor.",
+      "features": [
+        "Attaches directly to T-slot profile",
+        "Use wedge anchors (pg. 6-20) to mount bracket directly to floor"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".4273 kg",
+      "specs": {
+        "Process": "Stamped and Formed",
+        "A": "29.00mm",
+        "B": "13.00mm",
+        "C": "12.00mm",
+        "D": "87.00mm",
+        "E": "14.00mm",
+        "F": "150.00mm",
+        "G": "145.78°",
+        "H": "53.00mm",
+        "J": "31.00mm",
+        "K": "19.50mm",
+        "L": "25.00mm",
+        "M": "39.00mm",
+        "N": "52.00mm",
+        "P": "18.50mm",
+        "Q": "200.00mm",
+        "R": "9.00mm"
+      },
+      "dimension_notes": "G = angle (degrees), Q = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3450",
+          "qty": 3,
+          "description": "5/16-18 x 1/2 SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Dimensions are printed in mm. Also badged for metric 40 and 45 series."
+    },
+    {
+      "part_number": "2426",
+      "series": [
+        "15"
+      ],
+      "name": "Flange Mount Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-25",
+      "description": "Milled 6063-T6 aluminum base plate for mounting a flange mount caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".765 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.750”",
+        "B": ".625”",
+        "C": "3.750”",
+        "D": ".405”",
+        "E": "2.940”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "5/16-18",
+        "J": "5/16 SHCS",
+        "K": "1.125”",
+        "L": ".750”",
+        "M": "3.000”"
+      },
+      "dimension_notes": "C = plate length, M = plate width, L = plate thickness, H = thread of tapped holes, J = drill thru & counterbore holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Drawing groups 2426 with 2419 (counterbored holes in a diamond pattern); 2420 is the square-pattern version."
+    },
+    {
+      "part_number": "2426-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Flange Mount Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-25",
+      "description": "Black anodized milled 6063-T6 aluminum base plate for mounting a flange mount caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".765 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.750”",
+        "B": ".625”",
+        "C": "3.750”",
+        "D": ".405”",
+        "E": "2.940”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "5/16-18",
+        "J": "5/16 SHCS",
+        "K": "1.125”",
+        "L": ".750”",
+        "M": "3.000”"
+      },
+      "dimension_notes": "C = plate length, M = plate width, L = plate thickness, H = thread of tapped holes, J = drill thru & counterbore holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Drawing groups 2426 with 2419 (counterbored holes in a diamond pattern)."
+    },
+    {
+      "part_number": "2420",
+      "series": [
+        "15"
+      ],
+      "name": "Flange Mount Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-25",
+      "description": "Milled 6063-T6 aluminum base plate for mounting a flange mount caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".762 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.750”",
+        "B": ".625”",
+        "C": "3.750”",
+        "D": ".405”",
+        "E": "2.940”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "5/16-18",
+        "J": "5/16 SHCS",
+        "K": "1.125”",
+        "L": ".750”",
+        "M": "3.000”"
+      },
+      "dimension_notes": "C = plate length, M = plate width, L = plate thickness, H = thread of tapped holes, J = drill thru & counterbore holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Drawing groups 2420 with 2418 (counterbored holes in a square pattern); 2426 is the diamond-pattern version."
+    },
+    {
+      "part_number": "2420-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Flange Mount Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-25",
+      "description": "Black anodized milled 6063-T6 aluminum base plate for mounting a flange mount caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".762 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.750”",
+        "B": ".625”",
+        "C": "3.750”",
+        "D": ".405”",
+        "E": "2.940”",
+        "F": ".750”",
+        "G": "1.500”",
+        "H": "5/16-18",
+        "J": "5/16 SHCS",
+        "K": "1.125”",
+        "L": ".750”",
+        "M": "3.000”"
+      },
+      "dimension_notes": "C = plate length, M = plate width, L = plate thickness, H = thread of tapped holes, J = drill thru & counterbore holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Drawing groups 2420 with 2418 (counterbored holes in a square pattern)."
+    },
+    {
+      "part_number": "2147",
+      "series": [
+        "15"
+      ],
+      "name": "Heavy-Duty Flange Mount Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-26",
+      "description": "Heavy-duty milled 6063-T6 aluminum base plate for mounting a flange mount caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.493 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": ".500”",
+        "C": "1.500”",
+        "D": ".500”",
+        "E": "1.250”",
+        "F": "5/16 SHCS",
+        "G": "3/8-16",
+        "H": "5.500”",
+        "J": "1.250”",
+        "K": ".750”",
+        "L": "4.000”"
+      },
+      "dimension_notes": "H = plate length, L = plate width, K = plate thickness, F = counterbored holes (for the listed SHCS), G = thread of tapped holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": "2 to 4",
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Suggested hardware quantities are printed as ranges."
+    },
+    {
+      "part_number": "2147-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Heavy-Duty Flange Mount Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-26",
+      "description": "Black anodized heavy-duty milled 6063-T6 aluminum base plate for mounting a flange mount caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": "1.493 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "3.000”",
+        "B": ".500”",
+        "C": "1.500”",
+        "D": ".500”",
+        "E": "1.250”",
+        "F": "5/16 SHCS",
+        "G": "3/8-16",
+        "H": "5.500”",
+        "J": "1.250”",
+        "K": ".750”",
+        "L": "4.000”"
+      },
+      "dimension_notes": "H = plate length, L = plate width, K = plate thickness, F = counterbored holes (for the listed SHCS), G = thread of tapped holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": "2 to 4",
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Suggested hardware quantities are printed as ranges."
+    },
+    {
+      "part_number": "2407",
+      "series": [
+        "15"
+      ],
+      "name": "Leveling Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-27",
+      "description": "Milled 6063-T6 aluminum base plate for mounting a leveling caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".567 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.122”",
+        "B": ".439”",
+        "C": "3.000”",
+        "D": ".358”",
+        "E": "2.284”",
+        "F": "1.500”",
+        "G": "1/4-20",
+        "H": "5/16 SHCS",
+        "J": ".750”",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = plate width, L = plate length, K = plate thickness, G = thread of tapped holes, H = counterbored holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Tapped holes (G, thread) are 1/4-20."
+    },
+    {
+      "part_number": "2407-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Leveling Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-27",
+      "description": "Black anodized milled 6063-T6 aluminum base plate for mounting a leveling caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".567 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.122”",
+        "B": ".439”",
+        "C": "3.000”",
+        "D": ".358”",
+        "E": "2.284”",
+        "F": "1.500”",
+        "G": "1/4-20",
+        "H": "5/16 SHCS",
+        "J": ".750”",
+        "K": ".750”",
+        "L": "3.000”"
+      },
+      "dimension_notes": "C = plate width, L = plate length, K = plate thickness, G = thread of tapped holes, H = counterbored holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Tapped holes (G, thread) are 1/4-20."
+    },
+    {
+      "part_number": "2408",
+      "series": [
+        "15"
+      ],
+      "name": "Leveling Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-27",
+      "description": "Milled 6063-T6 aluminum base plate for mounting a leveling caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".793 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.122”",
+        "B": ".689”",
+        "C": "3.500”",
+        "D": ".372”",
+        "E": "2.756”",
+        "F": "1.500”",
+        "G": "5/16-18",
+        "H": "5/16 SHCS",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "3.500”"
+      },
+      "dimension_notes": "C = plate width, L = plate length, K = plate thickness, G = thread of tapped holes, H = counterbored holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Tapped holes (G, thread) are 5/16-18."
+    },
+    {
+      "part_number": "2408-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Leveling Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-27",
+      "description": "Black anodized milled 6063-T6 aluminum base plate for mounting a leveling caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".793 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.122”",
+        "B": ".689”",
+        "C": "3.500”",
+        "D": ".372”",
+        "E": "2.756”",
+        "F": "1.500”",
+        "G": "5/16-18",
+        "H": "5/16 SHCS",
+        "J": "1.000”",
+        "K": ".750”",
+        "L": "3.500”"
+      },
+      "dimension_notes": "C = plate width, L = plate length, K = plate thickness, G = thread of tapped holes, H = counterbored holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Tapped holes (G, thread) are 5/16-18."
+    },
+    {
+      "part_number": "2409",
+      "series": [
+        "15"
+      ],
+      "name": "Leveling Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-27",
+      "description": "Milled 6063-T6 aluminum base plate for mounting a leveling caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.057 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.122”",
+        "B": ".939”",
+        "C": "4.000”",
+        "D": ".622”",
+        "E": "2.756”",
+        "F": "1.500”",
+        "G": "3/8-16",
+        "H": "5/16 SHCS",
+        "J": "1.250”",
+        "K": ".750”",
+        "L": "4.000”"
+      },
+      "dimension_notes": "C = plate width, L = plate length, K = plate thickness, G = thread of tapped holes, H = counterbored holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Tapped holes (G, thread) are 3/8-16."
+    },
+    {
+      "part_number": "2409-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Leveling Caster Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-27",
+      "description": "Black anodized milled 6063-T6 aluminum base plate for mounting a leveling caster to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": "1.057 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "2.122”",
+        "B": ".939”",
+        "C": "4.000”",
+        "D": ".622”",
+        "E": "2.756”",
+        "F": "1.500”",
+        "G": "3/8-16",
+        "H": "5/16 SHCS",
+        "J": "1.250”",
+        "K": ".750”",
+        "L": "4.000”"
+      },
+      "dimension_notes": "C = plate width, L = plate length, K = plate thickness, G = thread of tapped holes, H = counterbored holes (for the listed SHCS)",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": 4,
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": 4,
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Tapped holes (G, thread) are 3/8-16."
+    },
+    {
+      "part_number": "2148",
+      "series": [
+        "15"
+      ],
+      "name": "Position Floor Lock Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-28",
+      "description": "Milled 6063-T6 aluminum base plate for mounting a position floor lock to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.595 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.250”",
+        "B": ".375”",
+        "C": ".688”",
+        "D": "6.000”",
+        "E": "5.250”",
+        "F": "3.624”",
+        "G": "1.500”",
+        "H": "3.250”",
+        "J": "2.624”",
+        "K": "1.500”",
+        "L": "5/16 SHCS",
+        "M": "3/8-16",
+        "N": "1.188”",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": ".750”",
+        "S": "4.000”"
+      },
+      "dimension_notes": "D = plate length, S = plate width, R = plate thickness, L = counterbored holes (for the listed SHCS), M = thread of tapped holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Suggested hardware quantities are printed as ranges."
+    },
+    {
+      "part_number": "2148-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Position Floor Lock Base Plate",
+      "category": "base_plate",
+      "section": "Casters & Feet",
+      "catalog_page": "6-28",
+      "description": "Black anodized milled 6063-T6 aluminum base plate for mounting a position floor lock to the end or side of a profile. Mounting to the profile end requires the tap machining service (pg. 11-3).",
+      "features": [
+        "Mounts to end or side of profile",
+        "Requires tap machining service (pg. 11-3) to mount to profile end"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": "1.595 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.250”",
+        "B": ".375”",
+        "C": ".688”",
+        "D": "6.000”",
+        "E": "5.250”",
+        "F": "3.624”",
+        "G": "1.500”",
+        "H": "3.250”",
+        "J": "2.624”",
+        "K": "1.500”",
+        "L": "5/16 SHCS",
+        "M": "3/8-16",
+        "N": "1.188”",
+        "P": ".750”",
+        "Q": ".375”",
+        "R": ".750”",
+        "S": "4.000”"
+      },
+      "dimension_notes": "D = plate length, S = plate width, R = plate thickness, L = counterbored holes (for the listed SHCS), M = thread of tapped holes",
+      "suggested_hardware": [
+        {
+          "part_number": "3458",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 7/8” SHCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3123",
+          "qty": "4 to 8",
+          "description": "5/16-18 x 1.25” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Required machining service to mount to profile end: Tap Profile End (Machined: Mount to Profile End), reference page 11-3. Suggested hardware quantities are printed as ranges."
+    }
+  ],
+  "page_notes": {
+    "532": "Wedge Floor Anchor (F rows 2904, 2905, 2901, 2902; F+RT rows 2906-2908; metric 65- rows skipped) and Swivel Foot Extended Base 12192 (F/M).",
+    "533": "Swivel Foot Trapezoid Base 12194 and Trapezoid Base Anchor 12168, both badged F/M.",
+    "534": "Die-Cast Floor Bracket, non-adjustable and adjustable tables; 15-badged rows 14002, 14006, 14003, 14007 extracted with Mount to T-Slot hardware; 10-series and metric-only rows skipped.",
+    "535": "Steel Floor Bracket 14010 (15/40/45 badges) with material specs and Mount to T-Slot hardware 3450.",
+    "537": "Flange Mount Caster Base Plate; 15-series 2426, 2420 and their -Black variants extracted; 10-series and metric rows skipped; Tap Profile End machining (pg. 11-3) has no service number, recorded in notes.",
+    "538": "Heavy-Duty Flange Mount Caster Base Plate 2147 and 2147-Black (15); metric 40- rows skipped.",
+    "539": "Leveling Caster Base Plate; 15-series 2407, 2408, 2409 and -Black variants extracted; 10-series and metric rows skipped.",
+    "540": "Position Floor Lock Base Plate 2148 and 2148-Black (15), table split into A-J and K-Weight halves; metric 40- rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2407: notes \"Caster mounting thread 1/4-20\" -> \"Tapped holes (G, thread) are 1/4-20\" (page labels G only as THREAD; caster use was inferred)",
+      "2407-Black: notes \"Caster mounting thread 1/4-20\" -> \"Tapped holes (G, thread) are 1/4-20\" (page labels G only as THREAD; caster use was inferred)",
+      "2408: notes \"Caster mounting thread 5/16-18\" -> \"Tapped holes (G, thread) are 5/16-18\" (page labels G only as THREAD; caster use was inferred)",
+      "2408-Black: notes \"Caster mounting thread 5/16-18\" -> \"Tapped holes (G, thread) are 5/16-18\" (page labels G only as THREAD; caster use was inferred)",
+      "2409: notes \"Caster mounting thread 3/8-16\" -> \"Tapped holes (G, thread) are 3/8-16\" (page labels G only as THREAD; caster use was inferred)",
+      "2409-Black: notes \"Caster mounting thread 3/8-16\" -> \"Tapped holes (G, thread) are 3/8-16\" (page labels G only as THREAD; caster use was inferred)"
+    ],
+    "remaining_doubts": [
+      "Required Machining Services tables on pages 537-540 (Tap Profile End, Mount to Profile End, ref. 11-3) print no service number and no 15 badge, so no machining_service part was created; the requirement is recorded in each base plate part notes.",
+      "Floor brackets 14002, 14003, 14006, 14007 and 14010 carry the 15 badge but their dimensions and weights are printed only in mm/kg; values kept verbatim.",
+      "Category choices are judgment calls: Wedge Floor Anchor as hardware_other, Trapezoid Base Anchor 12168 as foot_leveler, floor brackets as bracket_plate."
+    ]
+  }
+}

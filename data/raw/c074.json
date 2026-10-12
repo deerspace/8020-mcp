@@ -1,0 +1,2197 @@
+{
+  "chunk": "c074",
+  "pages": [
+    768,
+    769,
+    770,
+    771,
+    772,
+    773,
+    774
+  ],
+  "parts": [
+    {
+      "part_number": "8567",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Mount Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum panel mount block profile, .812” wide (D) with a .700” body height (A) plus a .050” tongue (E) on the underside, in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".058 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".700”",
+        "B": ".370”",
+        "C": ".250”",
+        "D": ".812”",
+        "E": ".050”"
+      },
+      "dimension_notes": "A = height of the main body (not including the tongue), E = height of the tongue on the underside, so overall height = A + E; D = overall width; B = distance from the edge to the tongue; C = tongue width",
+      "profile": {
+        "weight_lb_per_in": 0.058,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8568 (Natural Mill), 8568-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table. Metric equivalents (25-8567/25-8568, 40-8565/40-8566 series) are not included here."
+    },
+    {
+      "part_number": "8568",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Mount Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum panel mount block profile, .812” wide (D) with a .700” body height (A) plus a .050” tongue (E) on the underside, in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".058 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".700”",
+        "B": ".370”",
+        "C": ".250”",
+        "D": ".812”",
+        "E": ".050”"
+      },
+      "dimension_notes": "A = height of the main body (not including the tongue), E = height of the tongue on the underside, so overall height = A + E; D = overall width; B = distance from the edge to the tongue; C = tongue width",
+      "profile": {
+        "weight_lb_per_in": 0.058,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8567 (Clear Anodize), 8568-Black (Black Anodize). Material, alloy and process are printed once for the whole table. Metric equivalents (25-8567/25-8568, 40-8565/40-8566 series) are not included here."
+    },
+    {
+      "part_number": "8568-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Mount Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum panel mount block profile, .812” wide (D) with a .700” body height (A) plus a .050” tongue (E) on the underside, in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".058 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".700”",
+        "B": ".370”",
+        "C": ".250”",
+        "D": ".812”",
+        "E": ".050”"
+      },
+      "dimension_notes": "A = height of the main body (not including the tongue), E = height of the tongue on the underside, so overall height = A + E; D = overall width; B = distance from the edge to the tongue; C = tongue width",
+      "profile": {
+        "weight_lb_per_in": 0.058,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8567 (Clear Anodize), 8568 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table. Metric equivalents (25-8567/25-8568, 40-8565/40-8566 series) are not included here."
+    },
+    {
+      "part_number": "8565",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Mount Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum panel mount block profile, 1.250” wide (D) with a .875” body height (A) plus a .125” tongue (E) on the underside, in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".113 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".875”",
+        "B": ".600”",
+        "C": ".309”",
+        "D": "1.250”",
+        "E": ".125”"
+      },
+      "dimension_notes": "A = height of the main body (not including the tongue), E = height of the tongue on the underside, so overall height = A + E; D = overall width; B = distance from the edge to the tongue; C = tongue width",
+      "profile": {
+        "weight_lb_per_in": 0.113,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8566 (Natural Mill), 8566-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table. Metric equivalents (25-8567/25-8568, 40-8565/40-8566 series) are not included here."
+    },
+    {
+      "part_number": "8566",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Mount Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum panel mount block profile, 1.250” wide (D) with a .875” body height (A) plus a .125” tongue (E) on the underside, in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".113 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".875”",
+        "B": ".600”",
+        "C": ".309”",
+        "D": "1.250”",
+        "E": ".125”"
+      },
+      "dimension_notes": "A = height of the main body (not including the tongue), E = height of the tongue on the underside, so overall height = A + E; D = overall width; B = distance from the edge to the tongue; C = tongue width",
+      "profile": {
+        "weight_lb_per_in": 0.113,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8565 (Clear Anodize), 8566-Black (Black Anodize). Material, alloy and process are printed once for the whole table. Metric equivalents (25-8567/25-8568, 40-8565/40-8566 series) are not included here."
+    },
+    {
+      "part_number": "8566-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Mount Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum panel mount block profile, 1.250” wide (D) with a .875” body height (A) plus a .125” tongue (E) on the underside, in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".113 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".875”",
+        "B": ".600”",
+        "C": ".309”",
+        "D": "1.250”",
+        "E": ".125”"
+      },
+      "dimension_notes": "A = height of the main body (not including the tongue), E = height of the tongue on the underside, so overall height = A + E; D = overall width; B = distance from the edge to the tongue; C = tongue width",
+      "profile": {
+        "weight_lb_per_in": 0.113,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8565 (Clear Anodize), 8566 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table. Metric equivalents (25-8567/25-8568, 40-8565/40-8566 series) are not included here."
+    },
+    {
+      "part_number": "8426",
+      "series": [
+        "15"
+      ],
+      "name": "Clamp Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum clamp block profile for the 15 series, in a clear anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".029 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "1.142”",
+        "B": ".196”",
+        "C": ".196”",
+        "D": ".304”",
+        "E": ".128”",
+        "F": ".750”"
+      },
+      "dimension_notes": "A = overall width, F = overall height",
+      "profile": {
+        "weight_lb_per_in": 0.029,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8427 (Natural Mill), 8427-Black (Black Anodize). Clear Anodize: longer lead times apply. The 10 series version is 8418/8417/8417-Black."
+    },
+    {
+      "part_number": "8427",
+      "series": [
+        "15"
+      ],
+      "name": "Clamp Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum clamp block profile for the 15 series, in a natural mill finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".029 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "1.142”",
+        "B": ".196”",
+        "C": ".196”",
+        "D": ".304”",
+        "E": ".128”",
+        "F": ".750”"
+      },
+      "dimension_notes": "A = overall width, F = overall height",
+      "profile": {
+        "weight_lb_per_in": 0.029,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8426 (Clear Anodize), 8427-Black (Black Anodize). The 10 series version is 8418/8417/8417-Black."
+    },
+    {
+      "part_number": "8427-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Clamp Block Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-10",
+      "description": "Extruded 6063-T6 aluminum clamp block profile for the 15 series, in a black anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".029 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "1.142”",
+        "B": ".196”",
+        "C": ".196”",
+        "D": ".304”",
+        "E": ".128”",
+        "F": ".750”"
+      },
+      "dimension_notes": "A = overall width, F = overall height",
+      "profile": {
+        "weight_lb_per_in": 0.029,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8426 (Clear Anodize), 8427 (Natural Mill). Black Anodize: longer lead times apply. The 10 series version is 8418/8417/8417-Black."
+    },
+    {
+      "part_number": "8530",
+      "series": [
+        "15"
+      ],
+      "name": "Single Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum single flange bearing profile for the 15 series, in a clear anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".222 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "2.750”",
+        "B": ".750”",
+        "C": ".375”",
+        "D": "1.625”",
+        "E": ".250”",
+        "F": "1.379”",
+        "G": "2.505”",
+        "H": ".500”",
+        "J": "2.005”",
+        "K": "1.312”"
+      },
+      "dimension_notes": "A = overall height, G = overall width, H = upright web thickness, K = height of the outer leg",
+      "profile": {
+        "weight_lb_per_in": 0.222,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8531 (Natural Mill), 8531-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series version is 8520/8521/8521-Black."
+    },
+    {
+      "part_number": "8531",
+      "series": [
+        "15"
+      ],
+      "name": "Single Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum single flange bearing profile for the 15 series, in a natural mill finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".222 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "2.750”",
+        "B": ".750”",
+        "C": ".375”",
+        "D": "1.625”",
+        "E": ".250”",
+        "F": "1.379”",
+        "G": "2.505”",
+        "H": ".500”",
+        "J": "2.005”",
+        "K": "1.312”"
+      },
+      "dimension_notes": "A = overall height, G = overall width, H = upright web thickness, K = height of the outer leg",
+      "profile": {
+        "weight_lb_per_in": 0.222,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8530 (Clear Anodize), 8531-Black (Black Anodize). Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series version is 8520/8521/8521-Black."
+    },
+    {
+      "part_number": "8531-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Single Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum single flange bearing profile for the 15 series, in a black anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".222 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "2.750”",
+        "B": ".750”",
+        "C": ".375”",
+        "D": "1.625”",
+        "E": ".250”",
+        "F": "1.379”",
+        "G": "2.505”",
+        "H": ".500”",
+        "J": "2.005”",
+        "K": "1.312”"
+      },
+      "dimension_notes": "A = overall height, G = overall width, H = upright web thickness, K = height of the outer leg",
+      "profile": {
+        "weight_lb_per_in": 0.222,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8530 (Clear Anodize), 8531 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series version is 8520/8521/8521-Black."
+    },
+    {
+      "part_number": "8535",
+      "series": [
+        "15"
+      ],
+      "name": "Double Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum double flange bearing profile for the 15 series, 4.001” wide (A) by 1.875” tall (C), in a clear anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".209 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "4.001”",
+        "B": "1.379”",
+        "C": "1.875”",
+        "D": ".375”",
+        "E": "1.500”",
+        "F": ".748”",
+        "G": "1.282”",
+        "H": "1.625”",
+        "J": "2.005”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = overall width of the top flange, C = overall height, D = top flange thickness",
+      "profile": {
+        "weight_lb_per_in": 0.209,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8536 (Natural Mill), 8536-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series versions are 8525/8526 and 8527/8528."
+    },
+    {
+      "part_number": "8536",
+      "series": [
+        "15"
+      ],
+      "name": "Double Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum double flange bearing profile for the 15 series, 4.001” wide (A) by 1.875” tall (C), in a natural mill finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".209 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "4.001”",
+        "B": "1.379”",
+        "C": "1.875”",
+        "D": ".375”",
+        "E": "1.500”",
+        "F": ".748”",
+        "G": "1.282”",
+        "H": "1.625”",
+        "J": "2.005”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = overall width of the top flange, C = overall height, D = top flange thickness",
+      "profile": {
+        "weight_lb_per_in": 0.209,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8535 (Clear Anodize), 8536-Black (Black Anodize). Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series versions are 8525/8526 and 8527/8528."
+    },
+    {
+      "part_number": "8536-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum double flange bearing profile for the 15 series, 4.001” wide (A) by 1.875” tall (C), in a black anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".209 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "4.001”",
+        "B": "1.379”",
+        "C": "1.875”",
+        "D": ".375”",
+        "E": "1.500”",
+        "F": ".748”",
+        "G": "1.282”",
+        "H": "1.625”",
+        "J": "2.005”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = overall width of the top flange, C = overall height, D = top flange thickness",
+      "profile": {
+        "weight_lb_per_in": 0.209,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8535 (Clear Anodize), 8536 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series versions are 8525/8526 and 8527/8528."
+    },
+    {
+      "part_number": "8540",
+      "series": [
+        "15"
+      ],
+      "name": "Double Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum double flange bearing profile for the 15 series, 5.501” wide (A) by 1.875” tall (C), in a clear anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".247 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "5.501”",
+        "B": "2.878”",
+        "C": "1.875”",
+        "D": ".375”",
+        "E": "1.500”",
+        "F": ".748”",
+        "G": "1.282”",
+        "H": "1.625”",
+        "J": "3.504”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = overall width of the top flange, C = overall height, D = top flange thickness",
+      "profile": {
+        "weight_lb_per_in": 0.247,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8541 (Natural Mill), 8541-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series versions are 8525/8526 and 8527/8528."
+    },
+    {
+      "part_number": "8541",
+      "series": [
+        "15"
+      ],
+      "name": "Double Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum double flange bearing profile for the 15 series, 5.501” wide (A) by 1.875” tall (C), in a natural mill finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".247 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "5.501”",
+        "B": "2.878”",
+        "C": "1.875”",
+        "D": ".375”",
+        "E": "1.500”",
+        "F": ".748”",
+        "G": "1.282”",
+        "H": "1.625”",
+        "J": "3.504”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = overall width of the top flange, C = overall height, D = top flange thickness",
+      "profile": {
+        "weight_lb_per_in": 0.247,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8540 (Clear Anodize), 8541-Black (Black Anodize). Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series versions are 8525/8526 and 8527/8528."
+    },
+    {
+      "part_number": "8541-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Flange Bearing Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-11",
+      "description": "Extruded 6063-T6 aluminum double flange bearing profile for the 15 series, 5.501” wide (A) by 1.875” tall (C), in a black anodize finish. Supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".247 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "A": "5.501”",
+        "B": "2.878”",
+        "C": "1.875”",
+        "D": ".375”",
+        "E": "1.500”",
+        "F": ".748”",
+        "G": "1.282”",
+        "H": "1.625”",
+        "J": "3.504”",
+        "K": ".250”"
+      },
+      "dimension_notes": "A = overall width of the top flange, C = overall height, D = top flange thickness",
+      "profile": {
+        "weight_lb_per_in": 0.247,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8540 (Clear Anodize), 8541 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process come from the Material Specifications table on the page (Aluminum, 6063-T6, Extruded); the dimension table itself has no material columns. The 10 series versions are 8525/8526 and 8527/8528."
+    },
+    {
+      "part_number": "8580",
+      "series": [
+        "F"
+      ],
+      "name": "Single Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum single flange UniBearing™ profile, 2.063” wide (A) by .372” thick (G), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".050 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "2.063”",
+        "B": "1.000”",
+        "C": "1.063”",
+        "D": ".244”",
+        "E": ".156”",
+        "F": ".156”",
+        "G": ".372”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key, B and C = widths either side of the bevel",
+      "profile": {
+        "weight_lb_per_in": 0.05,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8581 (Natural Mill), 8581-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8581",
+      "series": [
+        "F"
+      ],
+      "name": "Single Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum single flange UniBearing™ profile, 2.063” wide (A) by .372” thick (G), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".050 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "2.063”",
+        "B": "1.000”",
+        "C": "1.063”",
+        "D": ".244”",
+        "E": ".156”",
+        "F": ".156”",
+        "G": ".372”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key, B and C = widths either side of the bevel",
+      "profile": {
+        "weight_lb_per_in": 0.05,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8580 (Clear Anodize), 8581-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8581-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Single Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum single flange UniBearing™ profile, 2.063” wide (A) by .372” thick (G), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".050 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "2.063”",
+        "B": "1.000”",
+        "C": "1.063”",
+        "D": ".244”",
+        "E": ".156”",
+        "F": ".156”",
+        "G": ".372”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key, B and C = widths either side of the bevel",
+      "profile": {
+        "weight_lb_per_in": 0.05,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8580 (Clear Anodize), 8581 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8582",
+      "series": [
+        "F"
+      ],
+      "name": "Single Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum single flange UniBearing™ profile, 3.125” wide (A) by .625” thick (G), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".122 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "3.125”",
+        "B": "1.500”",
+        "C": "1.625”",
+        "D": ".308”",
+        "E": ".260”",
+        "F": ".245”",
+        "G": ".625”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key, B and C = widths either side of the bevel",
+      "profile": {
+        "weight_lb_per_in": 0.122,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8583 (Natural Mill), 8583-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8583",
+      "series": [
+        "F"
+      ],
+      "name": "Single Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum single flange UniBearing™ profile, 3.125” wide (A) by .625” thick (G), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".122 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "3.125”",
+        "B": "1.500”",
+        "C": "1.625”",
+        "D": ".308”",
+        "E": ".260”",
+        "F": ".245”",
+        "G": ".625”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key, B and C = widths either side of the bevel",
+      "profile": {
+        "weight_lb_per_in": 0.122,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8582 (Clear Anodize), 8583-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8583-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Single Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum single flange UniBearing™ profile, 3.125” wide (A) by .625” thick (G), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".122 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "3.125”",
+        "B": "1.500”",
+        "C": "1.625”",
+        "D": ".308”",
+        "E": ".260”",
+        "F": ".245”",
+        "G": ".625”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key, B and C = widths either side of the bevel",
+      "profile": {
+        "weight_lb_per_in": 0.122,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8582 (Clear Anodize), 8583 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8584",
+      "series": [
+        "F"
+      ],
+      "name": "Double Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum double flange UniBearing™ profile, 3.125” wide (A) by .372” thick (G), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".068 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "3.125”",
+        "B": "1.063”",
+        "C": ".998”",
+        "D": ".244”",
+        "E": ".156”",
+        "F": ".156”",
+        "G": ".372”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key",
+      "profile": {
+        "weight_lb_per_in": 0.068,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8585 (Natural Mill), 8585-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8585",
+      "series": [
+        "F"
+      ],
+      "name": "Double Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum double flange UniBearing™ profile, 3.125” wide (A) by .372” thick (G), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".068 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "3.125”",
+        "B": "1.063”",
+        "C": ".998”",
+        "D": ".244”",
+        "E": ".156”",
+        "F": ".156”",
+        "G": ".372”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key",
+      "profile": {
+        "weight_lb_per_in": 0.068,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8584 (Clear Anodize), 8585-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8585-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Double Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum double flange UniBearing™ profile, 3.125” wide (A) by .372” thick (G), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".068 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "3.125”",
+        "B": "1.063”",
+        "C": ".998”",
+        "D": ".244”",
+        "E": ".156”",
+        "F": ".156”",
+        "G": ".372”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key",
+      "profile": {
+        "weight_lb_per_in": 0.068,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8584 (Clear Anodize), 8585 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8586",
+      "series": [
+        "F"
+      ],
+      "name": "Double Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum double flange UniBearing™ profile, 4.750” wide (A) by .625” thick (G), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".164 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "4.750”",
+        "B": "1.625”",
+        "C": "1.493”",
+        "D": ".308”",
+        "E": ".260”",
+        "F": ".245”",
+        "G": ".625”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key",
+      "profile": {
+        "weight_lb_per_in": 0.164,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8587 (Natural Mill), 8587-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8587",
+      "series": [
+        "F"
+      ],
+      "name": "Double Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum double flange UniBearing™ profile, 4.750” wide (A) by .625” thick (G), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".164 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "4.750”",
+        "B": "1.625”",
+        "C": "1.493”",
+        "D": ".308”",
+        "E": ".260”",
+        "F": ".245”",
+        "G": ".625”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key",
+      "profile": {
+        "weight_lb_per_in": 0.164,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8586 (Clear Anodize), 8587-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8587-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Double Flange UniBearing™ Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-12",
+      "description": "Extruded 6063-T6 aluminum double flange UniBearing™ profile, 4.750” wide (A) by .625” thick (G), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".164 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": "4.750”",
+        "B": "1.625”",
+        "C": "1.493”",
+        "D": ".308”",
+        "E": ".260”",
+        "F": ".245”",
+        "G": ".625”"
+      },
+      "dimension_notes": "A = overall width, G = overall height, D = width of the raised key",
+      "profile": {
+        "weight_lb_per_in": 0.164,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8586 (Clear Anodize), 8587 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8515",
+      "series": [
+        "F"
+      ],
+      "name": "Single Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum single retainer profile, 1.938” wide (D) by .563” tall (F), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".042 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".188”",
+        "B": "1.000”",
+        "C": ".938”",
+        "D": "1.938”",
+        "E": ".375”",
+        "F": ".563”"
+      },
+      "dimension_notes": "A = material thickness, D = overall width (B + C), F = overall height, E = inside height under the raised section",
+      "profile": {
+        "weight_lb_per_in": 0.042,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8516 (Natural Mill), 8516-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8516",
+      "series": [
+        "F"
+      ],
+      "name": "Single Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum single retainer profile, 1.938” wide (D) by .563” tall (F), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".042 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".188”",
+        "B": "1.000”",
+        "C": ".938”",
+        "D": "1.938”",
+        "E": ".375”",
+        "F": ".563”"
+      },
+      "dimension_notes": "A = material thickness, D = overall width (B + C), F = overall height, E = inside height under the raised section",
+      "profile": {
+        "weight_lb_per_in": 0.042,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8515 (Clear Anodize), 8516-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8516-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Single Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum single retainer profile, 1.938” wide (D) by .563” tall (F), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".042 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".188”",
+        "B": "1.000”",
+        "C": ".938”",
+        "D": "1.938”",
+        "E": ".375”",
+        "F": ".563”"
+      },
+      "dimension_notes": "A = material thickness, D = overall width (B + C), F = overall height, E = inside height under the raised section",
+      "profile": {
+        "weight_lb_per_in": 0.042,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8515 (Clear Anodize), 8516 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8510",
+      "series": [
+        "F"
+      ],
+      "name": "Single Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum single retainer profile, 2.879” wide (D) by .840” tall (F), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".093 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".250”",
+        "B": "1.500”",
+        "C": "1.379”",
+        "D": "2.879”",
+        "E": ".590”",
+        "F": ".840”"
+      },
+      "dimension_notes": "A = material thickness, D = overall width (B + C), F = overall height, E = inside height under the raised section",
+      "profile": {
+        "weight_lb_per_in": 0.093,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8511 (Natural Mill), 8511-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8511",
+      "series": [
+        "F"
+      ],
+      "name": "Single Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum single retainer profile, 2.879” wide (D) by .840” tall (F), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".093 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".250”",
+        "B": "1.500”",
+        "C": "1.379”",
+        "D": "2.879”",
+        "E": ".590”",
+        "F": ".840”"
+      },
+      "dimension_notes": "A = material thickness, D = overall width (B + C), F = overall height, E = inside height under the raised section",
+      "profile": {
+        "weight_lb_per_in": 0.093,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8510 (Clear Anodize), 8511-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8511-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Single Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum single retainer profile, 2.879” wide (D) by .840” tall (F), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".093 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".250”",
+        "B": "1.500”",
+        "C": "1.379”",
+        "D": "2.879”",
+        "E": ".590”",
+        "F": ".840”"
+      },
+      "dimension_notes": "A = material thickness, D = overall width (B + C), F = overall height, E = inside height under the raised section",
+      "profile": {
+        "weight_lb_per_in": 0.093,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8510 (Clear Anodize), 8511 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8610",
+      "series": [
+        "F"
+      ],
+      "name": "Double Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum double retainer profile, 3.020” wide (E) by .563” tall (A), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".563”",
+        "B": ".188”",
+        "C": "1.000”",
+        "D": "1.020”",
+        "E": "3.020”",
+        "F": ".375”"
+      },
+      "dimension_notes": "A = overall height, B = material thickness, E = overall width (C + D + C), C = flange width, D = width of the raised center section",
+      "profile": {
+        "weight_lb_per_in": 0.1,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8611 (Natural Mill), 8611-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8611",
+      "series": [
+        "F"
+      ],
+      "name": "Double Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum double retainer profile, 3.020” wide (E) by .563” tall (A), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".563”",
+        "B": ".188”",
+        "C": "1.000”",
+        "D": "1.020”",
+        "E": "3.020”",
+        "F": ".375”"
+      },
+      "dimension_notes": "A = overall height, B = material thickness, E = overall width (C + D + C), C = flange width, D = width of the raised center section",
+      "profile": {
+        "weight_lb_per_in": 0.1,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8610 (Clear Anodize), 8611-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8611-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Double Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum double retainer profile, 3.020” wide (E) by .563” tall (A), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".563”",
+        "B": ".188”",
+        "C": "1.000”",
+        "D": "1.020”",
+        "E": "3.020”",
+        "F": ".375”"
+      },
+      "dimension_notes": "A = overall height, B = material thickness, E = overall width (C + D + C), C = flange width, D = width of the raised center section",
+      "profile": {
+        "weight_lb_per_in": 0.1,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8610 (Clear Anodize), 8611 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8512",
+      "series": [
+        "F"
+      ],
+      "name": "Double Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum double retainer profile, 4.523” wide (E) by .840” tall (A), in a clear anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".142 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".840”",
+        "B": ".250”",
+        "C": "1.500”",
+        "D": "1.523”",
+        "E": "4.523”",
+        "F": ".590”"
+      },
+      "dimension_notes": "A = overall height, B = material thickness, E = overall width (C + D + C), C = flange width, D = width of the raised center section",
+      "profile": {
+        "weight_lb_per_in": 0.142,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8513 (Natural Mill), 8513-Black (Black Anodize). Clear Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8513",
+      "series": [
+        "F"
+      ],
+      "name": "Double Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum double retainer profile, 4.523” wide (E) by .840” tall (A), in a natural mill finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".142 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".840”",
+        "B": ".250”",
+        "C": "1.500”",
+        "D": "1.523”",
+        "E": "4.523”",
+        "F": ".590”"
+      },
+      "dimension_notes": "A = overall height, B = material thickness, E = overall width (C + D + C), C = flange width, D = width of the raised center section",
+      "profile": {
+        "weight_lb_per_in": 0.142,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8512 (Clear Anodize), 8513-Black (Black Anodize). Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "8513-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Double Retainer Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-13",
+      "description": "Extruded 6063-T6 aluminum double retainer profile, 4.523” wide (E) by .840” tall (A), in a black anodize finish. Fractional hardware shape supplied in 145” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".142 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".840”",
+        "B": ".250”",
+        "C": "1.500”",
+        "D": "1.523”",
+        "E": "4.523”",
+        "F": ".590”"
+      },
+      "dimension_notes": "A = overall height, B = material thickness, E = overall width (C + D + C), C = flange width, D = width of the raised center section",
+      "profile": {
+        "weight_lb_per_in": 0.142,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8512 (Clear Anodize), 8513 (Natural Mill). Black Anodize: longer lead times apply. Material, alloy and process are printed once for the whole table."
+    },
+    {
+      "part_number": "5035",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 1.000” outside diameter with a .125” wall, in a clear anodize finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".034 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.0,
+        "height_in": 1.0,
+        "weight_lb_per_in": 0.034,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5036 (Natural Mill), 5036-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5036",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 1.000” outside diameter with a .125” wall, in a natural mill finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".034 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.0,
+        "height_in": 1.0,
+        "weight_lb_per_in": 0.034,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5035 (Clear Anodize), 5036-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5036-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 1.000” outside diameter with a .125” wall, in a black anodize finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".034 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.0,
+        "height_in": 1.0,
+        "weight_lb_per_in": 0.034,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5035 (Clear Anodize), 5036 (Natural Mill). Black Anodize: longer lead times apply."
+    },
+    {
+      "part_number": "5040",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 1.500” outside diameter with a .125” wall, in a clear anodize finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".069 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "weight_lb_per_in": 0.069,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5041 (Natural Mill), 5041-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5041",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 1.500” outside diameter with a .125” wall, in a natural mill finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".069 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "weight_lb_per_in": 0.069,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5040 (Clear Anodize), 5041-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5041-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 1.500” outside diameter with a .125” wall, in a black anodize finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".069 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "weight_lb_per_in": 0.069,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5040 (Clear Anodize), 5041 (Natural Mill). Black Anodize: longer lead times apply."
+    },
+    {
+      "part_number": "5045",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 2.000” outside diameter with a .125” wall, in a clear anodize finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 2.0,
+        "height_in": 2.0,
+        "weight_lb_per_in": 0.1,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5046 (Natural Mill), 5046-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5046",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 2.000” outside diameter with a .125” wall, in a natural mill finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 2.0,
+        "height_in": 2.0,
+        "weight_lb_per_in": 0.1,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5045 (Clear Anodize), 5046-Black (Black Anodize)."
+    },
+    {
+      "part_number": "5046-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Tube Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "Round 6063-T6 aluminum tube, 2.000” outside diameter with a .125” wall, in a black anodize finish. Supplied in 144” full lengths.",
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".100 lb / in.",
+      "specs": {
+        "Full Length": "144”",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 2.0,
+        "height_in": 2.0,
+        "weight_lb_per_in": 0.1,
+        "stock_lengths": [
+          "144”"
+        ]
+      },
+      "notes": "Sold in 144” full lengths. Same size also offered as 5045 (Clear Anodize), 5046 (Natural Mill). Black Anodize: longer lead times apply."
+    },
+    {
+      "part_number": "5005",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Tube",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "1020 carbon steel round tube, 1.000” outside diameter with a .125” wall; drawn, ground and polished, non-plated and unfinished. Supplied in 145” full lengths.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".102 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Tube",
+        "Grade": "1020",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.0,
+        "height_in": 1.0,
+        "weight_lb_per_in": 0.102,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Material, finish, process and color are printed once for the whole table."
+    },
+    {
+      "part_number": "5015",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Tube",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "1020 carbon steel round tube, 1.500” outside diameter with a .125” wall; drawn, ground and polished, non-plated and unfinished. Supplied in 145” full lengths.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".131 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Tube",
+        "Grade": "1020",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.500”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "weight_lb_per_in": 0.131,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Material, finish, process and color are printed once for the whole table."
+    },
+    {
+      "part_number": "5025",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Tube",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "1020 carbon steel round tube, 2.000” outside diameter with a .125” wall; drawn, ground and polished, non-plated and unfinished. Supplied in 145” full lengths.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".273 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Tube",
+        "Grade": "1020",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "2.000”",
+        "B": ".125”"
+      },
+      "dimension_notes": "ø A = outside diameter, B = wall thickness",
+      "profile": {
+        "width_in": 2.0,
+        "height_in": 2.0,
+        "weight_lb_per_in": 0.273,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Material, finish, process and color are printed once for the whole table."
+    },
+    {
+      "part_number": "5010",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Solid Round",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "1045 carbon steel solid round bar, 1.000” diameter; drawn, ground and polished, non-plated and unfinished. Supplied in 145” full lengths.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".230 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Solid Round",
+        "Grade": "1045",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.000”",
+        "B": "---"
+      },
+      "dimension_notes": "ø A = outside diameter (B, wall thickness, does not apply to the solid bar)",
+      "profile": {
+        "width_in": 1.0,
+        "height_in": 1.0,
+        "weight_lb_per_in": 0.23,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Material, finish, process and color are printed once for the whole table. Wall thickness B is printed as --- (solid bar)."
+    },
+    {
+      "part_number": "5020",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Solid Round",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "1045 carbon steel solid round bar, 1.500” diameter; drawn, ground and polished, non-plated and unfinished. Supplied in 145” full lengths.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".500 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Solid Round",
+        "Grade": "1045",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "1.500”",
+        "B": "---"
+      },
+      "dimension_notes": "ø A = outside diameter (B, wall thickness, does not apply to the solid bar)",
+      "profile": {
+        "width_in": 1.5,
+        "height_in": 1.5,
+        "weight_lb_per_in": 0.5,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Material, finish, process and color are printed once for the whole table. Wall thickness B is printed as --- (solid bar)."
+    },
+    {
+      "part_number": "5030",
+      "series": [
+        "F"
+      ],
+      "name": "Steel Solid Round",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-14",
+      "description": "1045 carbon steel solid round bar, 2.000” diameter; drawn, ground and polished, non-plated and unfinished. Supplied in 145” full lengths.",
+      "material": "Carbon Steel",
+      "finish": "Non-Plated",
+      "color": "Unfinished",
+      "weight": ".890 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Description": "Solid Round",
+        "Grade": "1045",
+        "Process": "Drawn, Ground, and Polished",
+        "A": "2.000”",
+        "B": "---"
+      },
+      "dimension_notes": "ø A = outside diameter (B, wall thickness, does not apply to the solid bar)",
+      "profile": {
+        "width_in": 2.0,
+        "height_in": 2.0,
+        "weight_lb_per_in": 0.89,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Material, finish, process and color are printed once for the whole table. Wall thickness B is printed as --- (solid bar)."
+    },
+    {
+      "part_number": "8507",
+      "series": [
+        "F"
+      ],
+      "name": "Storage Bin Hanger Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-15",
+      "description": "Extruded 6063-T6 aluminum storage bin hanger profile, 1.500” wide (E) by .250” thick (A), in a clear anodize finish, used to hang storage bins. Supplied in 145” full lengths.",
+      "features": [
+        "Used to hang storage bins (pg. 9-46)",
+        "Available in stock lengths with hardware (pg. 9-46)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".030 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".250”",
+        "B": "1.125”",
+        "C": ".015”",
+        "D": ".095”",
+        "E": "1.500”"
+      },
+      "dimension_notes": "A = overall thickness, E = overall width, B = width of the thick section, R. C = radius at the step, D = thickness of the thin lip",
+      "profile": {
+        "weight_lb_per_in": 0.03,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8508 (Natural Mill), 8508-Black (Black Anodize). Clear Anodize: longer lead times apply. Row is badged both F and M (fractional and metric). Stock lengths with hardware: see pg. 9-46."
+    },
+    {
+      "part_number": "8508",
+      "series": [
+        "F"
+      ],
+      "name": "Storage Bin Hanger Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-15",
+      "description": "Extruded 6063-T6 aluminum storage bin hanger profile, 1.500” wide (E) by .250” thick (A), in a natural mill finish, used to hang storage bins. Supplied in 145” full lengths.",
+      "features": [
+        "Used to hang storage bins (pg. 9-46)",
+        "Available in stock lengths with hardware (pg. 9-46)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Natural Mill",
+      "weight": ".030 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".250”",
+        "B": "1.125”",
+        "C": ".015”",
+        "D": ".095”",
+        "E": "1.500”"
+      },
+      "dimension_notes": "A = overall thickness, E = overall width, B = width of the thick section, R. C = radius at the step, D = thickness of the thin lip",
+      "profile": {
+        "weight_lb_per_in": 0.03,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8507 (Clear Anodize), 8508-Black (Black Anodize). Row is badged both F and M (fractional and metric). Stock lengths with hardware: see pg. 9-46."
+    },
+    {
+      "part_number": "8508-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Storage Bin Hanger Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-15",
+      "description": "Extruded 6063-T6 aluminum storage bin hanger profile, 1.500” wide (E) by .250” thick (A), in a black anodize finish, used to hang storage bins. Supplied in 145” full lengths.",
+      "features": [
+        "Used to hang storage bins (pg. 9-46)",
+        "Available in stock lengths with hardware (pg. 9-46)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".030 lb / in.",
+      "specs": {
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".250”",
+        "B": "1.125”",
+        "C": ".015”",
+        "D": ".095”",
+        "E": "1.500”"
+      },
+      "dimension_notes": "A = overall thickness, E = overall width, B = width of the thick section, R. C = radius at the step, D = thickness of the thin lip",
+      "profile": {
+        "weight_lb_per_in": 0.03,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths. Same size also offered as 8507 (Clear Anodize), 8508 (Natural Mill). Black Anodize: longer lead times apply. Row is badged both F and M (fractional and metric). Stock lengths with hardware: see pg. 9-46."
+    },
+    {
+      "part_number": "8570",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Stiffener Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-16",
+      "description": "Extruded 6063-T6 aluminum panel stiffener profile with handle, in a clear anodize finish, used to add rigidity to .236” (6mm) thick panels. Supplied in 145” full lengths.",
+      "features": [
+        "Used to add rigidity to .236” (6mm) thick panels",
+        "Available in stock length (pg. 5-137) of 72.5 inches (1841.5mm)",
+        "Connects using soft face mallet (pg. 12-6)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".025 lb / in.",
+      "specs": {
+        "Handle": "Yes",
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".710”",
+        "B": ".600”",
+        "C": ".182”",
+        "D": ".953”",
+        "E": ".245”",
+        "F": ".420”"
+      },
+      "dimension_notes": "A = overall height, B = inside slot depth, F = overall outside width of the channel, D = handle length (— on the no-handle version); C and E are slot widths",
+      "profile": {
+        "weight_lb_per_in": 0.025,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths; also available in a 72.5 inch (1841.5mm) stock length (pg. 5-137). Installs with a soft face mallet (pg. 12-6). Same size also offered as 8570-Black (Black Anodize)."
+    },
+    {
+      "part_number": "8570-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Stiffener Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-16",
+      "description": "Extruded 6063-T6 aluminum panel stiffener profile with handle, in a black anodize finish, used to add rigidity to .236” (6mm) thick panels. Supplied in 145” full lengths.",
+      "features": [
+        "Used to add rigidity to .236” (6mm) thick panels",
+        "Available in stock length (pg. 5-137) of 72.5 inches (1841.5mm)",
+        "Connects using soft face mallet (pg. 12-6)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".025 lb / in.",
+      "specs": {
+        "Handle": "Yes",
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".710”",
+        "B": ".600”",
+        "C": ".182”",
+        "D": ".953”",
+        "E": ".245”",
+        "F": ".420”"
+      },
+      "dimension_notes": "A = overall height, B = inside slot depth, F = overall outside width of the channel, D = handle length (— on the no-handle version); C and E are slot widths",
+      "profile": {
+        "weight_lb_per_in": 0.025,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths; also available in a 72.5 inch (1841.5mm) stock length (pg. 5-137). Installs with a soft face mallet (pg. 12-6). Same size also offered as 8570 (Clear Anodize). Black Anodize: longer lead times apply."
+    },
+    {
+      "part_number": "8575",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Stiffener Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-16",
+      "description": "Extruded 6063-T6 aluminum panel stiffener profile without handle, in a clear anodize finish, used to add rigidity to .236” (6mm) thick panels. Supplied in 145” full lengths.",
+      "features": [
+        "Used to add rigidity to .236” (6mm) thick panels",
+        "Available in stock length (pg. 5-137) of 72.5 inches (1841.5mm)",
+        "Connects using soft face mallet (pg. 12-6)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".014 lb / in.",
+      "specs": {
+        "Handle": "No",
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".710”",
+        "B": ".600”",
+        "C": ".182”",
+        "D": "—",
+        "E": ".245”",
+        "F": ".417”"
+      },
+      "dimension_notes": "A = overall height, B = inside slot depth, F = overall outside width of the channel, D = handle length (— on the no-handle version); C and E are slot widths",
+      "profile": {
+        "weight_lb_per_in": 0.014,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths; also available in a 72.5 inch (1841.5mm) stock length (pg. 5-137). Installs with a soft face mallet (pg. 12-6). Same size also offered as 8575-Black (Black Anodize). D is printed as — (no handle)."
+    },
+    {
+      "part_number": "8575-Black",
+      "series": [
+        "F"
+      ],
+      "name": "Panel Stiffener Profile",
+      "category": "structural_shape",
+      "section": "Structural Shapes",
+      "catalog_page": "10-16",
+      "description": "Extruded 6063-T6 aluminum panel stiffener profile without handle, in a black anodize finish, used to add rigidity to .236” (6mm) thick panels. Supplied in 145” full lengths.",
+      "features": [
+        "Used to add rigidity to .236” (6mm) thick panels",
+        "Available in stock length (pg. 5-137) of 72.5 inches (1841.5mm)",
+        "Connects using soft face mallet (pg. 12-6)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".014 lb / in.",
+      "specs": {
+        "Handle": "No",
+        "Full Length": "145”",
+        "Process": "Extruded",
+        "A": ".710”",
+        "B": ".600”",
+        "C": ".182”",
+        "D": "—",
+        "E": ".245”",
+        "F": ".417”"
+      },
+      "dimension_notes": "A = overall height, B = inside slot depth, F = overall outside width of the channel, D = handle length (— on the no-handle version); C and E are slot widths",
+      "profile": {
+        "weight_lb_per_in": 0.014,
+        "stock_lengths": [
+          "145”"
+        ]
+      },
+      "notes": "Sold in 145” full lengths; also available in a 72.5 inch (1841.5mm) stock length (pg. 5-137). Installs with a soft face mallet (pg. 12-6). Same size also offered as 8575 (Clear Anodize). Black Anodize: longer lead times apply. D is printed as — (no handle)."
+    }
+  ],
+  "page_notes": {
+    "768": "10-10 Panel Mount Block Profile: F rows 8567/8568/8568-Black and 8565/8566/8566-Black extracted (metric 25-/40- rows skipped). Clamp Block Profile: 15 series row 8426/8427/8427-Black extracted; 10 series 8418 row skipped.",
+    "769": "10-11 Single Flange Bearing Profile: 15 series 8530/8531/8531-Black extracted (10 series 8520 and metric rows skipped). Double Flange Bearing Profile: 15 series 8535 and 8540 rows (3 finishes each) extracted (10 series 8525/8527 and metric rows skipped). Material from page-level Material Specifications table.",
+    "770": "10-12 Single Flange UniBearing Profile (8580, 8582 rows) and Double Flange UniBearing Profile (8584, 8586 rows), all F, 3 finishes each extracted; metric rows skipped.",
+    "771": "10-13 Single Retainer Profile (8515, 8510 rows) and Double Retainer Profile (8610, 8512 rows), all F, 3 finishes each extracted; metric rows skipped.",
+    "772": "10-14 Aluminum Tube Profile (5035/5036/5036-Black, 5040/5041/5041-Black, 5045/5046/5046-Black) and Steel Tube / Steel Solid Round (5005, 5015, 5025, 5010, 5020, 5030), all F, extracted. Same content as catalog page 8-14.",
+    "773": "10-15 Storage Bin Hanger Profile 8507/8508/8508-Black (F + M badge) extracted. Tube Insert Profile 9750 is Ready Tube (RT) only and was skipped.",
+    "774": "10-16 Panel Stiffener Profile: F rows 8570/8570-Black (with handle) and 8575/8575-Black (no handle) extracted; metric 65-8570/65-8575 rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "8567: dimension_notes 'A = overall height' -> 'A = body height excluding the tongue (overall height = A + E)'",
+      "8567: description '... tall (A)' -> '... body height (A) plus tongue (E)'",
+      "8568: dimension_notes 'A = overall height' -> 'A = body height excluding the tongue (overall height = A + E)'",
+      "8568: description '... tall (A)' -> '... body height (A) plus tongue (E)'",
+      "8568-Black: dimension_notes 'A = overall height' -> 'A = body height excluding the tongue (overall height = A + E)'",
+      "8568-Black: description '... tall (A)' -> '... body height (A) plus tongue (E)'",
+      "8565: dimension_notes 'A = overall height' -> 'A = body height excluding the tongue (overall height = A + E)'",
+      "8565: description '... tall (A)' -> '... body height (A) plus tongue (E)'",
+      "8566: dimension_notes 'A = overall height' -> 'A = body height excluding the tongue (overall height = A + E)'",
+      "8566: description '... tall (A)' -> '... body height (A) plus tongue (E)'",
+      "8566-Black: dimension_notes 'A = overall height' -> 'A = body height excluding the tongue (overall height = A + E)'",
+      "8566-Black: description '... tall (A)' -> '... body height (A) plus tongue (E)'"
+    ],
+    "remaining_doubts": [
+      "profile{} (weight_lb_per_in, stock_lengths, and width_in/height_in = outside diameter for the round tubes and bars) is kept on these structural shapes even though none of them print section properties (Ix/Iy); kept for consistency with chunk c073.",
+      "p769: Material/Alloy/Process come from the page-level 'Material Specifications' table printed below the Double Flange Bearing table; it is assumed to apply to the Single Flange Bearing table as well (neither dimension table has material columns). Process is not repeated in specs for these bearing profiles.",
+      "p772/p774: only Black Anodize carries the 'Longer lead times apply' asterisk (Clear Anodize header has none), unlike the other pages where Clear Anodize is also starred; notes follow the printed asterisks."
+    ]
+  }
+}

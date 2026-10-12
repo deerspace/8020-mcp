@@ -1,0 +1,1973 @@
+{
+  "chunk": "c021",
+  "pages": [
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323
+  ],
+  "parts": [
+    {
+      "part_number": "3263",
+      "series": [
+        "15"
+      ],
+      "name": "Double Slide-In Economy T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-152",
+      "description": "Steel double (two-hole) economy T-nut with 1/4-20 threads that slides in from the profile end. The pilot projection is positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1010",
+      "finish": "Black Zinc",
+      "weight": ".070 lb",
+      "specs": {
+        "A": "2.813”",
+        "B": "1.500”",
+        "C": ".638”",
+        "D (Thread)": "1/4-20",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = overall length, B = hole center-to-center spacing, C = width, D = thread (TYP, both holes); side view: E = height of the pilot projection, F = overall thickness including the pilot projection"
+    },
+    {
+      "part_number": "3279",
+      "series": [
+        "15"
+      ],
+      "name": "Double Slide-In Economy T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-152",
+      "description": "Steel double (two-hole) economy T-nut with 5/16-18 threads that slides in from the profile end. The pilot projection is positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1010",
+      "finish": "Black Zinc",
+      "weight": ".061 lb",
+      "specs": {
+        "A": "2.813”",
+        "B": "1.500”",
+        "C": ".638”",
+        "D (Thread)": "5/16-18",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = overall length, B = hole center-to-center spacing, C = width, D = thread (TYP, both holes); side view: E = height of the pilot projection, F = overall thickness including the pilot projection"
+    },
+    {
+      "part_number": "3879",
+      "series": [
+        "15"
+      ],
+      "name": "Double Slide-In Economy T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-152",
+      "description": "Steel double (two-hole) economy T-nut with M8 x 1.25 threads that slides in from the profile end. The pilot projection is positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1010",
+      "finish": "Bright Zinc",
+      "weight": ".067 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.500”",
+        "C": ".638”",
+        "D (Thread)": "M8 x 1.25",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = overall length, B = hole center-to-center spacing, C = width, D = thread (TYP, both holes); side view: E = height of the pilot projection, F = overall thickness including the pilot projection"
+    },
+    {
+      "part_number": "3285",
+      "series": [
+        "15"
+      ],
+      "name": "Triple Slide-In Economy T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-152",
+      "description": "Steel triple (three-hole) economy T-nut with 5/16-18 threads that slides in from the profile end. The pilot projection is positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1010",
+      "finish": "Black Zinc",
+      "weight": ".077 lb",
+      "specs": {
+        "A": "3.562”",
+        "B": "1.500”",
+        "C": ".638”",
+        "D (Thread)": "5/16-18",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = overall length, B = hole center-to-center spacing (TYP), C = width, D = thread (TYP, all three holes); side view: E = height of the pilot projection, F = overall thickness including the pilot projection",
+      "notes": "Table title is 'Triple Slide-In Economy T-Nut / Economy T-Nut Holding Spring'; no separate part number for a holding spring is listed in the table."
+    },
+    {
+      "part_number": "3805",
+      "series": [
+        "15"
+      ],
+      "name": "Triple Slide-In Economy T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-152",
+      "description": "Steel triple (three-hole) economy T-nut with M8 x 1.25 threads that slides in from the profile end. The pilot projection is positioned down in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Position pilot projection down in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1010",
+      "finish": "Bright Zinc",
+      "weight": ".080 lb",
+      "specs": {
+        "A": "3.562”",
+        "B": "1.500”",
+        "C": ".638”",
+        "D (Thread)": "M8 x 1.25",
+        "E": ".080”",
+        "F": ".222”"
+      },
+      "dimension_notes": "A = overall length, B = hole center-to-center spacing (TYP), C = width, D = thread (TYP, all three holes); side view: E = height of the pilot projection, F = overall thickness including the pilot projection",
+      "notes": "Table title is 'Triple Slide-In Economy T-Nut / Economy T-Nut Holding Spring'; no separate part number for a holding spring is listed in the table."
+    },
+    {
+      "part_number": "3201",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel single-hole standard T-nut with 10-32 thread that slides in from the profile end.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".025 lb",
+      "specs": {
+        "Type": "Standard T-Nut",
+        "A": ".700”",
+        "B": ".281”",
+        "C": ".625”",
+        "D (Thread)": "10-32",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)"
+    },
+    {
+      "part_number": "3202",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel single-hole standard T-nut with 1/4-20 thread that slides in from the profile end.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".024 lb",
+      "specs": {
+        "Type": "Standard T-Nut",
+        "A": ".700”",
+        "B": ".281”",
+        "C": ".625”",
+        "D (Thread)": "1/4-20",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)"
+    },
+    {
+      "part_number": "3203",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel single-hole standard T-nut with 5/16-18 thread that slides in from the profile end.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "Type": "Standard T-Nut",
+        "A": ".700”",
+        "B": ".281”",
+        "C": ".625”",
+        "D (Thread)": "5/16-18",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)"
+    },
+    {
+      "part_number": "3866",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel single-hole standard T-nut with M6 x 1.0 thread that slides in from the profile end.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".025 lb",
+      "specs": {
+        "Type": "Standard T-Nut",
+        "A": ".700”",
+        "B": ".281”",
+        "C": ".625”",
+        "D (Thread)": "M6 x 1.0",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)"
+    },
+    {
+      "part_number": "3703",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel single-hole standard T-nut with 5/16-18 thread that slides in from the profile end.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "Type": "Standard T-Nut",
+        "A": ".700”",
+        "B": ".281”",
+        "C": ".625”",
+        "D (Thread)": "5/16-18",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)"
+    },
+    {
+      "part_number": "3868",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel single-hole standard T-nut with M8 x 1.25 thread that slides in from the profile end.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "Type": "Standard T-Nut",
+        "A": ".700”",
+        "B": ".281”",
+        "C": ".625”",
+        "D (Thread)": "M8 x 1.25",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)"
+    },
+    {
+      "part_number": "8900",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut - Custom T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Custom steel T-nut made to your drawing; length, hole location and thread are per your drawing. Width and thickness match the 15 series standard slide-in T-nut.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Mill",
+      "weight": ".040 lb / in.",
+      "specs": {
+        "Type": "Custom T-Nut",
+        "A": "Per Your Drawing",
+        "B": "Per Your Drawing",
+        "C": ".625”",
+        "D (Thread)": "Per Your Drawing",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)",
+      "notes": "Weight is per inch. Custom lengths use Standard Machining Service 7604 Cut to Length (pg. 11-2)."
+    },
+    {
+      "part_number": "8900-36",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut - T-Nut Profile",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel T-nut profile bar, 36.000” long, in mill finish for making custom T-nuts; hole location and thread are per your drawing.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Mill",
+      "weight": "1.440 lb",
+      "specs": {
+        "Type": "T-Nut Profile",
+        "A": "36.000”",
+        "B": "Per Your Drawing",
+        "C": ".625”",
+        "D (Thread)": "Per Your Drawing",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)",
+      "notes": "Custom lengths use Standard Machining Service 7604 Cut to Length (pg. 11-2)."
+    },
+    {
+      "part_number": "8900-145",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Slide-In T-Nut - T-Nut Profile",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Steel T-nut profile bar, 145.000” long, in mill finish for making custom T-nuts; hole location and thread are per your drawing.",
+      "features": [
+        "Loads from profile end",
+        "Customizable up to 36” (91.44cm)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Mill",
+      "weight": "5.800 lb",
+      "specs": {
+        "Type": "T-Nut Profile",
+        "A": "145.000”",
+        "B": "Per Your Drawing",
+        "C": ".625”",
+        "D (Thread)": "Per Your Drawing",
+        "E": ".243”"
+      },
+      "dimension_notes": "A = overall length, B = end to hole center, C = width, D = thread, E = thickness (side view)",
+      "notes": "Custom lengths use Standard Machining Service 7604 Cut to Length (pg. 11-2)."
+    },
+    {
+      "part_number": "7604",
+      "series": [
+        "15"
+      ],
+      "name": "Cut to Length",
+      "category": "machining_service",
+      "section": "Hardware",
+      "catalog_page": "4-153",
+      "description": "Standard machining service for cutting custom T-nut profile to length.",
+      "notes": "Reference page 11-2. Listed under 'Standard Machining Services for Custom Lengths' below the Standard Slide-In T-Nut table; the service table carries no series badge and applies to the custom T-nut / T-nut profile rows (8900, 8900-36, 8900-145 for 15 series)."
+    },
+    {
+      "part_number": "3087",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-154",
+      "description": "Steel two-hole slide-in T-nut with 5/16-18 threads, .875” hole spacing, that loads from the profile end. Used with the double anchor fastener (pg. 4-13).",
+      "features": [
+        "Loads from profile end",
+        "Used with double anchor fastener (pg. 4-13)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".046 lb",
+      "specs": {
+        "A": ".875”",
+        "B (Thread)": "5/16-18",
+        "C": ".625”",
+        "D": "1.437”",
+        "E": ".250”"
+      },
+      "dimension_notes": "A = hole center-to-center spacing, B = thread, C = width, D = overall length, E = thickness"
+    },
+    {
+      "part_number": "3088",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-154",
+      "description": "Steel two-hole slide-in T-nut with 5/16-18 threads, 2.362” hole spacing, that loads from the profile end. Used with the double anchor fastener (pg. 4-13).",
+      "features": [
+        "Loads from profile end",
+        "Used with double anchor fastener (pg. 4-13)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".105 lb",
+      "specs": {
+        "A": "2.362”",
+        "B (Thread)": "5/16-18",
+        "C": ".625”",
+        "D": "2.937”",
+        "E": ".250”"
+      },
+      "dimension_notes": "A = hole center-to-center spacing, B = thread, C = width, D = overall length, E = thickness"
+    },
+    {
+      "part_number": "3908",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-154",
+      "description": "Steel two-hole slide-in T-nut with M8 x 1.25 threads, .875” hole spacing, that loads from the profile end. Used with the double anchor fastener (pg. 4-13).",
+      "features": [
+        "Loads from profile end",
+        "Used with double anchor fastener (pg. 4-13)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".044 lb",
+      "specs": {
+        "A": ".875”",
+        "B (Thread)": "M8 x 1.25",
+        "C": ".625”",
+        "D": "1.437”",
+        "E": ".250”"
+      },
+      "dimension_notes": "A = hole center-to-center spacing, B = thread, C = width, D = overall length, E = thickness"
+    },
+    {
+      "part_number": "3910",
+      "series": [
+        "15"
+      ],
+      "name": "Double Anchor Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-154",
+      "description": "Steel two-hole slide-in T-nut with M8 x 1.25 threads, 2.362” hole spacing, that loads from the profile end. Used with the double anchor fastener (pg. 4-13).",
+      "features": [
+        "Loads from profile end",
+        "Used with double anchor fastener (pg. 4-13)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".107 lb",
+      "specs": {
+        "A": "2.362”",
+        "B (Thread)": "M8 x 1.25",
+        "C": ".625”",
+        "D": "2.937”",
+        "E": ".250”"
+      },
+      "dimension_notes": "A = hole center-to-center spacing, B = thread, C = width, D = overall length, E = thickness"
+    },
+    {
+      "part_number": "13050",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel self-aligning slide-in T-nut with M4 x 0.7 thread that loads from the profile end. Its projection aligns in the T-slot and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot; ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0181 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "7.00mm",
+        "C": "17.00mm",
+        "D (Thread)": "M4 x 0.7",
+        "E": "11.60mm",
+        "F": "9.60mm",
+        "G": "2.90mm",
+        "H": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E, F, G, H are side-profile dimensions",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13051",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel self-aligning slide-in T-nut with M5 x 0.8 thread that loads from the profile end. Its projection aligns in the T-slot and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot; ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0181 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "7.00mm",
+        "C": "17.00mm",
+        "D (Thread)": "M5 x 0.8",
+        "E": "11.60mm",
+        "F": "9.60mm",
+        "G": "2.90mm",
+        "H": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E, F, G, H are side-profile dimensions",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13052",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel self-aligning slide-in T-nut with M6 x 1.0 thread that loads from the profile end. Its projection aligns in the T-slot and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot; ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0172 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "7.00mm",
+        "C": "17.00mm",
+        "D (Thread)": "M6 x 1.0",
+        "E": "11.60mm",
+        "F": "9.60mm",
+        "G": "2.90mm",
+        "H": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E, F, G, H are side-profile dimensions",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13053",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel self-aligning slide-in T-nut with M8 x 1.25 thread that loads from the profile end. Its projection aligns in the T-slot and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot; ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0159 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "7.00mm",
+        "C": "17.00mm",
+        "D (Thread)": "M8 x 1.25",
+        "E": "11.60mm",
+        "F": "9.60mm",
+        "G": "2.90mm",
+        "H": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E, F, G, H are side-profile dimensions",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13054",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel self-aligning slide-in T-nut with 1/4-20 thread that loads from the profile end. Its projection aligns in the T-slot and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot; ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0168 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "7.00mm",
+        "C": "17.00mm",
+        "D (Thread)": "1/4-20",
+        "E": "11.60mm",
+        "F": "9.60mm",
+        "G": "2.90mm",
+        "H": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E, F, G, H are side-profile dimensions",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13055",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel self-aligning slide-in T-nut with 5/16-18 thread that loads from the profile end. Its projection aligns in the T-slot and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot; ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0159 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "7.00mm",
+        "C": "17.00mm",
+        "D (Thread)": "5/16-18",
+        "E": "11.60mm",
+        "F": "9.60mm",
+        "G": "2.90mm",
+        "H": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E, F, G, H are side-profile dimensions",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13064",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel slide-in T-nut with M5 x 0.8 thread that loads from the profile end. A ball spring holds the T-nut in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Ball spring holds the T-nut in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0150 kg",
+      "specs": {
+        "A": "23.00mm",
+        "B": "6.75mm",
+        "C": "18.00mm",
+        "D (Thread)": "M5 x 0.8",
+        "E": "8.50mm",
+        "F": "6.80mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E = overall thickness, F = side-profile dimension",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13065",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel slide-in T-nut with M6 x 1.0 thread that loads from the profile end. A ball spring holds the T-nut in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Ball spring holds the T-nut in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0145 kg",
+      "specs": {
+        "A": "23.00mm",
+        "B": "6.75mm",
+        "C": "18.00mm",
+        "D (Thread)": "M6 x 1.0",
+        "E": "8.50mm",
+        "F": "6.80mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E = overall thickness, F = side-profile dimension",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13066",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-155",
+      "description": "Steel slide-in T-nut with M8 x 1.25 thread that loads from the profile end. A ball spring holds the T-nut in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Ball spring holds the T-nut in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0132 kg",
+      "specs": {
+        "A": "23.00mm",
+        "B": "6.75mm",
+        "C": "18.00mm",
+        "D (Thread)": "M8 x 1.25",
+        "E": "8.50mm",
+        "F": "6.80mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread; E = overall thickness, F = side-profile dimension",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13022",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Steel self-aligning slide-in T-nut with M4 x 0.7 thread that loads from the profile end. Its projection aligns in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0082 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "16.00mm",
+        "C (Thread)": "M4 x 0.7",
+        "D": "1.80mm",
+        "E": "7.80mm",
+        "F": "6.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread; D, E, F are side-profile dimensions",
+      "notes": "Row is badged 15, 30 and 40 series (30 and 40 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13023",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Steel self-aligning slide-in T-nut with M5 x 0.8 thread that loads from the profile end. Its projection aligns in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0082 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "16.00mm",
+        "C (Thread)": "M5 x 0.8",
+        "D": "1.80mm",
+        "E": "7.80mm",
+        "F": "6.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread; D, E, F are side-profile dimensions",
+      "notes": "Row is badged 15, 30 and 40 series (30 and 40 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13024",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Steel self-aligning slide-in T-nut with M6 x 1.0 thread that loads from the profile end. Its projection aligns in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0077 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "16.00mm",
+        "C (Thread)": "M6 x 1.0",
+        "D": "1.80mm",
+        "E": "7.80mm",
+        "F": "6.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread; D, E, F are side-profile dimensions",
+      "notes": "Row is badged 15, 30 and 40 series (30 and 40 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13025",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Slide-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Steel self-aligning slide-in T-nut with M8 x 1.25 thread that loads from the profile end. Its projection aligns in the T-slot.",
+      "features": [
+        "Loads from profile end",
+        "Projection aligns in the T-slot"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".0068 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "16.00mm",
+        "C (Thread)": "M8 x 1.25",
+        "D": "1.80mm",
+        "E": "7.80mm",
+        "F": "6.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread; D, E, F are side-profile dimensions",
+      "notes": "Row is badged 15, 30 and 40 series (30 and 40 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "14126",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut Block",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Stamped steel rectangular economy T-nut block with M6 x 1.0 thread, 19.00mm x 16.00mm x 4.00mm, that slides into the T-slot.",
+      "material": "Steel",
+      "alloy": "ST50",
+      "finish": "Bright Zinc",
+      "color": "Silver",
+      "weight": ".0082 kg",
+      "specs": {
+        "Process": "Stamped",
+        "A": "19.00mm",
+        "B": "16.00mm",
+        "C (Thread)": "M6 x 1.0",
+        "D": "4.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread, D = thickness",
+      "notes": "Row is badged 15, 40 and 45 series (40 and 45 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "14127",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut Block",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Stamped steel rectangular economy T-nut block with M8 x 1.25 thread, 19.00mm x 16.00mm x 4.00mm, that slides into the T-slot.",
+      "material": "Steel",
+      "alloy": "ST50",
+      "finish": "Bright Zinc",
+      "color": "Silver",
+      "weight": ".0073 kg",
+      "specs": {
+        "Process": "Stamped",
+        "A": "19.00mm",
+        "B": "16.00mm",
+        "C (Thread)": "M8 x 1.25",
+        "D": "4.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread, D = thickness",
+      "notes": "Row is badged 15, 40 and 45 series (40 and 45 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "14130",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut Block",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Stamped steel rectangular economy T-nut block with M6 x 1.0 thread, 20.00mm x 13.00mm x 5.00mm, that slides into the T-slot.",
+      "material": "Steel",
+      "alloy": "ST50",
+      "finish": "Bright Zinc",
+      "color": "Silver",
+      "weight": ".0084 kg",
+      "specs": {
+        "Process": "Stamped",
+        "A": "20.00mm",
+        "B": "13.00mm",
+        "C (Thread)": "M6 x 1.0",
+        "D": "5.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread, D = thickness",
+      "notes": "Row is badged 15, 40 and 45 series (40 and 45 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "14131",
+      "series": [
+        "15"
+      ],
+      "name": "Slide-In Economy T-Nut Block",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-156",
+      "description": "Stamped steel rectangular economy T-nut block with M8 x 1.25 thread, 20.00mm x 13.00mm x 5.00mm, that slides into the T-slot.",
+      "material": "Steel",
+      "alloy": "ST50",
+      "finish": "Bright Zinc",
+      "color": "Silver",
+      "weight": ".0082 kg",
+      "specs": {
+        "Process": "Stamped",
+        "A": "20.00mm",
+        "B": "13.00mm",
+        "C (Thread)": "M8 x 1.25",
+        "D": "5.00mm"
+      },
+      "dimension_notes": "A = length, B = width, C = thread, D = thickness",
+      "notes": "Row is badged 15, 40 and 45 series (40 and 45 are metric). Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "3284",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with 10-32 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "10-32",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3784",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with 10-32 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".021 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "10-32",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3844",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with M5 x 0.8 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".025 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "M5 x 0.8",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3283",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with 1/4-20 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".024 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "1/4-20",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3783",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with 1/4-20 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "1/4-20",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3843",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with M6 x 1.0 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "M6 x 1.0",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3282",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with 5/16-18 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "5/16-18",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3782",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with 5/16-18 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "5/16-18",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3842",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Steel roll-in T-nut with M8 x 1.25 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "M8 x 1.25",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3602",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Stainless steel roll-in T-nut with 1/4-20 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Stainless-Steel",
+      "alloy": "303 Stainless",
+      "finish": "Stainless",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "1/4-20",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3600",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Flex Handle",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-157",
+      "description": "Stainless steel roll-in T-nut with 5/16-18 thread and a flexible rubber handle for positioning it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Flex handle to easily position and move within the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Stainless-Steel",
+      "alloy": "303 Stainless",
+      "finish": "Stainless",
+      "weight": ".021 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".195”",
+        "C": ".310”",
+        "D": ".510”",
+        "E (Thread)": "5/16-18",
+        "F": ".116”",
+        "G": ".285”",
+        "H": ".391”"
+      },
+      "dimension_notes": "A = overall length, D = width, E = thread, F = diameter of the flexible rubber handle hole (ø F); B and C locate the handle hole and threaded hole from the ends; G = side-view dimension; H = handle reference dimension (H REF.)"
+    },
+    {
+      "part_number": "3309",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with 10-32 thread and a 10-24 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".024 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-24",
+        "E (Thread)": "10-32",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3310",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with 1/4-20 thread and a 10-24 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".024 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-24",
+        "E (Thread)": "1/4-20",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3311",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with 5/16-18 thread and a 10-24 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Black Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-24",
+        "E (Thread)": "5/16-18",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3605",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Stainless steel roll-in T-nut with 1/4-20 thread and a 10-32 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Stainless-Steel",
+      "alloy": "303 Stainless",
+      "finish": "Stainless",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-32",
+        "E (Thread)": "1/4-20",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3608",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Stainless steel roll-in T-nut with 5/16-18 thread and a 10-32 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Stainless-Steel",
+      "alloy": "303 Stainless",
+      "finish": "Stainless",
+      "weight": ".021 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-32",
+        "E (Thread)": "5/16-18",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3781",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with 10-32 thread and a 10-24 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-24",
+        "E (Thread)": "10-32",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3787",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with 1/4-20 thread and a 10-24 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".024 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-24",
+        "E (Thread)": "1/4-20",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3788",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with 5/16-18 thread and a 10-24 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "10-24",
+        "E (Thread)": "5/16-18",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3892",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with M5 x 0.8 thread and a M5 x 0.8 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "M5 x 0.8",
+        "E (Thread)": "M5 x 0.8",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3894",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with M8 x 1.25 thread and a M5 x 0.8 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".020 lb",
+      "specs": {
+        "A": ".875”",
+        "B": ".310”",
+        "C": ".195”",
+        "D (Set Screw)": "M5 x 0.8",
+        "E (Thread)": "M8 x 1.25",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2)."
+    },
+    {
+      "part_number": "3898",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Set Screw",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-158",
+      "description": "Steel roll-in T-nut with M6 x 1.0 thread and a M5 x 0.8 set screw that holds it in place in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Set screw holds T-nut in place in the T-slot",
+        "Ideal for captivated profiles",
+        "Hex wrench required to adjust set screw (pg. 12-2)"
+      ],
+      "material": "Steel",
+      "alloy": "1215",
+      "finish": "Bright Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".310”",
+        "B": ".875”",
+        "C": ".195”",
+        "D (Set Screw)": "M5 x 0.8",
+        "E (Thread)": "M6 x 1.0",
+        "F": ".285”",
+        "G": ".510”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = end to set screw center, D = set screw thread, E = main thread, F = thickness, G = width",
+      "notes": "Hex wrench required to adjust set screw (pg. 12-2). A and B values are printed as .310” and .875” (reversed relative to every other 15 series row on the page); copied as printed."
+    },
+    {
+      "part_number": "3913",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-159",
+      "description": "Steel roll-in T-nut with M5 x 0.8 thread and a ball spring that holds it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ball spring holds the T-nut in the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".023 lb",
+      "specs": {
+        "A": ".866”",
+        "B": ".234”",
+        "C": ".539”",
+        "D (Thread)": "M5 x 0.8",
+        "E": ".343”",
+        "F": ".276”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread, E = overall thickness, F = side-profile dimension"
+    },
+    {
+      "part_number": "3914",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-159",
+      "description": "Steel roll-in T-nut with M6 x 1.0 thread and a ball spring that holds it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ball spring holds the T-nut in the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".866”",
+        "B": ".234”",
+        "C": ".539”",
+        "D (Thread)": "M6 x 1.0",
+        "E": ".343”",
+        "F": ".276”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread, E = overall thickness, F = side-profile dimension"
+    },
+    {
+      "part_number": "3915",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-159",
+      "description": "Steel roll-in T-nut with M8 x 1.25 thread and a ball spring that holds it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ball spring holds the T-nut in the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".021 lb",
+      "specs": {
+        "A": ".866”",
+        "B": ".234”",
+        "C": ".539”",
+        "D (Thread)": "M8 x 1.25",
+        "E": ".343”",
+        "F": ".276”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread, E = overall thickness, F = side-profile dimension"
+    },
+    {
+      "part_number": "3916",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-159",
+      "description": "Steel roll-in T-nut with 1/4-20 thread and a ball spring that holds it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ball spring holds the T-nut in the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".866”",
+        "B": ".234”",
+        "C": ".539”",
+        "D (Thread)": "1/4-20",
+        "E": ".343”",
+        "F": ".276”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread, E = overall thickness, F = side-profile dimension"
+    },
+    {
+      "part_number": "3917",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-159",
+      "description": "Steel roll-in T-nut with 5/16-18 thread and a ball spring that holds it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ball spring holds the T-nut in the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "alloy": "1045",
+      "finish": "Bright Zinc",
+      "weight": ".022 lb",
+      "specs": {
+        "A": ".866”",
+        "B": ".234”",
+        "C": ".539”",
+        "D (Thread)": "5/16-18",
+        "E": ".343”",
+        "F": ".276”"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread, E = overall thickness, F = side-profile dimension"
+    },
+    {
+      "part_number": "13018",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-159",
+      "description": "Stainless steel roll-in T-nut with 1/4-20 thread and a ball spring that holds it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ball spring holds the T-nut in the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Stainless-Steel",
+      "alloy": "304 Stainless",
+      "finish": "Stainless",
+      "weight": ".0095 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "6.50mm",
+        "C": "13.70mm",
+        "D (Thread)": "1/4-20",
+        "E": "8.70mm",
+        "F": "7.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread, E = overall thickness, F = side-profile dimension",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    },
+    {
+      "part_number": "13021",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-159",
+      "description": "Stainless steel roll-in T-nut with 5/16-18 thread and a ball spring that holds it in the T-slot. Loads from the profile end or side, so it suits captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ball spring holds the T-nut in the T-slot",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Stainless-Steel",
+      "alloy": "304 Stainless",
+      "finish": "Stainless",
+      "weight": ".0091 kg",
+      "specs": {
+        "A": "22.00mm",
+        "B": "6.50mm",
+        "C": "13.70mm",
+        "D (Thread)": "5/16-18",
+        "E": "8.70mm",
+        "F": "7.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end to threaded hole center, C = width, D = thread, E = overall thickness, F = side-profile dimension",
+      "notes": "Row is badged both 15 and 40 (metric) series. Dimensions and weight are printed in metric units."
+    }
+  ],
+  "page_notes": {
+    "316": "4-152 Double Slide-In Economy T-Nut and Triple Slide-In Economy T-Nut / Economy T-Nut Holding Spring tables; 15 series rows extracted, 10 series and metric (25/40) rows skipped.",
+    "317": "4-153 Standard Slide-In T-Nut table (standard, custom and T-nut profile rows) plus Standard Machining Services for Custom Lengths (7604); 15 series rows extracted, 10 and metric rows skipped.",
+    "318": "4-154 Double Anchor Slide-In T-Nut table; 15 series rows extracted, 10 and metric rows skipped.",
+    "319": "4-155 Self-Aligning Slide-In T-Nut with Ball Spring and Slide-In T-Nut with Ball Spring; all rows badged 15 + 40 (metric) and extracted as 15 series.",
+    "320": "4-156 Self-Aligning Slide-In T-Nut (13022-13025 badged 15/30/40) and Slide-In Economy T-Nut Block (14126/14127/14130/14131 badged 15/40/45); metric-only and 10/25 rows skipped.",
+    "321": "4-157 Roll-In T-Nut with Flex Handle; 15 series rows (steel and stainless) extracted, 10 and metric rows skipped.",
+    "322": "4-158 Roll-In T-Nut with Set Screw; 15 series rows extracted, 10 and metric rows skipped.",
+    "323": "4-159 Roll-In T-Nut with Ball Spring; 15 series rows and 15+40 badged stainless rows (13018, 13021) extracted, 10 and metric-only rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "3263: dimension_notes 'E and F are side-view dimensions of the pilot projection' -> 'E = pilot projection height, F = overall thickness including the pilot'",
+      "3279: dimension_notes 'E and F are side-view dimensions of the pilot projection' -> 'E = pilot projection height, F = overall thickness including the pilot'",
+      "3879: dimension_notes 'E and F are side-view dimensions of the pilot projection' -> 'E = pilot projection height, F = overall thickness including the pilot'",
+      "3285: dimension_notes 'E and F are side-view dimensions of the pilot projection' -> 'E = pilot projection height, F = overall thickness including the pilot'",
+      "3805: dimension_notes 'E and F are side-view dimensions of the pilot projection' -> 'E = pilot projection height, F = overall thickness including the pilot'",
+      "3201: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "3202: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "3203: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "3866: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "3703: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "3868: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "8900: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "8900-36: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)",
+      "8900-145: dimension_notes 'A = length along the slot' -> 'A = overall length' (slot orientation not shown in drawing)"
+    ],
+    "remaining_doubts": [
+      "7604 Cut to Length (4-153): the 'Standard Machining Services for Custom Lengths' table prints no series badge; kept with series ['15'] because it applies to the 15 series custom T-nut rows 8900, 8900-36 and 8900-145 (it equally applies to the 10 series 8901 and metric rows).",
+      "3898 (4-158): A and B are printed as .310” / .875”, reversed relative to every other 15 series row in the table; kept as printed (possible catalog typo).",
+      "4-156 title: the PDF text layer reads '3 Self-Aligning Hole - Straight Slide-In Flat Plate T-Nut' but the rendered title bar reads 'Self-Aligning Slide-In T-Nut'; the rendered title is used for 13022-13025.",
+      "Metric-dimensioned rows that also carry a 15 badge (13018, 13021, 13022-13025, 13050-13055, 13064-13066, 14126, 14127, 14130, 14131) are kept with series ['15'] only; their dimensions and weights are in mm/kg as printed."
+    ]
+  }
+}

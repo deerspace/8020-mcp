@@ -1,0 +1,1457 @@
+{
+  "chunk": "c068",
+  "pages": [
+    724,
+    725,
+    726,
+    727,
+    728,
+    729,
+    730,
+    733
+  ],
+  "parts": [
+    {
+      "part_number": "20001",
+      "series": [
+        "15"
+      ],
+      "name": "Color Controller and Voltage Converter",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-26",
+      "description": "In-line LED controller with M12 connectors, required for all color LED rope lights. Rated for 12 to 30 V DC input and includes a mounting bracket.",
+      "features": [
+        "In-line controller with M12 connectors",
+        "Required for all color LED rope lights",
+        "IP65, IP67, and IP68 housing",
+        "Waterproof, dustproof, overmolded design",
+        "Rated for 12 to 30 V DC input",
+        "Includes mounting bracket"
+      ],
+      "weight": ".099 lb (.0449 kg)",
+      "specs": {
+        "Description": "LED Controller",
+        "Supply Voltage": "12 V to 30 V DC at 30 mA max",
+        "Output Voltage": "12 Volts",
+        "Connection": "M12 (4-pin)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-5310",
+          "qty": 1,
+          "description": "M5 x 10mm BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13023",
+          "qty": 1,
+          "description": "M5 Slide-in Self-Aligning",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Also badged 30, 40 and 45 series. Suggested Hardware (Mount to T-Slot) row is badged 15 and 40. Compatible accessories listed on the page: 20030 (M12 extension cable, 5 pin, .3m, 1ft), 20300 (M12 extension cable, 5 pin, 5m, 16ft), 20450 (M12 to fly lead cable, 5 pin, 5m, 16ft), 20900 (M12 to fly lead cable, 5 pin, 9m, 30ft), 20002 (2 amp power supply, 110V input, 24V output), 20004 (4 amp power supply, 110V input, 24V output)."
+    },
+    {
+      "part_number": "20010",
+      "series": [
+        "15"
+      ],
+      "name": "In-Line Touch Single Switch/Dimmer",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-27",
+      "description": "In-line capacitive touch switch with M12 connectors that dims lights using PWM output. Rated for 12 to 30 V DC input; clip bracket included.",
+      "features": [
+        "In-line capacitive touch switch with M12 connectors",
+        "IP65, IP67, and IP68 housing",
+        "Waterproof, dustproof, overmolded design",
+        "Rated for 12 to 30 V DC input",
+        "Dim lights using PWM output",
+        "Clip bracket included",
+        "Switch displays red, blue, or green lights indicators"
+      ],
+      "weight": ".150 lb (.0680 kg)",
+      "specs": {
+        "Description": "In-Line Touch Single Switch/Dimmer",
+        "Supply Voltage": "12 V DC to 30 V DC",
+        "Current Rating": "4 Amps max",
+        "Connection": "M12 (4-pin)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-5310",
+          "qty": 1,
+          "description": "M5 x 10mm BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13023",
+          "qty": 1,
+          "description": "M5 Slide-in Self-Aligning",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Note: Not compatible with color rope lights. Also badged 30, 40 and 45 series. Suggested Hardware (Mount to T-Slot) row is badged 15 and 40. Compatible accessories listed on the page: 20030 (M12 extension cable, 5 pin, .3m, 1ft), 20300 (M12 extension cable, 5 pin, 5m, 16ft), 20450 (M12 to fly lead cable, 5 pin, 5m, 16ft), 20900 (M12 to fly lead cable, 5 pin, 9m, 30ft), 20002 (2 amp power supply, 110V input, 24V output), 20004 (4 amp power supply, 110V input, 24V output)."
+    },
+    {
+      "part_number": "20003",
+      "series": [
+        "15"
+      ],
+      "name": "In-Line Three Position Switch",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-28",
+      "description": "In-line switch block with three 2-position switches and M12 connection. Rated for 12 to 30 V DC and includes a mounting bracket.",
+      "features": [
+        "IP65 and IP67",
+        "Rated for 12 to 30 V DC",
+        "Three 2-position in-line switch",
+        "Includes mounting bracket"
+      ],
+      "weight": ".312 lb (.1415 kg)",
+      "specs": {
+        "Description": "In-Line Three Position Switch",
+        "Supply Voltage": "30 V DC max",
+        "Current Rating": "4 Amps max",
+        "Connection": "M12 (4-pin)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-5312",
+          "qty": 2,
+          "description": "M5 x 12mm BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "13023",
+          "qty": 2,
+          "description": "M5 Slide-in Self-Aligning",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Also badged 10, 25, 30, 40 and 45 series. Suggested Hardware (Mount to T-Slot) row is badged 15 and 40 (10/25 series uses 11-5310 with 25-1951 instead). Compatible accessories listed on the page: 20030 (M12 extension cable, 5 pin, .3m, 1ft), 20300 (M12 extension cable, 5 pin, 5m, 16ft), 20450 (M12 to fly lead cable, 5 pin, 5m, 16ft), 20900 (M12 to fly lead cable, 5 pin, 9m, 30ft), 20002 (2 amp power supply, 110V input, 24V output), 20004 (4 amp power supply, 110V input, 24V output)."
+    },
+    {
+      "part_number": "20002",
+      "series": [
+        "15"
+      ],
+      "name": "Lighting Cables and Power Supplies - Power Supply",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-29",
+      "description": "Universal AC to DC power supply with 24 V DC output and an M12 (5-pin) connection on an 11.5 ft cable; detachable Type A, C, G and I AC input plugs.",
+      "features": [
+        "Universal AC to DC power supplies (20002 and 20004)",
+        "24 V DC output, M12 Connections (20002 and 20004)",
+        "Type A, C, G and I AC Detachable Input Plugs (20002)"
+      ],
+      "weight": ".583 lb (.2644 kg)",
+      "specs": {
+        "Description": "24 V DC, 2.0 A Class 2 Power Supply",
+        "Input Voltage": "100 V AC to 240 V AC",
+        "Output Voltage": "24 V DC ± 5%",
+        "Connection": "11.5 ft cable M12 (5-pin)"
+      },
+      "notes": "Series cell is merged across all six rows of the table and badged 10, 15, 25, 30, 40 and 45. Output voltage is printed as '24 V DC + 5%' with an underlined plus (read as ± 5%)."
+    },
+    {
+      "part_number": "20004",
+      "series": [
+        "15"
+      ],
+      "name": "Lighting Cables and Power Supplies - Power Supply",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-29",
+      "description": "Universal AC to DC power supply with 24 V DC output and an M12 (5-pin) connection on a 6.5 ft cable; includes an additional 1.5 meter AC input cable.",
+      "features": [
+        "Universal AC to DC power supplies (20002 and 20004)",
+        "24 V DC output, M12 Connections (20002 and 20004)",
+        "Includes additional 1.5 meter AC input cable (20004)"
+      ],
+      "weight": "1.260 lb (.5715 kg)",
+      "specs": {
+        "Description": "24 V DC, 3.9 A Class 2 Power Supply",
+        "Input Voltage": "90 V AC to 264 V AC",
+        "Output Voltage": "24 V DC ± 5%",
+        "Connection": "6.5 ft cable M12 (5-pin)"
+      },
+      "notes": "Series cell is merged across all six rows of the table and badged 10, 15, 25, 30, 40 and 45. Output voltage is printed as '24 V DC + 5%' with an underlined plus (read as ± 5%)."
+    },
+    {
+      "part_number": "20030",
+      "series": [
+        "15"
+      ],
+      "name": "Lighting Cables and Power Supplies - M12 Cordset",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-29",
+      "description": "Double-ended female/male M12 5-pin PVC cordset, .3 m long, used as an M12 extension cable.",
+      "features": [
+        "5-Pin Double-Ended Female/Male (20030 and 20300)"
+      ],
+      "weight": ".066 lb (.0299 kg)",
+      "specs": {
+        "Description": "M12 PVC Cordset 5-Pin Double Ended",
+        "Input Voltage": "60 V DC/AC",
+        "Output Voltage": "60 V DC/AC",
+        "Connection": ".3 m cable M12 (5-pin)"
+      },
+      "notes": "Series cell is merged across all six rows of the table and badged 10, 15, 25, 30, 40 and 45."
+    },
+    {
+      "part_number": "20300",
+      "series": [
+        "15"
+      ],
+      "name": "Lighting Cables and Power Supplies - M12 Cordset",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-29",
+      "description": "Double-ended female/male M12 5-pin PVC cordset, 5 m long, used as an M12 extension cable.",
+      "features": [
+        "5-Pin Double-Ended Female/Male (20030 and 20300)"
+      ],
+      "weight": ".434 lb (.1968 kg)",
+      "specs": {
+        "Description": "M12 PVC Cordset 5-Pin Double Ended",
+        "Input Voltage": "60 V DC/AC",
+        "Output Voltage": "60 V DC/AC",
+        "Connection": "5 m cable M12 (5-pin)"
+      },
+      "notes": "Series cell is merged across all six rows of the table and badged 10, 15, 25, 30, 40 and 45."
+    },
+    {
+      "part_number": "20450",
+      "series": [
+        "15"
+      ],
+      "name": "Lighting Cables and Power Supplies - M12 Cordset",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-29",
+      "description": "M12 5-pin female quick-disconnect PVC cordset with flying leads on the other end, 5 m long.",
+      "features": [
+        "5-Pin Female QD to Flying Leads (20450 and 20900)"
+      ],
+      "weight": ".578 lb (.2621 kg)",
+      "specs": {
+        "Description": "M12 PVC Cordset 5-Pin Female QD to Flying Leads",
+        "Input Voltage": "60 V DC/AC",
+        "Output Voltage": "60 V DC/AC",
+        "Connection": "5 m cable M12 (5-pin)"
+      },
+      "notes": "Series cell is merged across all six rows of the table and badged 10, 15, 25, 30, 40 and 45."
+    },
+    {
+      "part_number": "20900",
+      "series": [
+        "15"
+      ],
+      "name": "Lighting Cables and Power Supplies - M12 Cordset",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-29",
+      "description": "M12 5-pin female quick-disconnect PVC cordset with flying leads on the other end, 9 m long.",
+      "features": [
+        "5-Pin Female QD to Flying Leads (20450 and 20900)"
+      ],
+      "weight": ".903 lb (.4095 kg)",
+      "specs": {
+        "Description": "M12 PVC Cordset 5-Pin Female QD to Flying Leads",
+        "Input Voltage": "60 V DC/AC",
+        "Output Voltage": "60 V DC/AC",
+        "Connection": "9 m cable M12 (5-pin)"
+      },
+      "notes": "Series cell is merged across all six rows of the table and badged 10, 15, 25, 30, 40 and 45."
+    },
+    {
+      "part_number": "2030",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 1.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".013 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column '80/20 Black Cap': black cap with 80/20 marking (photo shows 8020.net and 260-248-8030 on the face). 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2030RED",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 1.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Red",
+      "weight": ".013 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Red Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2030BLU",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 1.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Blue",
+      "weight": ".013 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Blue Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2030YEL",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 1.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Yellow",
+      "weight": ".013 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Yellow Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2030GRA",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 1.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Gray",
+      "weight": ".013 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Gray Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2030-Plain",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 1.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".013 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Black Cap': plain (blank) black end cap without the 80/20 marking. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2045",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".031 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column '80/20 Black Cap': black cap with 80/20 marking (photo shows 8020.net and 260-248-8030 on the face). 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2045RED",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Red",
+      "weight": ".031 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Red Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2045BLU",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Blue",
+      "weight": ".031 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Blue Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2045YEL",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Yellow",
+      "weight": ".031 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Yellow Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2045GRA",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Gray",
+      "weight": ".031 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Gray Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2045-Plain",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".031 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Black Cap': plain (blank) black end cap without the 80/20 marking. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2046",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 4.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".049 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column '80/20 Black Cap': black cap with 80/20 marking (photo shows 8020.net and 260-248-8030 on the face). 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2046RED",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 4.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Red",
+      "weight": ".049 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Red Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2046BLU",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 4.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Blue",
+      "weight": ".049 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Blue Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2046YEL",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 4.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Yellow",
+      "weight": ".049 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Yellow Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2046GRA",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 4.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Gray",
+      "weight": ".049 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Gray Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2046-Plain",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 1.500” x 4.500”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".049 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "4.500”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Black Cap': plain (blank) black end cap without the 80/20 marking. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2050",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 3.000” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".064 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column '80/20 Black Cap': black cap with 80/20 marking (photo shows 8020.net and 260-248-8030 on the face). 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2050RED",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 3.000” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Red",
+      "weight": ".064 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Red Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2050BLU",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 3.000” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Blue",
+      "weight": ".064 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Blue Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2050YEL",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 3.000” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Yellow",
+      "weight": ".064 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Yellow Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2050GRA",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 3.000” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Gray",
+      "weight": ".064 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Gray Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2050-Plain",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with a center hole for the end of a 15 series profile, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole. Size 3.000” x 3.000”.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "color": "Black",
+      "weight": ".064 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "3.000”",
+        "C": ".328”",
+        "D": ".188”"
+      },
+      "dimension_notes": "A = height, B = width, C = center hole diameter (ø C), D = cap thickness",
+      "notes": "Column 'Black Cap': plain (blank) black end cap without the 80/20 marking. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31. Material is not listed in this table."
+    },
+    {
+      "part_number": "2035",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with one rounded corner (radius B) and a center hole, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".016 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": ".328”",
+        "D": "1.500”",
+        "E": ".283”",
+        "F": ".188”"
+      },
+      "dimension_notes": "A = height, B = corner radius (R. B), C = center hole diameter (ø C), D = width; E and F are side-view thickness dimensions",
+      "notes": "Column '80/20 Black Cap': black cap with 80/20 marking (photo shows 8020.net and 260-248-8030 on the face). 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31."
+    },
+    {
+      "part_number": "2035RED",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with one rounded corner (radius B) and a center hole, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Red",
+      "weight": ".016 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": ".328”",
+        "D": "1.500”",
+        "E": ".283”",
+        "F": ".188”"
+      },
+      "dimension_notes": "A = height, B = corner radius (R. B), C = center hole diameter (ø C), D = width; E and F are side-view thickness dimensions",
+      "notes": "Column 'Red Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31."
+    },
+    {
+      "part_number": "2035BLU",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with one rounded corner (radius B) and a center hole, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Blue",
+      "weight": ".016 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": ".328”",
+        "D": "1.500”",
+        "E": ".283”",
+        "F": ".188”"
+      },
+      "dimension_notes": "A = height, B = corner radius (R. B), C = center hole diameter (ø C), D = width; E and F are side-view thickness dimensions",
+      "notes": "Column 'Blue Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31."
+    },
+    {
+      "part_number": "2035YEL",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with one rounded corner (radius B) and a center hole, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Yellow",
+      "weight": ".016 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": ".328”",
+        "D": "1.500”",
+        "E": ".283”",
+        "F": ".188”"
+      },
+      "dimension_notes": "A = height, B = corner radius (R. B), C = center hole diameter (ø C), D = width; E and F are side-view thickness dimensions",
+      "notes": "Column 'Yellow Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31."
+    },
+    {
+      "part_number": "2035GRA",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with one rounded corner (radius B) and a center hole, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Gray",
+      "weight": ".016 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": ".328”",
+        "D": "1.500”",
+        "E": ".283”",
+        "F": ".188”"
+      },
+      "dimension_notes": "A = height, B = corner radius (R. B), C = center hole diameter (ø C), D = width; E and F are side-view thickness dimensions",
+      "notes": "Column 'Gray Cap'. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31."
+    },
+    {
+      "part_number": "2035-Plain",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Push-In Fastener",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-30",
+      "description": "End cap with one rounded corner (radius B) and a center hole, installed with a push-in fastener, self-tapping screw or a BHSCS into a tapped hole.",
+      "features": [
+        "Installed with a push-in fastener, self-tapping screw or into a tapped hole using a BHSCS",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".016 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": ".328”",
+        "D": "1.500”",
+        "E": ".283”",
+        "F": ".188”"
+      },
+      "dimension_notes": "A = height, B = corner radius (R. B), C = center hole diameter (ø C), D = width; E and F are side-view thickness dimensions",
+      "notes": "Column 'Black Cap': plain (blank) black end cap without the 80/20 marking. 15-series Push-In Fastener 3274 and STECS 3767/3267 are listed on page 9-31."
+    },
+    {
+      "part_number": "3274",
+      "series": [
+        "15"
+      ],
+      "name": "Push-In Fastener",
+      "category": "hardware_other",
+      "section": "Accessories",
+      "catalog_page": "9-31",
+      "description": "Plastic push-in fastener with a barbed stem, used to install 15 series end caps with push-in fastener.",
+      "material": "Plastic",
+      "color": "Black",
+      "weight": ".0020 lb",
+      "specs": {
+        "A": ".895”",
+        "B": ".300”",
+        "C": ".700”"
+      },
+      "dimension_notes": "A = overall length, B = barbed stem diameter, C = head diameter",
+      "notes": "Color columns: Black Cap, Red Cap, Blue Cap, Yellow Cap, Gray Cap (fastener color matching the cap). Used with End Cap with Push-In Fastener (page 9-30)."
+    },
+    {
+      "part_number": "3274RED",
+      "series": [
+        "15"
+      ],
+      "name": "Push-In Fastener",
+      "category": "hardware_other",
+      "section": "Accessories",
+      "catalog_page": "9-31",
+      "description": "Plastic push-in fastener with a barbed stem, used to install 15 series end caps with push-in fastener.",
+      "material": "Plastic",
+      "color": "Red",
+      "weight": ".0020 lb",
+      "specs": {
+        "A": ".895”",
+        "B": ".300”",
+        "C": ".700”"
+      },
+      "dimension_notes": "A = overall length, B = barbed stem diameter, C = head diameter",
+      "notes": "Color columns: Black Cap, Red Cap, Blue Cap, Yellow Cap, Gray Cap (fastener color matching the cap). Used with End Cap with Push-In Fastener (page 9-30)."
+    },
+    {
+      "part_number": "3274BLU",
+      "series": [
+        "15"
+      ],
+      "name": "Push-In Fastener",
+      "category": "hardware_other",
+      "section": "Accessories",
+      "catalog_page": "9-31",
+      "description": "Plastic push-in fastener with a barbed stem, used to install 15 series end caps with push-in fastener.",
+      "material": "Plastic",
+      "color": "Blue",
+      "weight": ".0020 lb",
+      "specs": {
+        "A": ".895”",
+        "B": ".300”",
+        "C": ".700”"
+      },
+      "dimension_notes": "A = overall length, B = barbed stem diameter, C = head diameter",
+      "notes": "Color columns: Black Cap, Red Cap, Blue Cap, Yellow Cap, Gray Cap (fastener color matching the cap). Used with End Cap with Push-In Fastener (page 9-30)."
+    },
+    {
+      "part_number": "3274YEL",
+      "series": [
+        "15"
+      ],
+      "name": "Push-In Fastener",
+      "category": "hardware_other",
+      "section": "Accessories",
+      "catalog_page": "9-31",
+      "description": "Plastic push-in fastener with a barbed stem, used to install 15 series end caps with push-in fastener.",
+      "material": "Plastic",
+      "color": "Yellow",
+      "weight": ".0020 lb",
+      "specs": {
+        "A": ".895”",
+        "B": ".300”",
+        "C": ".700”"
+      },
+      "dimension_notes": "A = overall length, B = barbed stem diameter, C = head diameter",
+      "notes": "Color columns: Black Cap, Red Cap, Blue Cap, Yellow Cap, Gray Cap (fastener color matching the cap). Used with End Cap with Push-In Fastener (page 9-30)."
+    },
+    {
+      "part_number": "3274GRA",
+      "series": [
+        "15"
+      ],
+      "name": "Push-In Fastener",
+      "category": "hardware_other",
+      "section": "Accessories",
+      "catalog_page": "9-31",
+      "description": "Plastic push-in fastener with a barbed stem, used to install 15 series end caps with push-in fastener.",
+      "material": "Plastic",
+      "color": "Gray",
+      "weight": ".0020 lb",
+      "specs": {
+        "A": ".895”",
+        "B": ".300”",
+        "C": ".700”"
+      },
+      "dimension_notes": "A = overall length, B = barbed stem diameter, C = head diameter",
+      "notes": "Color columns: Black Cap, Red Cap, Blue Cap, Yellow Cap, Gray Cap (fastener color matching the cap). Used with End Cap with Push-In Fastener (page 9-30)."
+    },
+    {
+      "part_number": "3767",
+      "series": [
+        "15"
+      ],
+      "name": "Self Tapping End Cap Screw (STECS)",
+      "category": "screw_bolt",
+      "section": "Accessories",
+      "catalog_page": "9-31",
+      "description": "Steel self-tapping button-head screw with hex socket for fastening an end cap to a 15 series profile.",
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".008 lb",
+      "specs": {
+        "A": ".428”",
+        "B": ".157”",
+        "C": ".127”",
+        "D (Length)": ".360”",
+        "E (Thread)": "M7 x 1.0"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket size, C = head height, D = length, E = thread",
+      "notes": "Alternative to the push-in fastener for End Cap with Push-In Fastener (page 9-30)."
+    },
+    {
+      "part_number": "3267",
+      "series": [
+        "15"
+      ],
+      "name": "Self Tapping End Cap Screw (STECS)",
+      "category": "screw_bolt",
+      "section": "Accessories",
+      "catalog_page": "9-31",
+      "description": "Steel self-tapping button-head screw with hex socket for fastening an end cap to a 15 series profile.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".008 lb",
+      "specs": {
+        "A": ".428”",
+        "B": ".157”",
+        "C": ".127”",
+        "D (Length)": ".360”",
+        "E (Thread)": "M7 x 1.0"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket size, C = head height, D = length, E = thread",
+      "notes": "Alternative to the push-in fastener for End Cap with Push-In Fastener (page 9-30)."
+    },
+    {
+      "part_number": "2036",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Molded Push-In Stem",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-32",
+      "description": "Black ABS end cap installed with a molded push-in stem. Size .750” x 1.500”.",
+      "features": [
+        "Installed with a molded push-in stem",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".006 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".750”",
+        "B": "1.500”",
+        "C": ".125”"
+      },
+      "dimension_notes": "A = height, B = width, C = cap thickness",
+      "notes": "80/20 Black Cap column; no Plain Black Cap version listed (—)."
+    },
+    {
+      "part_number": "2037",
+      "series": [
+        "15"
+      ],
+      "name": "End Cap with Molded Push-In Stem",
+      "category": "end_cap",
+      "section": "Accessories",
+      "catalog_page": "9-32",
+      "description": "Black ABS end cap installed with a molded push-in stem. Size .750” x 3.000”.",
+      "features": [
+        "Installed with a molded push-in stem",
+        "Blank end cap available in black"
+      ],
+      "material": "ABS",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".010 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".750”",
+        "B": "3.000”",
+        "C": ".125”"
+      },
+      "dimension_notes": "A = height, B = width, C = cap thickness",
+      "notes": "80/20 Black Cap column; no Plain Black Cap version listed (—)."
+    },
+    {
+      "part_number": "2822",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-35",
+      "description": "Extruded PVC cover that fits into an open 15 series T-slot to cover it, sold in 72.500” stock lengths.",
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Yellow",
+      "weight": ".131 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".282” (7.16mm)",
+        "B": ".505” (12.83mm)",
+        "C": ".416” (10.57mm)",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height (depth into slot), B = top flange width, C = width across the legs",
+      "notes": "Also badged 40 series. Weight basis (per stock length) not stated on the page."
+    },
+    {
+      "part_number": "2823",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-35",
+      "description": "Extruded PVC cover that fits into an open 15 series T-slot to cover it, sold in 72.500” stock lengths.",
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Black",
+      "weight": ".133 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".282” (7.16mm)",
+        "B": ".505” (12.83mm)",
+        "C": ".416” (10.57mm)",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height (depth into slot), B = top flange width, C = width across the legs",
+      "notes": "Also badged 40 series. Weight basis (per stock length) not stated on the page."
+    },
+    {
+      "part_number": "2824",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-35",
+      "description": "Extruded PVC cover that fits into an open 15 series T-slot to cover it, sold in 72.500” stock lengths.",
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Gray",
+      "weight": ".126 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".282” (7.16mm)",
+        "B": ".505” (12.83mm)",
+        "C": ".416” (10.57mm)",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height (depth into slot), B = top flange width, C = width across the legs",
+      "notes": "Also badged 40 series. Weight basis (per stock length) not stated on the page."
+    },
+    {
+      "part_number": "2825",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-35",
+      "description": "Extruded PVC cover that fits into an open 15 series T-slot to cover it, sold in 72.500” stock lengths.",
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Red",
+      "weight": ".124 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".282” (7.16mm)",
+        "B": ".505” (12.83mm)",
+        "C": ".416” (10.57mm)",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height (depth into slot), B = top flange width, C = width across the legs",
+      "notes": "Also badged 40 series. Weight basis (per stock length) not stated on the page."
+    },
+    {
+      "part_number": "2826",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-35",
+      "description": "Extruded PVC cover that fits into an open 15 series T-slot to cover it, sold in 72.500” stock lengths.",
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Blue",
+      "weight": ".126 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".282” (7.16mm)",
+        "B": ".505” (12.83mm)",
+        "C": ".416” (10.57mm)",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height (depth into slot), B = top flange width, C = width across the legs",
+      "notes": "Also badged 40 series. Weight basis (per stock length) not stated on the page."
+    },
+    {
+      "part_number": "2827",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-35",
+      "description": "Extruded PVC cover that fits into an open 15 series T-slot to cover it, sold in 72.500” stock lengths.",
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Orange",
+      "weight": ".127 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".282” (7.16mm)",
+        "B": ".505” (12.83mm)",
+        "C": ".416” (10.57mm)",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height (depth into slot), B = top flange width, C = width across the legs",
+      "notes": "Also badged 40 series. Weight basis (per stock length) not stated on the page."
+    },
+    {
+      "part_number": "2871",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-slot Cover",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-35",
+      "description": "Extruded PVC cover that fits into an open 15 series T-slot to cover it, sold in 72.500” stock lengths.",
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Clear",
+      "weight": ".126 lb",
+      "specs": {
+        "Process": "Extruded",
+        "A": ".282” (7.16mm)",
+        "B": ".505” (12.83mm)",
+        "C": ".416” (10.57mm)",
+        "Stock Length": "72.500”"
+      },
+      "dimension_notes": "A = overall height (depth into slot), B = top flange width, C = width across the legs",
+      "notes": "Also badged 40 series. Weight basis (per stock length) not stated on the page."
+    }
+  ],
+  "page_notes": {
+    "724": "Color Controller and Voltage Converter 20001 (badged 15/30/40/45) with 15-series Suggested Hardware (11-5310 + 13023); compatible accessories listed in notes.",
+    "725": "In-Line Touch Single Switch/Dimmer 20010 (badged 15/30/40/45) with 15-series Suggested Hardware (11-5310 + 13023).",
+    "726": "In-Line Three Position Switch 20003 (badged 10/15/25/30/40/45) with 15-series Suggested Hardware (11-5312 + 13023).",
+    "727": "Lighting Cables and Power Supplies: six parts (20002, 20004, 20030, 20300, 20450, 20900) under one merged 10/15/25/30/40/45 series cell.",
+    "728": "End Cap with Push-In Fastener: 15-series 2030/2045/2046/2050 and 2035 in six color variants each; 10-series and metric rows skipped.",
+    "729": "Push-In Fastener 3274 (5 colors) and STECS 3767/3267 for 15 series; 10-series and metric rows skipped.",
+    "730": "End Cap with Molded Push-In Stem: 15-series 2036 and 2037; all other rows (and the angled 40-2037/39/43 table) are metric and skipped.",
+    "733": "Economy T-slot Cover: 15-series 2822-2827 and 2871 (badged 15/40); 10/25 and 45-series rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2030/2045/2046/2050/2035 families (all 30 color variants): notes removed unsupported 'Fastener sold separately' and reworded the 9-31 fastener cross-reference as a plain listing fact",
+      "2030/2045/2046/2050 families (24 parts): description 'Rectangular end cap ...' -> 'End cap with a center hole ...' (2030 and 2050 are square)",
+      "20002: name 'Lighting Cables and Power Supplies' -> 'Lighting Cables and Power Supplies - Power Supply'",
+      "20004: name 'Lighting Cables and Power Supplies' -> 'Lighting Cables and Power Supplies - Power Supply'",
+      "20030: name 'Lighting Cables and Power Supplies' -> 'Lighting Cables and Power Supplies - M12 Cordset'",
+      "20300: name 'Lighting Cables and Power Supplies' -> 'Lighting Cables and Power Supplies - M12 Cordset'",
+      "20450: name 'Lighting Cables and Power Supplies' -> 'Lighting Cables and Power Supplies - M12 Cordset'",
+      "20900: name 'Lighting Cables and Power Supplies' -> 'Lighting Cables and Power Supplies - M12 Cordset'",
+      "2036: description removed unsupported claim 'so no separate fastener is needed'",
+      "2037: description removed unsupported claim 'so no separate fastener is needed'"
+    ],
+    "remaining_doubts": [
+      "20002/20004 Output Voltage kept as '24 V DC ± 5%': the PDF text layer has '+ 5%' but the image shows an underlined plus (±).",
+      "2035 family dimension_notes for E and F are approximate; the side-view drawing does not make clear which of E/F is cap thickness vs tab depth.",
+      "Economy T-slot Cover (2822-2871) weight basis (per 72.500” stock length) is not stated on the page."
+    ]
+  }
+}

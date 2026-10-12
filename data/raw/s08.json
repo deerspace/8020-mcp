@@ -1,0 +1,36 @@
+{
+  "chunk": "s08",
+  "pages": [
+    660,
+    661,
+    662,
+    663,
+    664,
+    671,
+    706,
+    707,
+    739,
+    742
+  ],
+  "parts": [],
+  "page_notes": {
+    "660": "No wanted part defined; 11-5310 (M5 x 10mm BHSCS) appears only in the suggested hardware tables for R40-DS and R40-TS.",
+    "661": "No wanted part defined; 11-5310 (M5 x 10mm BHSCS) appears only in the suggested hardware table for R40-CS.",
+    "662": "No wanted part defined; 11-5310 (M5 x 10mm BHSCS) appears only in the suggested hardware table for R85-CS.",
+    "663": "No wanted part defined; 11-5310 (M5 x 10mm BHSCS) appears only in the suggested hardware tables for R85-MS and R85-DS.",
+    "664": "No wanted part defined; 11-5310 (M5 x 10mm BHSCS) appears only in the suggested hardware table for R85-TS.",
+    "671": "No wanted part defined; 11-6312 (M6 x 12mm BHSCS), 11-6314 (M6 x 14mm BHSCS), 11-6316 (M6 x 16mm BHSCS), 11-5712 (M5 x 12mm FHSCS) and 11-8716 (printed as M8 x 18mm FHSCS) appear only in the suggested hardware tables for plates 6904 and 6907.",
+    "706": "No wanted part defined; 11-6042 appears only as included hardware (washer) in the 45 Degree Supports table.",
+    "707": "No wanted part defined; 11-6042 appears only as included hardware (washer) in the 45 Degree Supports table.",
+    "739": "No wanted part defined; 11-4512 (M4 x 12mm SHCS) and 13113 (Drop-In T-nut) appear only in the suggested hardware table for Cable & Tube Clip 12026.",
+    "742": "No wanted part defined; 11-5712 appears only in the suggested hardware table for Power Strips 2677/2678."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "Page 671 prints 11-8716 with the description 'M8 x 18mm FHSCS', which does not match the 16mm length implied by the part number; it is only a suggested-hardware reference here, so no part was created."
+    ]
+  }
+}

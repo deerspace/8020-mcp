@@ -1,0 +1,463 @@
+{
+  "chunk": "c076",
+  "pages": [
+    788,
+    789,
+    790,
+    791,
+    792,
+    793,
+    794,
+    795
+  ],
+  "parts": [
+    {
+      "part_number": "7244",
+      "series": [
+        "15"
+      ],
+      "name": "Clearance Drill Thru in T-Slot",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-14",
+      "description": "Machining service that drills a .257” clearance hole through the profile in a T-slot, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole in T-Slot",
+        "Hole Diameter": ".257”"
+      },
+      "notes": "Reference page 11-14. Row is also badged for 10 series. Metric counterpart: 65-7244 (6.53mm). T-slot positions are designated by letter per the Clearance Drill Thru in T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7248 in T @ 1.50” and 22.50” from Left End."
+    },
+    {
+      "part_number": "7246",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Clearance Drill Thru in T-Slot",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-14",
+      "description": "Machining service that drills a .328” clearance hole through the profile in a T-slot, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole in T-Slot",
+        "Hole Diameter": ".328”"
+      },
+      "notes": "Reference page 11-14. Row is also badged for 10 series and Ready Tube (RT). Metric counterpart: 65-7246 (8.33mm). T-slot positions are designated by letter per the Clearance Drill Thru in T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7248 in T @ 1.50” and 22.50” from Left End."
+    },
+    {
+      "part_number": "7248",
+      "series": [
+        "15"
+      ],
+      "name": "Clearance Drill Thru in T-Slot",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-14",
+      "description": "Machining service that drills a .438” clearance hole through the profile in a T-slot, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole in T-Slot",
+        "Hole Diameter": ".438”"
+      },
+      "notes": "Reference page 11-14. Row is also badged for 10 series. Metric counterpart: 65-7248 (11.13mm). T-slot positions are designated by letter per the Clearance Drill Thru in T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7248 in T @ 1.50” and 22.50” from Left End."
+    },
+    {
+      "part_number": "7240",
+      "series": [
+        "15"
+      ],
+      "name": "Clearance Drill Thru in T-Slot",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-14",
+      "description": "Machining service that drills a .563” clearance hole through the profile in a T-slot, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole in T-Slot",
+        "Hole Diameter": ".563”"
+      },
+      "notes": "Reference page 11-14. 15 series only (no 10 series badge on this row). Metric counterpart: 65-7240 (14.30mm). T-slot positions are designated by letter per the Clearance Drill Thru in T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7248 in T @ 1.50” and 22.50” from Left End."
+    },
+    {
+      "part_number": "7241",
+      "series": [
+        "15"
+      ],
+      "name": "Clearance Drill Thru Between T-Slots",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-15",
+      "description": "Machining service that drills a .257” clearance hole through the profile between T-slots, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole Between T-Slot",
+        "Hole Diameter": ".257”"
+      },
+      "notes": "Reference page 11-15. Row is also badged for 10 series. Metric counterpart: 65-7241 (6.53mm). Hole locations are designated by the letters of the T-slots it lies between, per the Clearance Drill Thru Between T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7247 between U and V @ 1.50” from Left End."
+    },
+    {
+      "part_number": "7243",
+      "series": [
+        "15"
+      ],
+      "name": "Clearance Drill Thru Between T-Slots",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-15",
+      "description": "Machining service that drills a .328” clearance hole through the profile between T-slots, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole Between T-Slot",
+        "Hole Diameter": ".328”"
+      },
+      "notes": "Reference page 11-15. Row is also badged for 10 series. Metric counterpart: 65-7243 (8.33mm). Hole locations are designated by the letters of the T-slots it lies between, per the Clearance Drill Thru Between T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7247 between U and V @ 1.50” from Left End."
+    },
+    {
+      "part_number": "7245",
+      "series": [
+        "15"
+      ],
+      "name": "Clearance Drill Thru Between T-Slots",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-15",
+      "description": "Machining service that drills a .438” clearance hole through the profile between T-slots, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole Between T-Slot",
+        "Hole Diameter": ".438”"
+      },
+      "notes": "Reference page 11-15. Row is also badged for 10 series. Metric counterpart: 65-7245 (11.13mm). Hole locations are designated by the letters of the T-slots it lies between, per the Clearance Drill Thru Between T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7247 between U and V @ 1.50” from Left End."
+    },
+    {
+      "part_number": "7247",
+      "series": [
+        "15"
+      ],
+      "name": "Clearance Drill Thru Between T-Slots",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-15",
+      "description": "Machining service that drills a .563” clearance hole through the profile between T-slots, used for additional clearance when adding stem casters or leveling feet to a profile.",
+      "features": [
+        "Used for additional clearance while adding stem casters or leveling feet to a profile",
+        "When ordering, designate T-slot position from left end of profile"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole Between T-Slot",
+        "Hole Diameter": ".563”"
+      },
+      "notes": "Reference page 11-15. 15 series only (no 10 series badge on this row). Metric counterpart: 65-7247 (14.30mm). Hole locations are designated by the letters of the T-slots it lies between, per the Clearance Drill Thru Between T-Slot Designations diagram on the page. Ordering Example: (2) 1530 x 24.00” w/ #7247 between U and V @ 1.50” from Left End."
+    },
+    {
+      "part_number": "7702",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Channel Side Tap",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-16",
+      "description": "Machining service that taps a 1/4-20 hole in the T-slot channel of a 15 series profile at a custom location along its length, specified from the left end of the profile.",
+      "features": [
+        "Provides tapped hole in T-slot channel at custom locations along length of profile",
+        "Taps through center cavity of profile; does not tap through close-faced profile sides or multiple cavities at once"
+      ],
+      "specs": {
+        "Service Type": "T-Slot Channel Side Tap",
+        "Tap Size": "1/4-20"
+      },
+      "notes": "Reference page 11-16. Specify location from the left end of profile and the T-slot letter per the T-Slot Channel Tap Designations diagram. Note: For profiles with open center cavities, taps on opposite facing T-slots will not align for thread use through entire profile. Metric-profile counterparts: 30-7702, 40-7702, 45-7702. Ordering Example: (3) 1530 x 75.00 w/ #7702 in slot F at 2.00”."
+    },
+    {
+      "part_number": "7703",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Channel Side Tap",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-16",
+      "description": "Machining service that taps an M6 x 1.00 hole in the T-slot channel of a 15 series profile at a custom location along its length, specified from the left end of the profile.",
+      "features": [
+        "Provides tapped hole in T-slot channel at custom locations along length of profile",
+        "Taps through center cavity of profile; does not tap through close-faced profile sides or multiple cavities at once"
+      ],
+      "specs": {
+        "Service Type": "T-Slot Channel Side Tap",
+        "Tap Size": "M6 x 1.00"
+      },
+      "notes": "Reference page 11-16. Specify location from the left end of profile and the T-slot letter per the T-Slot Channel Tap Designations diagram. Note: For profiles with open center cavities, taps on opposite facing T-slots will not align for thread use through entire profile. Metric-profile counterparts: 30-7703, 40-7703, 45-7703. Ordering Example: (3) 1530 x 75.00 w/ #7702 in slot F at 2.00”."
+    },
+    {
+      "part_number": "7704",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Channel Side Tap",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-16",
+      "description": "Machining service that taps a 5/16-18 hole in the T-slot channel of a 15 series profile at a custom location along its length, specified from the left end of the profile.",
+      "features": [
+        "Provides tapped hole in T-slot channel at custom locations along length of profile",
+        "Taps through center cavity of profile; does not tap through close-faced profile sides or multiple cavities at once"
+      ],
+      "specs": {
+        "Service Type": "T-Slot Channel Side Tap",
+        "Tap Size": "5/16-18"
+      },
+      "notes": "Reference page 11-16. Specify location from the left end of profile and the T-slot letter per the T-Slot Channel Tap Designations diagram. Note: For profiles with open center cavities, taps on opposite facing T-slots will not align for thread use through entire profile. Metric-profile counterparts: 30-7704, 40-7704, 45-7704. Ordering Example: (3) 1530 x 75.00 w/ #7702 in slot F at 2.00”."
+    },
+    {
+      "part_number": "7705",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Channel Side Tap",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-16",
+      "description": "Machining service that taps an M8 x 1.25 hole in the T-slot channel of a 15 series profile at a custom location along its length, specified from the left end of the profile.",
+      "features": [
+        "Provides tapped hole in T-slot channel at custom locations along length of profile",
+        "Taps through center cavity of profile; does not tap through close-faced profile sides or multiple cavities at once"
+      ],
+      "specs": {
+        "Service Type": "T-Slot Channel Side Tap",
+        "Tap Size": "M8 x 1.25"
+      },
+      "notes": "Reference page 11-16. Specify location from the left end of profile and the T-slot letter per the T-Slot Channel Tap Designations diagram. Note: For profiles with open center cavities, taps on opposite facing T-slots will not align for thread use through entire profile. Metric-profile counterparts: 30-7705, 40-7705, 45-7705. Ordering Example: (3) 1530 x 75.00 w/ #7702 in slot F at 2.00”."
+    },
+    {
+      "part_number": "7305",
+      "series": [
+        "15"
+      ],
+      "name": "Deluxe Door Handle Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-17",
+      "description": "Machining service that counterbores and drills a 15 series profile, with 10-32 tapped holes above and below the centerline, so the deluxe door handle (pg. 5-116) can be mounted to a T-slot profile.",
+      "features": [
+        "Required when using the deluxe door handle (pg. 5-116) to a T-slot profile",
+        "When ordering, designate distance from the end of profile to the centerline (CL)"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole for Deluxe Door Handle",
+        "Bore Size (Depth)": "ø .875” x (.500”)"
+      },
+      "dimension_notes": "Drawing: ø .875” x .500” Deep (22.23mm x 12.70mm) counterbore with ø .500” Thru (12.70mm) hole on the centerline (CL), plus a 10-32 Tap at .750” (19.05mm) above and below CL.",
+      "notes": "Reference page 11-17. Positioning Example shows the CL 4.000” (101.60mm) from the end of a 24.000” (609.60mm) profile, in T-slot B. T-slot letters per the Deluxe Door Handle Machining Designations diagram. Metric counterpart: 65-7305 (40 series, ø 22.23mm x (12.70mm)). Ordering Example: (1) 1515 x 24.00” w/ #7305 in B @ 4.00” from left end."
+    },
+    {
+      "part_number": "7315",
+      "series": [
+        "15"
+      ],
+      "name": "Furniture Style Handle Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-18",
+      "description": "Machining service that drills a profile so the furniture style door handle (pg. 5-118) can be mounted to a T-slot profile.",
+      "features": [
+        "Required when using the furniture style door handle (pg. 5-118) to a T-slot profile",
+        "When ordering, designate distance from the end of profile to the centerline (CL)"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru Hole for Furniture Style Handle",
+        "Bore Size (Depth)": "ø .812” x (.390”)"
+      },
+      "dimension_notes": "Drawing: ø .813” x .390” Deep (20.62mm x 9.91mm) counterbore with ø .390” Thru (9.91mm) hole on the centerline (CL), plus ø .181” Thru (4.60mm) holes at .750” (19.05mm) above and below CL.",
+      "notes": "Reference page 11-18. Part number is printed as 7315* with footnote: *The counterbore is only for the 10 and 25 series. Row is badged 10 and 15. Per the footnote, the counterbore (Bore Size (Depth) column) applies to 10 and 25 series only, not to 15 series profiles. Table lists bore ø .812” while the drawing labels it ø .813”. Positioning Example shows the CL 4.000” (101.60mm) from the end of a 24.000” (609.60mm) profile, in T-slot B. T-slot letters per the Furniture Style Handle Machining Designations diagram. Metric counterpart: 65-7315* (25 and 40 series, ø 20.62mm x (9.91mm)). Ordering Example: (1) 1515 x 24.00” w/ #7315 in B @ 4.00” from left end."
+    },
+    {
+      "part_number": "7110",
+      "series": [
+        "15"
+      ],
+      "name": "Miter Connector Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-19",
+      "description": "Machining service that drills and counterbores a mitered 15 series profile end for the miter connector (pg. 4-19), with depths and offsets given for bar cut angles from 7.5º to 45º.",
+      "features": [
+        "Required when using the miter connector (pg. 4-19) for a profile connection"
+      ],
+      "specs": {
+        "Service Type": "Counterbore for Miter Connector",
+        "A (7.5º)": "1.957”",
+        "B (7.5º)": "1.538”",
+        "C (7.5º)": "1.036”",
+        "D (7.5º)": ".099”",
+        "E (7.5º)": ".750”",
+        "A (15º)": "2.059”",
+        "B (15º)": "1.640”",
+        "C (15º)": "1.036”",
+        "D (15º)": ".201”",
+        "E (15º)": ".750”",
+        "A (22.5º)": "2.169”",
+        "B (22.5º)": "1.750”",
+        "C (22.5º)": "1.036”",
+        "D (22.5º)": ".311”",
+        "E (22.5º)": ".750”",
+        "A (30º)": "2.291”",
+        "B (30º)": "1.872”",
+        "C (30º)": "1.036”",
+        "D (30º)": ".433”",
+        "E (30º)": ".750”",
+        "A (45º)": "2.608”",
+        "B (45º)": "2.189”",
+        "C (45º)": "1.036”",
+        "D (45º)": ".750”",
+        "E (45º)": ".750”"
+      },
+      "dimension_notes": "ANG = Bar Cut Angle (0-45); A = ø.394 (10mm) Drill Depth (ø .394” x “A” Deep); B = ø.597 (15.16mm) C-bore from Miter Tip; C = Counterbore Depth (ø .597” x “C” Deep); D = Miter Offset; E = Center of Bar. Drawing also shows 1.439” (36.55mm) and 1.858” (47.20mm) reference dimensions.",
+      "notes": "Reference page 11-19. Spec values are the 15 series columns of the Miter Connector Profile Milling table; table also lists 40 and 45 series values. Metric counterparts: 40-7110, 45-7110. T-slot letters per the Miter Connector Machining Designations diagram."
+    },
+    {
+      "part_number": "7099",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-Nut Clearance Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-20",
+      "description": "Machining service that mills a clearance slot into a 15 series T-slot so a single economy T-nut can be placed into a profile with a captivated end.",
+      "features": [
+        "Allows placement of economy T-nut into a T-slot profile with captivated end",
+        "When ordering, designate distance from the end of profile to the centerline (CL) and specify T-slot location"
+      ],
+      "specs": {
+        "Compatiable T-Nut Type": "Single",
+        "Slot Length “A”": ".763”",
+        "Slot Width “B”": ".700”",
+        "Minimum Distance “C”": ".601”",
+        "Tolerance": "Slot Length +/- .030”, Slot Width +/- .010”"
+      },
+      "dimension_notes": "A = slot length, B = slot width, C = distance from profile end to slot center (CL); slot ends are R .219” (5.56mm).",
+      "notes": "Reference page 11-20. Metric counterpart: 40-7099. T-slot letters per the Economy T-Nut Clearance Designations diagram. Ordering Example (10 series): (2) 1010 x 18.000 w/ #7098 in A @ 3.00 and 15.00 from Left End."
+    },
+    {
+      "part_number": "7102",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-Nut Clearance Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-20",
+      "description": "Machining service that mills a clearance slot into a 15 series T-slot so a double economy T-nut can be placed into a profile with a captivated end.",
+      "features": [
+        "Allows placement of economy T-nut into a T-slot profile with captivated end",
+        "When ordering, designate distance from the end of profile to the centerline (CL) and specify T-slot location"
+      ],
+      "specs": {
+        "Compatiable T-Nut Type": "Double",
+        "Slot Length “A”": "2.638”",
+        "Slot Width “B”": ".700”",
+        "Minimum Distance “C”": "1.538”",
+        "Tolerance": "Slot Length +/- .030”, Slot Width +/- .010”"
+      },
+      "dimension_notes": "A = slot length, B = slot width, C = distance from profile end to slot center (CL); slot ends are R .219” (5.56mm).",
+      "notes": "Reference page 11-20. Metric counterpart: 40-7102. T-slot letters per the Economy T-Nut Clearance Designations diagram. Ordering Example (10 series): (2) 1010 x 18.000 w/ #7098 in A @ 3.00 and 15.00 from Left End."
+    },
+    {
+      "part_number": "7104",
+      "series": [
+        "15"
+      ],
+      "name": "Economy T-Nut Clearance Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-20",
+      "description": "Machining service that mills a clearance slot into a 15 series T-slot so a triple economy T-nut can be placed into a profile with a captivated end.",
+      "features": [
+        "Allows placement of economy T-nut into a T-slot profile with captivated end",
+        "When ordering, designate distance from the end of profile to the centerline (CL) and specify T-slot location"
+      ],
+      "specs": {
+        "Compatiable T-Nut Type": "Triple",
+        "Slot Length “A”": "3.198”",
+        "Slot Width “B”": ".700”",
+        "Minimum Distance “C”": "1.818”",
+        "Tolerance": "Slot Length +/- .030”, Slot Width +/- .010”"
+      },
+      "dimension_notes": "A = slot length, B = slot width, C = distance from profile end to slot center (CL); slot ends are R .219” (5.56mm).",
+      "notes": "Reference page 11-20. No metric triple counterpart is listed. T-slot letters per the Economy T-Nut Clearance Designations diagram. Ordering Example (10 series): (2) 1010 x 18.000 w/ #7098 in A @ 3.00 and 15.00 from Left End."
+    },
+    {
+      "part_number": "7058",
+      "series": [
+        "15"
+      ],
+      "name": "Central Connector Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-21",
+      "description": "Machining service for 15 series profiles that drills through the profile end and adds a counterbore so the central connector (pg. 4-20) can be used.",
+      "features": [
+        "Required when using the central connector (pg. 4-20); consists of drill through the profile end and counterbore",
+        "When ordering, designate profile end (left, right or both) and T-slot for counterbore"
+      ],
+      "specs": {
+        "Service Type": "15 Series Profile Milling for Central Connector",
+        "A": "1.260”",
+        "B": ".597”",
+        "C": ".469”",
+        "D": "1.750”",
+        "E": "1.025”"
+      },
+      "dimension_notes": "Counterbore is ø B x E Deep; A = distance from the profile end to the counterbore center; C = diameter of the bore drilled into the profile end (section view); D = depth of that bore from the profile end.",
+      "notes": "Reference page 11-21. Metric counterparts: 30-7058, 40-7058, 45-7058. T-slot letters per the Central Connector Machining Designations diagram."
+    }
+  ],
+  "page_notes": {
+    "788": "Machining Services 11-14: Clearance Drill Thru in T-Slot table; 15-badged rows 7244, 7246 (also RT), 7248, 7240 extracted; 65-xxxx metric rows skipped; designation diagram only.",
+    "789": "Machining Services 11-15: Clearance Drill Thru Between T-Slots table; 15-badged rows 7241, 7243, 7245, 7247 extracted; 65-xxxx metric rows skipped.",
+    "790": "Machining Services 11-16: T-Slot Channel Side Tap table; 15 series rows 7702-7705 extracted; 10 series 7700/7701 and metric 25-/30-/40-/45- rows skipped.",
+    "791": "Machining Services 11-17: Deluxe Door Handle Profile Milling; 7305 (15) extracted, 65-7305 (40) skipped.",
+    "792": "Machining Services 11-18: Furniture Style Handle Profile Milling; 7315* (10/15) extracted as 7315, 65-7315* (25/40) skipped.",
+    "793": "Machining Services 11-19: Miter Connector Profile Milling; 7110 (15) extracted with 15 series angle-table values; 40-7110 and 45-7110 skipped.",
+    "794": "Machining Services 11-20: Economy T-Nut Clearance Profile Milling; 15 series rows 7099, 7102, 7104 extracted; 10 series 7098/7101/7103 and metric rows skipped.",
+    "795": "Machining Services 11-21: Central Connector Profile Milling; 7058 (15) extracted; 30-/40-/45-7058 metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "7305: description 'drills and counterbores ...' -> adds the 10-32 tapped holes shown on the drawing",
+      "7315: notes added explicit statement that the counterbore applies only to 10 and 25 series (per footnote), not to 15 series",
+      "7058: dimension_notes 'C and D are dimensions of the end drill-through ... (D measured from the profile end)' -> 'C = diameter of the bore drilled into the profile end; D = depth of that bore from the profile end' (confirmed on section view)"
+    ],
+    "remaining_doubts": [
+      "7315 is printed as '7315*'; the asterisk was treated as a footnote marker and dropped from part_number (footnote kept in notes).",
+      "7305/7315 dimension_notes assume the second hole at .750” below CL is the same feature (10-32 tap / ø .181” thru) as the labelled upper hole; the drawing labels only the upper one.",
+      "7244, 7246, 7248 (p. 11-14) and 7241, 7243, 7245 (p. 11-15) are also badged 10 series, and 7315 is badged 10 and 15; only 15 (plus RT for 7246) is recorded in series, per the rules, with the 10 badge mentioned in notes."
+    ]
+  }
+}

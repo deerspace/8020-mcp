@@ -1,0 +1,951 @@
+{
+  "chunk": "c028",
+  "pages": [
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388
+  ],
+  "parts": [
+    {
+      "part_number": "2615",
+      "series": [
+        "F"
+      ],
+      "name": "Expanded PVC Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-15",
+      "description": "Expanded PVC (polyvinyl chloride) panel sheet in White, .236” (6mm) thick. Weather and chemical resistant with a smooth finish.",
+      "features": [
+        "Stands for Polyvinyl Chloride (PVC)",
+        "Weather & chemical resistant",
+        "Stable up to 140°F / 60°C",
+        "Smooth finish"
+      ],
+      "material": "PVC",
+      "color": "White",
+      "weight": ".625 lb / ft2 (3.051 kg / m2)",
+      "specs": {
+        "Thickness": ".236” (6mm)",
+        "Stock Sheet Size": "48” + .197/-0 x 96” + .394/-0 (1219.2mm + 5.0/-0 x 2438.4mm + 10.0/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2615. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2617",
+      "series": [
+        "F"
+      ],
+      "name": "Expanded PVC Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-15",
+      "description": "Expanded PVC (polyvinyl chloride) panel sheet in Black, .236” (6mm) thick. Weather and chemical resistant with a smooth finish.",
+      "features": [
+        "Stands for Polyvinyl Chloride (PVC)",
+        "Weather & chemical resistant",
+        "Stable up to 140°F / 60°C",
+        "Smooth finish"
+      ],
+      "material": "PVC",
+      "color": "Black",
+      "weight": ".625 lb / ft2 (3.051 kg / m2)",
+      "specs": {
+        "Thickness": ".236” (6mm)",
+        "Stock Sheet Size": "48” + .197/-0 x 96” + .394/-0 (1219.2mm + 5.0/-0 x 2438.4mm + 10.0/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2617. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2618",
+      "series": [
+        "F"
+      ],
+      "name": "Expanded PVC Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-15",
+      "description": "Expanded PVC (polyvinyl chloride) panel sheet in Black, .118” (3mm) thick. Weather and chemical resistant with a smooth finish.",
+      "features": [
+        "Stands for Polyvinyl Chloride (PVC)",
+        "Weather & chemical resistant",
+        "Stable up to 140°F / 60°C",
+        "Smooth finish"
+      ],
+      "material": "PVC",
+      "color": "Black",
+      "weight": ".438 lb / ft2 (2.136 kg / m2)",
+      "specs": {
+        "Thickness": ".118” (3mm)",
+        "Stock Sheet Size": "48” + .197/-0 x 96” + .394/-0 (1219.2mm + 5.0/-0 x 2438.4mm + 10.0/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2618. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2623",
+      "series": [
+        "F"
+      ],
+      "name": "Expanded PVC Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-15",
+      "description": "Expanded PVC (polyvinyl chloride) panel sheet in Gray, .236” (6mm) thick. Weather and chemical resistant with a smooth finish.",
+      "features": [
+        "Stands for Polyvinyl Chloride (PVC)",
+        "Weather & chemical resistant",
+        "Stable up to 140°F / 60°C",
+        "Smooth finish"
+      ],
+      "material": "PVC",
+      "color": "Gray",
+      "weight": ".625 lb / ft2 (3.051 kg / m2)",
+      "specs": {
+        "Thickness": ".236” (6mm)",
+        "Stock Sheet Size": "48” + .197/-0 x 96” + .394/-0 (1219.2mm + 5.0/-0 x 2438.4mm + 10.0/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2623. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2650",
+      "series": [
+        "F"
+      ],
+      "name": "Aluminum Composite Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-16",
+      "description": "Aluminum composite panel sheet in Platinum, .236” thick, made of a polyethylene core with aluminum skin. Half the weight of aluminum.",
+      "features": [
+        "Stable up to 180°F / 82.2°C",
+        "Half the weight of aluminum",
+        "Made of polyethelene core, aluminum skin"
+      ],
+      "material": "Aluminum Composite",
+      "color": "Platinum",
+      "weight": "1.490 lb / ft2",
+      "specs": {
+        "Thickness": ".236”",
+        "Stock Sheet Size": "50” x 122” +/- .079"
+      },
+      "notes": "Metric version is 65-2650 (6mm, 1270mm x 3098.8mm + 2.0/-0, 7.068 kg / m2), listed as a separate metric row. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2633",
+      "series": [
+        "F"
+      ],
+      "name": "Lite Aluminum Composite Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-17",
+      "description": "Lite aluminum composite panel sheet in Blue, .236” (6mm) thick, made of a corrugated polyallomer core with aluminum skin. Weather resistant.",
+      "features": [
+        "Stable up to 125°F / 51.6°C",
+        "Made of corrugated polyallomer core, aluminum skin",
+        "Weather resistant"
+      ],
+      "material": "Lite Aluminum Composite",
+      "color": "Blue",
+      "weight": ".625 lb / ft2 (1.83 to 3.15kg / m2)",
+      "specs": {
+        "Thickness": ".236” (6mm)",
+        "Stock Sheet Size": "48” x 96” + .250/-0 (1219.2mm x 2438.4mm + 6.3/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2633. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2635",
+      "series": [
+        "F"
+      ],
+      "name": "Lite Aluminum Composite Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-17",
+      "description": "Lite aluminum composite panel sheet in Silver, .236” (6mm) thick, made of a corrugated polyallomer core with aluminum skin. Weather resistant.",
+      "features": [
+        "Stable up to 125°F / 51.6°C",
+        "Made of corrugated polyallomer core, aluminum skin",
+        "Weather resistant"
+      ],
+      "material": "Lite Aluminum Composite",
+      "color": "Silver",
+      "weight": ".625 lb / ft2 (1.83 to 3.15kg / m2)",
+      "specs": {
+        "Thickness": ".236” (6mm)",
+        "Stock Sheet Size": "48” x 96” + .250/-0 (1219.2mm x 2438.4mm + 6.3/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2635. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2637",
+      "series": [
+        "F"
+      ],
+      "name": "Lite Aluminum Composite Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-17",
+      "description": "Lite aluminum composite panel sheet in Black, .236” (6mm) thick, made of a corrugated polyallomer core with aluminum skin. Weather resistant.",
+      "features": [
+        "Stable up to 125°F / 51.6°C",
+        "Made of corrugated polyallomer core, aluminum skin",
+        "Weather resistant"
+      ],
+      "material": "Lite Aluminum Composite",
+      "color": "Black",
+      "weight": ".625 lb / ft2 (1.83 to 3.15kg / m2)",
+      "specs": {
+        "Thickness": ".236” (6mm)",
+        "Stock Sheet Size": "48” x 96” + .250/-0 (1219.2mm x 2438.4mm + 6.3/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2637. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2651",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Black, .220 - .236” (6mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Black",
+      "weight": "1.200 lb / ft2 (5.86 kg / m2)",
+      "specs": {
+        "Thickness": ".220 - .236” (6mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2651. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2652",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Black, .177” (4.5mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Black",
+      "weight": ".900 lb / ft2 (4.46 kg / m2)",
+      "specs": {
+        "Thickness": ".177” (4.5mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2652. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2665",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Black, .500” (12mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Black",
+      "weight": "2.520 lb / ft2 (12.304 kg / m2)",
+      "specs": {
+        "Thickness": ".500” (12mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2665. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2628",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Black, .750” (19.05mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Black",
+      "weight": "3.619 lb / ft2 (17.670 kg / m2)",
+      "specs": {
+        "Thickness": ".750” (19.05mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2628. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2653",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in White, .220 - .236” (6mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "White",
+      "weight": "1.200 lb / ft2 (5.12 kg / m2)",
+      "specs": {
+        "Thickness": ".220 - .236” (6mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2653. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2654",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in White, .177” (4.5mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "White",
+      "weight": ".900 lb / ft2 (4.50 kg / m2)",
+      "specs": {
+        "Thickness": ".177” (4.5mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2654. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2655",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Gray, .220 - .236” (6mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Gray",
+      "weight": "1.200 lb / ft2 (5.12 kg / m2)",
+      "specs": {
+        "Thickness": ".220 - .236” (6mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2655. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2656",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Gray, .177” (4.5mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Gray",
+      "weight": ".900 lb / ft2 (4.31 kg / m2)",
+      "specs": {
+        "Thickness": ".177” (4.5mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2656. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2658",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Yellow, .177” (4.5mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Yellow",
+      "weight": ".900 lb / ft2 (4.50 kg / m2)",
+      "specs": {
+        "Thickness": ".177” (4.5mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2658. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2666",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Blue, .220 - .236” (6mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Blue",
+      "weight": "1.200 lb / ft2 (5.20 kg / m2)",
+      "specs": {
+        "Thickness": ".220 - .236” (6mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2666. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2667",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Blue, .177” (4.5mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Blue",
+      "weight": ".900 lb / ft2 (4.27 kg / m2)",
+      "specs": {
+        "Thickness": ".177” (4.5mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2667. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2668",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "HDPE (high density polyethylene) panel sheet in Red, .220 - .236” (6mm) thick. Chemical and impact resistant, textured on both sides.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Red",
+      "weight": "1.200 lb / ft2 (5.17 kg / m2)",
+      "specs": {
+        "Thickness": ".220 - .236” (6mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2668. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2812",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "Natural HDPE (high density polyethylene) panel sheet, .375” (9.5mm) thick. Chemical and impact resistant.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Natural",
+      "weight": "1.824 lb / ft2 (9.17 kg / m2)",
+      "specs": {
+        "Thickness": ".375” (9.5mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Natural HDPE is excluded from the 'textured on both sides' feature. Metric equivalent part number 65-2812. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2813",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-18",
+      "description": "Natural HDPE (high density polyethylene) panel sheet, .500” (12mm) thick. Chemical and impact resistant.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides (excludes natural HDPE)",
+        "Chemical resistant",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Natural",
+      "weight": "2.416 lb / ft2 (11.96 kg / m2)",
+      "specs": {
+        "Thickness": ".500” (12mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Natural HDPE is excluded from the 'textured on both sides' feature. Metric equivalent part number 65-2813. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2640",
+      "series": [
+        "F"
+      ],
+      "name": "Twin Wall Polycarbonate Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-19",
+      "description": "Clear twin wall polycarbonate panel sheet, .236” thick. Provides 90 percent light transmission and is weather resistant.",
+      "features": [
+        "Provides 90 percent light transmission",
+        "Weather resistant"
+      ],
+      "material": "Polycarbonate",
+      "color": "Clear",
+      "weight": ".266 lb / ft2",
+      "specs": {
+        "Thickness": ".236”",
+        "Stock Sheet Size": "48” + .157/-0 x 96” + .197/-0"
+      },
+      "notes": "*See page 5-7 for important ordering information for channel orientation. Metric version is 65-2640 (6mm, 1219.2mm + 4.0/-0 x 2438.4mm + 5.0/-0, 1.293 kg / m2), listed as a separate metric row. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2659",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Pegboard",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-20",
+      "description": "Black HDPE (high density polyethylene) pegboard panel, .25” (6mm) thick, with 9/32 holes spaced 1.00” on center. Textured on both sides and impact resistant.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "Black",
+      "weight": "1.450 lb / ft2 (7.080 kg / m2)",
+      "specs": {
+        "Thickness": ".25” (6mm)",
+        "Hole Spacing": "1.00” on center",
+        "Hole Diameter": "9/32",
+        "Stock Sheet Size": "48” + .197/-0 x 96” + .394/-0 (1219.2mm + 5.0/-0 x 2438.4mm + 10.0/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2659. Hole diameter printed as 9/32 with no unit. The page's Standard Machining Services table (Cut-to-Size 11-25, Drill Thru 11-46) is printed below the Single-Sided Whiteboard table, not directly under the pegboard table."
+    },
+    {
+      "part_number": "2664",
+      "series": [
+        "F"
+      ],
+      "name": "HDPE Pegboard",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-20",
+      "description": "White HDPE (high density polyethylene) pegboard panel, .25” (6mm) thick, with 9/32 holes spaced 1.00” on center. Textured on both sides and impact resistant.",
+      "features": [
+        "Stands for High Density Polyethylene (HDPE)",
+        "Textured on both sides",
+        "Impact resistant"
+      ],
+      "material": "HDPE",
+      "color": "White",
+      "weight": "1.450 lb / ft2 (7.080 kg / m2)",
+      "specs": {
+        "Thickness": ".25” (6mm)",
+        "Hole Spacing": "1.00” on center",
+        "Hole Diameter": "9/32",
+        "Stock Sheet Size": "48” + .197/-0 x 96” + .394/-0 (1219.2mm + 5.0/-0 x 2438.4mm + 10.0/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2664. Hole diameter printed as 9/32 with no unit. The page's Standard Machining Services table (Cut-to-Size 11-25, Drill Thru 11-46) is printed below the Single-Sided Whiteboard table, not directly under the pegboard table."
+    },
+    {
+      "part_number": "2681",
+      "series": [
+        "F"
+      ],
+      "name": "Single-Sided Whiteboard",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-20",
+      "description": "White whiteboard panel with an LDPE core and galvanized steel skin, .118” (3mm) thick. Double-sided magnetic, with a dry erase surface on one side and a digital print-ready surface on the other.",
+      "features": [
+        "Double-sided magnetic",
+        "Dry erase surface one side",
+        "Digital print-ready one side"
+      ],
+      "material": "LDPE Core with Galvanized Steel Skin",
+      "color": "White",
+      "weight": "1.420 lb / ft2",
+      "specs": {
+        "Thickness": ".118” (3mm)",
+        "Stock Sheet Size": "48.0” +/- .079 x 96.0” +/- .118"
+      },
+      "notes": "Fractional (F) only; no metric equivalent listed. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46). Note: Edge radius machining not available for this panel."
+    },
+    {
+      "part_number": "2627",
+      "series": [
+        "F"
+      ],
+      "name": "UHMW-ESD Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-21",
+      "description": "Black UHMW (ultra high molecular weight polyethylene) ESD panel, .250” (6.35mm) thick. Static-safe surface that protects electronics with a 10⁶-10⁹ ohm resistance range.",
+      "features": [
+        "Static-safe surface",
+        "Protects electronics with 10⁶-10⁹ ohm resistance range"
+      ],
+      "material": "Ultra High Molecular Weight Polyethylene",
+      "color": "Black",
+      "weight": "1.250 lb / ft2",
+      "specs": {
+        "ESD": "Yes",
+        "Thickness": ".250” (6.35mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2627. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "2626",
+      "series": [
+        "F"
+      ],
+      "name": "UHMW-ESD Panels",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-21",
+      "description": "Black UHMW (ultra high molecular weight polyethylene) ESD panel, .500” (12.70mm) thick. Static-safe surface that protects electronics with a 10⁶-10⁹ ohm resistance range.",
+      "features": [
+        "Static-safe surface",
+        "Protects electronics with 10⁶-10⁹ ohm resistance range"
+      ],
+      "material": "Ultra High Molecular Weight Polyethylene",
+      "color": "Black",
+      "weight": "2.500 lb / ft2",
+      "specs": {
+        "ESD": "Yes",
+        "Thickness": ".500” (12.70mm)",
+        "Stock Sheet Size": "48” + .250/-0 x 96” + .500/-0 (1219.2mm + 6.3/-0 x 2438.4mm + 12.7/-0)"
+      },
+      "notes": "Metric equivalent part number 65-2626. Standard Machining Services: Cut-to-Size (reference page 11-25), Drill Thru (reference page 11-46)."
+    },
+    {
+      "part_number": "CF-4618-4LBS",
+      "series": [
+        "F"
+      ],
+      "name": "Cross Linked Protective Foam",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-21",
+      "description": "Gray 4 lb cross-linked polyethylene (XLPE) protective foam sheet, .125” (3.175mm) thick, 48” x 96”, with adhesive PSA backing. Provides maximum shock absorption and is moisture, scratch and chemical resistant.",
+      "features": [
+        "Maximum shock absorption",
+        "Moisture / scratch / chemical resistant",
+        "Adhesive PSA backing",
+        "4 lb cross-linked polyethylene (XLPE)"
+      ],
+      "material": "Cross-linked Polyethylene (XLPE)",
+      "color": "Gray",
+      "weight": "4.000 lb",
+      "specs": {
+        "UoM": "EA",
+        "Thickness": ".125” (3.175mm)",
+        "Stock Sheet Size": "48” x 96”"
+      },
+      "notes": "Sold each (UoM EA); weight is per piece. Row also carries the metric (M) badge; no separate metric part number listed. No machining services table is printed for this product."
+    },
+    {
+      "part_number": "CF-4634-4LBS",
+      "series": [
+        "F"
+      ],
+      "name": "Cross Linked Protective Foam",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-21",
+      "description": "Gray 4 lb cross-linked polyethylene (XLPE) protective foam sheet, .750” (19.05mm) thick, 48” x 96”, with adhesive PSA backing. Provides maximum shock absorption and is moisture, scratch and chemical resistant.",
+      "features": [
+        "Maximum shock absorption",
+        "Moisture / scratch / chemical resistant",
+        "Adhesive PSA backing",
+        "4 lb cross-linked polyethylene (XLPE)"
+      ],
+      "material": "Cross-linked Polyethylene (XLPE)",
+      "color": "Gray",
+      "weight": "10.000 lb",
+      "specs": {
+        "UoM": "EA",
+        "Thickness": ".750” (19.05mm)",
+        "Stock Sheet Size": "48” x 96”"
+      },
+      "notes": "Sold each (UoM EA); weight is per piece. Row also carries the metric (M) badge; no separate metric part number listed. No machining services table is printed for this product."
+    },
+    {
+      "part_number": "2808",
+      "series": [
+        "F"
+      ],
+      "name": "Phenolic Resin Panel",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-22",
+      "description": "Phenolic resin panel with a Black Matte Marble finish, .750” (19mm) thick. Typically used for work surfaces and tabletops; chemical and moisture resistant.",
+      "features": [
+        "Typically used for work surfaces / tabletops",
+        "Use tabletop mounting tape (pg. 9-42)",
+        "Chemical resistant",
+        "Moisture resistant"
+      ],
+      "material": "Phenolic Resin",
+      "finish": "Black Matte Marble",
+      "color": "Black",
+      "weight": "5.600 lb / ft2 (27.340 kg / m2)",
+      "specs": {
+        "Thickness": ".750” (19mm)",
+        "Stock Sheet Size": "60” +/- .125” x 120” +/- .156” (1524.0mm +/- 3.175mm x 3048.0 +/- 3.962)"
+      },
+      "notes": "Metric equivalent part number 65-2808. Mount with tabletop mounting tape (pg. 9-42). The page's Standard Machining Services table (Cut-to-Size, reference page 11-25) is printed below the Laminated Tabletop table, not directly under the phenolic table."
+    },
+    {
+      "part_number": "2814",
+      "series": [
+        "F"
+      ],
+      "name": "Phenolic Resin Panel",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-22",
+      "description": "Phenolic resin panel with a Light Matte Woodgrain finish, .500” (12.70mm) thick. Typically used for work surfaces and tabletops; chemical and moisture resistant.",
+      "features": [
+        "Typically used for work surfaces / tabletops",
+        "Use tabletop mounting tape (pg. 9-42)",
+        "Chemical resistant",
+        "Moisture resistant"
+      ],
+      "material": "Phenolic Resin",
+      "finish": "Light Matte Woodgrain",
+      "color": "Black",
+      "weight": "3.620 lb / ft2 (17.674 kg / m2)",
+      "specs": {
+        "Thickness": ".500” (12.70mm)",
+        "Stock Sheet Size": "48” +/- 1.000” x 96” +/- 1.000” (1219.2mm +/- 25.40mm x 2438.4 +/- 25.40)"
+      },
+      "notes": "Printed as 2814 (65-2814)*: *See page 5-7 for important ordering information for grain orientation. Metric equivalent part number 65-2814. Color column reads Black (merged cell across all phenolic rows) although the finish is woodgrain. Mount with tabletop mounting tape (pg. 9-42). The page's Standard Machining Services table (Cut-to-Size, reference page 11-25) is printed below the Laminated Tabletop table, not directly under the phenolic table."
+    },
+    {
+      "part_number": "2815",
+      "series": [
+        "F"
+      ],
+      "name": "Phenolic Resin Panel",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-22",
+      "description": "Phenolic resin panel with a Dark Matte Woodgrain finish, .500” (12.70mm) thick. Typically used for work surfaces and tabletops; chemical and moisture resistant.",
+      "features": [
+        "Typically used for work surfaces / tabletops",
+        "Use tabletop mounting tape (pg. 9-42)",
+        "Chemical resistant",
+        "Moisture resistant"
+      ],
+      "material": "Phenolic Resin",
+      "finish": "Dark Matte Woodgrain",
+      "color": "Black",
+      "weight": "3.620 lb / ft2 (17.674 kg / m2)",
+      "specs": {
+        "Thickness": ".500” (12.70mm)",
+        "Stock Sheet Size": "48” +/- 1.000” x 96” +/- 1.000” (1219.2mm +/- 25.40mm x 2438.4 +/- 25.40)"
+      },
+      "notes": "Printed as 2815 (65-2815)*: *See page 5-7 for important ordering information for grain orientation. Metric equivalent part number 65-2815. Color column reads Black (merged cell across all phenolic rows) although the finish is woodgrain. Mount with tabletop mounting tape (pg. 9-42). The page's Standard Machining Services table (Cut-to-Size, reference page 11-25) is printed below the Laminated Tabletop table, not directly under the phenolic table."
+    },
+    {
+      "part_number": "2800",
+      "series": [
+        "F"
+      ],
+      "name": "Laminated Tabletop",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-22",
+      "description": "Gray laminated tabletop with a particle board core and Laminate D92-60 surface, 1.25” (31.75mm) thick, 30” x 48”.",
+      "features": [
+        "Particle board core",
+        "Use tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58)"
+      ],
+      "color": "Gray",
+      "weight": "50.00 lb (22.680 kg) / Stock Sheet",
+      "specs": {
+        "Surface Material": "Laminate D92-60",
+        "Thickness": "1.25” (31.75mm)",
+        "Stock Sheet Size": "30” x 48” (762.00mm x 1219.20mm)"
+      },
+      "notes": "Metric equivalent part number 65-2800. Mount with tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58). Standard Machining Services: Cut-to-Size (reference page 11-25)."
+    },
+    {
+      "part_number": "2802",
+      "series": [
+        "F"
+      ],
+      "name": "Laminated Tabletop",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-22",
+      "description": "Gray laminated tabletop with a particle board core and Laminate D92-60 surface, 1.25” (31.75mm) thick, 30” x 60”.",
+      "features": [
+        "Particle board core",
+        "Use tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58)"
+      ],
+      "color": "Gray",
+      "weight": "63.00 lb (28.577 kg) / Stock Sheet",
+      "specs": {
+        "Surface Material": "Laminate D92-60",
+        "Thickness": "1.25” (31.75mm)",
+        "Stock Sheet Size": "30” x 60” (762.00mm x 1524.00mm)"
+      },
+      "notes": "Metric equivalent part number 65-2802. Mount with tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58). Standard Machining Services: Cut-to-Size (reference page 11-25)."
+    },
+    {
+      "part_number": "2804",
+      "series": [
+        "F"
+      ],
+      "name": "Laminated Tabletop",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-22",
+      "description": "Gray laminated tabletop with a particle board core and Laminate D92-60 surface, 1.25” (31.75mm) thick, 30” x 72”.",
+      "features": [
+        "Particle board core",
+        "Use tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58)"
+      ],
+      "color": "Gray",
+      "weight": "75.00 lb (34.020 kg) / Stock Sheet",
+      "specs": {
+        "Surface Material": "Laminate D92-60",
+        "Thickness": "1.25” (31.75mm)",
+        "Stock Sheet Size": "30” x 72” (762.00mm x 1828.80mm)"
+      },
+      "notes": "Metric equivalent part number 65-2804. Mount with tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58). Standard Machining Services: Cut-to-Size (reference page 11-25)."
+    },
+    {
+      "part_number": "2806",
+      "series": [
+        "F"
+      ],
+      "name": "Laminated Tabletop",
+      "category": "panel",
+      "section": "Panels & Doors",
+      "catalog_page": "5-22",
+      "description": "Gray laminated tabletop with a particle board core and Laminate D92-60 surface, 1.25” (31.75mm) thick, 36” x 72”.",
+      "features": [
+        "Particle board core",
+        "Use tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58)"
+      ],
+      "color": "Gray",
+      "weight": "90.00 lb (40.824 kg) / Stock Sheet",
+      "specs": {
+        "Surface Material": "Laminate D92-60",
+        "Thickness": "1.25” (31.75mm)",
+        "Stock Sheet Size": "36” x 72” (914.40mm x 1828.80mm)"
+      },
+      "notes": "Metric equivalent part number 65-2806. Mount with tabletop mounting tape (pg. 9-37) or tabletop mounting kit (pg. 5-58). Standard Machining Services: Cut-to-Size (reference page 11-25)."
+    }
+  ],
+  "page_notes": {
+    "381": "Expanded PVC Panels (5-15): 4 F/M-badged panel rows (2615, 2617, 2618, 2623) extracted; metric 65- equivalents recorded in notes; Standard Machining Services table (Cut-to-Size 11-25, Drill Thru 11-46) has no service numbers or 15 badge, so recorded as notes only.",
+    "382": "Aluminum Composite Panels (5-16): F row 2650 extracted; separate metric-only row 65-2650 skipped (summarized in notes).",
+    "383": "Lite Aluminum Composite Panels (5-17): 3 F/M-badged rows (2633, 2635, 2637) extracted with merged material/thickness/sheet size/weight cells applied to all rows.",
+    "384": "HDPE Panels (5-18): 14 F/M-badged rows extracted (2651, 2652, 2665, 2628, 2653, 2654, 2655, 2656, 2658, 2666, 2667, 2668, 2812, 2813).",
+    "385": "Twin Wall Polycarbonate Panels (5-19): F row 2640 extracted; metric-only row 65-2640 skipped; channel-orientation footnote (see page 5-7) kept in notes.",
+    "386": "HDPE Pegboard (2659, 2664; F/M) and Single-Sided Whiteboard (2681; F only) extracted (5-20); single machining table at bottom of page with note that edge radius machining is not available for the whiteboard.",
+    "387": "UHMW-ESD Panels (2627, 2626) and Cross Linked Protective Foam (CF-4618-4LBS, CF-4634-4LBS), all F/M-badged, extracted (5-21).",
+    "388": "Phenolic Resin Panel (2808, 2814, 2815) and Laminated Tabletop (2800, 2802, 2804, 2806), all F/M-badged, extracted (5-22); machining table lists Cut-to-Size only."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "Standard Machining Services tables on every page (Cut-to-Size 11-25, Drill Thru 11-46; p388 Cut-to-Size only) have no service numbers and no series badge, so no machining_service parts were created; references kept in notes.",
+      "p386: the note 'Edge radius machining not available for this panel' sits under the single machining table below the Single-Sided Whiteboard; it is attributed to 2681 only, but the page layout does not make clear whether it also covers the pegboard (2659, 2664).",
+      "p387 CF-4618-4LBS / CF-4634-4LBS: weight is printed as plain lb with UoM EA; reading it as weight per 48” x 96” sheet is an inference.",
+      "p388 2814/2815: Color 'Black' is one merged cell covering all three phenolic rows (confirmed in the image) even though the finishes are woodgrain; kept as printed."
+    ]
+  }
+}

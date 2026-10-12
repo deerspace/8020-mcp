@@ -1,0 +1,772 @@
+{
+  "chunk": "c060",
+  "pages": [
+    670,
+    671,
+    672,
+    673,
+    674,
+    675,
+    676,
+    677
+  ],
+  "parts": [
+    {
+      "part_number": "6930-HR",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Rail 30mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-116",
+      "description": "30mm heavy-duty linear rail with an aluminum alloy body and hardened steel raceways that mounts directly to T-slot through its mounting holes. The customer specifies the C (offset) dimension; maximum length is 6,000 mm (236.2”).",
+      "features": [
+        "Directly mount to T-Slot with mounting holes",
+        "Compatible with 80/20 T-slot profile series 10, 15, 25, 30, 40, 45",
+        "Temperature rating: 212° F",
+        "Aluminum alloy body with hardened steel raceways"
+      ],
+      "material": "Aluminum alloy body with hardened steel raceways",
+      "weight": "1.918 lb (.8700 kg) per m",
+      "specs": {
+        "A": "1.180” (30.00mm)",
+        "B": "2.360” (60.00mm)",
+        "C (Offset)": "Customer Specifies",
+        "D": ".630’” (15.90mm)"
+      },
+      "dimension_notes": "A = rail width, B = mounting hole spacing, C = offset from rail end to first hole (customer specifies), D = rail height (end view); LENGTH max 6,000 mm (236.2”)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5312",
+          "qty": 1,
+          "description": "M5 x 12mm BHSCS",
+          "context": "Mount to T-Slot (15 series row); 1 per mounting hole"
+        },
+        {
+          "part_number": "13023",
+          "qty": 1,
+          "description": "Slide-in",
+          "context": "Mount to T-Slot (15 series row), T-nut; 1 per mounting hole"
+        }
+      ],
+      "notes": "Weight is per meter (column 'Weight per/m'). Maximum length 6,000 mm (236.2”); customer specifies the C (offset) dimension. Included standard machining services: 7615 Cut-to-Size, 7616 Offset. Suggested hardware quantity is 1 per mounting hole. D value printed as .630’” (stray apostrophe in catalog)."
+    },
+    {
+      "part_number": "6945-HR",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Rail 45mm",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-116",
+      "description": "45mm heavy-duty linear rail with an aluminum alloy body and hardened steel raceways that mounts directly to T-slot through its mounting holes. The customer specifies the C (offset) dimension; maximum length is 6,000 mm (236.2”).",
+      "features": [
+        "Directly mount to T-Slot with mounting holes",
+        "Compatible with 80/20 T-slot profile series 10, 15, 25, 30, 40, 45",
+        "Temperature rating: 212° F",
+        "Aluminum alloy body with hardened steel raceways"
+      ],
+      "material": "Aluminum alloy body with hardened steel raceways",
+      "weight": "3.792 lb (1.720 kg) per m",
+      "specs": {
+        "A": "1.800” (45.00mm)",
+        "B": "2.360” (60.00mm)",
+        "C (Offset)": "Customer Specifies",
+        "D": ".800’” (20.40mm)"
+      },
+      "dimension_notes": "A = rail width, B = mounting hole spacing, C = offset from rail end to first hole (customer specifies), D = rail height (end view); LENGTH max 6,000 mm (236.2”)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": 1,
+          "description": "M6 x 12mm BHSCS",
+          "context": "Mount to T-Slot (15 series row); 1 per mounting hole"
+        },
+        {
+          "part_number": "13024",
+          "qty": 1,
+          "description": "Slide-in",
+          "context": "Mount to T-Slot (15 series row), T-nut; 1 per mounting hole"
+        }
+      ],
+      "notes": "Weight is per meter (column 'Weight per/m'). Maximum length 6,000 mm (236.2”); customer specifies the C (offset) dimension. Included standard machining services: 7615 Cut-to-Size, 7616 Offset. Suggested hardware quantity is 1 per mounting hole. D value printed as .800’” (stray apostrophe in catalog)."
+    },
+    {
+      "part_number": "6904",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy Duty Flat (Inline) Plate 30mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-117",
+      "description": "Aluminum flat (inline) plate that mounts the 30mm heavy-duty carriage (6930-HC) to T-slot, allowing easy assembly and easy adjustment of carriage preload.",
+      "features": [
+        "Mount to heavy-duty carriage 30mm, 45mm",
+        "Flat (inline) plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload"
+      ],
+      "material": "Aluminum",
+      "weight": ".085 lb (.3900 kg)",
+      "specs": {
+        "A": ".188” (22.60mm)",
+        "B": "1.000” (28.00mm)",
+        "C": ".500” (25.40mm)",
+        "D": "5.000” (30.00mm)",
+        "E": ".375” (15.90mm)",
+        "F": "4.250” (86.90mm)",
+        "G": "M5 FHSCS",
+        "H": ".257” (6.52mm)"
+      },
+      "dimension_notes": "A = plate thickness, B = plate width, C = edge to hole centerline, D = overall length, E = end to outer hole center, F = outer hole center-to-center spacing, G = countersunk carriage-mount holes (screw size), H = outer hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6314",
+          "qty": 2,
+          "description": "M6 x 14mm BHSCS",
+          "context": "Mount to T-Slot (15 series row)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in",
+          "context": "Mount to T-Slot (15 series row), T-nut"
+        },
+        {
+          "part_number": "11-5712",
+          "qty": 2,
+          "description": "M5 x 12mm FHSCS",
+          "context": "Mount Bracket to Carriage 6930-HC"
+        }
+      ],
+      "notes": "Mounts to heavy-duty carriage 6930-HC (per Mount Bracket to Carriage table). The printed metric equivalents in this row do not match the inch values (e.g. .188” shown as 22.60mm, 5.000” as 30.00mm); inch and mm copied as printed."
+    },
+    {
+      "part_number": "6907",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy Duty Flat (Inline) Plate 45mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-117",
+      "description": "Aluminum flat (inline) plate that mounts the 45mm heavy-duty carriage (6945-HC) to T-slot, allowing easy assembly and easy adjustment of carriage preload.",
+      "features": [
+        "Mount to heavy-duty carriage 30mm, 45mm",
+        "Flat (inline) plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload"
+      ],
+      "material": "Aluminum",
+      "weight": ".217 lb (.9800 kg)",
+      "specs": {
+        "A": "1.020” (25.80mm)",
+        "B": "1.300” (33.00mm)",
+        "C": "1.500” (38.10mm)",
+        "D": "1.770” (45.00mm)",
+        "E": ".800” (20.40mm)",
+        "F": ".940” (117.00mm)",
+        "G": "M8 FHSCS",
+        "H": ".257” (6.52mm)"
+      },
+      "dimension_notes": "A = plate thickness, B = plate width, C = edge to hole centerline, D = overall length, E = end to outer hole center, F = outer hole center-to-center spacing, G = countersunk carriage-mount holes (screw size), H = outer hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6316",
+          "qty": 2,
+          "description": "M6 x 16mm BHSCS",
+          "context": "Mount to T-Slot (15 series row)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in",
+          "context": "Mount to T-Slot (15 series row), T-nut"
+        },
+        {
+          "part_number": "11-8716",
+          "qty": 2,
+          "description": "M8 x 18mm FHSCS",
+          "context": "Mount Bracket to Carriage 6945-HC"
+        }
+      ],
+      "notes": "Mounts to heavy-duty carriage 6945-HC (per Mount Bracket to Carriage table). The printed values in this row look inconsistent with the drawing and with each other (e.g. D overall length 1.770” while F hole spacing shows .940” / 117.00mm; inch and mm values do not agree); copied as printed, verify before use."
+    },
+    {
+      "part_number": "6905",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy Duty Offset Plate 30mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-118",
+      "description": "Aluminum angled offset plate that mounts the 30mm heavy-duty carriage (6930-HC) to T-slot and provides close bar to bar connections, with easy assembly and easy carriage preload adjustment.",
+      "features": [
+        "Mount to heavy-duty carriage 30mm, 45mm",
+        "Offset plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload",
+        "Provides close bar to bar connections"
+      ],
+      "material": "Aluminum",
+      "weight": ".117 lb (.0530 kg)",
+      "specs": {
+        "A": "1.500” (38.1mm)",
+        "B": "1.218” (29.43mm)",
+        "C": ".188” (4.77mm)",
+        "D": "2.750” (80.01mm)",
+        "E": ".257” (6.52mm)",
+        "F": ".375” (9.52mm)",
+        "G": ".593” (13.56mm)",
+        "H": ".257” (6.53mm)",
+        "J": "2.000” (60.96mm)",
+        "K": ".375” (9.52mm)"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg width, C = plate thickness, D = overall length, ø E = hole diameter in the vertical leg (TYP), J = slot center-to-center spacing, K = slot center to end, F and G = slot position/length from the edge (top view), ø H = slot width (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6314",
+          "qty": 2,
+          "description": "M6 x 14mm BHSCS",
+          "context": "Mount to T-Slot (15 series row)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in",
+          "context": "Mount to T-Slot (15 series row), T-nut"
+        },
+        {
+          "part_number": "11-5316",
+          "qty": 2,
+          "description": "M6 x 12mm BHSCS",
+          "context": "Mount Bracket to Carriage 6930-HC"
+        }
+      ],
+      "notes": "Mounts to heavy-duty carriage 6930-HC (per Mount Bracket to Carriage table). Some printed metric equivalents do not match the inch values (e.g. D 2.750” shown as 80.01mm); copied as printed. Carriage bolt PN 11-5316 is printed with description M6 x 12mm BHSCS (as printed)."
+    },
+    {
+      "part_number": "6909",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy Duty Offset Plate 45mm",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-118",
+      "description": "Aluminum angled offset plate that mounts the 45mm heavy-duty carriage (6945-HC) to T-slot and provides close bar to bar connections, with easy assembly and easy carriage preload adjustment.",
+      "features": [
+        "Mount to heavy-duty carriage 30mm, 45mm",
+        "Offset plate",
+        "Easy assembly",
+        "Easy to adjust carriage preload",
+        "Provides close bar to bar connections"
+      ],
+      "material": "Aluminum",
+      "weight": ".222 lb (.1006 kg)",
+      "specs": {
+        "A": "2.000” (50.8mm)",
+        "B": "1.417” (44.45mm)",
+        "C": ".188” (4.77mm)",
+        "D": "3.937” (101.6mm)",
+        "E": ".328” (8.33mm)",
+        "F": ".425” (9.52mm)",
+        "G": ".742” (28.57mm)",
+        "H": ".257” (6.53mm)",
+        "J": "3.187” (82.55mm)",
+        "K": ".375” (9.52mm)"
+      },
+      "dimension_notes": "A = vertical leg height, B = horizontal leg width, C = plate thickness, D = overall length, ø E = hole diameter in the vertical leg (TYP), J = slot center-to-center spacing, K = slot center to end, F and G = slot position/length from the edge (top view), ø H = slot width (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6316",
+          "qty": 2,
+          "description": "M6 x 16mm BHSCS",
+          "context": "Mount to T-Slot (15 series row)"
+        },
+        {
+          "part_number": "3836",
+          "qty": 2,
+          "description": "Slide-in",
+          "context": "Mount to T-Slot (15 series row), T-nut"
+        },
+        {
+          "part_number": "11-8318",
+          "qty": 2,
+          "description": "M8 x 18mm BHSCS",
+          "context": "Mount Bracket to Carriage 6945-HC"
+        }
+      ],
+      "notes": "Mounts to heavy-duty carriage 6945-HC (per Mount Bracket to Carriage table). Some printed metric equivalents do not match the inch values (e.g. B 1.417” shown as 44.45mm, G .742” as 28.57mm); copied as printed."
+    },
+    {
+      "part_number": "FL-COU14-100lbs",
+      "series": [
+        "15"
+      ],
+      "name": "14” Drawer Slide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-119",
+      "description": "Fully extendable 14” ball bearing drawer slide that side-mounts to 80/20 T-slot profiles, rated 100 lbs per pair, with a lever disconnect for installing or removing the drawer. Travel length is 14.763” (375mm).",
+      "features": [
+        "Fully extendable length, travel 14.763”, 20.275” or 24.212”",
+        "Lever disconnect for easy installation or removal of drawer",
+        "Smooth ball bearings for quiet operation",
+        "Low profile design for space savings",
+        "Side-mounts to 80/20 T-slot profiles",
+        "Support up to 100 pounds per pair",
+        "Sold in pairs"
+      ],
+      "weight": "2.304 lbs (1.045 kg)",
+      "specs": {
+        "A": "27.779” (705.61mm)",
+        "B": "13.779” (350.01mm)",
+        "C": "1.423” (36.16mm)",
+        "D": "3.740” (95.00mm)",
+        "E": "5.922” (150.44mm)",
+        "F": ".302” (7.68mm)",
+        "G": ".583” (14.82mm)",
+        "H": ".087” (2.23mm)",
+        "J": ".172” (4.37mm)",
+        "K": ".500” (12.70mm)",
+        "L": "1.796” (45.64mm)",
+        "M": "13.779” (350.01mm)",
+        "Load Capacity": "100 lbs per pair (45.359 kg)",
+        "N": "1.859” (47.23mm)",
+        "P": ".707” (17.97mm)",
+        "Q": "2.609” (66.29mm)",
+        "R": "1.169” (29.71mm)",
+        "S": "1.822” (46.29mm)",
+        "T": ".787” (20.00mm)",
+        "U": "1.217” (30.93mm)",
+        "V": ".787” (20.00mm)",
+        "W": ".087” (2.21mm)",
+        "X": ".187” (4.75mm)",
+        "Travel Length": "14.763” (375mm)"
+      },
+      "dimension_notes": "A = overall extended length, B = closed (outer member) length, K = slide thickness, L = slide height, M = inner member hole-pattern span; C, D, E, F, G = outer member hole positions with r. H slot radius and ø J hole diameter; N through V = inner member hole positions with r. W slot radius and ø X hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3005",
+          "qty": 12,
+          "description": "8-32 x .375” BHSCS",
+          "context": "Mount to T-Slot (15 series row); Qty. (FL-COU14); no washer (Washer PN ---)"
+        },
+        {
+          "part_number": "3275",
+          "qty": 12,
+          "description": "Slide-in Economy",
+          "context": "Mount to T-Slot (15 series row), T-nut; Qty. (FL-COU14)"
+        }
+      ],
+      "notes": "Sold in pairs. Load capacity 100 lbs per pair. Note: Travel Length is 14.763” (375mm). Fits 10, 15, 25, 30, 40, 45 series per badges. Suggested hardware table does not state whether quantities are per slide or per pair."
+    },
+    {
+      "part_number": "FL-COU20-100lbs",
+      "series": [
+        "15"
+      ],
+      "name": "20” Drawer Slide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-120",
+      "description": "Fully extendable 20” ball bearing drawer slide that side-mounts to 80/20 T-slot profiles, rated 100 lbs per pair. Travel length is 20.275” (515mm).",
+      "features": [
+        "Fully extendable length, travel 14.763”, 20.275” or 24.212”",
+        "Lever disconnect for easy installation or removal of drawer",
+        "Smooth ball bearings for quiet operation",
+        "Low profile design for space savings",
+        "Side-mounts to 80/20 T-slot profiles",
+        "Support up to 100 pounds per pair",
+        "Sold in pairs"
+      ],
+      "weight": "3.302 lbs (1.497 kg)",
+      "specs": {
+        "A": "39.690” (1008.13mm)",
+        "B": "19.690” (500.13mm)",
+        "C": "1.642” (41.73mm)",
+        "D": "6.300” (160.02mm)",
+        "E": "9.862” (250.50mm)",
+        "F": ".393” (10.00mm)",
+        "G": ".625” (15.88mm)",
+        "H": ".088” (2.24mm)",
+        "J": ".179” (4.56mm)",
+        "K": ".500” (12.70mm)",
+        "L": "1.796” (45.64mm)",
+        "M": "19.690” (500.13mm)",
+        "N": "1.712” (43.50mm)",
+        "Load Capacity": "100 lbs per pair (45.359 kg)",
+        "P": ".807” (20.50mm)",
+        "Q": "2.431” (61.75mm)",
+        "R": "1.354” (34.40mm)",
+        "S": "1.637” (41.60mm)",
+        "T": "2.047” (52.00mm)",
+        "U": "1.348” (34.25mm)",
+        "V": "1.643” (41.75mm)",
+        "W": ".790” (20.07mm)",
+        "X": "1.700” (43.19mm)",
+        "Y": "1.332” (33.85mm)",
+        "Z": ".087” (2.23mm)",
+        "AA": ".183” (4.67mm)",
+        "Travel Length": "20.275” (515mm)"
+      },
+      "dimension_notes": "A = overall extended length, B = closed (outer member) length, K = slide thickness, L = slide height, M = inner member hole-pattern span; C, D, E, F, G = outer member hole positions with r. H slot radius and ø J hole diameter; N through Y = inner member hole positions with r. Z slot radius and ø AA hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3005",
+          "qty": 14,
+          "description": "8-32 x .375” BHSCS",
+          "context": "Mount to T-Slot (15 series row); Qty. (FL-COU20) from table on page 7-119; no washer (Washer PN ---)"
+        },
+        {
+          "part_number": "3275",
+          "qty": 14,
+          "description": "Slide-in Economy",
+          "context": "Mount to T-Slot (15 series row), T-nut; Qty. (FL-COU20) from table on page 7-119"
+        }
+      ],
+      "notes": "Product details and suggested hardware are printed on page 7-119 (14” Drawer Slide) and cover the 20” slide (travel 20.275”, Qty. FL-COU20 column). Sold in pairs. Load capacity 100 lbs per pair. Note: Travel Length is 20.275” (515mm). Fits 10, 15, 25, 30, 40, 45 series per badges."
+    },
+    {
+      "part_number": "FL-COU24-100lbs",
+      "series": [
+        "15"
+      ],
+      "name": "24” Drawer Slide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-120",
+      "description": "Fully extendable 24” ball bearing drawer slide that side-mounts to 80/20 T-slot profiles, rated 100 lbs per pair. Travel length is 24.212” (615mm).",
+      "features": [
+        "Fully extendable length, travel 14.763”, 20.275” or 24.212”",
+        "Lever disconnect for easy installation or removal of drawer",
+        "Smooth ball bearings for quiet operation",
+        "Low profile design for space savings",
+        "Side-mounts to 80/20 T-slot profiles",
+        "Support up to 100 pounds per pair",
+        "Sold in pairs"
+      ],
+      "weight": "4.036 lbs (1.830 kg)",
+      "specs": {
+        "A": "47.613” (1209.39mm)",
+        "B": "23.498” (596.87mm)",
+        "C": "1.377” (35.00mm)",
+        "D": "7.637” (194.00mm)",
+        "E": "12.519” (318.00mm)",
+        "F": ".393” (10.00mm)",
+        "G": ".590” (15.00mm)",
+        "H": ".085” (2.18mm)",
+        "J": ".172” (4.37mm)",
+        "K": ".500” (12.70mm)",
+        "L": "1.793” (45.55mm)",
+        "M": "23.622” (600.00mm)",
+        "N": "1.850” (47.00mm)",
+        "Load Capacity": "100 lbs per pair (45.359 kg)",
+        "P": ".708” (18.00mm)",
+        "Q": "2.500” (63.50mm)",
+        "R": "1.200” (30.50mm)",
+        "S": "3.877” (98.50mm)",
+        "T": "1.830” (46.50mm)",
+        "U": "2.047” (52.00mm)",
+        "V": "1.161” (29.50mm)",
+        "W": ".787” (20.00mm)",
+        "X": "1.141” (29.00mm)",
+        "Y": ".787” (20.00mm)",
+        "Z": ".090” (2.29mm)",
+        "AA": ".179” (4.57mm)",
+        "Travel Length": "24.212” (615mm)"
+      },
+      "dimension_notes": "A = overall extended length, B = closed (outer member) length, K = slide thickness, L = slide height, M = inner member hole-pattern span; C, D, E, F, G = outer member hole positions with r. H slot radius and ø J hole diameter; N through Y = inner member hole positions with r. Z slot radius and ø AA hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3005",
+          "qty": 16,
+          "description": "8-32 x .375” BHSCS",
+          "context": "Mount to T-Slot (15 series row); Qty. (FL-COU24) from table on page 7-119; no washer (Washer PN ---)"
+        },
+        {
+          "part_number": "3275",
+          "qty": 16,
+          "description": "Slide-in Economy",
+          "context": "Mount to T-Slot (15 series row), T-nut; Qty. (FL-COU24) from table on page 7-119"
+        }
+      ],
+      "notes": "Product details and suggested hardware are printed on page 7-119 (14” Drawer Slide) and cover the 24” slide (travel 24.212”, Qty. FL-COU24 column). Sold in pairs. Load capacity 100 lbs per pair. Note: Travel Length is 24.212” (615mm). Fits 10, 15, 25, 30, 40, 45 series per badges. Not the same part as the 600 lb FL-COU24-600lbs heavy-duty slide."
+    },
+    {
+      "part_number": "FL-COU16-600lbs",
+      "series": [
+        "15"
+      ],
+      "name": "16” Heavy-Duty Drawer Slide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-121",
+      "description": "Full-extension 16” heavy-duty drawer slide for industrial workstations, carts and cabinets that mounts to 80/20 T-slot profiles or pipes, rated 600 lbs per pair in side mount. Travel length is 16” (406.4mm).",
+      "features": [
+        "Fully extendable length, travel 16”, 24”, 32”",
+        "Full access extension built for industrial applications requiring extended reach and high load capacity.",
+        "Robust structure ideal for modular workstations, carts and cabinets in an industrial setting",
+        "Side Mount: Load capacity of 600 lbs per pair for drawers up to 24” wide. Max drawer width of 42” has a 480 lb capacity. (sold in pairs)",
+        "Flat mount: Load capacity of 180 lbs per pair at max width of 32”",
+        "Mobile applications: 360 lbs / pair, drawers up to 32” wide",
+        "Mounts to 80/20 T-slot profiles or pipes"
+      ],
+      "weight": "10.000 lbs (4.53 kg)",
+      "specs": {
+        "A": "32.004” (812.90mm)",
+        "B": "2.000” (50.80mm)",
+        "C": ".750” (19.05mm)",
+        "D": "1.000” (25.40mm)",
+        "E": "7.560” (192.02mm)",
+        "F": "1.000” (25.40mm)",
+        "G": ".750” (19.05mm)",
+        "H": ".260” (6.60mm)",
+        "J": ".130” (3.30mm)",
+        "K": ".750” (19.05mm)",
+        "L": "3.003” (76.28mm)",
+        "Load Capacity": "600 lbs per pair (272.15 kg)",
+        "M": "16.000” (406.40mm)",
+        "N": ".880” (22.35mm)",
+        "P": "1.370” (34.80mm)",
+        "Q": "9.000” (228.60mm)",
+        "R": "1.130” (28.70mm)",
+        "S": "1.120” (28.45mm)",
+        "T": "1.250” (31.75mm)",
+        "U": ".260” (6.60mm)",
+        "V": ".130” (3.30mm)",
+        "Travel Length": "16” (406.4mm)"
+      },
+      "dimension_notes": "A = overall extended length, K = slide thickness, L = slide height, M = inner member hole-pattern span; B through G = outer member hole positions with ø H hole diameter and R. J slot radius; N through T = inner member hole positions with ø U hole diameter and R. V slot radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3061",
+          "qty": 24,
+          "description": "1/4-20 x .500” BHSCS",
+          "context": "Mount to T-Slot (15 series row); Qty. (FL-COU16)"
+        },
+        {
+          "part_number": "3202",
+          "qty": 24,
+          "description": "Slide-in Standard",
+          "context": "Mount to T-Slot (15 series row), T-nut; Qty. (FL-COU16)"
+        }
+      ],
+      "notes": "Sold in pairs. Side mount 600 lbs per pair for drawers up to 24” wide (480 lb at max drawer width 42”); flat mount 180 lbs per pair at max width 32”; mobile applications 360 lbs / pair, drawers up to 32” wide. Note: Travel Length is 16” (406.4mm). Fits 10, 15, 25, 30, 40, 45 series per badges. Suggested hardware table does not state whether quantities are per slide or per pair."
+    },
+    {
+      "part_number": "FL-COU24-600lbs",
+      "series": [
+        "15"
+      ],
+      "name": "24” Heavy-Duty Drawer Slide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-122",
+      "description": "Full-extension 24” heavy-duty drawer slide for industrial workstations, carts and cabinets that mounts to 80/20 T-slot profiles or pipes, rated 600 lbs per pair in side mount. Travel length is 24” (609.6mm).",
+      "features": [
+        "Fully extendable length, travel 16”, 24”, 32”",
+        "Full access extension built for industrial applications requiring extended reach and high load capacity.",
+        "Robust structure ideal for modular workstations, carts and cabinets in an industrial setting",
+        "Side Mount: Load capacity of 600 lbs per pair for drawers up to 24” wide. Max drawer width of 42” has a 480 lb capacity. (sold in pairs)",
+        "Flat mount: Load capacity of 180 lbs per pair at max width of 32”",
+        "Mobile applications: 360 lbs / pair, drawers up to 32” wide",
+        "Mounts to 80/20 T-slot profiles or pipes"
+      ],
+      "weight": "12.020 lbs (5.45 kg)",
+      "specs": {
+        "A": "48.004” (1219.30mm)",
+        "B": "2.000” (50.80mm)",
+        "C": ".750” (19.05mm)",
+        "D": "1.000” (25.40mm)",
+        "E": "2.500” (63.50mm)",
+        "F": "2.500” (63.50mm)",
+        "G": "10.560” (268.22mm)",
+        "H": "1.000” (25.40mm)",
+        "J": ".750” (19.05mm)",
+        "K": ".750” (19.05mm)",
+        "L": "3.003” (76.28mm)",
+        "M": ".130” (3.30mm)",
+        "Load Capacity": "600 lbs per pair (272.15 kg)",
+        "N": ".260” (6.60mm)",
+        "P": "24.000” (609.6mm)",
+        "Q": ".880” (22.35mm)",
+        "R": "1.370” (34.80mm)",
+        "S": "17.000” (431.80mm)",
+        "T": "1.130” (28.70mm)",
+        "U": "1.120” (28.45mm)",
+        "V": "1.250” (31.75mm)",
+        "W": ".260” (6.60mm)",
+        "X": ".130” (3.30mm)",
+        "Travel Length": "24” (609.6mm)"
+      },
+      "dimension_notes": "A = overall extended length, K = slide thickness, L = slide height, P = inner member hole-pattern span; B through J = outer member hole positions with ø N hole diameter and R. M slot radius; Q through V = inner member hole positions with ø W hole diameter and R. X slot radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3061",
+          "qty": 28,
+          "description": "1/4-20 x .500” BHSCS",
+          "context": "Mount to T-Slot (15 series row); Qty. (FL-COU24) from table on page 7-121"
+        },
+        {
+          "part_number": "3202",
+          "qty": 28,
+          "description": "Slide-in Standard",
+          "context": "Mount to T-Slot (15 series row), T-nut; Qty. (FL-COU24) from table on page 7-121"
+        }
+      ],
+      "notes": "Product details and suggested hardware are printed on page 7-121 (16” Heavy-Duty Drawer Slide) and cover the 24” slide (travel 24”, Qty. FL-COU24 column). Sold in pairs. Side mount 600 lbs per pair for drawers up to 24” wide (480 lb at max drawer width 42”); flat mount 180 lbs per pair at max width 32”; mobile 360 lbs / pair. Note: Travel Length is 24” (609.6mm). Fits 10, 15, 25, 30, 40, 45 series per badges. Not the same part as the 100 lb FL-COU24-100lbs slide."
+    },
+    {
+      "part_number": "FL-COU32-600lbs",
+      "series": [
+        "15"
+      ],
+      "name": "32” Heavy-Duty Drawer Slide",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-122",
+      "description": "Full-extension 32” heavy-duty drawer slide for industrial workstations, carts and cabinets that mounts to 80/20 T-slot profiles or pipes, rated 600 lbs per pair in side mount. Travel length is 32” (812.8mm).",
+      "features": [
+        "Fully extendable length, travel 16”, 24”, 32”",
+        "Full access extension built for industrial applications requiring extended reach and high load capacity.",
+        "Robust structure ideal for modular workstations, carts and cabinets in an industrial setting",
+        "Side Mount: Load capacity of 600 lbs per pair for drawers up to 24” wide. Max drawer width of 42” has a 480 lb capacity. (sold in pairs)",
+        "Flat mount: Load capacity of 180 lbs per pair at max width of 32”",
+        "Mobile applications: 360 lbs / pair, drawers up to 32” wide",
+        "Mounts to 80/20 T-slot profiles or pipes"
+      ],
+      "weight": "16.600 lbs (7.53 kg)",
+      "specs": {
+        "A": "64.004” (1625.70mm)",
+        "B": "2.000” (50.80mm)",
+        "C": "1.750” (44.45mm)",
+        "D": "2.500” (63.50mm)",
+        "E": "2.500” (63.50mm)",
+        "F": "16.190” (411.23mm)",
+        "G": "2.370” (60.20mm)",
+        "H": "1.000” (25.40mm)",
+        "J": ".750” (19.05mm)",
+        "K": ".750” (19.05mm)",
+        "L": "3.003” (76.28mm)",
+        "M": ".130” (3.30mm)",
+        "N": ".260” (6.60mm)",
+        "Load Capacity": "600 lbs per pair (272.15 kg)",
+        "P": "32.000” (812.80mm)",
+        "Q": ".880” (22.35mm)",
+        "R": "1.370” (34.80mm)",
+        "S": "6.250” (158.75mm)",
+        "T": "6.250” (158.75mm)",
+        "U": "6.250” (158.75mm)",
+        "V": "6.250” (158.75mm)",
+        "W": "1.130” (28.70mm)",
+        "X": "1.120” (28.45mm)",
+        "Y": "1.250” (31.75mm)",
+        "Z": ".260” (6.60mm)",
+        "AA": ".130” (3.30mm)",
+        "Travel Length": "32” (812.8mm)"
+      },
+      "dimension_notes": "A = overall extended length, K = slide thickness, L = slide height, P = inner member hole-pattern span; B through J = outer member hole positions with ø N hole diameter and R. M slot radius; Q through Y = inner member hole positions with ø Z hole diameter and R. AA slot radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3061",
+          "qty": 32,
+          "description": "1/4-20 x .500” BHSCS",
+          "context": "Mount to T-Slot (15 series row); Qty. (FL-COU32) from table on page 7-121"
+        },
+        {
+          "part_number": "3202",
+          "qty": 32,
+          "description": "Slide-in Standard",
+          "context": "Mount to T-Slot (15 series row), T-nut; Qty. (FL-COU32) from table on page 7-121"
+        }
+      ],
+      "notes": "Product details and suggested hardware are printed on page 7-121 (16” Heavy-Duty Drawer Slide) and cover the 32” slide (travel 32”, Qty. FL-COU32 column). Sold in pairs. Side mount 600 lbs per pair for drawers up to 24” wide (480 lb at max drawer width 42”); flat mount 180 lbs per pair at max width 32”; mobile 360 lbs / pair, drawers up to 32” wide. Note: Travel Length is 32” (812.8mm). Fits 10, 15, 25, 30, 40, 45 series per badges."
+    },
+    {
+      "part_number": "12017",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Ball Bearing Hub",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-123",
+      "description": "Black injection-molded glass fiber reinforced nylon (PA6GK20) roller wheel with a ball bearing hub, 39.00mm outside diameter.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0292 kg",
+      "specs": {
+        "Grade": "PA6GK20",
+        "Process": "Injection Molding",
+        "A": "39.00mm",
+        "B": "25.80mm",
+        "C": "6.00mm",
+        "D": "17.60mm",
+        "E": "8.00mm",
+        "F": "5.80mm"
+      },
+      "dimension_notes": "ø A = wheel outside diameter, ø C = through bore diameter (THRU), ø B = diameter marked TYP, D = overall width; E and F = hub/rim widths on the side view",
+      "notes": "Badged 15 and 40 series. Similar wheel 12018 is 45 series (not extracted)."
+    },
+    {
+      "part_number": "12020",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Ball Bearing Hub",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-123",
+      "description": "Black injection-molded glass fiber reinforced nylon (PA6GK20) roller wheel with a ball bearing hub, 47.00mm outside diameter.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0462 kg",
+      "specs": {
+        "Grade": "PA6GK20",
+        "Process": "Injection Molding",
+        "A": "47.00mm",
+        "B": "33.60mm",
+        "C": "8.00mm",
+        "D": "19.40mm",
+        "E": "7.80mm",
+        "F": "5.80mm"
+      },
+      "dimension_notes": "ø A = wheel outside diameter, ø C = through bore diameter (THRU), ø B = diameter marked TYP, D = overall width; E and F = hub/rim widths on the side view",
+      "notes": "Badged 15 and 40 series. Similar wheel 12021 is 45 series (not extracted)."
+    }
+  ],
+  "page_notes": {
+    "670": "Heavy-Duty Rail 30mm and 45mm: 6930-HR and 6945-HR (F/M badges) extracted with 15-series suggested T-slot hardware; included machining services 7615 Cut-to-Size and 7616 Offset recorded in notes (table has no 15 badge); 10/25/30/45 hardware rows skipped.",
+    "671": "Heavy Duty Flat (Inline) Plate 30mm and 45mm: 6904 and 6907 (F/M) extracted with 15-series T-slot hardware and Mount Bracket to Carriage hardware; printed mm equivalents do not match inch values.",
+    "672": "Heavy Duty Offset Plate 30mm and 45mm: 6905 and 6909 (F/M) extracted with 15-series T-slot hardware and Mount Bracket to Carriage hardware.",
+    "673": "14” Drawer Slide: FL-COU14-100lbs (badged 10/15/25/30/40/45) extracted; suggested hardware table (15 row: 3005 + 3275) applies to FL-COU14/20/24 with qty 12/14/16.",
+    "674": "20” and 24” Drawer Slides: FL-COU20-100lbs and FL-COU24-100lbs extracted; product details and hardware taken from page 7-119.",
+    "675": "16” Heavy-Duty Drawer Slide: FL-COU16-600lbs extracted; suggested hardware table (15 row: 3061 + 3202) applies to FL-COU16/24/32 with qty 24/28/32.",
+    "676": "24” and 32” Heavy-Duty Drawer Slides: FL-COU24-600lbs and FL-COU32-600lbs extracted; product details and hardware taken from page 7-121.",
+    "677": "Roller wheels: 12017 and 12020 (15/40 badge) extracted; 12018, 12021, 12022 (45 only) and 12024 (10/25) skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "6930-HR: description 'Length and the offset to the first hole are specified by the customer' (length-by-customer not stated on page) -> 'The customer specifies the C (offset) dimension; maximum length is 6,000 mm (236.2”)'",
+      "6945-HR: description 'Length and the offset to the first hole are specified by the customer' (length-by-customer not stated on page) -> 'The customer specifies the C (offset) dimension; maximum length is 6,000 mm (236.2”)'",
+      "6905: dimension_notes 'ø E = carriage-mount hole diameter (TYP)' -> 'ø E = hole diameter in the vertical leg (TYP)' (drawing does not say which leg mounts to the carriage)",
+      "6909: dimension_notes 'ø E = carriage-mount hole diameter (TYP)' -> 'ø E = hole diameter in the vertical leg (TYP)' (drawing does not say which leg mounts to the carriage)",
+      "6907: notes reworded the garbled inconsistency remark ('D 1.770” overall length is smaller than F .940” shown as 117.00mm') for clarity; no data values changed"
+    ],
+    "remaining_doubts": [
+      "Page 7-116 'Included Standard Machining Services' (7615 Cut-to-Size, 7616 Offset) has no 15 badge, so it was not extracted as machining_service parts; it is recorded in the 6930-HR/6945-HR notes only.",
+      "Catalog prints inch/mm pairs that do not agree for 6904, 6907, 6905 and 6909 (e.g. 6904 D 5.000” (30.00mm), 6907 F .940” (117.00mm)); values were kept verbatim as printed.",
+      "Page 7-118 Mount Bracket to Carriage row for 6905 prints bolt 11-5316 with description 'M6 x 12mm BHSCS' (part-number pattern suggests M5 x 16); kept as printed.",
+      "Drawer slide suggested-hardware tables do not say whether the Qty. columns (12/14/16 and 24/28/32) are per slide or per pair.",
+      "'Travel Length' in drawer-slide specs comes from the 'Note:' line under each table, not from a table column."
+    ]
+  }
+}

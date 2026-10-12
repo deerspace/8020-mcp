@@ -1,0 +1,502 @@
+{
+  "chunk": "c035",
+  "pages": [
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446
+  ],
+  "parts": [
+    {
+      "part_number": "2098",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge with Double Short Pins",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-73",
+      "description": "Standard lift-off hinge piece with a short pin on each side. Used with two standard lift-off hinge mating hubs to create a captivated assembly; mounting hardware is included.",
+      "features": [
+        "Used with two standard lift-off hinge mating hubs (pg. 5-74) to create a captivated assembly",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".089 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.470”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = bottom edge to mounting hole center, B = overall body height, C = overall length across both pins, D = body width, E = body edge to mounting hole center, F = mounting hole fastener size, ø G = pin diameter; H, J, K, L are side-view dimensions",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is included (not suggested): 3067 1/4-20 x 5/8” SHCS (Black) qty. 1 and 3286 Economy T-nut qty. 1. The gap distance between the two mating profiles is .063” (1.60mm). Mating hubs are shown on pg. 5-74 (15 series assemblies there use mating hub 2097)."
+    },
+    {
+      "part_number": "2098-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge with Double Short Pins",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-73",
+      "description": "Black anodized standard lift-off hinge piece with a short pin on each side. Used with two standard lift-off hinge mating hubs to create a captivated assembly; mounting hardware is included.",
+      "features": [
+        "Used with two standard lift-off hinge mating hubs (pg. 5-74) to create a captivated assembly",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".089 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.655”",
+        "C": "1.470”",
+        "D": ".750”",
+        "E": ".375”",
+        "F": "1/4-20",
+        "G": ".242”",
+        "H": ".875”",
+        "J": ".500”",
+        "K": ".250”",
+        "L": ".780”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = bottom edge to mounting hole center, B = overall body height, C = overall length across both pins, D = body width, E = body edge to mounting hole center, F = mounting hole fastener size, ø G = pin diameter; H, J, K, L are side-view dimensions",
+      "suggested_hardware": [
+        {
+          "part_number": "3067",
+          "qty": 1,
+          "description": "1/4-20 x 5/8” SHCS (Black)",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3286",
+          "qty": 1,
+          "description": "Economy T-nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware is included (not suggested): 3067 1/4-20 x 5/8” SHCS (Black) qty. 1 and 3286 Economy T-nut qty. 1. The gap distance between the two mating profiles is .063” (1.60mm). Mating hubs are shown on pg. 5-74 (15 series black assemblies there use mating hub 2097)."
+    },
+    {
+      "part_number": "2104",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-74",
+      "description": "Right hand standard lift-off hinge assembly consisting of a right hand hinge with single long pin, a right hand hinge with single short pin and two mating hubs.",
+      "finish": "Clear Anodize",
+      "weight": ".322 lb",
+      "specs": {
+        "Assembly Components": "2093 Right Hand with Single Long Pin (Qty. 1); 2095 Right Hand with Single Short Pin (Qty. 1); 2097 Mating Hub (Qty. 2)"
+      },
+      "notes": "Sold as an assembly of components 2093 (Qty. 1), 2095 (Qty. 1) and 2097 Mating Hub (Qty. 2). No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2104-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-74",
+      "description": "Black anodized right hand standard lift-off hinge assembly consisting of a right hand hinge with single long pin, a right hand hinge with single short pin and two mating hubs.",
+      "finish": "Black Anodize",
+      "weight": ".322 lb",
+      "specs": {
+        "Assembly Components": "2093 Right Hand with Single Long Pin (Qty. 1); 2095 Right Hand with Single Short Pin (Qty. 1); 2097 Mating Hub (Qty. 2)"
+      },
+      "notes": "Sold as an assembly of components 2093 (Qty. 1), 2095 (Qty. 1) and 2097 Mating Hub (Qty. 2). No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2101",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-74",
+      "description": "Right hand standard lift-off hinge assembly for joining 10 series to 15 series, consisting of a right hand hinge with single long pin, a right hand hinge with single short pin and two mating hubs.",
+      "finish": "Clear Anodize",
+      "weight": ".262 lb",
+      "specs": {
+        "Assembly Components": "2093 Right Hand with Single Long Pin (Qty. 1); 2095 Right Hand with Single Short Pin (Qty. 1); 2077 Mating Hub (Qty. 2)"
+      },
+      "notes": "Series badge printed as '10 to 15'. Uses the 15 series hinge halves 2093 and 2095 with mating hub 2077 (the hub used in the 10 series assembly 2064), Qty. 2. No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2101-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Right Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-74",
+      "description": "Black anodized right hand standard lift-off hinge assembly for joining 10 series to 15 series, consisting of a right hand hinge with single long pin, a right hand hinge with single short pin and two mating hubs.",
+      "finish": "Black Anodize",
+      "weight": ".262 lb",
+      "specs": {
+        "Assembly Components": "2093 Right Hand with Single Long Pin (Qty. 1); 2095 Right Hand with Single Short Pin (Qty. 1); 2077 Mating Hub (Qty. 2)"
+      },
+      "notes": "Series badge printed as '10 to 15'. Uses the 15 series hinge halves 2093 and 2095 with mating hub 2077 (the hub used in the 10 series assembly 2064-Black), Qty. 2. No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2105",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-75",
+      "description": "Left hand standard lift-off hinge assembly consisting of a left hand hinge with single long pin, a left hand hinge with single short pin and two mating hubs.",
+      "finish": "Clear Anodize",
+      "weight": ".323 lb",
+      "specs": {
+        "Assembly Components": "2094 Left Hand with Single Long Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2097 Mating Hub (Qty. 2)"
+      },
+      "notes": "Sold as an assembly of components 2094 (Qty. 1), 2096 (Qty. 1) and 2097 Mating Hub (Qty. 2). No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2105-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-75",
+      "description": "Black anodized left hand standard lift-off hinge assembly consisting of a left hand hinge with single long pin, a left hand hinge with single short pin and two mating hubs.",
+      "finish": "Black Anodize",
+      "weight": ".323 lb",
+      "specs": {
+        "Assembly Components": "2094 Left Hand with Single Long Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2097 Mating Hub (Qty. 2)"
+      },
+      "notes": "Sold as an assembly of components 2094 (Qty. 1), 2096 (Qty. 1) and 2097 Mating Hub (Qty. 2). No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2102",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-75",
+      "description": "Left hand standard lift-off hinge assembly for joining 10 series to 15 series, consisting of a left hand hinge with single long pin, a left hand hinge with single short pin and two mating hubs.",
+      "finish": "Clear Anodize",
+      "weight": ".268 lb",
+      "specs": {
+        "Assembly Components": "2094 Left Hand with Single Long Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2077 Mating Hub (Qty. 2)"
+      },
+      "notes": "Series badge printed as '10 to 15'. Uses the 15 series hinge halves 2094 and 2096 with mating hub 2077 (the hub used in the 10 series assembly 2065), Qty. 2. No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2102-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift-Off Hinge - Left Hand Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-75",
+      "description": "Black anodized left hand standard lift-off hinge assembly for joining 10 series to 15 series, consisting of a left hand hinge with single long pin, a left hand hinge with single short pin and two mating hubs.",
+      "finish": "Black Anodize",
+      "weight": ".268 lb",
+      "specs": {
+        "Assembly Components": "2094 Left Hand with Single Long Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2077 Mating Hub (Qty. 2)"
+      },
+      "notes": "Series badge printed as '10 to 15'. Uses the 15 series hinge halves 2094 and 2096 with mating hub 2077 (the hub used in the 10 series assembly 2065-Black), Qty. 2. No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2106",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Captive Lift-Off Hinge Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-76",
+      "description": "Standard captive lift-off hinge assembly consisting of a right hand hinge with single short pin, a left hand hinge with single short pin and one mating hub.",
+      "finish": "Clear Anodize",
+      "weight": ".242 lb",
+      "specs": {
+        "Assembly Components": "2095 Right Hand with Single Short Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2097 Mating Hub (Qty. 1)"
+      },
+      "notes": "Sold as an assembly of components 2095 (Qty. 1), 2096 (Qty. 1) and 2097 Mating Hub (Qty. 1). No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2106-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Captive Lift-Off Hinge Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-76",
+      "description": "Black anodized standard captive lift-off hinge assembly consisting of a right hand hinge with single short pin, a left hand hinge with single short pin and one mating hub.",
+      "finish": "Black Anodize",
+      "weight": ".242 lb",
+      "specs": {
+        "Assembly Components": "2095 Right Hand with Single Short Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2097 Mating Hub (Qty. 1)"
+      },
+      "notes": "Sold as an assembly of components 2095 (Qty. 1), 2096 (Qty. 1) and 2097 Mating Hub (Qty. 1). No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2103",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Captive Lift-Off Hinge Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-76",
+      "description": "Standard captive lift-off hinge assembly for joining 10 series to 15 series, consisting of a right hand hinge with single short pin, a left hand hinge with single short pin and one mating hub.",
+      "finish": "Clear Anodize",
+      "weight": ".214 lb",
+      "specs": {
+        "Assembly Components": "2095 Right Hand with Single Short Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2077 Mating Hub (Qty. 1)"
+      },
+      "notes": "Series badge printed as '10 to 15'. Uses the 15 series hinge halves 2095 and 2096 with mating hub 2077 (the hub used in the 10 series assembly 2066), Qty. 1. No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2103-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Captive Lift-Off Hinge Assembly",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-76",
+      "description": "Black anodized standard captive lift-off hinge assembly for joining 10 series to 15 series, consisting of a right hand hinge with single short pin, a left hand hinge with single short pin and one mating hub.",
+      "finish": "Black Anodize",
+      "weight": ".214 lb",
+      "specs": {
+        "Assembly Components": "2095 Right Hand with Single Short Pin (Qty. 1); 2096 Left Hand with Single Short Pin (Qty. 1); 2077 Mating Hub (Qty. 1)"
+      },
+      "notes": "Series badge printed as '10 to 15'. Uses the 15 series hinge halves 2095 and 2096 with mating hub 2077 (the hub used in the 10 series assembly 2066-Black), Qty. 1. No mounting hardware is listed on this page."
+    },
+    {
+      "part_number": "2839",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Lift-Off Hinge Right Hand with Short Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-77",
+      "description": "Right hand economy lift-off hinge with a short pin, made of two aluminum leaves joined at the pin. Each leaf mounts to the T-slot profile face with bolts and economy T-nuts.",
+      "material": "Aluminum",
+      "alloy": "5052-H32 = Leaf, 6061-T6 = Pin",
+      "finish": "Clear Anodize",
+      "weight": ".134 lb",
+      "specs": {
+        "Max Load": "70 lb",
+        "A": "1.620”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": ".812”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".250”",
+        "J": ".120”",
+        "K": ".250”",
+        "L": ".750”",
+        "M": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = horizontal hole center spacing across the two leaves, B = overall leaf height, C = vertical hole center spacing, ø F = mounting hole diameter (typ.), R. G = knuckle radius, ø K = pin diameter, L = exposed pin length, M = knuckle length (typ.); D, E, H, J are leaf/knuckle offsets and thicknesses shown on the drawing",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 4,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Max load 70 lb. The gap distance between profiles for 15 series is .120”."
+    },
+    {
+      "part_number": "2840",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Lift-Off Hinge Right Hand with Long Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-78",
+      "description": "Right hand economy lift-off hinge with a long pin, made of two aluminum leaves joined at the pin. Each leaf mounts to the T-slot profile face with bolts and economy T-nuts.",
+      "material": "Aluminum",
+      "alloy": "5052-H32 = Leaf, 6061-T6 = Pin",
+      "finish": "Clear Anodize",
+      "weight": ".140 lb",
+      "specs": {
+        "Max Load": "70 lb",
+        "A": "1.620”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": ".812”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".250”",
+        "J": ".120”",
+        "K": ".250”",
+        "L": "1.500”",
+        "M": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = horizontal hole center spacing across the two leaves, B = overall leaf height, C = vertical hole center spacing, ø F = mounting hole diameter (typ.), R. G = knuckle radius, ø K = pin diameter, L = exposed pin length, M = knuckle length (typ.); D, E, H, J are leaf/knuckle offsets and thicknesses shown on the drawing",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 4,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Max load 70 lb. The gap distance between profiles for 15 series is .120”."
+    },
+    {
+      "part_number": "2832",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Lift-Off Hinge Left Hand with Short Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-79",
+      "description": "Left hand economy lift-off hinge with a short pin, made of two aluminum leaves joined at the pin. Each leaf mounts to the T-slot profile face with bolts and economy T-nuts.",
+      "material": "Aluminum",
+      "alloy": "5052-H32 = Leaf, 6061-T6 = Pin",
+      "finish": "Clear Anodize",
+      "weight": ".134 lb",
+      "specs": {
+        "Max Load": "70 lb",
+        "A": "1.620”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": ".812”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".250”",
+        "J": ".120”",
+        "K": ".250”",
+        "L": "1.500”",
+        "M": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = horizontal hole center spacing across the two leaves, B = overall leaf height, C = vertical hole center spacing, ø F = mounting hole diameter (typ.), R. G = knuckle radius, ø K = pin diameter, L = exposed pin length, M = knuckle length (typ.); D, E, H, J are leaf/knuckle offsets and thicknesses shown on the drawing",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 4,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Max load 70 lb. The gap distance between profiles for 15 series is .120”. L is printed as 1.500” for this short-pin part (the right hand short-pin 2839 lists .750”); value copied as printed."
+    },
+    {
+      "part_number": "2833",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Lift-Off Hinge Left Hand with Long Pin",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-80",
+      "description": "Left hand economy lift-off hinge with a long pin, made of two aluminum leaves joined at the pin. Each leaf mounts to the T-slot profile face with bolts and economy T-nuts.",
+      "material": "Aluminum",
+      "alloy": "5052-H32 = Leaf, 6061-T6 = Pin",
+      "finish": "Clear Anodize",
+      "weight": ".134 lb",
+      "specs": {
+        "Max Load": "70 lb",
+        "A": "1.620”",
+        "B": "3.000”",
+        "C": "1.500”",
+        "D": "1.500”",
+        "E": ".812”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".250”",
+        "J": ".120”",
+        "K": ".250”",
+        "L": "1.500”",
+        "M": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = horizontal hole center spacing across the two leaves, B = overall leaf height, C = vertical hole center spacing, ø F = mounting hole diameter (typ.), R. G = knuckle radius, ø K = pin diameter, L = exposed pin length, M = knuckle length (typ.); D, E, H, J are leaf/knuckle offsets and thicknesses shown on the drawing",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 4,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Max load 70 lb. The gap distance between profiles for 15 series is .120”."
+    }
+  ],
+  "page_notes": {
+    "439": "5-73 Standard Lift-Off Hinge with Double Short Pins: extracted 15 series 2098 and 2098-Black with included mounting hardware (3067 bolt, 3286 Economy T-nut); 10 series and metric rows skipped.",
+    "440": "5-74 Standard Lift-Off Hinge - Right Hand Assembly: extracted 15 series 2104/2104-Black and 10-to-15 series 2101/2101-Black; component part numbers (2093, 2095, 2097, 2077) are listed only as assembly contents, not as standalone rows; 10 series and metric rows skipped.",
+    "441": "5-75 Standard Lift-Off Hinge - Left Hand Assembly: extracted 15 series 2105/2105-Black and 10-to-15 series 2102/2102-Black; components 2094, 2096, 2097, 2077 kept as assembly contents; 10 series and metric rows skipped.",
+    "442": "5-76 Standard Captive Lift-Off Hinge Assembly: extracted 15 series 2106/2106-Black and 10-to-15 series 2103/2103-Black; components 2095, 2096, 2097, 2077 kept as assembly contents; 10 series and metric rows skipped.",
+    "443": "5-77 Economy Lift-Off Hinge Right Hand with Short Pin: extracted 15 series 2839 with suggested hardware 3319 (qty 4); 10 series and metric rows skipped.",
+    "444": "5-78 Economy Lift-Off Hinge Right Hand with Long Pin: extracted 15 series 2840 with suggested hardware 3319 (qty 4); 10 series and metric rows skipped.",
+    "445": "5-79 Economy Lift-Off Hinge Left Hand with Short Pin: extracted 15 series 2832 with suggested hardware 3319 (qty 4); 10 series and metric rows skipped.",
+    "446": "5-80 Economy Lift-Off Hinge Left Hand with Long Pin: extracted 15 series 2833 with suggested hardware 3319 (qty 4); 10 series and metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "2832 (5-79, Left Hand with Short Pin): L is printed 1.500” although the right hand short-pin 2839 shows .750” and the 10 series short-pin 2830 shows .500”; kept as printed, possible catalog typo.",
+      "2833 (5-80, Left Hand with Long Pin): weight printed .134 lb, same as short-pin 2832, while the right hand long-pin 2840 is .140 lb; kept as printed.",
+      "2101/2102/2103 (and -Black): series badge printed as 10 to 15; recorded as series [\"15\"] only, per the no-10 rule.",
+      "dimension_notes on 2098 and the economy hinges are read from the drawings; letters H, J, K, L (2098) and D, E, H, J (economy) are only described generally."
+    ]
+  }
+}

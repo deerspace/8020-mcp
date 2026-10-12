@@ -1,0 +1,72 @@
+{
+  "chunk": "s06",
+  "pages": [
+    38,
+    39,
+    40,
+    187,
+    237,
+    249,
+    261,
+    279
+  ],
+  "parts": [
+    {
+      "part_number": "24221",
+      "series": [
+        "15"
+      ],
+      "name": "Ready-Made Machine Guarding Mounting Hardware - 1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+      "category": "fastener_assembly",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "1/4-20 x 2.00\" carriage bolt and hex nut, one of the three mounting hardware options for the Ready-Made Machine Guarding system. It is shown as the \"Thru Bolt & Nut\" fastening method for mounting mesh panels to the mounting posts.",
+      "specs": {
+        "Thread Size": "1/4-20",
+        "Bolt Length": "2.00\"",
+        "Bolt Type": "Carriage Bolt",
+        "Nut Type": "Hex Nut",
+        "Fastening Method": "Thru Bolt & Nut"
+      },
+      "notes": "The Mounting Hardware table on 2-8 lists Qty 1. On 2-9 (What Do I Need to Order?), the example guard uses 24221 qty 9 with three 24884 Thru Hole 1.50\" posts and two 243482 34\" x 82\" framed mesh panels (3 mounting holes per side)."
+    },
+    {
+      "part_number": "24331",
+      "series": [
+        "15"
+      ],
+      "name": "Ready-Made Machine Guarding Mounting Hardware - 1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+      "category": "fastener_assembly",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "1/4-20 x .500” flanged bolt with T-nut and ball spring, one of the three mounting hardware options for the Ready-Made Machine Guarding system. It is shown as the \"Bolt & T-Nut\" fastening method for mounting mesh panels to the mounting posts.",
+      "specs": {
+        "Thread Size": "1/4-20",
+        "Bolt Length": ".500”",
+        "Bolt Type": "Flanged Bolt",
+        "Nut Type": "T-Nut w/ Ball Spring",
+        "Fastening Method": "Bolt & T-Nut"
+      },
+      "notes": "The Mounting Hardware table on 2-8 lists Qty 1. On 2-10 it is the Mount to Ready-Made Guarding Suggested Hardware for the 24900 Guarding Post with Control Panel (qty 3), described there as \"1/4-20 x .5” Silver FHHB with Self-Aligning Slide-in T-Nut\"."
+    }
+  ],
+  "page_notes": {
+    "38": "Defines 24221 and 24331 in the Ready-Made Machine Guarding Mounting Hardware table; posts, mesh panels and 24101 are not wanted.",
+    "39": "No wanted part defined; 24221 appears only in the What Do I Need to Order? example (qty 9).",
+    "40": "No wanted part defined; 11-6312 (M6 x 12mm BHSCS (BLACK)) appears only in the 24900 Mounting Hardware Included table and 24331 only in its Mount to Ready-Made Guarding Suggested Hardware table.",
+    "187": "No wanted part defined; 11-6516 (M6 x 16mm SHCS) appears only in the Plate Connector 14136/14137 suggested hardware table.",
+    "237": "No wanted part defined; 3386 (1/4-20 x 3/8” FBHSCS, Economy T-nut) appears only in the 4108 2 Hole - Lite Inside Corner Bracket suggested hardware table.",
+    "249": "No wanted part defined; 3393 (1/4-20 x 1/2” BHSCS, Economy T-nut) appears only in the 4101 4 Hole - Tall Lite Inside Corner Bracket suggested hardware table.",
+    "261": "No wanted part defined; 75-3627 (M8 x 18mm SHCS, Slide-In T-nut) appears only in the 14104/14105 8 Hole - 76mm Inside Corner Bracket suggested hardware table.",
+    "279": "No wanted part defined; 11-8716 (M8 x 16mm Black Zinc FHSCS) appears only in the 14112 3 Way - Rounded Corner Bracket suggested hardware table."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "24221 and 24331 use a 1/4-20 thread but carry a printed [15] badge on the 2-8 Mounting Hardware table (they mount to 1.50\" posts); series kept as 15 per the badge rule.",
+      "The 2-8 Mounting Hardware table lists only a one-line description per part (no weight, material, finish or component part numbers), so those fields are omitted."
+    ]
+  }
+}

@@ -1,0 +1,1729 @@
+{
+  "chunk": "c045",
+  "pages": [
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531
+  ],
+  "parts": [
+    {
+      "part_number": "2714",
+      "series": [
+        "F"
+      ],
+      "name": "Leveling Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-12",
+      "description": "Leveling caster that combines leveling and mobility in one component, ideal for large machines and automation. It mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-27).",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-27)",
+        "Incorporates leveling and mobility features in one component; ideal for large machines and automation"
+      ],
+      "material": "Die Cast Aluminum / Plastic Nylon (Nylon 6)",
+      "finish": "Powder Coat Over Zinc",
+      "color": "Black",
+      "weight": "1.620 lb (.7542 kg)",
+      "specs": {
+        "A": ".945” (24.00mm)",
+        "B": ".276” (7.00mm)",
+        "C": "2.283” (58.00mm)",
+        "D": "2.874” (73.00mm)",
+        "E": "3.228” (82.00mm)",
+        "F": "2.362” (60.00mm)",
+        "G": "2.700” / 3.650” (68.70mm / 92.70mm)",
+        "Load Capacity": "550.00 lb (249.47 kg)"
+      },
+      "dimension_notes": "ø B = mounting plate hole diameter (TYP), C = mounting hole spacing (TYP), D = plate size (TYP), E = overall height to bottom of wheel, G = leveling height (min / max)",
+      "suggested_hardware": [
+        {
+          "part_number": "2406",
+          "description": "Base plate (pg. 6-27); table lists 2406 / 2407 as the base plate options",
+          "context": "Mount to Base Plate"
+        },
+        {
+          "part_number": "2407",
+          "description": "Base plate (pg. 6-27); table lists 2406 / 2407 as the base plate options",
+          "context": "Mount to Base Plate"
+        },
+        {
+          "part_number": "3064",
+          "qty": 4,
+          "description": "Bolt kit",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Mount to the profile side with the listed base plate and bolt kit (bolt kit qty 4). Load Capacity and Weight are printed with metric equivalents in parentheses."
+    },
+    {
+      "part_number": "2715",
+      "series": [
+        "F"
+      ],
+      "name": "Leveling Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-12",
+      "description": "Leveling caster that combines leveling and mobility in one component, ideal for large machines and automation. It mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-27).",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-27)",
+        "Incorporates leveling and mobility features in one component; ideal for large machines and automation"
+      ],
+      "material": "Die Cast Aluminum / Plastic Nylon (Nylon 6)",
+      "finish": "Powder Coat Over Zinc",
+      "color": "Black",
+      "weight": "2.943 lb (1.3045 kg)",
+      "specs": {
+        "A": "1.142” (29.00mm)",
+        "B": ".315” (9.00mm)",
+        "C": "2.756” (70.00mm)",
+        "D": "3.543” (90.00mm)",
+        "E": "4.020” (102.00mm)",
+        "F": "3.051” (77.50mm)",
+        "G": "3.429” / 4.606” (87.10mm / 117.00mm)",
+        "Load Capacity": "1100.00 lb (498.95 kg)"
+      },
+      "dimension_notes": "ø B = mounting plate hole diameter (TYP), C = mounting hole spacing (TYP), D = plate size (TYP), E = overall height to bottom of wheel, G = leveling height (min / max)",
+      "suggested_hardware": [
+        {
+          "part_number": "2408",
+          "description": "Base plate (pg. 6-27)",
+          "context": "Mount to Base Plate"
+        },
+        {
+          "part_number": "3112",
+          "qty": 4,
+          "description": "Bolt kit",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Mount to the profile side with the listed base plate and bolt kit (bolt kit qty 4). Load Capacity and Weight are printed with metric equivalents in parentheses."
+    },
+    {
+      "part_number": "2716",
+      "series": [
+        "F"
+      ],
+      "name": "Leveling Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-12",
+      "description": "Leveling caster that combines leveling and mobility in one component, ideal for large machines and automation. It mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-27).",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-27)",
+        "Incorporates leveling and mobility features in one component; ideal for large machines and automation"
+      ],
+      "material": "Die Cast Aluminum / Plastic Nylon (Nylon 6)",
+      "finish": "Powder Coat Over Zinc",
+      "color": "Black",
+      "weight": "3.950 lb (1.7917 kg)",
+      "specs": {
+        "A": "1.193” (30.30mm)",
+        "B": ".433” (11.00mm)",
+        "C": "2.756” (70.00mm)",
+        "D": "3.740” (95.00mm)",
+        "E": "4.724” (120.00mm)",
+        "F": "3.563” (90.50mm)",
+        "G": "4.035” / 5.197” (102.50mm / 132.00mm)",
+        "Load Capacity": "1650.00 lb (748.42 kg)"
+      },
+      "dimension_notes": "ø B = mounting plate hole diameter (TYP), C = mounting hole spacing (TYP), D = plate size (TYP), E = overall height to bottom of wheel, G = leveling height (min / max)",
+      "suggested_hardware": [
+        {
+          "part_number": "2409",
+          "description": "Base plate (pg. 6-27)",
+          "context": "Mount to Base Plate"
+        },
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "Bolt kit",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Mount to the profile side with the listed base plate and bolt kit (bolt kit qty 4). Load Capacity and Weight are printed with metric equivalents in parentheses."
+    },
+    {
+      "part_number": "2717",
+      "series": [
+        "F"
+      ],
+      "name": "Leveling Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-12",
+      "description": "Leveling caster that combines leveling and mobility in one component, ideal for large machines and automation. It mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-27).",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-27)",
+        "Incorporates leveling and mobility features in one component; ideal for large machines and automation"
+      ],
+      "material": "Die Cast Aluminum / Plastic Nylon (Nylon 6)",
+      "finish": "Powder Coat Over Zinc",
+      "color": "Black",
+      "weight": "3.557 lb (1.6134 kg)",
+      "specs": {
+        "A": "1.220” (31.00mm)",
+        "B": ".433” (11.00mm)",
+        "C": "2.756” (70.00mm)",
+        "D": "3.740” (95.00mm)",
+        "E": "4.724” (119.90mm)",
+        "F": "3.563” (90.50mm)",
+        "G": "4.250” / 4.875” (107.95mm / 123.83mm)",
+        "Load Capacity": "2205.00 lb (1000.00 kg)"
+      },
+      "dimension_notes": "ø B = mounting plate hole diameter (TYP), C = mounting hole spacing (TYP), D = plate size (TYP), E = overall height to bottom of wheel, G = leveling height (min / max)",
+      "suggested_hardware": [
+        {
+          "part_number": "2409",
+          "description": "Base plate (pg. 6-27)",
+          "context": "Mount to Base Plate"
+        },
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "Bolt kit",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Printed as 2717* in the table: center bar not available. Mount to the profile side with the listed base plate and bolt kit (bolt kit qty 4). Load Capacity and Weight are printed with metric equivalents in parentheses."
+    },
+    {
+      "part_number": "2731",
+      "series": [
+        "F"
+      ],
+      "name": "Adjustable Position Floor Lock",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-13",
+      "description": "Adjustable position floor lock that mounts to the T-slot profile side using the position floor lock base plate (pg. 6-28) and extends up to 2.75” (69.85mm). Holding force is adjusted with a tension nut from 70 to 120 pounds; minimum weight required is 70 pounds.",
+      "features": [
+        "Mounts to T-slot profile side using position floor lock base plate (pg. 6-28)",
+        "Extends up to 2.75” (69.85mm); minimum weight required is 70 pounds (31.75 kg)",
+        "Adjust holding force with tension nut from 70 pounds (31.75 kg) to 120 pounds (54.43 kg)"
+      ],
+      "material": "Steel Casting",
+      "finish": "Paint",
+      "weight": "7.115 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "3.319”",
+        "C": "2.992”",
+        "D": "2.157”",
+        "E": "2.933”",
+        "F": "4.870”",
+        "G": "5.228”",
+        "H": "6.500”",
+        "J": ".492”",
+        "K": ".374”",
+        "L": "5.500”",
+        "M": "6.250”",
+        "N": "8.000”",
+        "Load Capacity": "70-120 lb"
+      },
+      "dimension_notes": "L = height retracted, M = load height, N = height extended",
+      "suggested_hardware": [
+        {
+          "part_number": "3289",
+          "qty": 4,
+          "description": "3/8-16 x 1.00” SHCS & Washer",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Minimum weight required is 70 pounds (31.75 kg). Mount with the position floor lock base plate (pg. 6-28)."
+    },
+    {
+      "part_number": "2203",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Floor Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-14",
+      "description": "Threaded floor glide that mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-32). Works well on carpet or tiled areas.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "Works well on carpet or tiled areas"
+      ],
+      "material": "Steel / Nylon",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".033 lb",
+      "specs": {
+        "A": ".875”",
+        "B": "1.070”",
+        "C": ".430”",
+        "D": "1.350”",
+        "E": ".240”",
+        "F": "1/4-20",
+        "Load Capacity": "100.00 lb"
+      },
+      "dimension_notes": "ø D = base diameter, F = thread",
+      "notes": "The two sizes have different designs (shown as separate drawings 2203 and 2204)."
+    },
+    {
+      "part_number": "2204",
+      "series": [
+        "F"
+      ],
+      "name": "Standard Floor Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-14",
+      "description": "Threaded floor glide that mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-32). Works well on carpet or tiled areas.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "Works well on carpet or tiled areas"
+      ],
+      "material": "Steel / Nylon",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".088 lb",
+      "specs": {
+        "A": ".470”",
+        "B": ".593”",
+        "C": ".860”",
+        "D": "1.968”",
+        "E": ".575”",
+        "F": "3/8-16",
+        "Load Capacity": "100.00 lb"
+      },
+      "dimension_notes": "ø D = base diameter, F = thread",
+      "notes": "The two sizes have different designs (shown as separate drawings 2203 and 2204)."
+    },
+    {
+      "part_number": "2186",
+      "series": [
+        "F"
+      ],
+      "name": "Economy Floor Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-14",
+      "description": "Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.",
+      "material": "Steel / Nylon",
+      "finish": "Nickel",
+      "color": "Bright / Natural",
+      "weight": ".042 lb",
+      "specs": {
+        "A": "2.250”",
+        "B": "1.200”",
+        "C": ".378”",
+        "D": "1/4-20",
+        "Load Capacity": "250.00 lb",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2187",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Floor Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-14",
+      "description": "Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.",
+      "material": "Steel / Nylon",
+      "finish": "Nickel",
+      "color": "Bright / Natural",
+      "weight": ".118 lb",
+      "specs": {
+        "A": "2.840”",
+        "B": "2.030”",
+        "C": ".460”",
+        "D": "5/16-18",
+        "Load Capacity": "250.00 lb",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2188",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Floor Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-14",
+      "description": "Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.",
+      "material": "Steel / Nylon",
+      "finish": "Nickel",
+      "color": "Bright / Natural",
+      "weight": ".169 lb",
+      "specs": {
+        "A": "3.030”",
+        "B": "2.400”",
+        "C": ".530”",
+        "D": "3/8-16",
+        "Load Capacity": "250.00 lb",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2189",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Floor Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-14",
+      "description": "Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.",
+      "material": "Steel / Nylon",
+      "finish": "Nickel",
+      "color": "Bright / Natural",
+      "weight": ".258 lb",
+      "specs": {
+        "A": "3.030”",
+        "B": "2.800”",
+        "C": ".542”",
+        "D": "1/2-13",
+        "Load Capacity": "500.00 lb",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2183",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Large Base Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Large base glide with a 15 degree swivel and punch out holes for bolting to the floor. It mounts using a base plate (pg. 6-32).",
+      "features": [
+        "Mounts using base plate (pg. 6-32)",
+        "15 degree swivel; punch out holes for bolting to floor"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".236 lb",
+      "specs": {
+        "A": ".272”",
+        "B": "1.970”",
+        "C": "1.320”",
+        "D": "4.290”",
+        "E": "3.000”",
+        "F": ".730”",
+        "G": "3/8-16",
+        "Load Capacity": "4000.00 lb"
+      },
+      "dimension_notes": "D = overall height, E = thread length, F = base height, G = thread"
+    },
+    {
+      "part_number": "2184",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Large Base Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Large base glide with a 15 degree swivel and punch out holes for bolting to the floor. It mounts using a base plate (pg. 6-32).",
+      "features": [
+        "Mounts using base plate (pg. 6-32)",
+        "15 degree swivel; punch out holes for bolting to floor"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".316 lb",
+      "specs": {
+        "A": ".272”",
+        "B": "1.970”",
+        "C": "1.320”",
+        "D": "4.290”",
+        "E": "3.000”",
+        "F": ".730”",
+        "G": "1/2-13",
+        "Load Capacity": "4000.00 lb"
+      },
+      "dimension_notes": "D = overall height, E = thread length, F = base height, G = thread"
+    },
+    {
+      "part_number": "2181",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Large Base Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Large base glide with a 15 degree swivel and punch out holes for bolting to the floor. It mounts using a base plate (pg. 6-32).",
+      "features": [
+        "Mounts using base plate (pg. 6-32)",
+        "15 degree swivel; punch out holes for bolting to floor"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".304 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "3.150”",
+        "C": "2.165”",
+        "D": "4.290”",
+        "E": "3.000”",
+        "F": ".730”",
+        "G": "3/8-16",
+        "Load Capacity": "5000.00 lb"
+      },
+      "dimension_notes": "D = overall height, E = thread length, F = base height, G = thread"
+    },
+    {
+      "part_number": "2182",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Large Base Glide",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Large base glide with a 15 degree swivel and punch out holes for bolting to the floor. It mounts using a base plate (pg. 6-32).",
+      "features": [
+        "Mounts using base plate (pg. 6-32)",
+        "15 degree swivel; punch out holes for bolting to floor"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".383 lb",
+      "specs": {
+        "A": ".354”",
+        "B": "3.150”",
+        "C": "2.165”",
+        "D": "4.290”",
+        "E": "3.000”",
+        "F": ".730”",
+        "G": "1/2-13",
+        "Load Capacity": "5000.00 lb"
+      },
+      "dimension_notes": "D = overall height, E = thread length, F = base height, G = thread"
+    },
+    {
+      "part_number": "2193",
+      "series": [
+        "F"
+      ],
+      "name": "Economy Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Economy cold formed steel leveling foot with a threaded stem and hex nut.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".025 lb",
+      "specs": {
+        "A": ".563”",
+        "B": "1.250”",
+        "C": ".094”",
+        "D": "1/4-20",
+        "Load Capacity": "1050.00 lb",
+        "Grade": "C1010",
+        "Process": "Cold Formed"
+      },
+      "dimension_notes": "A = hex size, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2195",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Economy cold formed steel leveling foot with a threaded stem and hex nut.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".046 lb",
+      "specs": {
+        "A": ".750”",
+        "B": "1.500”",
+        "C": ".109”",
+        "D": "5/16-18",
+        "Load Capacity": "1750.00 lb",
+        "Grade": "C1010",
+        "Process": "Cold Formed"
+      },
+      "dimension_notes": "A = hex size, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2191",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Economy cold formed steel leveling foot with a threaded stem and hex nut.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".082 lb",
+      "specs": {
+        "A": ".875”",
+        "B": "2.000”",
+        "C": ".141”",
+        "D": "3/8-16",
+        "Load Capacity": "2550.00 lb",
+        "Grade": "C1010",
+        "Process": "Cold Formed"
+      },
+      "dimension_notes": "A = hex size, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2201",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-15",
+      "description": "Economy cold formed steel leveling foot with a threaded stem and hex nut.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".180 lb",
+      "specs": {
+        "A": "1.063”",
+        "B": "2.500”",
+        "C": ".172”",
+        "D": "1/2-13",
+        "Load Capacity": "4700.00 lb",
+        "Grade": "C1010",
+        "Process": "Cold Formed"
+      },
+      "dimension_notes": "A = hex size, C = base thickness, D = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2215",
+      "series": [
+        "F"
+      ],
+      "name": "Anti-Vibration Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-16",
+      "description": "Leveling foot with a non-skid elastomer pad that gives a high level of vibration and shock isolation. Recommended for use with the leveling anchor base plate (pg. 6-29).",
+      "features": [
+        "Recommended for use with leveling anchor base plate (pg. 6-29)",
+        "High level of vibration and shock isolation; non-skid elastomer pad"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc / Powder Coated",
+      "color": "Bright / Yellow / Black",
+      "weight": "1.005 lb",
+      "specs": {
+        "A": ".563”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": "2.250”",
+        "E": "1.500”",
+        "F": "3/8-16",
+        "Load Capacity (MIN/MAX)": "300.00 / 700.00 lb",
+        "Process": "Cold Rolled Sheet Coil Steel Formed"
+      },
+      "dimension_notes": "A = hex size, B = pad diameter, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2205",
+      "series": [
+        "F"
+      ],
+      "name": "Anti-Vibration Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-16",
+      "description": "Leveling foot with a non-skid elastomer pad that gives a high level of vibration and shock isolation. Recommended for use with the leveling anchor base plate (pg. 6-29).",
+      "features": [
+        "Recommended for use with leveling anchor base plate (pg. 6-29)",
+        "High level of vibration and shock isolation; non-skid elastomer pad"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc / Powder Coated",
+      "color": "Bright / Yellow / Black",
+      "weight": "1.008 lb",
+      "specs": {
+        "A": ".563”",
+        "B": "3.000”",
+        "C": ".250”",
+        "D": "2.250”",
+        "E": "1.500”",
+        "F": "3/8-24",
+        "Load Capacity (MIN/MAX)": "300.00 / 700.00 lb",
+        "Process": "Cold Rolled Sheet Coil Steel Formed"
+      },
+      "dimension_notes": "A = hex size, B = pad diameter, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2216",
+      "series": [
+        "F"
+      ],
+      "name": "Anti-Vibration Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-16",
+      "description": "Leveling foot with a non-skid elastomer pad that gives a high level of vibration and shock isolation. Recommended for use with the leveling anchor base plate (pg. 6-29).",
+      "features": [
+        "Recommended for use with leveling anchor base plate (pg. 6-29)",
+        "High level of vibration and shock isolation; non-skid elastomer pad"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc / Powder Coated",
+      "color": "Bright / Yellow / Black",
+      "weight": "2.404 lb",
+      "specs": {
+        "A": ".750”",
+        "B": "5.000”",
+        "C": ".375”",
+        "D": "4.250”",
+        "E": "1.500”",
+        "F": "1/2-13",
+        "Load Capacity (MIN/MAX)": "500.00 / 2,000.00 lb",
+        "Process": "Cold Rolled Sheet Coil Steel Formed"
+      },
+      "dimension_notes": "A = hex size, B = pad diameter, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2217",
+      "series": [
+        "F"
+      ],
+      "name": "Anti-Vibration Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-16",
+      "description": "Leveling foot with a non-skid elastomer pad that gives a high level of vibration and shock isolation. Recommended for use with the leveling anchor base plate (pg. 6-29).",
+      "features": [
+        "Recommended for use with leveling anchor base plate (pg. 6-29)",
+        "High level of vibration and shock isolation; non-skid elastomer pad"
+      ],
+      "material": "Steel / Elastomer Rubber",
+      "finish": "Zinc / Powder Coated",
+      "color": "Bright / Yellow / Black",
+      "weight": "4.901 lb",
+      "specs": {
+        "A": "1.125”",
+        "B": "6.000”",
+        "C": ".500”",
+        "D": "4.250”",
+        "E": "1.630”",
+        "F": "3/4-10",
+        "Load Capacity (MIN/MAX)": "1,000.00 / 4,500.00 lb",
+        "Process": "Cold Rolled Sheet Coil Steel Formed"
+      },
+      "dimension_notes": "A = hex size, B = pad diameter, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2207",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Anti-Vibration Mount",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Economy anti-vibration mount with a threaded stem and 20 degree swivel. It mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-32).",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "20 degree swivel"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": ".346 lb",
+      "specs": {
+        "A": ".562”",
+        "B": "1.250”",
+        "C": "3.500”",
+        "D": "2.000”",
+        "E": "1.500”",
+        "F": "3/8-16",
+        "Load Capacity": "200.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, ø B = base diameter, C = overall height, F = thread"
+    },
+    {
+      "part_number": "2208",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Economy Anti-Vibration Mount",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Economy anti-vibration mount with a threaded stem and 20 degree swivel. It mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-32).",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "20 degree swivel"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": ".816 lb",
+      "specs": {
+        "A": ".625”",
+        "B": "1.875”",
+        "C": "3.750”",
+        "D": "2.000”",
+        "E": "1.750”",
+        "F": "1/2-13",
+        "Load Capacity": "500.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, ø B = base diameter, C = overall height, F = thread"
+    },
+    {
+      "part_number": "2209",
+      "series": [
+        "F"
+      ],
+      "name": "Economy Anti-Vibration Mount",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Economy anti-vibration mount with a threaded stem and 20 degree swivel. It mounts directly to a T-slot profile end or to the profile side using a base plate (pg. 6-32).",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "20 degree swivel"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": "2.407 lb",
+      "specs": {
+        "A": "1.062”",
+        "B": "3.000”",
+        "C": "4.125”",
+        "D": "2.000”",
+        "E": "2.125”",
+        "F": "3/4-10",
+        "Load Capacity": "1250.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, ø B = base diameter, C = overall height, F = thread"
+    },
+    {
+      "part_number": "2192",
+      "series": [
+        "F"
+      ],
+      "name": "Deluxe Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Machined steel leveling foot with a threaded stem.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": ".1042 lb",
+      "specs": {
+        "A": "1.000”",
+        "B": ".500”",
+        "C": "1.250”",
+        "D": ".703”",
+        "E": ".156”",
+        "F": "1/4-20",
+        "Load Capacity": "1000.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "ø A = base diameter, B = hex size, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2194",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Deluxe Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Machined steel leveling foot with a threaded stem.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": ".1966 lb",
+      "specs": {
+        "A": "1.250”",
+        "B": ".625”",
+        "C": "2.000”",
+        "D": ".875”",
+        "E": ".188”",
+        "F": "5/16-18",
+        "Load Capacity": "2300.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "ø A = base diameter, B = hex size, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2190",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Deluxe Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Machined steel leveling foot with a threaded stem.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": ".2160 lb",
+      "specs": {
+        "A": "1.250”",
+        "B": ".625”",
+        "C": "2.000”",
+        "D": ".875”",
+        "E": ".188”",
+        "F": "3/8-16",
+        "Load Capacity": "3750.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "ø A = base diameter, B = hex size, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2200",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Deluxe Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Machined steel leveling foot with a threaded stem.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": ".4940 lb",
+      "specs": {
+        "A": "1.875”",
+        "B": ".750”",
+        "C": "2.000”",
+        "D": "1.125”",
+        "E": ".250”",
+        "F": "1/2-13",
+        "Load Capacity": "5000.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "ø A = base diameter, B = hex size, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2202",
+      "series": [
+        "F"
+      ],
+      "name": "Deluxe Leveling Foot",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-17",
+      "description": "Machined steel leveling foot with a threaded stem.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Yellow",
+      "weight": "1.6930 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": "1.062”",
+        "C": "2.000”",
+        "D": "1.500”",
+        "E": ".500”",
+        "F": "3/4-10",
+        "Load Capacity": "7400.00 lb",
+        "Grade": "12L14",
+        "Process": "Machined"
+      },
+      "dimension_notes": "ø A = base diameter, B = hex size, F = thread",
+      "notes": "Required machining service: Tap Profile End on the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "12229",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".069 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "1.500”",
+        "C": ".295”",
+        "D": "1/4-20",
+        "Load Capacity": "400.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12230",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".070 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "1.500”",
+        "C": ".295”",
+        "D": "1/4-20",
+        "Load Capacity": "400.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12245",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".081 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "1.500”",
+        "C": ".295”",
+        "D": "5/16-18",
+        "Load Capacity": "700.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12246",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".078 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "1.500”",
+        "C": ".295”",
+        "D": "5/16-18",
+        "Load Capacity": "700.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12247",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".094 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "2.500”",
+        "C": ".295”",
+        "D": "5/16-18",
+        "Load Capacity": "700.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12237",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".092 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "1.500”",
+        "C": ".295”",
+        "D": "3/8-16",
+        "Load Capacity": "1000.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12238",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".090 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "1.500”",
+        "C": ".295”",
+        "D": "3/8-16",
+        "Load Capacity": "1000.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12239",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".113 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "2.500”",
+        "C": ".295”",
+        "D": "3/8-16",
+        "Load Capacity": "1000.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12240",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".112 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "2.500”",
+        "C": ".295”",
+        "D": "3/8-16",
+        "Load Capacity": "1000.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12242",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".147 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "4.000”",
+        "C": ".295”",
+        "D": "3/8-16",
+        "Load Capacity": "1000.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12213",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".112 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "1.500”",
+        "C": ".295”",
+        "D": "1/2-13",
+        "Load Capacity": "1600.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12215",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".162 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "2.500”",
+        "C": ".295”",
+        "D": "1/2-13",
+        "Load Capacity": "1600.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12216",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".162 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "2.500”",
+        "C": ".295”",
+        "D": "1/2-13",
+        "Load Capacity": "1600.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12218",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".143 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "2.000”",
+        "C": ".295”",
+        "D": "1/2-13",
+        "Load Capacity": "1600.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12223",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "color": "Natural",
+      "weight": ".234 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "4.000”",
+        "C": ".295”",
+        "D": "1/2-13",
+        "Load Capacity": "1600.00 lb",
+        "Grade": "304",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12224",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".229 lb",
+      "specs": {
+        "A": "9/16",
+        "B": "4.000”",
+        "C": ".295”",
+        "D": "1/2-13",
+        "Load Capacity": "1600.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12232",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".508 lb",
+      "specs": {
+        "A": "7/8",
+        "B": "4.000”",
+        "C": ".413”",
+        "D": "3/4-10",
+        "Load Capacity": "5300.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12234",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Threaded Stem",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-18",
+      "description": "Machined threaded stem with a ball end and hex, used with the swivel foot bases on page 6-19.",
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Bright",
+      "weight": ".723 lb",
+      "specs": {
+        "A": "7/8",
+        "B": "6.000”",
+        "C": ".413”",
+        "D": "3/4-10",
+        "Load Capacity": "5300.00 lb",
+        "Grade": "5.8",
+        "Process": "Machined"
+      },
+      "dimension_notes": "A = hex size, B = threaded length, C = hex thickness, D = thread",
+      "notes": "Pairs with Swivel Foot Base / Swivel Foot Base with Mount Holes (pg. 6-19), which require a threaded stem."
+    },
+    {
+      "part_number": "12170",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with a rubber pad that resists vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with rubber pad provides resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".0670 kg",
+      "specs": {
+        "A": "20.00mm",
+        "B": "29.00mm",
+        "C": "2.00mm",
+        "Load Capacity": "4,400 lb / 1995.80 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = pad height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18); the base table does not say which stem fits each size. Printed with both F and M badges; dimensions and weight are given in metric only."
+    },
+    {
+      "part_number": "12172",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with a rubber pad that resists vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with rubber pad provides resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".1092 kg",
+      "specs": {
+        "A": "20.00mm",
+        "B": "39.00mm",
+        "C": "2.00mm",
+        "Load Capacity": "6,600 lb / 2993.71 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = pad height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18); the base table does not say which stem fits each size. Printed with both F and M badges; dimensions and weight are given in metric only."
+    },
+    {
+      "part_number": "12174",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with a rubber pad that resists vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with rubber pad provides resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".1300 kg",
+      "specs": {
+        "A": "20.00mm",
+        "B": "44.00mm",
+        "C": "2.00mm",
+        "Load Capacity": "6,600 lb / 2993.71 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = pad height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18); the base table does not say which stem fits each size. Printed with both F and M badges; dimensions and weight are given in metric only."
+    },
+    {
+      "part_number": "12176",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with a rubber pad that resists vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with rubber pad provides resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".1680 kg",
+      "specs": {
+        "A": "20.00mm",
+        "B": "49.00mm",
+        "C": "2.00mm",
+        "Load Capacity": "7,700 lb / 3492.66 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = pad height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18); the base table does not say which stem fits each size. Printed with both F and M badges; dimensions and weight are given in metric only."
+    },
+    {
+      "part_number": "12178",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with a rubber pad that resists vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with rubber pad provides resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".2324 kg",
+      "specs": {
+        "A": "20.00mm",
+        "B": "59.00mm",
+        "C": "2.00mm",
+        "Load Capacity": "7,700 lb / 3492.66 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = pad height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18); the base table does not say which stem fits each size. Printed with both F and M badges; dimensions and weight are given in metric only."
+    },
+    {
+      "part_number": "12182",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with a rubber pad that resists vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with rubber pad provides resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".4065 kg",
+      "specs": {
+        "A": "20.00mm",
+        "B": "79.00mm",
+        "C": "2.00mm",
+        "Load Capacity": "8,000 lb / 3991.61 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "A = overall height, ø B = base diameter, C = pad height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18); the base table does not say which stem fits each size. Printed with both F and M badges; dimensions and weight are given in metric only. Load capacity is printed as 8,000 lb / 3991.61 kg (the two figures do not convert exactly; copied as printed)."
+    },
+    {
+      "part_number": "12181",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base with Mount Holes",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with mounting holes and resistance to vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with mounting holes and resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".3865 kg",
+      "specs": {
+        "A": "9.00mm",
+        "B": "55.00mm",
+        "C": "79.00mm",
+        "D": "11.00mm",
+        "E": "2.00mm",
+        "F": "20.00mm",
+        "Load Capacity": "2993.71 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "ø A = mounting hole diameter (TYP), B = mounting hole spacing, ø C = base diameter, F = overall height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18). Printed with both F and M badges; dimensions, load capacity and weight are given in metric only."
+    },
+    {
+      "part_number": "12185",
+      "series": [
+        "F"
+      ],
+      "name": "Swivel Foot Base with Mount Holes",
+      "category": "foot_leveler",
+      "section": "Casters & Feet",
+      "catalog_page": "6-19",
+      "description": "Heavy-duty swivel foot base with mounting holes and resistance to vibration. It requires a threaded stem (pg. 6-18).",
+      "features": [
+        "Heavy-duty with mounting holes and resistance to vibration",
+        "Requires threaded stem (pg. 6-18)"
+      ],
+      "material": "Stainless-Steel / Thermoplastic Elastomer",
+      "finish": "Stainless",
+      "color": "Satin / Black",
+      "weight": ".6238 kg",
+      "specs": {
+        "A": "9.00mm",
+        "B": "74.00mm",
+        "C": "99.00mm",
+        "D": "11.00mm",
+        "E": "2.00mm",
+        "F": "20.00mm",
+        "Load Capacity": "3991.61 kg",
+        "Process": "Metal Injection Molded"
+      },
+      "dimension_notes": "ø A = mounting hole diameter (TYP), B = mounting hole spacing, ø C = base diameter, F = overall height",
+      "notes": "Requires a threaded stem (Swivel Foot Threaded Stem, pg. 6-18). Printed with both F and M badges; dimensions, load capacity and weight are given in metric only."
+    }
+  ],
+  "page_notes": {
+    "524": "6-12 Leveling Caster 2714-2717 (F/M merged badge) with Suggested Hardware (base plate + bolt kit) per caster; footnote: 2717 center bar not available.",
+    "525": "6-13 Adjustable Position Floor Lock 2731 (F) with suggested hardware 3289 x4; metric 40-2731 and metric bolts skipped.",
+    "526": "6-14 Standard Floor Glide 2203/2204 (F) and Economy Floor Glide 2186 (F), 2187-2189 (F/RT); metric rows skipped; Tap Profile End machining (ref 11-3) listed under the Economy Floor Glide table.",
+    "527": "6-15 Large Base Glide 2181-2184 (F/RT) and Economy Leveling Foot 2193 (F), 2195/2191/2201 (F/RT); metric rows skipped; Tap Profile End machining (ref 11-3) listed under the Economy Leveling Foot table.",
+    "528": "6-16 Anti-Vibration Leveling Foot 2215, 2205, 2216, 2217 (F); metric 25-2205/40-2206 skipped; requires Tap Profile End (ref 11-3).",
+    "529": "6-17 Economy Anti-Vibration Mount 2207/2208 (F/RT), 2209 (F) and Deluxe Leveling Foot 2192, 2194, 2190, 2200, 2202; metric rows skipped; Tap Profile End machining (ref 11-3) listed under the Deluxe Leveling Foot table.",
+    "530": "6-18 Swivel Foot Threaded Stem: 18 F rows (stainless 304 and steel 5.8); metric-only rows skipped.",
+    "531": "6-19 Swivel Foot Base 12170-12182 and Swivel Foot Base with Mount Holes 12181/12185 (F/M merged badge, metric dimensions only)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2731: description 'Adjustable floor lock that mounts to the T-slot profile side using the position floor lock base plate (pg. 6-28) and extends up to 2.75” (69.85mm) to hold a frame in position. Holding force is adjusted with a tension nut from 70 to 120 pounds.' -> 'Adjustable position floor lock that mounts to the T-slot profile side using the position floor lock base plate (pg. 6-28) and extends up to 2.75” (69.85mm). Holding force is adjusted with a tension nut from 70 to 120 pounds; minimum weight required is 70 pounds.'",
+      "12181: description 'Heavy-duty swivel foot base with mounting holes for fixing to the floor and resistance to vibration. It requires a threaded stem (pg. 6-18).' -> 'Heavy-duty swivel foot base with mounting holes and resistance to vibration. It requires a threaded stem (pg. 6-18).'",
+      "12185: description 'Heavy-duty swivel foot base with mounting holes for fixing to the floor and resistance to vibration. It requires a threaded stem (pg. 6-18).' -> 'Heavy-duty swivel foot base with mounting holes and resistance to vibration. It requires a threaded stem (pg. 6-18).'",
+      "2193: description 'Economy cold formed steel leveling foot with a threaded stem and hex jam nut.' -> 'Economy cold formed steel leveling foot with a threaded stem and hex nut.'",
+      "2195: description 'Economy cold formed steel leveling foot with a threaded stem and hex jam nut.' -> 'Economy cold formed steel leveling foot with a threaded stem and hex nut.'",
+      "2191: description 'Economy cold formed steel leveling foot with a threaded stem and hex jam nut.' -> 'Economy cold formed steel leveling foot with a threaded stem and hex nut.'",
+      "2201: description 'Economy cold formed steel leveling foot with a threaded stem and hex jam nut.' -> 'Economy cold formed steel leveling foot with a threaded stem and hex nut.'",
+      "2186: description 'Economy threaded-stud floor glide with a machined steel/nylon base.' -> 'Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.'",
+      "2187: description 'Economy threaded-stud floor glide with a machined steel/nylon base.' -> 'Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.'",
+      "2188: description 'Economy threaded-stud floor glide with a machined steel/nylon base.' -> 'Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.'",
+      "2189: description 'Economy threaded-stud floor glide with a machined steel/nylon base.' -> 'Economy floor glide with a threaded stem; steel / nylon, machined, with a nickel finish.'"
+    ],
+    "remaining_doubts": [
+      "Required Machining Services 'Tap Profile End' (Mounting Profile, ref 11-3) on pages 6-14 to 6-17 has no service number and no series badge, so it was kept as a note on the parts under those tables rather than extracted as a machining_service part.",
+      "Page 6-19 text layer reads 'Swivel Economy Foot Leveling Base | Foot' for the first title bar; the image shows 'Swivel Foot Base', which was used as the name.",
+      "2731 Adjustable Position Floor Lock categorized as foot_leveler; no exact category for floor locks.",
+      "12182 load capacity printed as 8,000 lb / 3991.61 kg (figures do not convert exactly); kept as printed.",
+      "Leveling Caster base plates (2406/2407, 2408, 2409) have no quantity printed; only Bolt Kit Qty. 4 is given, so base plate entries carry no qty."
+    ]
+  }
+}

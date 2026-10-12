@@ -1,0 +1,53 @@
+{
+  "chunk": "c072",
+  "pages": [
+    758
+  ],
+  "parts": [
+    {
+      "part_number": "12337",
+      "series": [
+        "F"
+      ],
+      "name": "Dissipative Dual Layer Rubber Mat Top Kit",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-60",
+      "description": "Blue dual-layer rubber ESD work surface mat kit with a dissipative top layer and a conductive bottom layer, supplied with a 15’ common point ground cord, screws, snap, washer, label, conical nut and a bottle of ESD surface and mat cleaner.",
+      "features": [
+        "Blue dual-layer rubber material",
+        "Dissipative (1 x 106 to <1 x 109 ohms Rtt) top layer",
+        "Conductive (<1 x 106 Rtt) bottom layer",
+        "Heat, chemical, and oil absorption resistance",
+        "Kit includes dissipative dual layer ESD work surface, 15’ common point ground cord, screws (2), snap, washer, label, conical nut, and bottle of ESD surface and mat cleaner"
+      ],
+      "material": "Nitrile Rubber Oil Resistant Compound",
+      "color": "Blue",
+      "weight": "3.40 lb (1.542 kg)",
+      "specs": {
+        "Mat Material": "Nitrile Rubber Oil Resistant Compound",
+        "Mat Height": ".060” (1.50mm)",
+        "Mat Length": "24.00” (609.60mm)",
+        "Mat Width": "48.00” (1219.20mm)",
+        "Ground Cord Material": "High flex strand copper, 20 gauge, With PVC insulated jacket",
+        "Ground Cord Length": "180.00” (4572.00mm)"
+      },
+      "notes": "Sold as a kit (mat, 15’ ground cord, 2 screws, snap, washer, label, conical nut, ESD cleaner bottle). Row is badged F and M (fractional and metric). Resistance values are printed as '1 x 106' / '1 x 109' (no visible superscript); presumably 1 x 10^6 and 1 x 10^9 ohms."
+    }
+  ],
+  "page_notes": {
+    "758": "Accessories 9-60: Dissipative Dual Layer Rubber Mat Top Kit, one table row (12337, badged F and M)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "12337: description 'mounting/grounding hardware' (not on page) -> lists the printed kit contents",
+      "12337: notes 'printed with exponents in the catalog' -> printed as '1 x 106' / '1 x 109' with no visible superscript (10^6 / 10^9 is an interpretation)"
+    ],
+    "remaining_doubts": [
+      "12337: Ground Cord Material first line 'High flex strand copper, 20 gauge,' is missing from the text layer (p0758.txt shows only 'With PVC insulated jacket') but is clearly printed in the image; kept from the image.",
+      "12337: the row is badged F and M; only 'F' is recorded in series because metric is not an allowed series value."
+    ]
+  }
+}

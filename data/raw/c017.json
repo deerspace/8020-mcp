@@ -1,0 +1,569 @@
+{
+  "chunk": "c017",
+  "pages": [
+    281,
+    282,
+    283,
+    285,
+    286,
+    287,
+    289,
+    291
+  ],
+  "parts": [
+    {
+      "part_number": "14177",
+      "series": [
+        "15"
+      ],
+      "name": "3 Way - Light Squared Corner Connector",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-117",
+      "description": "A light squared corner connector that makes a corner connection between three profiles. It has three access holes to install hardware and comes with cover caps.",
+      "features": [
+        "Corner connection between three profiles",
+        "Three access holes to install hardware",
+        "Requires end tap machining service (pg. 11-3)",
+        "Cover caps included"
+      ],
+      "material": "Aluminum",
+      "finish": "Lacquered",
+      "weight": ".191 lb",
+      "specs": {
+        "A": ".315”",
+        "B": ".118”",
+        "C": ".335”",
+        "D": ".059”",
+        "E": ".098”",
+        "F": ".439”",
+        "G": "1.500”",
+        "H": ".750”",
+        "J": ".750”",
+        "K": ".705”"
+      },
+      "dimension_notes": "C and K are diameters (ø C TYP, ø K TYP); G = overall width of the cube; drawing shared with 14135 and 14173",
+      "suggested_hardware": [
+        {
+          "part_number": "3118",
+          "qty": 3,
+          "description": "5/16-18 x 1” BHSCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires machining service Tap Profile End on the mounting profiles (reference page 11-3). Cover caps included. Material (Aluminum) and finish (Lacquered) are printed once for the whole table."
+    },
+    {
+      "part_number": "4442",
+      "series": [
+        "15"
+      ],
+      "name": "3 Way - Squared Corner Connector",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-118",
+      "description": "A squared corner connector block that makes a corner connection between three profiles. It mounts to the profile ends, which must be end tapped.",
+      "features": [
+        "Corner connection between three profiles",
+        "Requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".265 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".310”",
+        "F": ".595”",
+        "G": ".200”",
+        "H": ".110”",
+        "J": ".515”"
+      },
+      "dimension_notes": "A = overall width, C = thru hole diameter (TYP), J = counterbore diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3018",
+          "qty": 3,
+          "description": "5/16-18 x 1.25” Low Head Socket Cap Screw",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires machining service Tap Profile End on the mounting profiles (reference page 11-3)."
+    },
+    {
+      "part_number": "4442-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Way - Squared Corner Connector",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-118",
+      "description": "A black anodized squared corner connector block that makes a corner connection between three profiles. It mounts to the profile ends, which must be end tapped.",
+      "features": [
+        "Corner connection between three profiles",
+        "Requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": ".265 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".310”",
+        "F": ".595”",
+        "G": ".200”",
+        "H": ".110”",
+        "J": ".515”"
+      },
+      "dimension_notes": "A = overall width, C = thru hole diameter (TYP), J = counterbore diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3018",
+          "qty": 3,
+          "description": "5/16-18 x 1.25” Low Head Socket Cap Screw",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Requires machining service Tap Profile End on the mounting profiles (reference page 11-3)."
+    },
+    {
+      "part_number": "4441",
+      "series": [
+        "15"
+      ],
+      "name": "3 Way - Rounded Corner Connector",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-119",
+      "description": "A rounded corner connector that makes a connection between three quarter round profiles. It mounts to the profile ends, which must be end tapped.",
+      "features": [
+        "Connection between three quarter round profiles",
+        "Requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".213 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": "1.125”",
+        "D": ".750”",
+        "E": ".750”",
+        "F": ".515”",
+        "G": ".200”",
+        "H": ".595”",
+        "J": ".310”",
+        "K": ".328”"
+      },
+      "dimension_notes": "C = corner radius (R. C), F = counterbore diameter (TYP), K = thru hole (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3018",
+          "qty": 3,
+          "description": "5/16-18 x 1.25” Low Head Socket Cap Screw",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "For quarter round profiles. Requires machining service Tap Profile End on the mounting profiles (reference page 11-3)."
+    },
+    {
+      "part_number": "4441-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Way - Rounded Corner Connector",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-119",
+      "description": "A black anodized rounded corner connector that makes a connection between three quarter round profiles. It mounts to the profile ends, which must be end tapped.",
+      "features": [
+        "Connection between three quarter round profiles",
+        "Requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": ".213 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.500”",
+        "C": "1.125”",
+        "D": ".750”",
+        "E": ".750”",
+        "F": ".515”",
+        "G": ".200”",
+        "H": ".595”",
+        "J": ".310”",
+        "K": ".328”"
+      },
+      "dimension_notes": "C = corner radius (R. C), F = counterbore diameter (TYP), K = thru hole (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "3018",
+          "qty": 3,
+          "description": "5/16-18 x 1.25” Low Head Socket Cap Screw",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "For quarter round profiles. Requires machining service Tap Profile End on the mounting profiles (reference page 11-3)."
+    },
+    {
+      "part_number": "AF-TSM",
+      "series": [
+        "15",
+        "P"
+      ],
+      "name": "Tee Pipe Mount",
+      "category": "pipe_joint",
+      "section": "External Fasteners",
+      "catalog_page": "4-121",
+      "description": "A steel tee pipe mount that attaches 28mm piping to 15, 30, 40 and 45 series T-slot profiles. It can be used in horizontal or vertical orientation to mount to flat surfaces.",
+      "features": [
+        "Attaches 28mm piping to 15, 30, 40 & 45 series T-slot profiles",
+        "Use self drilling screw to secure pipe",
+        "Use in horizontal or vertical orientation to mount to flat surfaces"
+      ],
+      "material": "Steel",
+      "weight": ".370 lbs",
+      "specs": {
+        "Description": "Tee Pipe Mount",
+        "A": "2.000” (50.80mm)",
+        "B": ".118” (3.00mm)",
+        "C": "2.756” (70.00mm)",
+        "D": "2.126” (54.00mm)",
+        "E": "1.378” (35.00mm)",
+        "F": ".689” (17.50mm)",
+        "G": ".327” (8.30mm)",
+        "H": "1.102” (28mm)",
+        "Weight (metric)": ".170 kg"
+      },
+      "dimension_notes": "A = overall height, B = base plate thickness, C = base plate length, G = mounting hole diameter (TYP), H = pipe bore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8312",
+          "qty": 2,
+          "description": "M8 x 12mm BHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3842",
+          "qty": 2,
+          "description": "Roll-in Flex Handle",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 and P. Suggested Mount to T-Slot hardware row is badged 15 and 40 (washer PN listed as -- with qty 2). For added security anchoring the pipe, the P-badged suggested screw is F-A858 Self Drilling Screw, qty 1 (sold in box of 100). Weight .370 lbs (.170 kg)."
+    },
+    {
+      "part_number": "AF-CSM",
+      "series": [
+        "15",
+        "P"
+      ],
+      "name": "Corner Pipe Mount",
+      "category": "pipe_joint",
+      "section": "External Fasteners",
+      "catalog_page": "4-122",
+      "description": "A steel corner pipe mount that attaches 28mm piping to 15, 30, 40 and 45 series T-slot profiles. It can be used in horizontal or vertical orientation to mount to flat surfaces.",
+      "features": [
+        "Attaches 28mm piping to 15, 30, 40 & 45 series T-slot profiles",
+        "Use self drilling screw to secure pipe",
+        "Use in horizontal or vertical orientation to mount to flat surfaces"
+      ],
+      "material": "Steel",
+      "weight": ".520 lbs",
+      "specs": {
+        "Description": "Corner Pipe Mount",
+        "A": "2.875” (73.03mm)",
+        "B": ".118” (3.00mm)",
+        "C": "2.480” (63.00mm)",
+        "D": "2.165” (55.00mm)",
+        "E": "2.480” (63.00mm)",
+        "F": ".689” (17.50mm)",
+        "G": ".327” (8.30mm)",
+        "H": "1.102” (28mm)",
+        "Weight (metric)": ".235 kg"
+      },
+      "dimension_notes": "A = overall height, B = base plate thickness, G = mounting hole diameter (TYP), H = pipe bore diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "11-8312",
+          "qty": 2,
+          "description": "M8 x 12mm BHSCS",
+          "context": "Mount to T-Slot (bolt)"
+        },
+        {
+          "part_number": "3842",
+          "qty": 2,
+          "description": "Roll-in Flex Handle",
+          "context": "Mount to T-Slot (T-nut)"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 and P. Suggested Mount to T-Slot hardware row is badged 15 and 40 (washer PN listed as -- with qty 2). For added security anchoring the pipe, the P-badged suggested screw is F-A858 Self Drilling Screw, qty 1 (sold in box of 100). Weight .520 lbs (.235 kg)."
+    },
+    {
+      "part_number": "4468",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Angle Clamp Block",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-123",
+      "description": "An angle clamp block whose tab grips into the mating profile, joining profiles at a range of angles without machining. Sold in pairs with mounting hardware included.",
+      "features": [
+        "No machining required",
+        "Sold in pairs",
+        "Tab grips into mating profile",
+        "Provides range of various angles"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".218 lb",
+      "specs": {
+        "A": "1.195”",
+        "B": "1.142”",
+        "C": "1.142”"
+      },
+      "dimension_notes": "A = overall height, B = width (front view), C = length (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "Standard Slide-in T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Sold in pairs. Hardware is included (Included Hardware table, not suggested): 2 x 3119 and 2 x 3203."
+    },
+    {
+      "part_number": "4468-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Angle Clamp Block",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-123",
+      "description": "A black anodized angle clamp block whose tab grips into the mating profile, joining profiles at a range of angles without machining. Sold in pairs with mounting hardware included.",
+      "features": [
+        "No machining required",
+        "Sold in pairs",
+        "Tab grips into mating profile",
+        "Provides range of various angles"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": ".218 lb",
+      "specs": {
+        "A": "1.195”",
+        "B": "1.142”",
+        "C": "1.142”"
+      },
+      "dimension_notes": "A = overall height, B = width (front view), C = length (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5/16-18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3203",
+          "qty": 2,
+          "description": "Standard Slide-in T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Sold in pairs. Hardware is included (Included Hardware table, not suggested): 2 x 3119 and 2 x 3203."
+    },
+    {
+      "part_number": "14017",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Pivot Joint",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-125",
+      "description": "A die cast zinc 2 hole pivot joint for the 15 series, powder coat finish. Suggested hardware is listed for mounting it to a T-slot and to a profile end; the profile end mount uses an End Tap machining service on the mounting profile (pg. 11-3).",
+      "material": "Zinc",
+      "finish": "Powder Coat",
+      "weight": ".641 lb",
+      "specs": {
+        "A": "1.570”",
+        "B": ".790”",
+        "C": ".340”",
+        "D": ".790”",
+        "E": "1.570”",
+        "F": "2.520”",
+        "G": ".079”",
+        "H": ".039”",
+        "J": "1.378”",
+        "K": "1.575”",
+        "L": ".531”",
+        "M": ".315”",
+        "Process": "Die Cast"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3456",
+          "qty": 2,
+          "description": "5/16-18 x 5/8” SHCS, Drop-In T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3122",
+          "qty": 2,
+          "description": "5/16-18 x 1” SHCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Printed as 14017* where * = Break off tabs. Page 4-125 is a continuation table; the product drawing and bullet points are on the previous page (not in this chunk), so dimension letters are not defined here. Machining service End Tap on the Mounting Profile is listed (reference page 11-3). Material specifications: Zinc, Die Cast, Powder Coat."
+    },
+    {
+      "part_number": "4390",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Recessed Straight Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-127",
+      "description": "A milled aluminum 3 hole straight pivot plate with a recess, used in pairs to create a custom angle between profiles. The recess replaces the need for a nub in a pivot assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Used in pairs to create a custom angle between profiles",
+        "Recess replaces need for a nub in a pivot assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".255 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".755”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "4.500”",
+        "K": "3.000”"
+      },
+      "dimension_notes": "A = width, C = end radius (R. C), D = hole diameter (TYP), E = hole spacing, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3443",
+          "qty": 2,
+          "description": "5/16-18 x 1” BHSCS, Economy T-Nut, Washer",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3446",
+          "qty": 1,
+          "description": "5/16-18 x 7/8” SHCS, Washer & Hex Nut",
+          "context": "Mount to Pivot Plate"
+        }
+      ],
+      "notes": "Used in pairs."
+    },
+    {
+      "part_number": "4390-Black",
+      "series": [
+        "15"
+      ],
+      "name": "3 Hole - Recessed Straight Pivot Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-127",
+      "description": "A black anodized, milled aluminum 3 hole straight pivot plate with a recess, used in pairs to create a custom angle between profiles. The recess replaces the need for a nub in a pivot assembly.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Used in pairs to create a custom angle between profiles",
+        "Recess replaces need for a nub in a pivot assembly"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": ".255 lb",
+      "specs": {
+        "Process": "Milled",
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".755”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": ".750”",
+        "G": ".500”",
+        "H": ".250”",
+        "J": "4.500”",
+        "K": "3.000”"
+      },
+      "dimension_notes": "A = width, C = end radius (R. C), D = hole diameter (TYP), E = hole spacing, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3443",
+          "qty": 2,
+          "description": "5/16-18 x 1” BHSCS, Economy T-Nut, Washer",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3446",
+          "qty": 1,
+          "description": "5/16-18 x 7/8” SHCS, Washer & Hex Nut",
+          "context": "Mount to Pivot Plate"
+        }
+      ],
+      "notes": "Used in pairs."
+    }
+  ],
+  "page_notes": {
+    "281": "3 Way - Light Squared Corner Connector table; only 14177 is 15 series (14135 is 10/25, 14171/14173/14175 metric). Required machining Tap Profile End (no service number).",
+    "282": "3 Way - Squared Corner Connector; 4442 and 4442-Black are 15 series, 4042 variants are 10 series. Required machining Tap Profile End (no service number).",
+    "283": "3 Way - Rounded Corner Connector; 4441 and 4441-Black are 15 series, 4041 variants 10 series, 40-4443 variants metric.",
+    "285": "Tee Pipe Mount AF-TSM, badged 15/30/40/45/P; suggested T-slot hardware and P-badged self drilling screw.",
+    "286": "Corner Pipe Mount AF-CSM, badged 15/30/40/45/P; suggested T-slot hardware and P-badged self drilling screw.",
+    "287": "Standard Angle Clamp Block; 4468 and 4468-Black are 15 series with included hardware 3119/3203; 4174 variants 10 series.",
+    "289": "2 Hole - Pivot Joint (Continued) table; only 14017 is 15 series. Material Zinc die cast, powder coat. End Tap machining listed without a service number.",
+    "291": "3 Hole - Recessed Straight Pivot Plate; 4390 and 4390-Black are 15 series, 40-4390 variants metric."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "14017: description \"...It mounts to the T-slot on one side and to an end tapped profile end on the other.\" -> restated without the unsupported one-side/other-side claim (page only lists T-slot and profile-end suggested hardware tables plus End Tap machining)"
+    ],
+    "remaining_doubts": [
+      "AF-TSM / AF-CSM: the Mount to T-Slot hardware row badged 15 (and 40) lists a metric bolt 11-8312 (M8 x 12mm BHSCS) with T-nut 3842 Roll-in Flex Handle; copied as printed, though a metric bolt for 15 series is unusual.",
+      "AF-TSM / AF-CSM: the P-badged F-A858 self drilling screw (For Added Security Anchor & Pipe) is kept in notes only, not suggested_hardware, since that row is P-only; the part itself is badged 15 and P.",
+      "AF-TSM / AF-CSM: specs key 'Weight (metric)' is not a printed column header; it holds the second (kg) line of the Weight cell.",
+      "14017: page 4-125 is a continuation; bullets and dimension drawing are on 4-124 (not in this chunk), so features and dimension letter meanings are absent.",
+      "Corner connector and pivot pages list Tap Profile End / End Tap machining with only a reference page (11-3) and no service number or series badge, so no machining_service parts were created."
+    ]
+  }
+}

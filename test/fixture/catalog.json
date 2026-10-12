@@ -1,0 +1,119 @@
+{
+ "series": "test fixture",
+ "source": "hand-written for unit tests; 1515 values are from catalog page 3-34, the rest are synthetic",
+ "notes": [],
+ "parts": [
+  {
+   "part_number": "1515",
+   "name": "1.50\" X 1.50\" T-slotted Profile - Four Open T-slots",
+   "category": "profile",
+   "series": [
+    "15"
+   ],
+   "finish": "Clear Anodize",
+   "profile": {
+    "width_in": 1.5,
+    "height_in": 1.5,
+    "ix_in4": 0.2542,
+    "iy_in4": 0.2542,
+    "weight_lb_per_in": 0.1123,
+    "area_in2": 1.152,
+    "stock_lengths": [
+     "120”",
+     "242”"
+    ],
+    "max_length_in": 242,
+    "open_slots": 4
+   }
+  },
+  {
+   "part_number": "1515-Black",
+   "name": "1.50\" X 1.50\" T-slotted Profile - Four Open T-slots",
+   "category": "profile",
+   "series": [
+    "15"
+   ],
+   "finish": "Black Anodize",
+   "profile": {
+    "width_in": 1.5,
+    "height_in": 1.5,
+    "ix_in4": 0.2542,
+    "iy_in4": 0.2542,
+    "weight_lb_per_in": 0.1123,
+    "max_length_in": 242
+   }
+  },
+  {
+   "part_number": "TEST-1530",
+   "name": "Synthetic 1.5 x 3 profile",
+   "category": "profile",
+   "series": [
+    "15"
+   ],
+   "profile": {
+    "width_in": 1.5,
+    "height_in": 3.0,
+    "ix_in4": 1.8,
+    "iy_in4": 0.5,
+    "weight_lb_per_in": 0.2,
+    "max_length_in": 242
+   }
+  },
+  {
+   "part_number": "TEST-PLATE",
+   "name": "Synthetic 3 hole straight flat plate",
+   "category": "bracket_plate",
+   "series": [
+    "15"
+   ],
+   "weight": ".155 lb",
+   "weight_lb": 0.155,
+   "suggested_hardware": [
+    {
+     "part_number": "3320",
+     "qty": 3,
+     "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+     "context": "Mount to T-Slot"
+    },
+    {
+     "part_number": "3960",
+     "qty": 3,
+     "context": "Mount to Ready Tube"
+    }
+   ]
+  },
+  {
+   "part_number": "TEST-FRP",
+   "name": "Synthetic fiber reinforced profile",
+   "category": "profile",
+   "series": [
+    "15"
+   ],
+   "material": "Fiber Reinforced Polyurethane",
+   "profile": {
+    "width_in": 1.5,
+    "height_in": 1.5,
+    "ix_in4": 0.2542,
+    "iy_in4": 0.2542,
+    "weight_lb_per_in": 0.088,
+    "max_length_in": 120,
+    "modulus_psi": 5000000,
+    "yield_psi": 50000
+   }
+  },
+  {
+   "part_number": "TEST-FLAT",
+   "name": "Synthetic flat stock",
+   "category": "structural_shape",
+   "series": [
+    "F"
+   ],
+   "shape": {
+    "width_in": 0.875,
+    "height_in": 0.188,
+    "weight_lb_per_in": 0.016,
+    "max_length_in": 145
+   }
+  }
+ ]
+}

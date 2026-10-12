@@ -1,0 +1,475 @@
+{
+  "chunk": "s05",
+  "pages": [
+    327,
+    330,
+    332,
+    335
+  ],
+  "parts": [
+    {
+      "part_number": "13113",
+      "series": [
+        "M"
+      ],
+      "name": "Standard Drop-In T-Nut - M4 x 0.7, Steel, Bright Zinc",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in steel with a bright zinc finish and a M4 x 0.7 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0041 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "8.00mm",
+        "C": "8.00mm",
+        "D (Thread)": "M4 x 0.7",
+        "E": "1.50mm",
+        "F": "4.50mm",
+        "G": "6.00mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 30 only (metric 30 series badge in the image; the text layer shows a generic metric badge). Dimensions printed in metric."
+    },
+    {
+      "part_number": "11-4312",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M4 x 0.7 x 12.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M4 x 0.7 thread, 12.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0014 kg",
+      "specs": {
+        "A": "7.60mm",
+        "B": "2.50mm",
+        "C": "2.20mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M4 x 0.7",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-5310",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M5 x 0.8 x 10.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M5 x 0.8 thread, 10.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0023 kg",
+      "specs": {
+        "A": "9.32mm",
+        "B": "3.00mm",
+        "C": "2.63mm",
+        "D (Length)": "10.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-5312",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M5 x 0.8 x 12.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M5 x 0.8 thread, 12.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0023 kg",
+      "specs": {
+        "A": "9.32mm",
+        "B": "3.00mm",
+        "C": "2.63mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-5314",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M5 x 0.8 x 14.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M5 x 0.8 thread, 14.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0027 kg",
+      "specs": {
+        "A": "9.32mm",
+        "B": "3.00mm",
+        "C": "2.63mm",
+        "D (Length)": "14.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-5316",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M5 x 0.8 x 16.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M5 x 0.8 thread, 16.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0027 kg",
+      "specs": {
+        "A": "9.32mm",
+        "B": "3.00mm",
+        "C": "2.63mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-6312",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M6 x 1.0 x 12.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M6 x 1.0 thread, 12.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0032 kg",
+      "specs": {
+        "A": "10.29mm",
+        "B": "4.00mm",
+        "C": "3.15mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "13-6312",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M6 x 1.0 x 12.00mm, Blue Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with blue zinc finish, M6 x 1.0 thread, 12.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Blue Zinc",
+      "weight": ".0032 kg",
+      "specs": {
+        "A": "10.29mm",
+        "B": "4.00mm",
+        "C": "3.15mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-6314",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M6 x 1.0 x 14.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M6 x 1.0 thread, 14.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0036 kg",
+      "specs": {
+        "A": "10.29mm",
+        "B": "4.00mm",
+        "C": "3.15mm",
+        "D (Length)": "14.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-6316",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M6 x 1.0 x 16.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M6 x 1.0 thread, 16.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0041 kg",
+      "specs": {
+        "A": "10.29mm",
+        "B": "4.00mm",
+        "C": "3.15mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-8312",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M8 x 1.25 x 12.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M8 x 1.25 thread, 12.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0068 kg",
+      "specs": {
+        "A": "13.79mm",
+        "B": "5.00mm",
+        "C": "4.23mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M8 x 1.25",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-8316",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M8 x 1.25 x 16.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M8 x 1.25 thread, 16.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0077 kg",
+      "specs": {
+        "A": "13.79mm",
+        "B": "5.00mm",
+        "C": "4.23mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M8 x 1.25",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-8318",
+      "series": [
+        "M"
+      ],
+      "name": "Button Head Socket Cap Screw - M8 x 1.25 x 18.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-166",
+      "description": "Steel button head socket cap screw with black zinc finish, M8 x 1.25 thread, 18.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0082 kg",
+      "specs": {
+        "A": "13.79mm",
+        "B": "5.00mm",
+        "C": "4.23mm",
+        "D (Length)": "18.00mm",
+        "E (Thread)": "M8 x 1.25",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Button Head Socket Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-163 for dimensional drawing\"; no drawing is printed on this page."
+    },
+    {
+      "part_number": "11-4710",
+      "series": [
+        "M"
+      ],
+      "name": "Flat Head Socket Cap Screw - M4 x 0.7 x 10.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-168",
+      "description": "Steel flat head socket cap screw with black zinc finish, M4 x 0.7 thread, 10.00mm long (D), fully threaded. Metric flat head socket cap screws have a 90º head angle.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0009 kg",
+      "specs": {
+        "A": "8.25mm",
+        "B": "2.50mm",
+        "C": "2.48mm",
+        "D (Length)": "10.00mm",
+        "E (Thread)": "M4 x 0.7",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (key) size, C = head height, D = length, E = thread size; head angle 90º for metric (82º for fractional)",
+      "notes": "Listed in the Flat Head Socket Cap Screw table; badged M (metric)."
+    },
+    {
+      "part_number": "11-5712",
+      "series": [
+        "M"
+      ],
+      "name": "Flat Head Socket Cap Screw - M5 x 0.8 x 12.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-168",
+      "description": "Steel flat head socket cap screw with black zinc finish, M5 x 0.8 thread, 12.00mm long (D), fully threaded. Metric flat head socket cap screws have a 90º head angle.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0018 kg",
+      "specs": {
+        "A": "10.32mm",
+        "B": "3.00mm",
+        "C": "3.10mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (key) size, C = head height, D = length, E = thread size; head angle 90º for metric (82º for fractional)",
+      "notes": "Listed in the Flat Head Socket Cap Screw table; badged M (metric)."
+    },
+    {
+      "part_number": "11-5716",
+      "series": [
+        "M"
+      ],
+      "name": "Flat Head Socket Cap Screw - M5 x 0.8 x 16.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-168",
+      "description": "Steel flat head socket cap screw with black zinc finish, M5 x 0.8 thread, 16.00mm long (D), fully threaded. Metric flat head socket cap screws have a 90º head angle.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0027 kg",
+      "specs": {
+        "A": "10.32mm",
+        "B": "3.00mm",
+        "C": "3.10mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M5 x 0.8",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (key) size, C = head height, D = length, E = thread size; head angle 90º for metric (82º for fractional)",
+      "notes": "Listed in the Flat Head Socket Cap Screw table; badged M (metric)."
+    },
+    {
+      "part_number": "11-6714",
+      "series": [
+        "M"
+      ],
+      "name": "Flat Head Socket Cap Screw - M6 x 1.0 x 14.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-168",
+      "description": "Steel flat head socket cap screw with black zinc finish, M6 x 1.0 thread, 14.00mm long (D), fully threaded. Metric flat head socket cap screws have a 90º head angle.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0032 kg",
+      "specs": {
+        "A": "12.39mm",
+        "B": "4.00mm",
+        "C": "3.72mm",
+        "D (Length)": "14.00mm",
+        "E (Thread)": "M6 x 1.0",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (key) size, C = head height, D = length, E = thread size; head angle 90º for metric (82º for fractional)",
+      "notes": "Listed in the Flat Head Socket Cap Screw table; badged M (metric)."
+    },
+    {
+      "part_number": "11-8716",
+      "series": [
+        "M"
+      ],
+      "name": "Flat Head Socket Cap Screw - M8 x 1.25 x 16.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-168",
+      "description": "Steel flat head socket cap screw with black zinc finish, M8 x 1.25 thread, 16.00mm long (D), fully threaded. Metric flat head socket cap screws have a 90º head angle.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0073 kg",
+      "specs": {
+        "A": "16.58mm",
+        "B": "5.00mm",
+        "C": "4.96mm",
+        "D (Length)": "16.00mm",
+        "E (Thread)": "M8 x 1.25",
+        "Thread Length": "Full Thread"
+      },
+      "dimension_notes": "A = head diameter, B = hex socket (key) size, C = head height, D = length, E = thread size; head angle 90º for metric (82º for fractional)",
+      "notes": "Listed in the Flat Head Socket Cap Screw table; badged M (metric)."
+    },
+    {
+      "part_number": "11-8512",
+      "series": [
+        "M"
+      ],
+      "name": "Socket Head Cap Screw - M8 x 1.25 x 12.00mm, Black Zinc",
+      "category": "screw_bolt",
+      "section": "Hardware",
+      "catalog_page": "4-171",
+      "description": "Steel socket head cap screw with black zinc finish, M8 x 1.25 thread, 12.00mm long (D), fully threaded.",
+      "material": "Steel",
+      "finish": "Black Zinc",
+      "weight": ".0100 kg",
+      "specs": {
+        "A": "12.87mm",
+        "B": "6.00mm",
+        "C": "7.82mm",
+        "D (Length)": "12.00mm",
+        "E (Thread)": "M8 x 1.25",
+        "Thread Length": "Full Thread"
+      },
+      "notes": "Listed in the Socket Head Cap Screw (Continued) table; badged M (metric). The page says \"View page 4-167 for dimensional drawing\"; no drawing is printed on this page."
+    }
+  ],
+  "page_notes": {
+    "327": "Standard Drop-In T-Nut table; extracted 13113 (M4 x 0.7, steel, bright zinc, 30 badge), the only WANTED part number on this page.",
+    "330": "Button Head Socket Cap Screw (Continued), all metric rows; extracted the 12 WANTED parts 11-4312, 11-5310, 11-5312, 11-5314, 11-5316, 11-6312, 13-6312, 11-6314, 11-6316, 11-8312, 11-8316, 11-8318. Part 3804 (M6 x 1.0 x 16.00mm, bright zinc) is defined here but only 75-3804 is WANTED, so 3804 was not extracted.",
+    "332": "Flat Head Socket Cap Screw table (fractional F rows and metric M rows); extracted the 5 WANTED metric parts 11-4710, 11-5712, 11-5716, 11-6714, 11-8716.",
+    "335": "Socket Head Cap Screw (Continued), M6 and M8 metric rows; extracted 11-8512, the only WANTED part number on this page (11-6514, 11-6516, 13-6516, 11-5516, 13-5516 are not on this page)."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "13113 carries an extra non-schema field \"features\" (the four bullet points from the Standard Drop-In T-Nut header); its content is already in the description, left in place."
+    ]
+  }
+}

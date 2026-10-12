@@ -1,0 +1,1129 @@
+{
+  "chunk": "c044",
+  "pages": [
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523
+  ],
+  "parts": [
+    {
+      "part_number": "2298",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Threaded Stem Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-4",
+      "description": "Swivel caster with a threaded stem that mounts directly to a T-slot profile end, or to the profile side using a base plate. This size has a 3/8-16 stem and no brake.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "Profile end mounting requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".265 lb",
+      "specs": {
+        "Brake": "None",
+        "A": "1.625”",
+        "B": "2.313”",
+        "C": "1.500”",
+        "D": "1.625”",
+        "E": "3/8-16",
+        "Load Height": "2.313”",
+        "Load Capacity": "70.00 lb"
+      },
+      "dimension_notes": "ø A = wheel diameter, B = load height, C = threaded stem length, D = swivel radius, E = thread",
+      "notes": "Required Machining Services for profile end mounting: End Tap on the mounting profile (reference page 11-3). Side mounting uses a base plate (pg. 6-32)."
+    },
+    {
+      "part_number": "2299",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Threaded Stem Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-4",
+      "description": "Swivel caster with a threaded stem that mounts directly to a T-slot profile end, or to the profile side using a base plate. This size has a 3/8-16 stem and a top brake.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "Profile end mounting requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".444 lb",
+      "specs": {
+        "Brake": "Top",
+        "A": "2.000”",
+        "B": "2.531”",
+        "C": "1.500”",
+        "D": "1.812”",
+        "E": "3/8-16",
+        "Load Height": "2.531”",
+        "Load Capacity": "70.00 lb"
+      },
+      "dimension_notes": "ø A = wheel diameter, B = load height, C = threaded stem length, D = swivel radius, E = thread",
+      "notes": "Required Machining Services for profile end mounting: End Tap on the mounting profile (reference page 11-3). Side mounting uses a base plate (pg. 6-32)."
+    },
+    {
+      "part_number": "2300",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Threaded Stem Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-4",
+      "description": "Swivel caster with a threaded stem that mounts directly to a T-slot profile end, or to the profile side using a base plate. This size has a 3/8-16 stem and a side brake.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "Profile end mounting requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".585 lb",
+      "specs": {
+        "Brake": "Side",
+        "A": "3.000”",
+        "B": "3.531”",
+        "C": "1.500”",
+        "D": "2.375”",
+        "E": "3/8-16",
+        "Load Height": "3.531”",
+        "Load Capacity": "100.00 lb"
+      },
+      "dimension_notes": "ø A = wheel diameter, B = load height, C = threaded stem length, D = swivel radius, E = thread",
+      "notes": "Required Machining Services for profile end mounting: End Tap on the mounting profile (reference page 11-3). Side mounting uses a base plate (pg. 6-32)."
+    },
+    {
+      "part_number": "2305",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Threaded Stem Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-4",
+      "description": "Swivel caster with a threaded stem that mounts directly to a T-slot profile end, or to the profile side using a base plate. This size has a hard rubber wheel, a 7/16-14 stem and a side brake.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "Profile end mounting requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Steel / Hard Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": "1.596 lb",
+      "specs": {
+        "Brake": "Side",
+        "A": "4.000”",
+        "B": "4.531”",
+        "C": "1.500”",
+        "D": "3.250”",
+        "E": "7/16-14",
+        "Load Height": "4.531”",
+        "Load Capacity": "140.00 lb"
+      },
+      "dimension_notes": "ø A = wheel diameter, B = load height, C = threaded stem length, D = swivel radius, E = thread",
+      "notes": "Required Machining Services for profile end mounting: End Tap on the mounting profile (reference page 11-3). Side mounting uses a base plate (pg. 6-32)."
+    },
+    {
+      "part_number": "2307",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Threaded Stem Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-4",
+      "description": "Swivel caster with a threaded stem that mounts directly to a T-slot profile end, or to the profile side using a base plate. This size has a hard rubber wheel, a 7/16-14 stem and a side brake.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)",
+        "Profile end mounting requires end tap machining service (pg. 11-3)"
+      ],
+      "material": "Steel / Hard Rubber",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": "1.641 lb",
+      "specs": {
+        "Brake": "Side",
+        "A": "5.000”",
+        "B": "5.531”",
+        "C": "1.500”",
+        "D": "3.875”",
+        "E": "7/16-14",
+        "Load Height": "5.531”",
+        "Load Capacity": "145.00 lb"
+      },
+      "dimension_notes": "ø A = wheel diameter, B = load height, C = threaded stem length, D = swivel radius, E = thread",
+      "notes": "Required Machining Services for profile end mounting: End Tap on the mounting profile (reference page 11-3). Side mounting uses a base plate (pg. 6-32)."
+    },
+    {
+      "part_number": "2292",
+      "series": [
+        "F"
+      ],
+      "name": "Furniture Style Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-4",
+      "description": "Furniture style caster with a 3/8-16 threaded stem and brake that mounts directly to a T-slot profile end, or to the profile side using a base plate.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)"
+      ],
+      "material": "Steel / Nylon",
+      "color": "Black",
+      "weight": ".468 lb",
+      "specs": {
+        "Brake": "Yes",
+        "A": "2.850”",
+        "B": "3.660”",
+        "C": "4.250”",
+        "D": "1.000”",
+        "E": ".944”",
+        "F": "3/8-16",
+        "Load Height": "3.250”",
+        "Load Capacity": "165.00 lb"
+      },
+      "dimension_notes": "C = overall height including stem, D = threaded stem length, F = thread",
+      "notes": "Shown as 'With Brake' (2292, 2296). Required Machining Services for profile end mounting: End Tap on the mounting profile (reference page 11-3). Side mounting uses a base plate (pg. 6-32)."
+    },
+    {
+      "part_number": "2296",
+      "series": [
+        "F"
+      ],
+      "name": "Furniture Style Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-4",
+      "description": "Furniture style caster with a 1/2-13 threaded stem and brake that mounts directly to a T-slot profile end, or to the profile side using a base plate.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-32)"
+      ],
+      "material": "Steel / Nylon",
+      "color": "Black",
+      "weight": "1.172 lb",
+      "specs": {
+        "Brake": "Yes",
+        "A": "4.920”",
+        "B": "5.750”",
+        "C": "6.437”",
+        "D": "1.000”",
+        "E": "1.370”",
+        "F": "1/2-13",
+        "Load Height": "5.438”",
+        "Load Capacity": "180.00 lb"
+      },
+      "dimension_notes": "C = overall height including stem, D = threaded stem length, F = thread",
+      "notes": "Shown as 'With Brake' (2292, 2296). Required Machining Services for profile end mounting: End Tap on the mounting profile (reference page 11-3). Side mounting uses a base plate (pg. 6-32)."
+    },
+    {
+      "part_number": "2330",
+      "series": [
+        "15"
+      ],
+      "name": "4” T-Slot Mount Swivel with Brake Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-5",
+      "description": "4” swivel caster with brake whose top plate mounts directly to the T-slot with no base plate required. This version has swivel lock and roll lock.",
+      "features": [
+        "Directly mount to T-Slot with no base plate required",
+        "Swivel Lock & Roll Lock (2330 only)",
+        "ESD (static-safe) option (2331 only)"
+      ],
+      "material": "Black Polyurethane Wheel on Polyolefin Core",
+      "weight": "1.880 lb (.8527 kg)",
+      "specs": {
+        "A": "4.724” (120.00mm)",
+        "B": "3.150” (80.00mm)",
+        "C": ".787” (20.00mm)",
+        "D": "1.575” (40.00mm)",
+        "E": "4.252” (108.00mm)",
+        "F": ".335” (8.50mm)",
+        "G": "4.000” (101.60mm)",
+        "H": "5.079” (129.00mm)",
+        "J": ".118” (3.00mm)",
+        "Load Capacity": "350.00 lb (158.75 kg)"
+      },
+      "dimension_notes": "A = plate length, B = mounting hole spacing, ø F = mounting hole diameter, ø G = wheel diameter, H = overall height, J = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3340",
+          "qty": 2,
+          "description": "5/16-18 x .500” FBHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Slide-in T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 (30/40/45 are metric series). Swivel Lock & Roll Lock on 2330 only."
+    },
+    {
+      "part_number": "2331",
+      "series": [
+        "15"
+      ],
+      "name": "4” T-Slot Mount Swivel with Brake Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-5",
+      "description": "4” swivel caster with brake whose top plate mounts directly to the T-slot with no base plate required. This version is the ESD (static-safe) option.",
+      "features": [
+        "Directly mount to T-Slot with no base plate required",
+        "Swivel Lock & Roll Lock (2330 only)",
+        "ESD (static-safe) option (2331 only)"
+      ],
+      "material": "Black Polyurethane Wheel on Polyolefin Core",
+      "weight": "1.800 lb (.8160 kg)",
+      "specs": {
+        "A": "4.724” (120.00mm)",
+        "B": "3.150” (80.00mm)",
+        "C": ".787” (20.00mm)",
+        "D": "1.575” (40.00mm)",
+        "E": "3.484” (88.50mm)",
+        "F": ".335” (8.50mm)",
+        "G": "4.000” (101.60mm)",
+        "H": "5.079” (129.00mm)",
+        "J": ".118” (3.00mm)",
+        "Load Capacity": "350.00 lb (158.75 kg)"
+      },
+      "dimension_notes": "A = plate length, B = mounting hole spacing, ø F = mounting hole diameter, ø G = wheel diameter, H = overall height, J = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3340",
+          "qty": 2,
+          "description": "5/16-18 x .500” FBHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Slide-in T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 (30/40/45 are metric series). ESD (static-safe) option is 2331 only."
+    },
+    {
+      "part_number": "2329",
+      "series": [
+        "15"
+      ],
+      "name": "4” T-Slot Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-5",
+      "description": "4” rigid (non-swivel) caster with a top plate that mounts to the T-slot using the suggested bolts and slide-in T-nuts.",
+      "material": "Black Polyurethane Wheel on Polyolefin Core",
+      "weight": "1.250 lb (.5669 kg)",
+      "specs": {
+        "A": "4.724” (120.00mm)",
+        "B": "3.150” (80.00mm)",
+        "C": ".335” (8.50mm)",
+        "D": ".787” (20.00mm)",
+        "E": "1.575” (40.00mm)",
+        "F": "4.000” (101.60mm)",
+        "G": "5.079” (129.00mm)",
+        "H": ".138” (3.50mm)",
+        "Load Capacity": "350.00 lb (158.75 kg)"
+      },
+      "dimension_notes": "A = plate length, B = mounting hole spacing, ø C = mounting hole diameter, ø F = wheel diameter, G = overall height, H = plate thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3340",
+          "qty": 2,
+          "description": "5/16-18 x .500” FBHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Slide-in T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 (30/40/45 are metric series)."
+    },
+    {
+      "part_number": "2318",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Flanged Mount Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-6",
+      "description": "Flanged (top plate) swivel caster that mounts directly to a T-slot profile end, or to the profile side using a base plate. This version has a steel side mount brake that locks the wheel only.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-25)",
+        "Side mount brake kit locks wheel only (PN 2318); top brake locks both wheel and swivel motion"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "1.740 lb. (.7790 kg)",
+      "specs": {
+        "Brake": "Steel (Side)",
+        "A": "3.625” (92.08mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.375” (60.33mm)",
+        "E": "1.750” (44.45mm)",
+        "F": ".328” (8.33mm)",
+        "G": "4.125” (104.78mm)",
+        "H": "3.000” (76.20mm)",
+        "J": "3.000” (92.08mm)",
+        "Load Height": "4.125” (104.78mm)",
+        "Load Capacity": "300.00 lb (136.08 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = overall height, H = swivel radius, ø J = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, RT. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut. The catalog prints J as 3.000” (92.08mm); the mm value does not match the inch value."
+    },
+    {
+      "part_number": "W-4PSB",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Flanged Mount Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-6",
+      "description": "Flanged (top plate) swivel caster that mounts directly to a T-slot profile end, or to the profile side using a base plate. This version has a steel top brake that locks both wheel and swivel motion.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-25)",
+        "Side mount brake kit locks wheel only (PN 2318); top brake locks both wheel and swivel motion"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "1.900 lb (.8618 kg)",
+      "specs": {
+        "Brake": "Steel (Top)",
+        "A": "3.740” (95.00mm)",
+        "B": "2.913” (74.00mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.637” (67.00mm)",
+        "E": "1.732” (44.00mm)",
+        "F": ".354” (9.00mm)",
+        "G": "5.078” (129.00mm)",
+        "H": "4.625” (117.48mm)",
+        "J": "3.937” (100.00mm)",
+        "Load Height": "5.078” (129.00mm)",
+        "Load Capacity": "255 lbs (115.67 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = overall height, H = swivel radius, ø J = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, RT. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut."
+    },
+    {
+      "part_number": "2323",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Flanged Mount Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-6",
+      "description": "Flanged (top plate) swivel caster that mounts directly to a T-slot profile end, or to the profile side using a base plate. This version has a plastic top brake that locks both wheel and swivel motion.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-25)",
+        "Side mount brake kit locks wheel only (PN 2318); top brake locks both wheel and swivel motion"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "2.202 lb (1.0115 kg)",
+      "specs": {
+        "Brake": "Plastic (Top)",
+        "A": "3.625” (92.08mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.375” (60.33mm)",
+        "E": "1.750” (44.45mm)",
+        "F": ".328” (8.33mm)",
+        "G": "6.250” (155.58mm)",
+        "H": "4.625” (117.48mm)",
+        "J": "5.000” (127.00mm)",
+        "Load Height": "6.250” (158.45mm)",
+        "Load Capacity": "300.00 lb (136.08 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = overall height, H = swivel radius, ø J = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, RT. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut. The catalog prints G as 6.250” (155.58mm) and Load Height as 6.250” (158.45mm); neither mm value matches 6.250” exactly."
+    },
+    {
+      "part_number": "W-4PF",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Flange Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-7",
+      "description": "Flange mount rigid (non-swivel) caster that mounts directly to a T-slot profile end, or to the profile side using a base plate. It is used together with swivel casters to make applications that pivot easily.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-25)",
+        "Used in conjunction with swivel casters to create applications that easily pivot"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "1.080 lb (.4898 kg)",
+      "specs": {
+        "A": "3.740” (95.00mm)",
+        "B": "2.913” (74.00mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.637” (67.00mm)",
+        "E": "1.732” (44.00mm)",
+        "F": ".354” (9.00mm)",
+        "G": "5.078” (129.00mm)",
+        "H": "3.937” (100.00mm)",
+        "Load Height": "5.078” (129.00mm)",
+        "Load Capacity": "250.00 lb (113.39 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = overall height, ø H = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: 10, 15, 25, 40, RT. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut."
+    },
+    {
+      "part_number": "2316",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Flange Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-7",
+      "description": "Flange mount rigid (non-swivel) caster that mounts directly to a T-slot profile end, or to the profile side using a base plate. It is used together with swivel casters to make applications that pivot easily.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-25)",
+        "Used in conjunction with swivel casters to create applications that easily pivot"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "1.411 lb (.6482 kg)",
+      "specs": {
+        "A": "3.625” (92.08mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.700” (68.58mm)",
+        "E": "1.750” (44.45mm)",
+        "F": ".313” (7.94mm)",
+        "G": "6.250” (158.75mm)",
+        "H": "5.000” (127.00mm)",
+        "Load Height": "6.250” (136.36mm)",
+        "Load Capacity": "280.00 lb (127.01 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = overall height, ø H = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: 10, 15, 25, 40, RT. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut. The catalog prints Load Height as 6.250” (136.36mm); the mm value does not match the inch value (G is 6.250” (158.75mm))."
+    },
+    {
+      "part_number": "2333",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Deluxe Flange Mount Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-8",
+      "description": "Deluxe flange mount swivel caster with brake that mounts directly to a T-slot profile end, or to the profile side using a base plate. Polyurethane wheels and hardened raceways give smooth motion.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-25)",
+        "Polyurethane wheels and hardened raceways provide smooth motion with brake included"
+      ],
+      "material": "Steel / Polyurethane",
+      "finish": "Zinc",
+      "color": "Black on Gray",
+      "weight": "1.997 lb (.9071 kg)",
+      "specs": {
+        "A": "3.625” (92.08mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.375” (60.33mm)",
+        "E": "1.750” (44.45mm)",
+        "F": ".328” (8.33mm)",
+        "G": ".313” (7.94mm)",
+        "H": "4.625” (117.48mm)",
+        "J": "5.125” (130.18mm)",
+        "K": "4.000” (101.60mm)",
+        "Load Height": "5.125” (130.18mm)",
+        "Load Capacity": "350.00 lb (158.75 kg)"
+      },
+      "dimension_notes": "A-G = mounting plate dimensions, H = swivel radius, J = overall height, ø K = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, RT. Brake included. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut."
+    },
+    {
+      "part_number": "2334",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Deluxe Flange Mount Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-8",
+      "description": "Deluxe flange mount swivel caster with brake that mounts directly to a T-slot profile end, or to the profile side using a base plate. Polyurethane wheels and hardened raceways give smooth motion.",
+      "features": [
+        "Mounts directly to T-slot profile end or to profile side using base plate (pg. 6-25)",
+        "Polyurethane wheels and hardened raceways provide smooth motion with brake included"
+      ],
+      "material": "Steel / Polyurethane",
+      "finish": "Zinc",
+      "color": "Black on Gray",
+      "weight": "2.229 lb (1.0043 kg)",
+      "specs": {
+        "A": "3.625” (92.08mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.375” (60.33mm)",
+        "E": "1.750” (44.45mm)",
+        "F": ".328” (8.33mm)",
+        "G": ".313” (7.94mm)",
+        "H": "4.625” (117.48mm)",
+        "J": "6.250” (158.75mm)",
+        "K": "5.000” (127.00mm)",
+        "Load Height": "6.250” (158.75mm)",
+        "Load Capacity": "350.00 lb (158.75 kg)"
+      },
+      "dimension_notes": "A-G = mounting plate dimensions, H = swivel radius, J = overall height, ø K = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, RT. Brake included. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut."
+    },
+    {
+      "part_number": "2335",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Deluxe Flange Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-8",
+      "description": "Deluxe flange mount rigid (non-swivel) caster with a steel / polyurethane construction; the page's suggested hardware mounts it to a base plate or to Ready Tube.",
+      "material": "Steel / Polyurethane",
+      "finish": "Zinc",
+      "color": "Black on Gray",
+      "weight": "1.164 lb (.5398 kg)",
+      "specs": {
+        "A": "3.625” (92.08mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.688” (68.28mm)",
+        "E": "1.750” (44.45mm)",
+        "F": ".469” (11.91mm)",
+        "G": ".313” (7.94mm)",
+        "H": ".328” (8.33mm)",
+        "J": "4.000” (101.60mm)",
+        "K": "5.125” (130.18mm)",
+        "Load Height": "5.125” (130.18mm)",
+        "Load Capacity": "350.00 lb (158.75 kg)"
+      },
+      "dimension_notes": "A-H = mounting plate dimensions, ø J = wheel diameter, K = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, RT. The page's mounting bullet is printed for the Deluxe Flange Mount Swivel Caster; the shared Suggested Hardware tables cover both deluxe casters. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut."
+    },
+    {
+      "part_number": "2336",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Deluxe Flange Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-8",
+      "description": "Deluxe flange mount rigid (non-swivel) caster with a steel / polyurethane construction; the page's suggested hardware mounts it to a base plate or to Ready Tube.",
+      "material": "Steel / Polyurethane",
+      "finish": "Zinc",
+      "color": "Black on Gray",
+      "weight": "1.386 lb (.6299 kg)",
+      "specs": {
+        "A": "3.625” (92.08mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.875” (73.03mm)",
+        "D": "2.688” (68.28mm)",
+        "E": "1.750” (44.45mm)",
+        "F": ".469” (11.91mm)",
+        "G": ".313” (7.94mm)",
+        "H": ".328” (8.33mm)",
+        "J": "5.000” (127.00mm)",
+        "K": "6.250” (158.75mm)",
+        "Load Height": "6.250” (158.75mm)",
+        "Load Capacity": "350.00 lb (158.75 kg)"
+      },
+      "dimension_notes": "A-H = mounting plate dimensions, ø J = wheel diameter, K = overall height",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, RT. The page's mounting bullet is printed for the Deluxe Flange Mount Swivel Caster; the shared Suggested Hardware tables cover both deluxe casters. For Ready Tube mounting the suggested hardware is 3960 (RT), qty 2, 5/16-18 x 2.00” Flange Hex Head Bolt & Flanged Hex Nut."
+    },
+    {
+      "part_number": "2707",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Flange Mount Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-9",
+      "description": "Heavy-duty flange mount swivel caster that mounts to the profile side using a base plate. This version has a brake that locks both wheel and swivel motion.",
+      "features": [
+        "Mounts to profile side using base plate (pg. 6-26)",
+        "Oil resistant option with higher ground clearance",
+        "Brake locks both wheel and swivel motion"
+      ],
+      "material": "Steel / Hard Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "5.940 lb (2.700 kg)",
+      "specs": {
+        "Brake": "Yes",
+        "A": "4.488” (114.00mm)",
+        "B": "3.307” (84.00mm)",
+        "C": "2.861” (72.69mm)",
+        "D": "3.937” (100.00mm)",
+        "E": "3.000” (76.20mm)",
+        "F": "2.755” (70.00mm)",
+        "G": ".393” (10.00mm)",
+        "H": "7.480” (190.00mm)",
+        "J": "3.875” (98.43mm)",
+        "K": "5.905” (150.00mm)",
+        "Load Height": "7.480” (190.00mm)",
+        "Load Capacity": "500.00 lb (226.80 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = mounting hole size (no ø printed for G), H = overall height, J = swivel radius, ø K = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "3/8-16 x 3/4” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M. Mounts to profile side using a base plate (pg. 6-26)."
+    },
+    {
+      "part_number": "2708",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Flange Mount Swivel Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-9",
+      "description": "Heavy-duty flange mount swivel caster that mounts to the profile side using a base plate. This version has no brake and a red wheel.",
+      "features": [
+        "Mounts to profile side using base plate (pg. 6-26)",
+        "Oil resistant option with higher ground clearance",
+        "Brake locks both wheel and swivel motion"
+      ],
+      "material": "Steel / Hard Rubber",
+      "finish": "Zinc",
+      "color": "Red",
+      "weight": "4.419 lb (2.0300 kg)",
+      "specs": {
+        "Brake": "No",
+        "A": "4.500” (114.30mm)",
+        "B": "3.625” (92.08mm)",
+        "C": "3.000” (76.20mm)",
+        "D": "4.000” (101.60mm)",
+        "E": "3.000” (76.20mm)",
+        "F": "2.625” (66.68mm)",
+        "G": ".420” (10.67mm)",
+        "H": "6.500” (165.10mm)",
+        "J": "3.875” (98.43mm)",
+        "K": "5.000” (127.00mm)",
+        "Load Height": "6.500” (165.10mm)",
+        "Load Capacity": "700.00 lb (318.18 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = mounting hole size (no ø printed for G), H = overall height, J = swivel radius, ø K = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "3/8-16 x 3/4” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M. No brake (Brake column: No). Mounts to profile side using a base plate (pg. 6-26)."
+    },
+    {
+      "part_number": "W-6PF",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Flange Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-9",
+      "description": "Heavy-duty flange mount rigid (non-swivel) caster with a gray wheel, mounted with the suggested base plate hardware.",
+      "material": "Steel / Hard Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "3.910 lb (1.773 kg)",
+      "specs": {
+        "A": "4.488” (114.00mm)",
+        "B": "3.307” (84.00mm)",
+        "C": "2.861” (72.69mm)",
+        "D": "3.937” (100.00mm)",
+        "E": "3.000” (76.20mm)",
+        "F": "2.755” (70.00mm)",
+        "G": ".393” (10.00mm)",
+        "H": "7.480” (190.00mm)",
+        "J": "5.905” (150.00mm)",
+        "Load Height": "7.480” (190.00mm)",
+        "Load Capacity": "500.00 lb (226.80 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = mounting hole size (no ø printed for G), H = overall height, ø J = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "3/8-16 x 3/4” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M."
+    },
+    {
+      "part_number": "2709",
+      "series": [
+        "F"
+      ],
+      "name": "Heavy-Duty Flange Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-9",
+      "description": "Heavy-duty flange mount rigid (non-swivel) caster with a red wheel, mounted with the suggested base plate hardware.",
+      "material": "Steel / Hard Rubber",
+      "finish": "Zinc",
+      "color": "Red",
+      "weight": "3.647 lb (1.6433 kg)",
+      "specs": {
+        "A": "4.437” (112.70mm)",
+        "B": "3.625” (92.08mm)",
+        "C": "3.000” (76.20mm)",
+        "D": "4.000” (101.60mm)",
+        "E": "3.000” (76.20mm)",
+        "F": "2.625” (66.68mm)",
+        "G": ".420” (10.67mm)",
+        "H": "6.500” (165.10mm)",
+        "J": "5.000” (127.00mm)",
+        "Load Height": "6.500” (165.10mm)",
+        "Load Capacity": "800.00 lb (363.64 kg)"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = mounting hole size (no ø printed for G), H = overall height, ø J = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "3/8-16 x 3/4” SHCS",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M."
+    },
+    {
+      "part_number": "2719",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "6” Heavy-Duty Towable Flange Mount Swivel Caster with Brake",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-10",
+      "description": "6” heavy-duty towable swivel caster with brake, designed for towing applications, that mounts to the profile side using a base plate. It has a kingpinless design for increased durability.",
+      "features": [
+        "Mounts to profile side using base plate (pg. 6-26)",
+        "Designed for towing applications",
+        "Kingpinless design for increased durability"
+      ],
+      "material": "Polyurethane Wheel on Aluminum Core",
+      "color": "Blue",
+      "weight": "7.300 lb (3.311 kg)",
+      "specs": {
+        "A": "4.000” (101.60mm)",
+        "B": "3.000” (76.20mm)",
+        "C": "2.625” (66.67mm)",
+        "D": "4.500” (114.30mm)",
+        "E": "3.625” (92.07mm)",
+        "F": "3.000” (76.20mm)",
+        "G": ".420” (10.67mm)",
+        "H": "7.500” (190.50mm)",
+        "J": "6.000” (152.40mm)",
+        "K": "7.374” (187.30mm)",
+        "Load Capacity": "1,500 lbs (680.38 kg)",
+        "Max Towing Speed": "1400 lbs @ 3 mph; 882lbs @ 6 mph"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = mounting hole size (no ø printed for G), H = overall height, ø J = wheel diameter, K = swivel radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "3/8-16 x 3/4” SHCS",
+          "context": "Mount to Base Plate"
+        },
+        {
+          "part_number": "2147",
+          "description": "Base plate (Base Plate Part No. column of the Suggested Hardware table)",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, P. Suggested base plate is 2147 (40-2147 for metric). Max towing speed: 1400 lbs @ 3 mph, 882lbs @ 6 mph."
+    },
+    {
+      "part_number": "2718",
+      "series": [
+        "F",
+        "P"
+      ],
+      "name": "6” Heavy-Duty Towable Flange Mount Rigid Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-10",
+      "description": "6” heavy-duty towable rigid (non-swivel) caster with a blue polyurethane wheel on an aluminum core, mounted with the suggested base plate and bolts.",
+      "material": "Polyurethane Wheel on Aluminum Core",
+      "color": "Blue",
+      "weight": "4.800 lb (2.177 kg)",
+      "specs": {
+        "A": "4.500” (114.30mm)",
+        "B": "3.625” (92.07mm)",
+        "C": "3.000” (76.20mm)",
+        "D": "4.000” (101.60mm)",
+        "E": "3.000” (76.20mm)",
+        "F": "2.625” (66.67mm)",
+        "G": ".420” (10.67mm)",
+        "H": "7.500” (190.50mm)",
+        "J": "6.000” (152.40mm)",
+        "Load Capacity": "1,500 lbs (680.38 kg)",
+        "Max Towing Speed": "1400 lbs @ 3 mph; 882lbs @ 6 mph"
+      },
+      "dimension_notes": "A-F = mounting plate dimensions, G = mounting hole size (no ø printed for G), H = overall height, ø J = wheel diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3125",
+          "qty": 4,
+          "description": "3/8-16 x 3/4” SHCS",
+          "context": "Mount to Base Plate"
+        },
+        {
+          "part_number": "2147",
+          "description": "Base plate (Base Plate Part No. column of the Suggested Hardware table)",
+          "context": "Mount to Base Plate"
+        }
+      ],
+      "notes": "Series badges printed: F, M, P. Suggested base plate is 2147 (40-2147 for metric). Max towing speed: 1400 lbs @ 3 mph, 882lbs @ 6 mph."
+    },
+    {
+      "part_number": "2337",
+      "series": [
+        "15"
+      ],
+      "name": "Triangular Top Plate Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-11",
+      "description": "Swivel caster with a triangular top plate that mounts directly to the T-slot profile without a base plate. Slotted holes allow positioning along the profile and a locking tab stops wheel and swivel rotation.",
+      "features": [
+        "Mounts directly to T-slot profile without a base plate",
+        "Slotted holes allow for easy positioning along the profile",
+        "Locking tab stops the wheel and swivel rotation"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "2.413 lb (1.0890 kg)",
+      "specs": {
+        "A": "5.500” (139.70mm)",
+        "B": "4.000” (101.60mm)",
+        "C": "2.750” (69.85mm)",
+        "D": ".313” (7.95mm)",
+        "E": ".766” (19.46mm)",
+        "F": ".313” (7.95mm)",
+        "G": ".750” (19.05mm)",
+        "H": "4.000” (101.60mm)",
+        "J": "5.125” (130.18mm)",
+        "K": "4.625” (117.48mm)",
+        "Load Height": "5.125” (130.18mm)",
+        "Load Capacity": "250.00 lb (113.64 kg)"
+      },
+      "dimension_notes": "A, B, C, E, F, G = typical top plate dimensions, ø D = mounting hole diameter, ø H = wheel diameter, J = overall height, K = swivel radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3462",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” SHCS, Washer, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 (30/40/45 are metric series)."
+    },
+    {
+      "part_number": "2338",
+      "series": [
+        "15"
+      ],
+      "name": "Triangular Top Plate Caster",
+      "category": "caster",
+      "section": "Casters & Feet",
+      "catalog_page": "6-11",
+      "description": "Swivel caster with a triangular top plate that mounts directly to the T-slot profile without a base plate. Slotted holes allow positioning along the profile and a locking tab stops wheel and swivel rotation.",
+      "features": [
+        "Mounts directly to T-slot profile without a base plate",
+        "Slotted holes allow for easy positioning along the profile",
+        "Locking tab stops the wheel and swivel rotation"
+      ],
+      "material": "Steel / Soft Rubber",
+      "finish": "Zinc",
+      "color": "Gray",
+      "weight": "2.664 lb (1.2252 kg)",
+      "specs": {
+        "A": "5.500” (139.70mm)",
+        "B": "4.000” (101.60mm)",
+        "C": "2.750” (69.85mm)",
+        "D": ".313” (7.95mm)",
+        "E": ".766” (19.46mm)",
+        "F": ".313” (7.95mm)",
+        "G": ".750” (19.05mm)",
+        "H": "5.000” (127.00mm)",
+        "J": "6.250” (158.75mm)",
+        "K": "4.625” (117.48mm)",
+        "Load Height": "6.250” (158.75mm)",
+        "Load Capacity": "300.00 lb (136.36 kg)"
+      },
+      "dimension_notes": "A, B, C, E, F, G = typical top plate dimensions, ø D = mounting hole diameter, ø H = wheel diameter, J = overall height, K = swivel radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3462",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” SHCS, Washer, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 (30/40/45 are metric series)."
+    }
+  ],
+  "page_notes": {
+    "516": "Threaded Stem Swivel Casters 2298-2307 (F/RT) and Furniture Style Casters 2292/2296 (F); metric 65-2342/65-2344/65-2345 (M/RT) and Quick Frame 9361 (QF only) skipped; End Tap Required Machining Services table has no service number or 15 badge, so it is recorded in notes only.",
+    "517": "4in T-Slot Mount Swivel with Brake Casters 2330/2331 and Rigid Caster 2329 (badged 15/30/40/45), with Suggested Hardware (Mount to T-Slot) 3340 + 3278 for 15 series; metric hardware rows skipped.",
+    "518": "Flanged Mount Swivel Casters 2318, W-4PSB, 2323 (F/M/RT) with shared material spec and base plate hardware 3110; Ready Tube hardware 3960 noted.",
+    "519": "Flange Mount Rigid Casters W-4PF and 2316 (10/15/25/40/RT) with base plate hardware 3110; Ready Tube hardware 3960 noted.",
+    "520": "Deluxe Flange Mount Swivel Casters 2333/2334 and Rigid Casters 2335/2336 (F/M/RT) with base plate hardware 3110; Ready Tube hardware 3960 noted.",
+    "521": "Heavy-Duty Flange Mount Swivel Casters 2707/2708 and Rigid Casters W-6PF/2709 (F/M) with base plate hardware 3125; color differs by part (Gray / Red).",
+    "522": "6in Heavy-Duty Towable Flange Mount Swivel Caster 2719 and Rigid Caster 2718 (F/M/P) with base plate hardware 3125 and base plate 2147.",
+    "523": "Triangular Top Plate Casters 2337/2338 (15/30/40/45) with Suggested Hardware (Mount to T-Slot) 3462 for 15 series; metric hardware rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "2292: description 'twin-wheel' removed (not stated on the page)",
+      "2296: description 'twin-wheel' removed (not stated on the page)",
+      "2335: description claimed T-slot profile end mounting (bullet is printed only for the swivel caster) -> limited to base plate / Ready Tube hardware shown on the page",
+      "2336: description claimed T-slot profile end mounting (bullet is printed only for the swivel caster) -> limited to base plate / Ready Tube hardware shown on the page",
+      "2707: dimension_notes 'ø G = mounting hole diameter' -> 'G = mounting hole size' (drawing prints G without ø)",
+      "2708: dimension_notes 'ø G = mounting hole diameter' -> 'G = mounting hole size' (drawing prints G without ø)",
+      "W-6PF: dimension_notes 'ø G = mounting hole diameter' -> 'G = mounting hole size' (drawing prints G without ø)",
+      "2709: dimension_notes 'ø G = mounting hole diameter' -> 'G = mounting hole size' (drawing prints G without ø)",
+      "2719: dimension_notes 'ø G = mounting hole diameter' -> 'G = mounting hole size' (drawing prints G without ø)",
+      "2718: dimension_notes 'ø G = mounting hole diameter' -> 'G = mounting hole size' (drawing prints G without ø)"
+    ],
+    "remaining_doubts": [
+      "517: the single Suggested Hardware (Mount to T-Slot) table (3340 + 3278) sits below the 4in T-Slot Mount Rigid Caster; it is attached to 2330/2331 as well because all three share the same T-slot top plate holes, but the page does not state this explicitly.",
+      "522: the black 'P' badge on 2718/2719 is visible in the image but not rendered as a token in the text file; kept as series 'P'.",
+      "516: the Required Machining Services table (End Tap, reference page 11-3) has no service number and no 15 badge, so no machining_service part was created; it is recorded in the caster notes.",
+      "Several printed mm conversions do not match their inch values (2318 J, 2323 G and Load Height, 2316 Load Height); values are kept as printed and flagged in notes."
+    ]
+  }
+}

@@ -1,0 +1,729 @@
+{
+  "chunk": "c000",
+  "pages": [
+    34,
+    35,
+    36,
+    37,
+    38,
+    40,
+    51,
+    52
+  ],
+  "parts": [
+    {
+      "part_number": "Q-102129",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Lift Workstation Kit",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-4",
+      "description": "Preconfigured 15 series T-slot lift workstation, 48.00” x 30.00” x 60.70”, with a two-leg column lift system, black HDPE work surface, rope light and power strip.",
+      "features": [
+        "Dimensions: 48.00” length; 30.00” width; 60.70” height",
+        "Two-Leg Column Lift System: keypad, adjustable 16” height, 3-programmable height settings",
+        "Work Surface: 48.00” x 30.00” x 0.50” black HDPE",
+        "Lighting: 1200mm white rope light with dimmer switch (1140 Lumens)",
+        "Electrical Power Strip: 15AMP, 110V, 8 plugs, 6ft cord"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "163 lbs",
+      "specs": {
+        "Length": "48.000”",
+        "Depth": "30.000”",
+        "Height": "60.700”",
+        "Leg Travel Height": "16.000”",
+        "Load Capacity": "500 lbs"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column. Photo callouts: Rope Light, Column Lift System."
+    },
+    {
+      "part_number": "Q-106098",
+      "series": [
+        "15"
+      ],
+      "name": "Lift Workstation with Pegboard",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-5",
+      "description": "Preconfigured 15 series T-slot lift workstation, 48.00” x 30.00” x 68.70”, with a two-leg column lift system, black HDPE work surface, white HDPE pegboard wall, rope light, workstation arm and power strip.",
+      "features": [
+        "Dimensions: 48.00” length x 30.00” depth x 68.70” height",
+        "Two-Leg Column Lift System: keypad, adjustable 16” height, 3-programmable height settings",
+        "Work Surface: 48.00” x 30.00” x 0.50” black HDPE",
+        "Pegboard Wall: 45.75” x 25.75” x 0.25” white HDPE",
+        "Lighting: 1200mm white rope light with dimmer switch (1140 Lumens)",
+        "Workstation Arm: monitor mount, keyboard and mouse tray",
+        "Electrical Power Strip: 15AMP, 110V, 8 plugs, 6ft cord"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "202.48 lbs",
+      "specs": {
+        "Length": "48.00”",
+        "Depth": "30.00”",
+        "Height": "68.70”",
+        "Leg Travel Height": "16.00”",
+        "Work Surface Size": "48.00” x 30.00” x .50”",
+        "Pegboard Size": "45.75” x 25.75” x .25”",
+        "Load Capacity": "500 lbs"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column. Photo callouts: Rope Light, Column Lift System."
+    },
+    {
+      "part_number": "Q-106099",
+      "series": [
+        "15"
+      ],
+      "name": "Lift Workstation with Magnetic Dry Erase Board",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-5",
+      "description": "Preconfigured 15 series T-slot lift workstation, 60.00” x 30.00” x 68.70”, with a two-leg column lift system, black HDPE work surface, two-sided magnetic dry erase board, rope light, workstation arm and power strip.",
+      "features": [
+        "Dimensions: 60.00” length x 30.00” depth x 68.70” height",
+        "Two-Leg Column Lift System: keypad, adjustable 16” height, 3-programmable height settings",
+        "Work Surface: 60.00” x 30.00” x 0.50” black HDPE",
+        "Magnetic Dry Erase: 57.75” x 30.75” x 0.118” white 2-sided",
+        "Lighting: 1200mm white rope light with dimmer switch (1140 Lumens)",
+        "Workstation Arm: monitor mount, keyboard and mouse tray",
+        "Electrical Power Strip: 15AMP, 110V, 8 plugs, 6ft cord"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "211.79 lbs",
+      "specs": {
+        "Length": "60.00”",
+        "Depth": "30.00”",
+        "Height": "68.70”",
+        "Leg Travel Height": "16.00”",
+        "Work Surface Size": "60.00” x 30.00” x .50”",
+        "Dry Erase Board Size": "57.75” x 30.75” x .118”",
+        "Load Capacity": "500 lbs"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column. Photo callouts: Rope Light, Column Lift System."
+    },
+    {
+      "part_number": "Q-106100",
+      "series": [
+        "15"
+      ],
+      "name": "Stationary Workstation with Pegboard",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-6",
+      "description": "Preconfigured fixed-height 15 series T-slot workstation, 72.00” x 30.00” x 73.50”, with black HDPE work surface, adjustable shelf, white HDPE 1/4” pegboard wall, rope light, power strip and accessories.",
+      "features": [
+        "Dimensions: 72.00” length x 30.00” depth x 73.50” height",
+        "Work Surface: 72.00” x 30.00” x 0.50” black HDPE",
+        "Pegboard Wall: 69.75” x 30.75” x .25” white HDPE",
+        "Lighting: 1200mm white rope light with dimmer switch (1140 Lumens)",
+        "Work Area Height: 36.00” | Shelf Height: Adjustable",
+        "Electrical Power Strip: 15AMP, 110V, 8 plugs, 6ft cord",
+        "Accessories: tool hangers, end caps, bin hangers, panel gasket"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "249.46 lbs",
+      "specs": {
+        "Length": "72.00”",
+        "Depth": "30.00”",
+        "Height": "73.50”",
+        "Work Surface Size": "72.00” x 30.00” x .50”",
+        "Work Area Height": "36.00”",
+        "Shelf Size": "72.00” x 15.00” x .50”",
+        "Pegboard Size": "69.75” x 30.75” x .25”"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column. Photo callouts: Rope Light, 1/4” Pegboard."
+    },
+    {
+      "part_number": "Q-106101",
+      "series": [
+        "15"
+      ],
+      "name": "Stationary Workstation with Shelves",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-6",
+      "description": "Preconfigured fixed-height 15 series T-slot workstation, 72.00” x 30.00” x 73.50”, with black HDPE work surface, 18.00” x 18.00” x 27.00” shelf openings, plug-in LED workstation light, power strip and accessories.",
+      "features": [
+        "Dimensions: 72.00” length x 30.00” depth x 73.50” height",
+        "Work Surface: 72.00” x 30.00” x 0.50” black HDPE",
+        "Work Area Height: 36.00”",
+        "Shelf Opening: 18.00” x 18.00” x 27.00”",
+        "Lighting: plug-in LED workstation light, motion sensor (6000 Lumens)",
+        "Electrical Power Strip: 15AMP, 110V, 8 plugs, 6ft cord",
+        "Accessories: tool hangers, end caps, bin hangers, panel gasket"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "230.34 lbs",
+      "specs": {
+        "Length": "72.00”",
+        "Depth": "30.00”",
+        "Height": "73.50”",
+        "Work Surface Size": "72.00” x 30.00” x .50”",
+        "Work Area Height": "36.00”",
+        "Shelf Opening": "18.00” x 18.00” x 27.00”"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column. Photo callout: Workstation Light."
+    },
+    {
+      "part_number": "Q-106102",
+      "series": [
+        "15"
+      ],
+      "name": "Stationary Workstation with Flow Rack",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-7",
+      "description": "Preconfigured fixed-height 15 series T-slot workstation, 48.00” x 30.00” x 94.50”, with black HDPE work surface, two rows of roller-track flow racks for on-hand inventory, plug-in LED workstation light and power strip.",
+      "features": [
+        "Dimensions: 48.00” length x 30.00” depth x 94.50” height",
+        "Work Surface: 48.00” x 30.00” x 0.50” black HDPE",
+        "Work Area Height: 36.00”",
+        "Lighting: plug-in LED workstation light, motion sensor (6000 Lumens)",
+        "Roller Track: Two rows of flow racks for on-hand inventory",
+        "Electrical Power Strip: 15AMP, 110V, 8 plugs, 6ft cord"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "147.28 lbs",
+      "specs": {
+        "Length": "48.00”",
+        "Depth": "30.00”",
+        "Height": "94.50”",
+        "Work Surface Size": "48.00” x 30.00” x .50”",
+        "Work Area Height": "36.00”"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column. Photo callouts: Workstation Light; Roller Track, Pipe & Joint (row is badged 15 only)."
+    },
+    {
+      "part_number": "24884",
+      "series": [
+        "15"
+      ],
+      "name": "Ready-Made Machine Guarding - Mounting Post",
+      "category": "stanchion",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "87.50” tall 1.50” x 1.50” yellow powder coated aluminum mounting post (Thru Hole in T-slot) with steel floor bracket for the Ready-Made Machine Guarding system; up to four mesh panels connect to one post.",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "Aluminum Post",
+      "finish": "Yellow Powder Coat",
+      "color": "Yellow",
+      "weight": "10.940 lb (4.962 kg)",
+      "specs": {
+        "Description": "87.50” Mounting Post, Thru Hole in T-slot, w/ Steel Floor Bracket",
+        "Post Dimension": "1.50” x 1.50”"
+      },
+      "dimension_notes": "Drawing: post height 87.50”; floor bracket 6.024”.",
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Floor Bracket & Set Screw Included. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "24885",
+      "series": [
+        "15"
+      ],
+      "name": "Ready-Made Machine Guarding - Mounting Post",
+      "category": "stanchion",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "87.50” tall 1.50” x 1.50” yellow powder coated aluminum mounting post (Tapped in T-slot) with steel floor bracket for the Ready-Made Machine Guarding system; up to four mesh panels connect to one post.",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "Aluminum Post",
+      "finish": "Yellow Powder Coat",
+      "color": "Yellow",
+      "weight": "10.940 lb (4.962 kg)",
+      "specs": {
+        "Description": "87.50” Mounting Post, Tapped in T-slot, w/ Steel Floor Bracket",
+        "Post Dimension": "1.50” x 1.50”"
+      },
+      "dimension_notes": "Drawing: post height 87.50”; floor bracket 6.024”.",
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Floor Bracket & Set Screw Included. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "24886",
+      "series": [
+        "15"
+      ],
+      "name": "Ready-Made Machine Guarding - Mounting Post",
+      "category": "stanchion",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "87.50” tall 1.50” x 1.50” yellow powder coated aluminum mounting post (No Machining) with steel floor bracket for the Ready-Made Machine Guarding system; up to four mesh panels connect to one post.",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "Aluminum Post",
+      "finish": "Yellow Powder Coat",
+      "color": "Yellow",
+      "weight": "10.940 lb (4.962 kg)",
+      "specs": {
+        "Description": "87.50” Mounting Post, No Machining, w/ Steel Floor Bracket",
+        "Post Dimension": "1.50” x 1.50”"
+      },
+      "dimension_notes": "Drawing: post height 87.50”; floor bracket 6.024”.",
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Floor Bracket & Set Screw Included. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "241082",
+      "series": [
+        "F"
+      ],
+      "name": "Ready-Made Machine Guarding - Mesh Panel",
+      "category": "panel",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "10” x 82” Framed Mesh panel for the Ready-Made Machine Guarding system: 10-gauge steel mesh with a 2.50” x 1.25” grid in a 14-gauge steel frame, black powder coat (RAL9005).",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "10-gauge steel mesh, 14-gauge steel frame",
+      "finish": "Black Powder Coat (RAL9005)",
+      "color": "Black",
+      "weight": "12.800 lb (5.806 kg)",
+      "specs": {
+        "Description": "10” x 82” Framed Mesh",
+        "Mesh Grid": "2.50” x 1.25”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Row is badged F and M (metric); fastens to Ready-Made Machine Guarding mounting posts 24884/24885/24886. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "242282",
+      "series": [
+        "F"
+      ],
+      "name": "Ready-Made Machine Guarding - Mesh Panel",
+      "category": "panel",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "22” x 82” Framed Mesh panel for the Ready-Made Machine Guarding system: 10-gauge steel mesh with a 2.50” x 1.25” grid in a 14-gauge steel frame, black powder coat (RAL9005).",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "10-gauge steel mesh, 14-gauge steel frame",
+      "finish": "Black Powder Coat (RAL9005)",
+      "color": "Black",
+      "weight": "18.530 lb (8.405 kg)",
+      "specs": {
+        "Description": "22” x 82” Framed Mesh",
+        "Mesh Grid": "2.50” x 1.25”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Row is badged F and M (metric); fastens to Ready-Made Machine Guarding mounting posts 24884/24885/24886. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "243482",
+      "series": [
+        "F"
+      ],
+      "name": "Ready-Made Machine Guarding - Mesh Panel",
+      "category": "panel",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "34” x 82” Framed Mesh panel for the Ready-Made Machine Guarding system: 10-gauge steel mesh with a 2.50” x 1.25” grid in a 14-gauge steel frame, black powder coat (RAL9005).",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "10-gauge steel mesh, 14-gauge steel frame",
+      "finish": "Black Powder Coat (RAL9005)",
+      "color": "Black",
+      "weight": "23.810 lb (10.800 kg)",
+      "specs": {
+        "Description": "34” x 82” Framed Mesh",
+        "Mesh Grid": "2.50” x 1.25”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Row is badged F and M (metric); fastens to Ready-Made Machine Guarding mounting posts 24884/24885/24886. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "244682",
+      "series": [
+        "F"
+      ],
+      "name": "Ready-Made Machine Guarding - Mesh Panel",
+      "category": "panel",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "46” x 82” Framed Mesh panel for the Ready-Made Machine Guarding system: 10-gauge steel mesh with a 2.50” x 1.25” grid in a 14-gauge steel frame, black powder coat (RAL9005).",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "10-gauge steel mesh, 14-gauge steel frame",
+      "finish": "Black Powder Coat (RAL9005)",
+      "color": "Black",
+      "weight": "29.550 lb (13.403 kg)",
+      "specs": {
+        "Description": "46” x 82” Framed Mesh",
+        "Mesh Grid": "2.50” x 1.25”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Row is badged F and M (metric); fastens to Ready-Made Machine Guarding mounting posts 24884/24885/24886. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "245882",
+      "series": [
+        "F"
+      ],
+      "name": "Ready-Made Machine Guarding - Mesh Panel",
+      "category": "panel",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-8",
+      "description": "58” x 82” Framed Mesh panel for the Ready-Made Machine Guarding system: 10-gauge steel mesh with a 2.50” x 1.25” grid in a 14-gauge steel frame, black powder coat (RAL9005).",
+      "features": [
+        "Fast, Simple, Scalable Guarding System",
+        "Connect up to four mesh panels on one post",
+        "Anchor to ground with included floor bracket",
+        "Available in five mesh panel sizes",
+        "Three fastening method options",
+        "Match with traditional 80/20 guarding using (PN 2486)"
+      ],
+      "material": "10-gauge steel mesh, 14-gauge steel frame",
+      "finish": "Black Powder Coat (RAL9005)",
+      "color": "Black",
+      "weight": "35.280 lb (16.002 kg)",
+      "specs": {
+        "Description": "58” x 82” Framed Mesh",
+        "Mesh Grid": "2.50” x 1.25”"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "24101",
+          "qty": 1,
+          "description": "1/4-20 x .750\" Flanged Bolt",
+          "context": "Mounting Hardware - Tap & Bolt"
+        },
+        {
+          "part_number": "24221",
+          "qty": 1,
+          "description": "1/4-20 x 2.00\" Carriage Bolt & Hex Nut",
+          "context": "Mounting Hardware - Thru Bolt & Nut"
+        },
+        {
+          "part_number": "24331",
+          "qty": 1,
+          "description": "1/4-20 x .500” Flanged Bolt x T-Nut w/ Ball Spring",
+          "context": "Mounting Hardware - Bolt & T-Nut"
+        }
+      ],
+      "notes": "Row is badged F and M (metric); fastens to Ready-Made Machine Guarding mounting posts 24884/24885/24886. Mounting Hardware table offers three fastening methods (one per option): Tap & Bolt 24101, Thru Bolt & Nut 24221, Bolt & T-Nut 24331."
+    },
+    {
+      "part_number": "24900",
+      "series": [
+        "15"
+      ],
+      "name": "Guarding Post with Control Panel",
+      "category": "stanchion",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-10",
+      "description": "Pre-engineered 89.06” safety guard post built from 3” x 3” black anodized T-slot aluminum with an integrated control panel, for use with the Ready-Made Machine Guarding System.",
+      "features": [
+        "Designed for use with Ready-Made Machine Guarding System",
+        "Pre-engineered safety guard post with integrated control panel",
+        "Includes a five-switch opening plate for user-selected components, plus a solid plate that securely encloses internal electronics.",
+        "Constructed from 3” x 3” black anodized T-slot aluminum extrusion",
+        "Large internal cavity for clean and efficient cable routing"
+      ],
+      "material": "Aluminum",
+      "finish": "Black Anodize",
+      "color": "Black",
+      "weight": "26.860 lb (4.962 kg)",
+      "specs": {
+        "Description": "89.06” Mounting Post, Thru Hole in T-slot, w/ Aluminum Base Plate",
+        "Post Dimension": "3.00” x 3.00”"
+      },
+      "dimension_notes": "Drawing: post 3.00” (76.20mm) wide x 89.06” (2262.12mm) tall; 1.50” (38.10mm) and 10.00” (254.00mm) access opening callouts; base plate 8.00” (203.20mm); switch/solid plates 12.00” (304.80mm) x 2.63” (66.80mm).",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": 8,
+          "description": "M6 x 12mm BHSCS (BLACK)",
+          "context": "Mounting Hardware Included"
+        },
+        {
+          "part_number": "3330",
+          "qty": 8,
+          "description": "5/16-18 FBHSCS",
+          "context": "Mounting Hardware Included"
+        },
+        {
+          "part_number": "3914",
+          "qty": 8,
+          "description": "M6 Roll-In T-Nut with Ball Spring",
+          "context": "Mounting Hardware Included"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "5/16-18 Double T-Nut",
+          "context": "Mounting Hardware Included"
+        },
+        {
+          "part_number": "24331",
+          "qty": 3,
+          "description": "1/4-20 x .5” Silver FHHB with Self-Aligning Slide-in T-Nut",
+          "context": "Mount to Ready-Made Guarding Suggested Hardware"
+        }
+      ],
+      "notes": "Mounting hardware (11-6312 x8, 3330 x8, 3914 x8, 3279 x4), base plate and five hole plugs are included; 24331 (qty 3) is suggested for mounting to Ready-Made Guarding. Designed for standard 22mm switches. Additional 1.50” height supports a crossbeam for framing and/or wire conduit. Printed weight 26.860 lb is paired with (4.962 kg), which does not convert (26.860 lb is about 12.18 kg); the kg value appears to be a catalog error."
+    },
+    {
+      "part_number": "Q-106104",
+      "series": [
+        "15"
+      ],
+      "name": "Mobile Cart with Monitor Mount",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-21",
+      "description": "Preconfigured 15 series T-slot mobile cart, 30.00” x 32.00” x 62.94”, with a black PVC acrylic tabletop, sliding tray, monitor mount for displays up to 34”, wire mesh backing and plate casters.",
+      "features": [
+        "Dimensions: 30.00” length x 32.00” depth x 62.94” height",
+        "Tabletop Surface: 30.00” x 32.00” x 0.25” black PVC acrylic",
+        "Tabletop Height: 38.94”",
+        "Shelf Openings: 27.00” x 30.00” x 12.25”",
+        "Tray: 24.00” x 10.00” black PVC acrylic with drawer slides",
+        "Monitor Mount: fits displays up to 34”",
+        "Thermoplastic wire mesh backing",
+        "Accessories: end caps, storage bins, bin hangers, aluminum cabinet handles"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "124.08 lbs",
+      "specs": {
+        "Length": "30.00”",
+        "Depth": "32.00”",
+        "Height": "62.94”",
+        "Tabletop Surface Size": "30.00” x 32.00” x .25”",
+        "Tabletop Height": "38.94”",
+        "Shelf Openings": "27.00” x 30.00” x 12.25”"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column (read from the page image; missing from the text layer). Photo callouts: Monitor Mount, Plate Caster."
+    },
+    {
+      "part_number": "Q-105781",
+      "series": [
+        "15"
+      ],
+      "name": "Mobile Display with Magnetic Dry Erase Board",
+      "category": "kit",
+      "section": "Preconfigured Kits",
+      "catalog_page": "2-22",
+      "description": "Preconfigured 15 series T-slot mobile display stand, 30.00” x 20.00” x 80.00”, holding a 27.00” x 37.00” white double-sided magnetic dry erase board 40.00” off the ground.",
+      "features": [
+        "Dimensions: 30.00” length x 20.00” depth x 80.00” height",
+        "Dry Erase Board Size: 27.00” x 37.00” White double-sided magnetic dry erase",
+        "Board Height: 40.00” off the ground",
+        "Accessories: red end caps, rubber panel gasket, 45 degree supports"
+      ],
+      "finish": "Silver Anodize",
+      "weight": "50.35 lbs",
+      "specs": {
+        "Length": "30.00”",
+        "Depth": "20.00”",
+        "Height": "80.00”",
+        "Dry Erase Board Size": "27.00” x 37.00",
+        "Dry Erase Board Height": "40.00” off the ground"
+      },
+      "notes": "Preconfigured kit ordered by quote number (the part_number is the catalog's Quote Number). Finish is the T-Slot Finish column. Table prints Dry Erase Board Size without the trailing inch mark. Photo callouts: T-Matic Connector, End Cap."
+    }
+  ],
+  "page_notes": {
+    "34": "2-4: Standard Lift Workstation Kit Q-102129 (15) extracted; Lift Workstation with Flow Rack Q-102130 skipped (badged 40 metric + P, not 15).",
+    "35": "2-5: Lift Workstation with Pegboard Q-106098 and Lift Workstation with Magnetic Dry Erase Board Q-106099 (both 15) extracted as kits.",
+    "36": "2-6: Stationary Workstation with Pegboard Q-106100 and Stationary Workstation with Shelves Q-106101 (both 15) extracted as kits.",
+    "37": "2-7: Stationary Workstation with Flow Rack Q-106102 (15) extracted as a kit.",
+    "38": "2-8: Ready-Made Machine Guarding: mounting posts 24884/24885/24886 (15) and mesh panels 241082-245882 (F+M) extracted; Mounting Hardware table (24101, 24221, 24331) attached as suggested_hardware to the posts and panels.",
+    "40": "2-10: Guarding Post with Control Panel 24900 (15) extracted; Mounting Hardware Included and Suggested Hardware (24331) tables attached to it as suggested_hardware.",
+    "51": "2-21: Mobile Cart with Monitor Mount Q-106104 (15) extracted; Mobile Cart with Foldable Extensions Q-106103 skipped (10 series only).",
+    "52": "2-22: Mobile Display with Magnetic Dry Erase Board Q-105781 (15) extracted as a kit."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "Q-102129: specs.Frame Series \"15\" -> removed (badge column already captured in series; matches the other kits)",
+      "Q-106101: description \"under-surface shelf openings\" -> \"18.00” x 18.00” x 27.00” shelf openings\" (placement not stated in text)"
+    ],
+    "remaining_doubts": [
+      "2-8 Mounting Hardware table (24221, 24101, 24331, each badged 15, Qty 1) was treated as a fasteners-required table and attached as suggested_hardware to the posts and mesh panels instead of being extracted as standalone parts; 24221 and 24331 appear in no other raw chunk as standalone parts (24101 is in c025, p. 4-173).",
+      "2-8: the post descriptions (Thru Hole / Tapped / No Machining) appear to pair with the Thru Bolt & Nut 24221 / Tap & Bolt 24101 / Bolt & T-Nut 24331 methods, but the page does not state this, so all three methods stay attached to every post and panel.",
+      "24900: printed weight 26.860 lb is paired with (4.962 kg), the same kg value as the 10.940 lb posts; kept verbatim (catalog error likely).",
+      "Text layer for 2-10 (24900 description, suggested-hardware description) and 2-21 (Q-106104 bullets, Shelf Openings header, T-Slot Finish values) is garbled or missing; those values were confirmed from the page image."
+    ]
+  }
+}

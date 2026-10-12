@@ -1,0 +1,75 @@
+{
+  "chunk": "s03",
+  "pages": [
+    352,
+    353,
+    354
+  ],
+  "parts": [
+    {
+      "part_number": "75-3628",
+      "series": [
+        "M"
+      ],
+      "name": "M6 x 1.0 FHSCS Bolt Assembly with Standard Drop-In T-Nut, 18.00mm",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-188",
+      "description": "Bolt assembly made of one 11-6718 M6 x 1.0 flat head socket cap screw (FHSCS), 18.00mm long, and one 13119 Standard Drop-In T-Nut. No washer is included.",
+      "weight": ".012 lb",
+      "specs": {
+        "Bolt": "11-6718",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "M6 X 1.0",
+        "Bolt Length": "18.00mm",
+        "Nut": "13119",
+        "Nut Qty.": "1",
+        "Nut Type": "Standard Drop-In T-Nut",
+        "Washer": "—",
+        "Washer Qty.": "—"
+      },
+      "notes": "Listed in the table \"M6 x 1.0 Flat Head Socket Cap Screw (FHSCS)\" under Bolt Assemblies (Continued); Bolt Type and Thread Size are printed once as merged cells for the whole table. Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    },
+    {
+      "part_number": "75-3589",
+      "series": [
+        "M"
+      ],
+      "name": "M6 x 1.0 FHSCS Bolt Assembly with Hex Nut and Washer, 20.00mm",
+      "category": "fastener_assembly",
+      "section": "Hardware",
+      "catalog_page": "4-188",
+      "description": "Bolt assembly made of one 11-6720 M6 x 1.0 flat head socket cap screw (FHSCS), 20.00mm long, one 11-6065 Hex Nut and one 11-6041 washer.",
+      "weight": ".011 lb",
+      "specs": {
+        "Bolt": "11-6720",
+        "Bolt Qty.": "1",
+        "Bolt Type": "FHSCS",
+        "Thread Size": "M6 X 1.0",
+        "Bolt Length": "20.00mm",
+        "Nut": "11-6065",
+        "Nut Qty.": "1",
+        "Nut Type": "Hex Nut",
+        "Washer": "11-6041",
+        "Washer Qty.": "1"
+      },
+      "notes": "Listed in the table \"M6 x 1.0 Flat Head Socket Cap Screw (FHSCS)\" under Bolt Assemblies (Continued); Bolt Type and Thread Size are printed once as merged cells for the whole table. Series inferred from thread size; the Bolt Assemblies tables have no series badge."
+    }
+  ],
+  "page_notes": {
+    "352": "Bolt Assemblies (Continued), M6 x 1.0 FHSCS and M6 x 1.0 SHCS tables (no 5/16-18 rows); extracted only 75-3628 and 75-3589, the assembly numbers on this page that are in the WANTED list.",
+    "353": "Bolt Assemblies (Continued), M6 x 1.0 SHCS (continued) and M8 x 1.25 BHSCS tables (no 5/16-18 rows); no assembly number on this page is in the WANTED list, so nothing extracted.",
+    "354": "Bolt Assemblies (Continued), M8 x 1.25 BHSCS (continued), Flanged Hex Head Bolt, FHSCS and Slide-In Flanged Economy T-Slot Stud tables (no 5/16-18 rows); no assembly number on this page is in the WANTED list, so nothing extracted."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "No 5/16-18 rows exist on pages 352-354 (all M6 x 1.0 and M8 x 1.25 tables); only assembly numbers 75-3628 and 75-3589 are in the WANTED list, and both rows were re-checked against the image (bolt, nut, washer, quantities, length, weight match).",
+      "Several WANTED numbers appear on these pages only as components inside assembly rows, not as their own rows: bolts 11-6714, 11-6514, 11-6516, 13-6516 (p352), 11-8312, 11-8316, 11-8318 (p353), 11-8716 (p354), and washers 11-6041 (p352), 11-6042 (p353, p354). They are not defined here and need their own screw/washer catalog pages.",
+      "75-3627 (WANTED, likely an M6 assembly) is not on pages 352-354; it is probably on the preceding Bolt Assemblies page."
+    ]
+  }
+}

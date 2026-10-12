@@ -1,0 +1,692 @@
+{
+  "chunk": "c061",
+  "pages": [
+    678,
+    679,
+    680,
+    681,
+    682,
+    683
+  ],
+  "parts": [
+    {
+      "part_number": "2282",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Permanent Lubricated Bushing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-124",
+      "description": "Black glass-fiber-reinforced nylon roller wheel with a permanent lubricated bushing and a threaded mounting stud, listed as 10 to 15 series.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".070 lb",
+      "specs": {
+        "Series": "10 to 15",
+        "Grade": "K222-D",
+        "Process": "Injection Molding",
+        "A": "1.500”",
+        "B": "1.125”",
+        "C": "5/32",
+        "D": "1.156”",
+        "E": ".480”",
+        "F": ".310”",
+        "G": ".085”",
+        "H": "1/4-20",
+        "J": ".365”"
+      },
+      "dimension_notes": "ø A and ø B are diameters; H = mounting stud thread",
+      "notes": "Series printed as '10 to 15' (10 badge to 15 badge). Material, grade, color and process are merged cells shared with the other fractional wheel rows."
+    },
+    {
+      "part_number": "2290",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Permanent Lubricated Bushing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-124",
+      "description": "Black glass-fiber-reinforced nylon roller wheel with a permanent lubricated bushing and a threaded mounting stud, for 15 series.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".158 lb",
+      "specs": {
+        "Series": "15 to 15",
+        "Grade": "K222-D",
+        "Process": "Injection Molding",
+        "A": "2.000”",
+        "B": "1.625”",
+        "C": "3/16",
+        "D": "1.500”",
+        "E": ".720”",
+        "F": ".312”",
+        "G": ".204”",
+        "H": "5/16-18",
+        "J": ".485”"
+      },
+      "dimension_notes": "ø A and ø B are diameters; H = mounting stud thread",
+      "notes": "Series printed as '15 to 15'. Used (2 per assembly) in Dual Roller Wheel Bracket Assemblies 2756/2756-Black (bracket 2754) and 2759/2759-Black (bracket 2757), page 7-126."
+    },
+    {
+      "part_number": "2280",
+      "series": [
+        "15"
+      ],
+      "name": "Roller Wheel with Dual Roller Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-124",
+      "description": "Black glass-fiber-reinforced nylon roller wheel with a dual roller bearing and a threaded mounting stud; the drawing shows it fastened to a mounting profile and running in the T-slot of another profile.",
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".181 lb",
+      "specs": {
+        "Series": "15 to 15",
+        "Grade": "K222-D",
+        "Process": "Injection Molding",
+        "A": "2.000”",
+        "B": "1.625”",
+        "C": ".875”",
+        "D": "3/16",
+        "E": "1.495”",
+        "F": ".720”",
+        "G": ".312”",
+        "H": ".204”",
+        "J": "5/16-18",
+        "K": ".485”"
+      },
+      "dimension_notes": "ø A, ø B and ø C are diameters; J = mounting stud thread",
+      "notes": "Series printed as '15 to 15'. Material, grade, color and process come from the separate Material Specifications table. Used (2 per assembly) in Dual Roller Wheel Bracket Assemblies 2755/2755-Black (bracket 2754) and 2758/2758-Black (bracket 2757), page 7-126."
+    },
+    {
+      "part_number": "2754",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-125",
+      "description": "Milled anodized aluminum bracket that holds two roller wheels, used to form assemblies for door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".458 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "1.883”",
+        "E": ".860”",
+        "F": ".383”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "4.625”",
+        "N": "1.438”",
+        "P": "1.750”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). Complete assemblies using this bracket: 2755/2755-Black (with 2280 wheels) and 2756/2756-Black (with 2290 wheels), page 7-126."
+    },
+    {
+      "part_number": "2754-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-125",
+      "description": "Black anodized version of the 2754 milled aluminum bracket that holds two roller wheels, used to form assemblies for door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".458 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "1.883”",
+        "E": ".860”",
+        "F": ".383”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "4.625”",
+        "N": "1.438”",
+        "P": "1.750”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). Complete assemblies using this bracket: 2755-Black (with 2280 wheels) and 2756-Black (with 2290 wheels), page 7-126."
+    },
+    {
+      "part_number": "2757",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-125",
+      "description": "Longer milled anodized aluminum bracket that holds two roller wheels, used to form assemblies for door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".534 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "2.313”",
+        "E": "1.500”",
+        "F": ".382”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "6.125”",
+        "N": "1.438”",
+        "P": "3.250”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). F is printed as .382” here versus .383” for 2754. Complete assemblies using this bracket: 2758/2758-Black (with 2280 wheels) and 2759/2759-Black (with 2290 wheels), page 7-126."
+    },
+    {
+      "part_number": "2757-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-125",
+      "description": "Black anodized version of the 2757 longer milled aluminum bracket that holds two roller wheels, used to form assemblies for door frames, linear glides, and track systems.",
+      "features": [
+        "Used with roller wheels to form assemblies that create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".534 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": ".750”",
+        "D": "2.313”",
+        "E": "1.500”",
+        "F": ".382”",
+        "G": ".735”",
+        "H": "5/16-18",
+        "J": "5/16-18",
+        "K": ".390”",
+        "L": "1.181”",
+        "M": "6.125”",
+        "N": "1.438”",
+        "P": "3.250”",
+        "Q": ".750”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = width, M = overall length; H = threaded holes; J = drill & c'bore for LHSCS",
+      "notes": "Mounting hardware included (not itemized on this page). Complete assemblies using this bracket: 2758-Black (with 2280 wheels) and 2759-Black (with 2290 wheels), page 7-126."
+    },
+    {
+      "part_number": "2755",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2754 bracket and two 2280 roller wheels (dual roller bearing), used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Clear Anodize bracket, Black wheels",
+      "weight": ".777 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "1.500”"
+      },
+      "notes": "Assembly components: bracket 2754 (1), wheels 2280 (2). Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells (Nylon PA Glass Fiber Reinforced K222-D, Injection Molding) are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "2755-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2754 bracket and two 2280 roller wheels (dual roller bearing), with a black anodized bracket, used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Black Anodize bracket, Black wheels",
+      "weight": ".777 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "1.500”"
+      },
+      "notes": "Assembly components: bracket 2754 (1), wheels 2280 (2); the table lists bracket 2754, not 2754-Black, while Bracket Color is Black Anodize. Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "2758",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2757 bracket and two 2280 roller wheels (dual roller bearing), used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Clear Anodize bracket, Black wheels",
+      "weight": ".855 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "3.000”"
+      },
+      "notes": "Assembly components: bracket 2757 (1), wheels 2280 (2). Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "2758-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2757 bracket and two 2280 roller wheels (dual roller bearing), with a black anodized bracket, used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Black Anodize bracket, Black wheels",
+      "weight": ".855 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2280 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "3.000”"
+      },
+      "notes": "Assembly components: bracket 2757 (1), wheels 2280 (2); the table lists bracket 2757, not 2757-Black, while Bracket Color is Black Anodize. Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "2756",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2754 bracket and two 2290 roller wheels (permanent lubricated bushing), used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Clear Anodize bracket, Black wheels",
+      "weight": ".735 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "1.500”"
+      },
+      "notes": "Assembly components: bracket 2754 (1), wheels 2290 (2). Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "2756-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2754 bracket and two 2290 roller wheels (permanent lubricated bushing), with a black anodized bracket, used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Black Anodize bracket, Black wheels",
+      "weight": ".735 lb",
+      "specs": {
+        "Bracket (Qty)": "2754 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "1.500”"
+      },
+      "notes": "Assembly components: bracket 2754 (1), wheels 2290 (2); the table lists bracket 2754, not 2754-Black, while Bracket Color is Black Anodize. Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "2759",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2757 bracket and two 2290 roller wheels (permanent lubricated bushing), used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Clear Anodize bracket, Black wheels",
+      "weight": ".813 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Clear Anodize",
+        "A": "3.000”"
+      },
+      "notes": "Assembly components: bracket 2757 (1), wheels 2290 (2). Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "2759-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Dual Roller Wheel Bracket Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-126",
+      "description": "Assembled dual roller wheel bracket made of one 2757 bracket and two 2290 roller wheels (permanent lubricated bushing), with a black anodized bracket, used to create door frames, linear glides, and track systems.",
+      "features": [
+        "Used to create door frames, linear glides, and track systems",
+        "Mounting hardware included"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced K222-D",
+      "color": "Black Anodize bracket, Black wheels",
+      "weight": ".813 lb",
+      "specs": {
+        "Bracket (Qty)": "2757 (1)",
+        "Wheel (Qty)": "2290 (2)",
+        "Bolt (Qty)": "275401 (2)",
+        "T-Nut (Qty)": "3203 (2)",
+        "Process": "Injection Molding",
+        "Wheel Color": "Black",
+        "Bracket Color": "Black Anodize",
+        "A": "3.000”"
+      },
+      "notes": "Assembly components: bracket 2757 (1), wheels 2290 (2); the table lists bracket 2757, not 2757-Black, while Bracket Color is Black Anodize. Included hardware: bolt 275401 (2), T-nut 3203 (2). The Material and Process cells are single merged cells for the whole table and match the nylon wheels; the bracket is anodized aluminum per page 7-125."
+    },
+    {
+      "part_number": "4445",
+      "series": [
+        "15"
+      ],
+      "name": "Wheel Bracket",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-127",
+      "description": "Kit of a zinc bracket housing, nylon wheel and screw that mounts to a profile end; it doubles as a corner bracket and a linear motion component.",
+      "features": [
+        "Doubles as corner bracket and linear motion",
+        "Kit includes housing, wheel and screw",
+        "Three offset configurations"
+      ],
+      "material": "Zinc Bracket / Nylon Wheel",
+      "weight": ".588 lbs (.266 kg)",
+      "specs": {
+        "Load Capacity": "56.20 lbs (25.491 kg)",
+        "A": ".750” (19.05mm)",
+        "B": "1.500” (38.10mm)",
+        "C": ".083” (2.10mm)",
+        "D": "1.500” (38.10mm)",
+        "E": ".300” (7.62mm)",
+        "F": "1.535” (38.98mm)",
+        "G": "1.909” (48.48mm)",
+        "H": ".158” (4.01mm)",
+        "J": "1.909” (48.48mm)",
+        "K": "1.500” (38.10mm)",
+        "L": ".158” (4.01mm)",
+        "M": ".829” (21.05mm)"
+      },
+      "dimension_notes": "F = wheel diameter (Ø F)",
+      "suggested_hardware": [
+        {
+          "part_number": "3118",
+          "qty": 2,
+          "description": "5/16-18 x 1” BHSCS",
+          "context": "Mount to Profile End"
+        }
+      ],
+      "notes": "Load capacity 56.20 lbs (25.491 kg). Required machining: End Tap of the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "2068",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Sliding Door Glide",
+      "category": "door_track",
+      "section": "Motion Systems",
+      "catalog_page": "7-128",
+      "description": "UHMW glide that attaches to a profile end so the profile glides along a T-slot, rotating freely as the door pivots.",
+      "features": [
+        "Helps profiles glide along T-slot; attaches to profile end and freely rotates as door pivots",
+        "Requires no lubrication; stainless steel mounting screw is included"
+      ],
+      "material": "UHMW",
+      "color": "Natural",
+      "weight": ".016 lb",
+      "specs": {
+        "Pad Color": "Natural",
+        "A": ".750”",
+        "B": "1.500”",
+        "C": "5/16-18 x .625",
+        "D": ".625”",
+        "E": "1.25”",
+        "F": ".375”",
+        "G": ".875”",
+        "H": ".469”",
+        "J": ".312”",
+        "K": ".240”"
+      },
+      "dimension_notes": "C = mounting screw thread x length",
+      "notes": "Includes stainless steel mounting screw. The page's Required Machining Services table (End Tap, Mounting Profile, reference page 11-3) is printed below the Standard Sliding Door Glide table; the page does not state whether it also applies to this glide."
+    },
+    {
+      "part_number": "2051",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Sliding Door Glide",
+      "category": "door_track",
+      "section": "Motion Systems",
+      "catalog_page": "7-128",
+      "description": "UHMW glide used to create a top rail sliding or bi-fold door; it attaches to the profile end and rotates freely as the door pivots.",
+      "features": [
+        "Used to create a top rail sliding or bi-fold door; attaches to profile end and freely rotates as door pivots"
+      ],
+      "material": "UHMW",
+      "color": "Natural",
+      "weight": ".054 lb",
+      "specs": {
+        "Pad Color": "Natural",
+        "A": ".750”",
+        "B": "1.500”",
+        "C": "5/16-18",
+        "D": ".750”",
+        "E": "1.500”",
+        "F": ".700”",
+        "G": "1.480”",
+        "H": ".365”",
+        "J": ".770”",
+        "K": ".265”",
+        "L": ".195”"
+      },
+      "dimension_notes": "C = mounting screw thread",
+      "notes": "Required machining: End Tap of the mounting profile (reference page 11-3)."
+    },
+    {
+      "part_number": "6808",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Sliding Door Glide Profile",
+      "category": "door_track",
+      "section": "Motion Systems",
+      "catalog_page": "7-129",
+      "description": "Extruded UHMW glide profile sold per inch, used to create a top rail sliding or bi-fold door; it attaches to the profile end and rotates freely as the door pivots.",
+      "features": [
+        "Used to create a top rail sliding or bi-fold door; attaches to profile end and freely rotates as door pivots",
+        "Requires no lubrication"
+      ],
+      "material": "UHMW",
+      "finish": "Natural",
+      "weight": ".018 lb / in.",
+      "specs": {
+        "A": "1.500”",
+        "B": ".365”",
+        "C": ".770”",
+        "D": "45º",
+        "E": ".265”",
+        "F": ".195”",
+        "G": ".700”",
+        "H": ".600”",
+        "J": ".300”",
+        "Length": "per inch",
+        "Grade": "Virgin",
+        "Process": "Extruded"
+      },
+      "dimension_notes": "D = angle in degrees",
+      "notes": "Sold per inch; Cut to Length machining required (Door Glide Profile, reference page 11-2)."
+    },
+    {
+      "part_number": "6808-145",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Sliding Door Glide Profile",
+      "category": "door_track",
+      "section": "Motion Systems",
+      "catalog_page": "7-129",
+      "description": "Extruded UHMW glide profile in a 145.00” length, used to create a top rail sliding or bi-fold door; it attaches to the profile end and rotates freely as the door pivots.",
+      "features": [
+        "Used to create a top rail sliding or bi-fold door; attaches to profile end and freely rotates as door pivots",
+        "Requires no lubrication"
+      ],
+      "material": "UHMW",
+      "finish": "Natural",
+      "weight": "2.711 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".365”",
+        "C": ".770”",
+        "D": "45º",
+        "E": ".265”",
+        "F": ".195”",
+        "G": ".700”",
+        "H": ".600”",
+        "J": ".300”",
+        "Length": "145.00”",
+        "Grade": "Virgin",
+        "Process": "Extruded"
+      },
+      "dimension_notes": "D = angle in degrees",
+      "notes": "Full 145.00” stock length. The page's Required Machining Services table lists Cut to Length for the Door Glide Profile (reference page 11-2)."
+    }
+  ],
+  "page_notes": {
+    "678": "Roller Wheel with Permanent Lubricated Bushing (2282 '10 to 15', 2290 '15 to 15') and Roller Wheel with Dual Roller Bearing (2280) with its Material Specifications table; 10-only (2281) and metric rows skipped.",
+    "679": "Dual Roller Wheel Bracket: 15 series 2754, 2757 and their -Black variants (weight/color/material from the rotated specifications table); 10 series and metric rows skipped.",
+    "680": "Dual Roller Wheel Bracket Assembly: 15 series 2755, 2756, 2758, 2759 and -Black variants with included bolt 275401 and T-nut 3203; 10 series and metric rows skipped.",
+    "681": "Wheel Bracket 4445 (15) with suggested hardware 3118 (Mount to Profile End) and End Tap requirement; 4043 (10/metric) and 40-4445 skipped.",
+    "682": "Economy Sliding Door Glide 2068 and Standard Sliding Door Glide 2051 (15 series); 10 series and metric rows skipped. End Tap requirement table printed under the Standard glide.",
+    "683": "Standard Sliding Door Glide Profile 6808 (per inch) and 6808-145 (15 series) with Material Specifications and Cut to Length requirement; 10 series and metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "2282 is printed '10 to 15' (both a 10 and a 15 badge); kept as a 15-series part with series ['15'].",
+      "Dual Roller Wheel Bracket Assembly rows (2755-2759-Black): the single merged Material/Process cell (Nylon PA Glass Fiber Reinforced K222-D, Injection Molding) describes the wheels; the bracket itself is anodized aluminum per 7-125. 'color' is a combined bracket/wheel value; the exact cells are in specs.",
+      "Page 7-128: the End Tap Required Machining Services table sits under the Standard Sliding Door Glide table; whether it also applies to Economy glide 2068 is not stated.",
+      "Required Machining Services tables (End Tap 11-3, Cut to Length 11-2) carry no service numbers or series badges, so no machining_service parts were created."
+    ]
+  }
+}

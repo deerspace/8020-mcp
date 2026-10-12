@@ -1,0 +1,680 @@
+{
+  "chunk": "c032",
+  "pages": [
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421
+  ],
+  "parts": [
+    {
+      "part_number": "2431",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Wide Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-48",
+      "description": "Clear anodized aluminum single arm wide mesh retainer for 15 series T-slot profiles and Ready Tube. Used to mount a mesh panel recessed within the T-slot or on the profile frame; slotted holes allow positioning, and it requires a backing plate (pg. 5-53).",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires backing plate (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".228 lb",
+      "specs": {
+        "A": "2.879”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.406”",
+        "G": ".328”",
+        "H": "1.500”",
+        "J": ".250”",
+        "K": ".250”",
+        "L": "1.379”",
+        "M": ".590”",
+        "N": ".840”",
+        "P": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, P = overall width, C = slot width, ø G = thru hole diameter, H = hole spacing (typ.), R. J = bend radius (typ.), K = material thickness, N = overall depth (end view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3960",
+          "qty": 2,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Material, alloy, process and finish come from the Material Specifications table on the continuation page 5-49, where the suggested hardware is also listed. Requires a wide backing plate (pg. 5-53; 15 series part 2437), which is screwed on with the backing plate hardware listed on that page (3114). Also sold together with the wide backing plate as 2435 (pg. 5-55). 10 series equivalent 2493; metric versions 20-2493, 25-2493, 30-2431, 40-2431, 45-2431 (not extracted)."
+    },
+    {
+      "part_number": "2431-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Wide Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-48",
+      "description": "Black anodized aluminum single arm wide mesh retainer for 15 series T-slot profiles and Ready Tube. Used to mount a mesh panel recessed within the T-slot or on the profile frame; slotted holes allow positioning, and it requires a backing plate (pg. 5-53).",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires backing plate (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".228 lb",
+      "specs": {
+        "A": "2.879”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.406”",
+        "G": ".328”",
+        "H": "1.500”",
+        "J": ".250”",
+        "K": ".250”",
+        "L": "1.379”",
+        "M": ".590”",
+        "N": ".840”",
+        "P": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, P = overall width, C = slot width, ø G = thru hole diameter, H = hole spacing (typ.), R. J = bend radius (typ.), K = material thickness, N = overall depth (end view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3960",
+          "qty": 2,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Material, alloy, process and finish come from the Material Specifications table on the continuation page 5-49, where the suggested hardware is also listed. Requires a wide backing plate (pg. 5-53; 15 series part 2437), which is screwed on with the backing plate hardware listed on that page (3114). Also sold together with the wide backing plate as 2435 (pg. 5-55). 10 series equivalent 2493; metric versions 20-2493, 25-2493, 30-2431, 40-2431, 45-2431 (not extracted)."
+    },
+    {
+      "part_number": "2517",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Narrow Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-50",
+      "description": "Clear anodized aluminum double arm narrow mesh retainer for 15 series T-slot profiles and Ready Tube. Used to mount a mesh panel recessed within the T-slot or on the profile frame; slotted holes allow positioning, and it requires backing plates (pg. 5-52).",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires backing plates (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".188 lb",
+      "specs": {
+        "A": "4.522”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.417”",
+        "G": ".328”",
+        "H": ".250”",
+        "J": ".250”",
+        "K": "1.500”",
+        "L": "1.522”",
+        "M": ".590”",
+        "N": ".840”",
+        "P": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, P = overall width, C = slot width, ø G = hole diameter, R. H = bend radius (typ.), J = material thickness, N = overall depth (end view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3960",
+          "qty": 1,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). One center hole mounts to the T-slot or Ready Tube; the slotted arms attach to narrow backing plates (pg. 5-52; 15 series part 2438), which are screwed on with the backing plate hardware listed on that page (3114). 10 series equivalent 2521; metric versions 25-2521, 40-2517 (not extracted)."
+    },
+    {
+      "part_number": "2517-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Narrow Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-50",
+      "description": "Black anodized aluminum double arm narrow mesh retainer for 15 series T-slot profiles and Ready Tube. Used to mount a mesh panel recessed within the T-slot or on the profile frame; slotted holes allow positioning, and it requires backing plates (pg. 5-52).",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires backing plates (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".188 lb",
+      "specs": {
+        "A": "4.522”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.417”",
+        "G": ".328”",
+        "H": ".250”",
+        "J": ".250”",
+        "K": "1.500”",
+        "L": "1.522”",
+        "M": ".590”",
+        "N": ".840”",
+        "P": "1.500”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, P = overall width, C = slot width, ø G = hole diameter, R. H = bend radius (typ.), J = material thickness, N = overall depth (end view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3960",
+          "qty": 1,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). One center hole mounts to the T-slot or Ready Tube; the slotted arms attach to narrow backing plates (pg. 5-52; 15 series part 2438), which are screwed on with the backing plate hardware listed on that page (3114). 10 series equivalent 2521; metric versions 25-2521, 40-2517 (not extracted)."
+    },
+    {
+      "part_number": "2519",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Wide Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-51",
+      "description": "Clear anodized aluminum double arm wide mesh retainer for 15 series T-slot profiles and Ready Tube. Used to mount a mesh panel recessed within the T-slot or on the profile frame; slotted holes allow positioning, and it requires backing plates (pg. 5-53).",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires backing plates (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".377 lb",
+      "specs": {
+        "A": "4.523”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.418”",
+        "G": ".328”",
+        "H": "1.500”",
+        "J": ".250”",
+        "K": ".250”",
+        "L": "1.500”",
+        "M": "1.523”",
+        "N": ".590”",
+        "P": ".840”",
+        "Q": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, Q = overall width, C = slot width, ø G = hole diameter, H = hole/slot spacing (typ.), R. J = bend radius (typ.), K = material thickness (typ.), P = overall depth (end view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3960",
+          "qty": 2,
+          "description": "5/16-18 x 2.00” Flg. Hex Head Bolt & Flg. Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Two center holes mount to the T-slot or Ready Tube; the slotted arms attach to wide backing plates (pg. 5-53; 15 series part 2437), which are screwed on with the backing plate hardware listed on that page (3114). 10 series equivalent 2523; metric versions 25-2523, 40-2519 (not extracted)."
+    },
+    {
+      "part_number": "2519-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Double Arm Wide Mesh Retainer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-51",
+      "description": "Black anodized aluminum double arm wide mesh retainer for 15 series T-slot profiles and Ready Tube. Used to mount a mesh panel recessed within the T-slot or on the profile frame; slotted holes allow positioning, and it requires backing plates (pg. 5-53).",
+      "features": [
+        "Used to mount a mesh panel when it is recessed within the T-slot or on the profile frame; slotted hole to allow for positioning",
+        "Requires backing plates (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".377 lb",
+      "specs": {
+        "A": "4.523”",
+        "B": ".500”",
+        "C": ".328”",
+        "D": ".750”",
+        "E": ".344”",
+        "F": "1.418”",
+        "G": ".328”",
+        "H": "1.500”",
+        "J": ".250”",
+        "K": ".250”",
+        "L": "1.500”",
+        "M": "1.523”",
+        "N": ".590”",
+        "P": ".840”",
+        "Q": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, Q = overall width, C = slot width, ø G = hole diameter, H = hole/slot spacing (typ.), R. J = bend radius (typ.), K = material thickness (typ.), P = overall depth (end view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3960",
+          "qty": 2,
+          "description": "5/16-18 x 2.00” Flg. Hex Head Bolt & Flg. Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Two center holes mount to the T-slot or Ready Tube; the slotted arms attach to wide backing plates (pg. 5-53; 15 series part 2437), which are screwed on with the backing plate hardware listed on that page (3114). 10 series equivalent 2523; metric versions 25-2523, 40-2519 (not extracted)."
+    },
+    {
+      "part_number": "2438",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Narrow Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-52",
+      "description": "Clear anodized aluminum narrow backing plate for 15 series and Ready Tube mesh retainers, with one 5/16-18 tapped hole. Used with the single arm narrow mesh retainer (pg. 5-46) and double arm narrow mesh retainer (pg. 5-50) to secure wire mesh or panels.",
+      "features": [
+        "Used with the single arm narrow mesh retainer (pg. 5-46) and double arm narrow mesh retainer (pg. 5-50) to secure wire mesh or panels"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".053 lb",
+      "specs": {
+        "A": "1.50”",
+        "B": ".750”",
+        "C": ".745”",
+        "D": "1.49”",
+        "E": "5/16-18",
+        "F": ".250”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall width, D = overall height, B = side edge to hole center, C = top edge to hole center, E = thread of the tapped hole, F = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3114",
+          "qty": 1,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). The backing plate sits behind the wire mesh or panel and the retainer is screwed into it with the suggested 3114 BHSCS. Sold together with the single arm narrow mesh retainer as 2436 (pg. 5-54); 15 series double arm narrow mesh retainer is 2517 (pg. 5-50). 10 series equivalent 2492; metric versions 20-2492, 25-2492, 30-2438, 40-2438, 45-2438 (not extracted)."
+    },
+    {
+      "part_number": "2438-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Narrow Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-52",
+      "description": "Black anodized aluminum narrow backing plate for 15 series and Ready Tube mesh retainers, with one 5/16-18 tapped hole. Used with the single arm narrow mesh retainer (pg. 5-46) and double arm narrow mesh retainer (pg. 5-50) to secure wire mesh or panels.",
+      "features": [
+        "Used with the single arm narrow mesh retainer (pg. 5-46) and double arm narrow mesh retainer (pg. 5-50) to secure wire mesh or panels"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".053 lb",
+      "specs": {
+        "A": "1.50”",
+        "B": ".750”",
+        "C": ".745”",
+        "D": "1.49”",
+        "E": "5/16-18",
+        "F": ".250”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall width, D = overall height, B = side edge to hole center, C = top edge to hole center, E = thread of the tapped hole, F = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3114",
+          "qty": 1,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). The backing plate sits behind the wire mesh or panel and the retainer is screwed into it with the suggested 3114 BHSCS. Sold together with the single arm narrow mesh retainer as 2436 (pg. 5-54); 15 series double arm narrow mesh retainer is 2517 (pg. 5-50). 10 series equivalent 2492; metric versions 20-2492, 25-2492, 30-2438, 40-2438, 45-2438 (not extracted)."
+    },
+    {
+      "part_number": "2437",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Wide Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-53",
+      "description": "Clear anodized aluminum wide backing plate for 15 series and Ready Tube mesh retainers, with two 5/16-18 tapped holes. Used with the single arm wide mesh retainer (pg. 5-48) and double arm wide mesh retainer (pg. 5-51) to secure wire mesh or panels.",
+      "features": [
+        "Used with the single arm wide mesh retainer (pg. 5-48) and double arm wide mesh retainer (pg. 5-51) to secure wire mesh or panels"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".104 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".745”",
+        "E": "1.49”",
+        "F": "5/16-18",
+        "G": ".250”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, E = overall width, B = end edge to first hole center, C = hole spacing, D = side edge to hole center, F = thread of the tapped holes, G = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). The backing plate sits behind the wire mesh or panel and the retainer is screwed into it with the suggested 3114 BHSCS. Sold together with the single arm wide mesh retainer (2431) as 2435 (pg. 5-55); 15 series double arm wide mesh retainer is 2519 (pg. 5-51). 10 series equivalent 2495; metric versions 20-2495, 25-2495, 30-2437, 40-2437, 45-2437 (not extracted)."
+    },
+    {
+      "part_number": "2437-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Wide Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-53",
+      "description": "Black anodized aluminum wide backing plate for 15 series and Ready Tube mesh retainers, with two 5/16-18 tapped holes. Used with the single arm wide mesh retainer (pg. 5-48) and double arm wide mesh retainer (pg. 5-51) to secure wire mesh or panels.",
+      "features": [
+        "Used with the single arm wide mesh retainer (pg. 5-48) and double arm wide mesh retainer (pg. 5-51) to secure wire mesh or panels"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".104 lb",
+      "specs": {
+        "A": "3.000”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".745”",
+        "E": "1.49”",
+        "F": "5/16-18",
+        "G": ".250”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = overall length, E = overall width, B = end edge to first hole center, C = hole spacing, D = side edge to hole center, F = thread of the tapped holes, G = thickness",
+      "suggested_hardware": [
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). The backing plate sits behind the wire mesh or panel and the retainer is screwed into it with the suggested 3114 BHSCS. Sold together with the single arm wide mesh retainer (2431) as 2435 (pg. 5-55); 15 series double arm wide mesh retainer is 2519 (pg. 5-51). 10 series equivalent 2495; metric versions 20-2495, 25-2495, 30-2437, 40-2437, 45-2437 (not extracted)."
+    },
+    {
+      "part_number": "2436",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Narrow Mesh Retainer with Narrow Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-54",
+      "description": "Clear anodized aluminum set of one single arm narrow mesh retainer and one narrow backing plate for 15 series T-slot profiles and Ready Tube, used to clamp wire mesh or panels to the frame.",
+      "features": [
+        "Consists of one single arm narrow mesh retainer (pg. 5-46) and one narrow backing plate (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".165 lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 1,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        },
+        {
+          "part_number": "3960",
+          "qty": 1,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Sold as a set: one single arm narrow mesh retainer (pg. 5-46) plus one narrow backing plate (pg. 5-52; 15 series part 2438). Weight is for the set. Dimensions are on the component pages. 10 series equivalent 2491; metric versions 20-2491, 25-2491, 30-2436, 40-2436, 45-2436 (not extracted)."
+    },
+    {
+      "part_number": "2436-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Narrow Mesh Retainer with Narrow Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-54",
+      "description": "Black anodized aluminum set of one single arm narrow mesh retainer and one narrow backing plate for 15 series T-slot profiles and Ready Tube, used to clamp wire mesh or panels to the frame.",
+      "features": [
+        "Consists of one single arm narrow mesh retainer (pg. 5-46) and one narrow backing plate (pg. 5-52)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".165 lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 1,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 1,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        },
+        {
+          "part_number": "3960",
+          "qty": 1,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Sold as a set: one single arm narrow mesh retainer (pg. 5-46) plus one narrow backing plate (pg. 5-52; 15 series part 2438). Weight is for the set. Dimensions are on the component pages. 10 series equivalent 2491; metric versions 20-2491, 25-2491, 30-2436, 40-2436, 45-2436 (not extracted)."
+    },
+    {
+      "part_number": "2435",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Wide Mesh Retainer with Wide Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-55",
+      "description": "Clear anodized aluminum set of one single arm wide mesh retainer and one wide backing plate for 15 series T-slot profiles and Ready Tube, used to clamp wire mesh or panels to the frame.",
+      "features": [
+        "Consists of one single arm wide mesh retainer (pg. 5-48) and one wide backing plate (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".331 lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        },
+        {
+          "part_number": "3960",
+          "qty": 2,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Sold as a set: one single arm wide mesh retainer (pg. 5-48; 15 series part 2431) plus one wide backing plate (pg. 5-53; 15 series part 2437). Weight is for the set. Dimensions are on the component pages. 10 series equivalent 2494; metric versions 20-2494, 25-2494, 30-2435, 40-2435, 45-2435 (not extracted)."
+    },
+    {
+      "part_number": "2435-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Single Arm Wide Mesh Retainer with Wide Backing Plate",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-55",
+      "description": "Black anodized aluminum set of one single arm wide mesh retainer and one wide backing plate for 15 series T-slot profiles and Ready Tube, used to clamp wire mesh or panels to the frame.",
+      "features": [
+        "Consists of one single arm wide mesh retainer (pg. 5-48) and one wide backing plate (pg. 5-53)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".331 lb",
+      "specs": {
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 2,
+          "description": "5/16-18 x 11/16 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3114",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS",
+          "context": "Mount to Backing Plate"
+        },
+        {
+          "part_number": "3960",
+          "qty": 2,
+          "description": "5/16-18 x 2.00” Flange Hex Head Bolt & Flange Hex Nut",
+          "context": "Mount to Ready Tube"
+        }
+      ],
+      "notes": "Badged 15 and RT (Ready Tube). Sold as a set: one single arm wide mesh retainer (pg. 5-48; 15 series part 2431) plus one wide backing plate (pg. 5-53; 15 series part 2437). Weight is for the set. Dimensions are on the component pages. 10 series equivalent 2494; metric versions 20-2494, 25-2494, 30-2435, 40-2435, 45-2435 (not extracted)."
+    }
+  ],
+  "page_notes": {
+    "414": "5-48 Single Arm Wide Mesh Retainer dimension table: extracted 2431, 2431-Black (15/RT); skipped 10 series 2493 rows and metric rows.",
+    "415": "5-49 Single Arm Wide Mesh Retainer (Continued): Material Specifications (Aluminum, 6063-T6, Milled, Clear/Black Anodize) and Suggested Hardware (T-slot 3320 qty 2; Ready Tube 3960 qty 2) applied to 2431/2431-Black; no new parts.",
+    "416": "5-50 Double Arm Narrow Mesh Retainer: extracted 2517, 2517-Black (15/RT) with material specs and suggested hardware (3320 qty 1, 3960 qty 1); skipped 10 series and metric rows.",
+    "417": "5-51 Double Arm Wide Mesh Retainer: extracted 2519, 2519-Black (15/RT) with material specs and suggested hardware (3320 qty 2, 3960 qty 2); skipped 10 series and metric rows.",
+    "418": "5-52 Narrow Backing Plate: extracted 2438, 2438-Black (15/RT) with backing plate hardware 3114 qty 1; skipped 10 series and metric rows.",
+    "419": "5-53 Wide Backing Plate: extracted 2437, 2437-Black (15/RT) with backing plate hardware 3114 qty 2; skipped 10 series and metric rows.",
+    "420": "5-54 Single Arm Narrow Mesh Retainer with Narrow Backing Plate set: extracted 2436, 2436-Black (15/RT) with T-slot (3320), backing plate (3114) and Ready Tube (3960) hardware, qty 1 each; skipped 10 series and metric rows.",
+    "421": "5-55 Single Arm Wide Mesh Retainer with Wide Backing Plate set: extracted 2435, 2435-Black (15/RT) with T-slot (3320), backing plate (3114) and Ready Tube (3960) hardware, qty 2 each; skipped 10 series and metric rows."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "3960 (RT-only Ready Tube bolt assembly) is kept in suggested_hardware of the 15/RT retainers and sets (2431, 2517, 2519, 2436, 2435 and Black variants) because the 'Mount to Ready Tube' table applies to these RT-badged parts; a strict reading of 'attach only 15/F rows' would drop it.",
+      "Part numbers of the single arm narrow mesh retainer (pg. 5-46) are not on these pages, so 2436's notes cite only the page reference for that component."
+    ]
+  }
+}

@@ -1,0 +1,1331 @@
+{
+  "chunk": "c022",
+  "pages": [
+    324,
+    325,
+    326,
+    327,
+    328
+  ],
+  "parts": [
+    {
+      "part_number": "13027",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M4 x 0.7 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0109 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "M4 x 0.7",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13028",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M5 x 0.8 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0104 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "M5 x 0.8",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13031",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M6 x 1.0 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0100 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "M6 x 1.0",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13034",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M8 x 1.25 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0086 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "M8 x 1.25",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13039",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a 10-32 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0104 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "10-32",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13037",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a 1/4-20 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0099 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "1/4-20",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13040",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a 5/16-18 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0091 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "5/16-18",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13029",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in stainless steel with a M5 x 0.8 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".0104 kg",
+      "specs": {
+        "Grade": "304 Stainless",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "M5 x 0.8",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13032",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in stainless steel with a M6 x 1.0 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".0099 kg",
+      "specs": {
+        "Grade": "304 Stainless",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "M6 x 1.0",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13035",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut with Ball Spring",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-160",
+      "description": "Self-aligning roll-in T-nut in stainless steel with a M8 x 1.25 thread. It loads from the profile end or side, self-aligns in the T-slot, and a ball spring holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Self-aligns in T-slot",
+        "Ball spring holds the fastener in place"
+      ],
+      "material": "Stainless-Steel",
+      "finish": "Stainless",
+      "weight": ".0086 kg",
+      "specs": {
+        "Grade": "304 Stainless",
+        "A": "6.70mm",
+        "B": "22.00mm",
+        "C": "13.50mm",
+        "D (Thread)": "M8 x 1.25",
+        "E": "8.90mm",
+        "F": "7.20mm",
+        "G": "7.80mm",
+        "H": "0.80mm"
+      },
+      "dimension_notes": "B = overall length, C = overall width, D = thread; A = end of the nut to the first hole center (top view)",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric."
+    },
+    {
+      "part_number": "13030",
+      "series": [
+        "15"
+      ],
+      "name": "Tall Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Tall self-aligning roll-in T-nut in bright zinc plated steel with a M5 x 0.8 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0113 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "22.00mm",
+        "B": "13.00mm",
+        "C (Thread)": "M5 x 0.8",
+        "D": "13.40mm",
+        "E": "7.19mm",
+        "F": "0.79mm",
+        "G": "7.80mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13033",
+      "series": [
+        "15"
+      ],
+      "name": "Tall Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Tall self-aligning roll-in T-nut in bright zinc plated steel with a M6 x 1.0 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0109 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "22.00mm",
+        "B": "13.00mm",
+        "C (Thread)": "M6 x 1.0",
+        "D": "13.40mm",
+        "E": "7.19mm",
+        "F": "0.79mm",
+        "G": "7.80mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13036",
+      "series": [
+        "15"
+      ],
+      "name": "Tall Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Tall self-aligning roll-in T-nut in bright zinc plated steel with a M8 x 1.25 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0095 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "22.00mm",
+        "B": "13.00mm",
+        "C (Thread)": "M8 x 1.25",
+        "D": "13.40mm",
+        "E": "7.19mm",
+        "F": "0.79mm",
+        "G": "7.80mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13038",
+      "series": [
+        "15"
+      ],
+      "name": "Tall Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Tall self-aligning roll-in T-nut in bright zinc plated steel with a 1/4-20 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0109 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "22.00mm",
+        "B": "13.00mm",
+        "C (Thread)": "1/4-20",
+        "D": "13.40mm",
+        "E": "7.19mm",
+        "F": "0.79mm",
+        "G": "7.80mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13041",
+      "series": [
+        "15"
+      ],
+      "name": "Tall Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Tall self-aligning roll-in T-nut in bright zinc plated steel with a 5/16-18 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0100 kg",
+      "specs": {
+        "Grade": "1045",
+        "A": "22.00mm",
+        "B": "13.00mm",
+        "C (Thread)": "5/16-18",
+        "D": "13.40mm",
+        "E": "7.19mm",
+        "F": "0.79mm",
+        "G": "7.80mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13089",
+      "series": [
+        "15"
+      ],
+      "name": "Short Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Short self-aligning roll-in T-nut in bright zinc plated steel with a M4 x 0.7 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0050 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "11.80mm",
+        "C (Thread)": "M4 x 0.7",
+        "D": "9.30mm",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13091",
+      "series": [
+        "15"
+      ],
+      "name": "Short Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Short self-aligning roll-in T-nut in bright zinc plated steel with a M5 x 0.8 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0050 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "11.80mm",
+        "C (Thread)": "M5 x 0.8",
+        "D": "9.30mm",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13093",
+      "series": [
+        "15"
+      ],
+      "name": "Short Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Short self-aligning roll-in T-nut in bright zinc plated steel with a M6 x 1.0 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0045 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "11.80mm",
+        "C (Thread)": "M6 x 1.0",
+        "D": "9.30mm",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13095",
+      "series": [
+        "15"
+      ],
+      "name": "Short Self-Aligning Roll-In T-Nut with Spring Leaf",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-161",
+      "description": "Short self-aligning roll-in T-nut in bright zinc plated steel with a M8 x 1.25 thread. It loads from the profile end or side, is ideal for captivated profiles, and a spring leaf holds it in place.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles",
+        "Spring leaf holds fastener in place"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0041 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "11.80mm",
+        "C (Thread)": "M8 x 1.25",
+        "D": "9.30mm",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, C = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13088",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M4 x 0.7 thread. It loads from the profile end or side and its projection aligns it in the T-slot.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0050 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "8.00mm",
+        "C": "11.80mm",
+        "D (Thread)": "M4 x 0.7",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end of the nut to the hole center, C = overall width, D = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13090",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M5 x 0.8 thread. It loads from the profile end or side and its projection aligns it in the T-slot.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0048 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "8.00mm",
+        "C": "11.80mm",
+        "D (Thread)": "M5 x 0.8",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end of the nut to the hole center, C = overall width, D = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13092",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M6 x 1.0 thread. It loads from the profile end or side and its projection aligns it in the T-slot.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0045 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "8.00mm",
+        "C": "11.80mm",
+        "D (Thread)": "M6 x 1.0",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end of the nut to the hole center, C = overall width, D = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13094",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a M8 x 1.25 thread. It loads from the profile end or side and its projection aligns it in the T-slot.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0036 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "8.00mm",
+        "C": "11.80mm",
+        "D (Thread)": "M8 x 1.25",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end of the nut to the hole center, C = overall width, D = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13096",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a 1/4-20 thread. It loads from the profile end or side and its projection aligns it in the T-slot.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0045 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "8.00mm",
+        "C": "11.80mm",
+        "D (Thread)": "1/4-20",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end of the nut to the hole center, C = overall width, D = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13098",
+      "series": [
+        "15"
+      ],
+      "name": "Self-Aligning Roll-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Self-aligning roll-in T-nut in bright zinc plated steel with a 5/16-18 thread. It loads from the profile end or side and its projection aligns it in the T-slot.",
+      "features": [
+        "Loads from profile end or side",
+        "Projection aligns in the T-slot",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0036 kg",
+      "specs": {
+        "Grade": "Q235",
+        "A": "16.00mm",
+        "B": "8.00mm",
+        "C": "11.80mm",
+        "D (Thread)": "5/16-18",
+        "E": "4.80mm",
+        "F": "1.00mm",
+        "G": "8.00mm"
+      },
+      "dimension_notes": "A = overall length, B = end of the nut to the hole center, C = overall width, D = thread",
+      "notes": "Badged 15, 30 and 40 (fractional 15 series plus metric 30 and 40 series share this part number); dimensions are printed in metric. Material, grade and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13179",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Economy drop-in T-nut in die-cast zinc with a bright zinc finish and a M3 x 0.5 thread. It loads from the profile end or side and is ideal for captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Zinc",
+      "finish": "Bright Zinc",
+      "weight": ".0050 kg",
+      "specs": {
+        "Grade": "Die-Cast",
+        "A": "8.70mm",
+        "B": "8.00mm",
+        "C": "5.70mm",
+        "D": "20.00mm",
+        "E": "10.00mm",
+        "F (Thread)": "M3 x 0.5",
+        "G": "7.80mm",
+        "H": "7.20mm",
+        "J": "14.40mm"
+      },
+      "dimension_notes": "F = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material (Zinc), grade (Die-Cast) and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13180",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Economy drop-in T-nut in die-cast zinc with a bright zinc finish and a M4 x 0.7 thread. It loads from the profile end or side and is ideal for captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Zinc",
+      "finish": "Bright Zinc",
+      "weight": ".0050 kg",
+      "specs": {
+        "Grade": "Die-Cast",
+        "A": "8.70mm",
+        "B": "8.00mm",
+        "C": "5.70mm",
+        "D": "20.00mm",
+        "E": "10.00mm",
+        "F (Thread)": "M4 x 0.7",
+        "G": "7.80mm",
+        "H": "7.20mm",
+        "J": "14.40mm"
+      },
+      "dimension_notes": "F = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material (Zinc), grade (Die-Cast) and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13181",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Economy drop-in T-nut in die-cast zinc with a bright zinc finish and a M5 x 0.8 thread. It loads from the profile end or side and is ideal for captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Zinc",
+      "finish": "Bright Zinc",
+      "weight": ".0045 kg",
+      "specs": {
+        "Grade": "Die-Cast",
+        "A": "8.70mm",
+        "B": "8.00mm",
+        "C": "5.70mm",
+        "D": "20.00mm",
+        "E": "10.00mm",
+        "F (Thread)": "M5 x 0.8",
+        "G": "7.80mm",
+        "H": "7.20mm",
+        "J": "14.40mm"
+      },
+      "dimension_notes": "F = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material (Zinc), grade (Die-Cast) and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "13182",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Economy drop-in T-nut in die-cast zinc with a bright zinc finish and a M6 x 1.0 thread. It loads from the profile end or side and is ideal for captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Zinc",
+      "finish": "Bright Zinc",
+      "weight": ".0041 kg",
+      "specs": {
+        "Grade": "Die-Cast",
+        "A": "8.70mm",
+        "B": "8.00mm",
+        "C": "5.70mm",
+        "D": "20.00mm",
+        "E": "10.00mm",
+        "F (Thread)": "M6 x 1.0",
+        "G": "7.80mm",
+        "H": "7.20mm",
+        "J": "14.40mm"
+      },
+      "dimension_notes": "F = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material (Zinc), grade (Die-Cast) and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "14161",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Economy drop-in T-nut in die-cast zinc with a bright zinc finish and a 1/4-20 thread. It loads from the profile end or side and is ideal for captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Zinc",
+      "finish": "Bright Zinc",
+      "weight": ".0041 kg",
+      "specs": {
+        "Grade": "Die-Cast",
+        "A": "8.70mm",
+        "B": "8.00mm",
+        "C": "5.70mm",
+        "D": "20.00mm",
+        "E": "10.00mm",
+        "F (Thread)": "1/4-20",
+        "G": "7.80mm",
+        "H": "7.20mm",
+        "J": "14.40mm"
+      },
+      "dimension_notes": "F = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material (Zinc), grade (Die-Cast) and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "14163",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-162",
+      "description": "Economy drop-in T-nut in die-cast zinc with a bright zinc finish and a 10-32 thread. It loads from the profile end or side and is ideal for captivated profiles.",
+      "features": [
+        "Loads from profile end or side",
+        "Ideal for captivated profiles"
+      ],
+      "material": "Zinc",
+      "finish": "Bright Zinc",
+      "weight": ".0049 kg",
+      "specs": {
+        "Grade": "Die-Cast",
+        "A": "8.70mm",
+        "B": "8.00mm",
+        "C": "5.70mm",
+        "D": "20.00mm",
+        "E": "10.00mm",
+        "F (Thread)": "10-32",
+        "G": "7.80mm",
+        "H": "7.20mm",
+        "J": "14.40mm"
+      },
+      "dimension_notes": "F = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number); dimensions are printed in metric. Material (Zinc), grade (Die-Cast) and finish are printed once for the whole table."
+    },
+    {
+      "part_number": "3930",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a M5 x 0.8 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".620”",
+        "B": ".305”",
+        "C": ".308”",
+        "D (Thread)": "M5 x 0.8",
+        "E": ".059”",
+        "F": ".180”",
+        "G": ".239”"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in inches."
+    },
+    {
+      "part_number": "3931",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a M6 x 1.0 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".006 lb",
+      "specs": {
+        "A": ".620”",
+        "B": ".305”",
+        "C": ".308”",
+        "D (Thread)": "M6 x 1.0",
+        "E": ".059”",
+        "F": ".180”",
+        "G": ".239”"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in inches."
+    },
+    {
+      "part_number": "3932",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a 10-32 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".620”",
+        "B": ".305”",
+        "C": ".308”",
+        "D (Thread)": "10-32",
+        "E": ".059”",
+        "F": ".180”",
+        "G": ".239”"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in inches."
+    },
+    {
+      "part_number": "3933",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a 1/4-20 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".007 lb",
+      "specs": {
+        "A": ".620”",
+        "B": ".305”",
+        "C": ".308”",
+        "D (Thread)": "1/4-20",
+        "E": ".059”",
+        "F": ".180”",
+        "G": ".239”"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in inches."
+    },
+    {
+      "part_number": "13114",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a M4 x 0.7 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0036 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "7.90mm",
+        "C": "7.90mm",
+        "D (Thread)": "M4 x 0.7",
+        "E": "3.00mm",
+        "F": "4.70mm",
+        "G": "7.70mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in metric."
+    },
+    {
+      "part_number": "13116",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a M5 x 0.8 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0041 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "7.90mm",
+        "C": "7.90mm",
+        "D (Thread)": "M5 x 0.8",
+        "E": "3.00mm",
+        "F": "3.00mm",
+        "G": "7.70mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in metric. F is printed as 3.00mm for this row while the other 13114-group rows show 4.70mm; copied as printed."
+    },
+    {
+      "part_number": "13119",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a M6 x 1.0 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0037 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "7.90mm",
+        "C": "7.90mm",
+        "D (Thread)": "M6 x 1.0",
+        "E": "3.00mm",
+        "F": "4.70mm",
+        "G": "7.70mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in metric."
+    },
+    {
+      "part_number": "14165",
+      "series": [
+        "15"
+      ],
+      "name": "Standard Drop-In T-Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-163",
+      "description": "Standard drop-in T-nut in bright zinc plated steel with a 1/4-20 thread. It loads from the profile end or side, and its ridges bite into the profile surface for a strong connection while staying easy to reposition.",
+      "features": [
+        "Loads from profile end or side",
+        "Ridges bite into profile surface for strong connection",
+        "Ideal for captivated profiles",
+        "Easy to reposition"
+      ],
+      "material": "Steel",
+      "finish": "Bright Zinc",
+      "weight": ".0036 kg",
+      "specs": {
+        "A": "16.00mm",
+        "B": "7.90mm",
+        "C": "7.90mm",
+        "D (Thread)": "1/4-20",
+        "E": "3.00mm",
+        "F": "4.70mm",
+        "G": "7.70mm"
+      },
+      "dimension_notes": "A = overall length, B = overall width, D = thread",
+      "notes": "Badged 15 and 40 (fractional 15 series and metric 40 series share this part number). Dimensions printed in metric."
+    },
+    {
+      "part_number": "3346",
+      "series": [
+        "15"
+      ],
+      "name": "Nylon T-Slot Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-164",
+      "description": "White nylon T-slot nut supplied without screws in packs of 50. It stays in place in the T-slot, and a screw driven into it expands the nut into the slot.",
+      "features": [
+        "Stays in place in T-slot",
+        "Screw expands nut into the T-slot",
+        "Sold in packs of 12 or 50 based on version",
+        "Available with or without screws"
+      ],
+      "material": "Plastic",
+      "color": "White",
+      "weight": ".001 lb",
+      "specs": {
+        "Screw": "No",
+        "Qty.": "50",
+        "Grade": "Nylon",
+        "A": ".557”",
+        "B": ".200”",
+        "C": ".062”",
+        "D": ".330”",
+        "E": ".315”"
+      },
+      "dimension_notes": "A = flange outside diameter, B = center hole diameter, C = flange thickness, D = leg height below the flange, E = overall width across both legs at the tips",
+      "notes": "Pack of 50, screws not included. Material, grade and color are printed once for the whole table."
+    },
+    {
+      "part_number": "3348",
+      "series": [
+        "15"
+      ],
+      "name": "Nylon T-Slot Nut",
+      "category": "t_nut",
+      "section": "Hardware",
+      "catalog_page": "4-164",
+      "description": "White nylon T-slot nut supplied with screws in packs of 12. It stays in place in the T-slot, and the screw expands the nut into the slot.",
+      "features": [
+        "Stays in place in T-slot",
+        "Screw expands nut into the T-slot",
+        "Sold in packs of 12 or 50 based on version",
+        "Available with or without screws"
+      ],
+      "material": "Plastic",
+      "color": "White",
+      "weight": ".305 lb",
+      "specs": {
+        "Screw": "Yes",
+        "Qty.": "12",
+        "Grade": "Nylon",
+        "A": ".557”",
+        "B": ".200”",
+        "C": ".062”",
+        "D": ".330”",
+        "E": ".315”"
+      },
+      "dimension_notes": "A = flange outside diameter, B = center hole diameter, C = flange thickness, D = leg height below the flange, E = overall width across both legs at the tips",
+      "notes": "Pack of 12, screws included (screw size not stated). Printed weight .305 lb is far higher than 3346's .001 lb; the page does not say whether it is per pack. Material, grade and color are printed once for the whole table."
+    }
+  ],
+  "page_notes": {
+    "324": "Self-Aligning Roll-In T-Nut with Ball Spring (4-160): 10 rows badged 15/40 extracted (steel 1045 and 304 stainless); 13082-13084 are metric 20 only and skipped.",
+    "325": "Tall Self-Aligning Roll-In T-Nut with Spring Leaf (5 rows badged 15/40) and Short Self-Aligning Roll-In T-Nut with Spring Leaf (4 rows badged 15/30/40) extracted; 13059/13061/13063 are metric 45 only and skipped.",
+    "326": "Self-Aligning Roll-In T-Nut (6 rows badged 15/30/40) and Economy Drop-In T-Nut (6 rows badged 15/40) extracted; 13058/13060/13062 metric 45 skipped. Text layer title for the first table differs from the printed title; printed title used.",
+    "327": "Standard Drop-In T-Nut (4-163): 3930-3933 and 13114/13116/13119/14165 badged 15/40 extracted; 10/25 rows (14162/14164/14166) and metric 30/45 rows skipped.",
+    "328": "Slide-In T-Nut with Holding Spring is metric 45 only (skipped); Nylon T-Slot Nut 3346 and 3348 (15) extracted, 40-3346/40-3348 metric skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "3346: dimension_notes 'A = flange outside diameter, C = flange thickness, D = height below the flange, E = leg width' -> 'A = flange outside diameter, B = center hole diameter, C = flange thickness, D = leg height below the flange, E = overall width across both legs at the tips' (drawing shows E spanning both legs, B pointing to the center hole)",
+      "3348: dimension_notes 'A = flange outside diameter, C = flange thickness, D = height below the flange, E = leg width' -> 'A = flange outside diameter, B = center hole diameter, C = flange thickness, D = leg height below the flange, E = overall width across both legs at the tips'"
+    ],
+    "remaining_doubts": [
+      "4-162 (PDF p326): the text layer gives the first table title as 'Self-Aligning 3 Hole - Straight Roll-In Flat T-Nut Plate' with empty bullets, but the rendered page prints 'Self-Aligning Roll-In T-Nut' with three bullets; the printed title and bullets were kept for 13088-13098.",
+      "13116: F printed as 3.00mm while the other 15/40 rows of that group show 4.70mm; kept as printed (text and image agree).",
+      "3348: weight printed as .305 lb against .001 lb for 3346; the page does not say if it is per pack with screws.",
+      "All 15 rows in this chunk also carry metric 30/40 badges; series lists only '15' per the extraction rules. Grade values are kept in specs['Grade'] rather than 'alloy', matching most other chunks."
+    ]
+  }
+}

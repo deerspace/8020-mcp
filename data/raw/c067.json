@@ -1,0 +1,960 @@
+{
+  "chunk": "c067",
+  "pages": [
+    716,
+    717,
+    718,
+    719,
+    720,
+    721,
+    722,
+    723
+  ],
+  "parts": [
+    {
+      "part_number": "2163",
+      "series": [
+        "15"
+      ],
+      "name": "8-Hole Pressure Manifold Stopper Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-18",
+      "description": "Eight-hole aluminum plate that mounts on the end of a profile to seal it so the profile can serve as a pressure manifold. Mounting hardware and gasket are included.",
+      "features": [
+        "Mounts on the profile end to form a secure seal",
+        "Mounting hardware and gasket included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.483 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": ".750”",
+        "E (Bolt Size)": "5/16 SHCS",
+        "F": ".740”",
+        "G": "6.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = vertical hole spacing, B = end edge to first hole center, C = overall width, D = hole center to side edge, E = bolt size for the 8 counterbored holes, F = plate thickness, G = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 8,
+          "description": "5/16-18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to Profile End)"
+        }
+      ],
+      "notes": "Required machining service: Tap Profile End (machined: Mounting Profile), reference page 11-3. Included hardware for 15 series: 8 x 3119 (5/16-18 x 7/8” SHCS); gasket also included."
+    },
+    {
+      "part_number": "2163-Black",
+      "series": [
+        "15"
+      ],
+      "name": "8-Hole Pressure Manifold Stopper Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-18",
+      "description": "Eight-hole aluminum plate, black, that mounts on the end of a profile to seal it so the profile can serve as a pressure manifold. Mounting hardware and gasket are included.",
+      "features": [
+        "Mounts on the profile end to form a secure seal",
+        "Mounting hardware and gasket included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.483 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "3.000”",
+        "D": ".750”",
+        "E (Bolt Size)": "5/16 SHCS",
+        "F": ".740”",
+        "G": "6.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = vertical hole spacing, B = end edge to first hole center, C = overall width, D = hole center to side edge, E = bolt size for the 8 counterbored holes, F = plate thickness, G = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 8,
+          "description": "5/16-18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to Profile End)"
+        }
+      ],
+      "notes": "Required machining service: Tap Profile End (machined: Mounting Profile), reference page 11-3. Included hardware for 15 series: 8 x 3119 (5/16-18 x 7/8” SHCS); gasket also included."
+    },
+    {
+      "part_number": "2440",
+      "series": [
+        "15"
+      ],
+      "name": "Pressure Manifold Access Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-19",
+      "description": "Aluminum access plate with a 1/4\" NPT tapped hole that mounts to the side of a profile used as a pressure manifold, sealed with an O-ring. Mounting hardware is included.",
+      "features": [
+        "Includes tapped hole; mounts to profile side",
+        "O-ring to provide tight seal; mounting hardware included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".387 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F (Thread)": "1/4\" NPT",
+        "G (O-Ring Size)": "1\" OD",
+        "H (Bolt Size)": "5/16 SHCS",
+        "J": ".750”",
+        "K": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = spacing between the two mounting hole centers, B = end edge to first mounting hole center, C = overall width, D = side edge to hole center, E = end edge to center (tapped) hole center, F = tapped thread, G = O-ring size, H = mounting bolt size, J = plate thickness, K = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5-16/18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        }
+      ],
+      "notes": "Page 9-19 states included mounting hardware, material specifications and required machining services are on page 9-20: Aluminum 6063-T6, Anodize, Milled; required machining service Manifold Access Profile Milling (machined: Mounting Profile), reference page 11-21; included 15-series hardware 2 x 3119 SHCS + 2 x 3278 Economy T-nut. Matching 15-series O-Ring for Pressure Manifold (2156, 1.000”) is listed on the same page."
+    },
+    {
+      "part_number": "2440-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Pressure Manifold Access Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-19",
+      "description": "Black aluminum access plate with a 1/4\" NPT tapped hole that mounts to the side of a profile used as a pressure manifold, sealed with an O-ring. Mounting hardware is included.",
+      "features": [
+        "Includes tapped hole; mounts to profile side",
+        "O-ring to provide tight seal; mounting hardware included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".387 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F (Thread)": "1/4\" NPT",
+        "G (O-Ring Size)": "1\" OD",
+        "H (Bolt Size)": "5/16 SHCS",
+        "J": ".750”",
+        "K": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = spacing between the two mounting hole centers, B = end edge to first mounting hole center, C = overall width, D = side edge to hole center, E = end edge to center (tapped) hole center, F = tapped thread, G = O-ring size, H = mounting bolt size, J = plate thickness, K = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5-16/18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        }
+      ],
+      "notes": "Page 9-19 states included mounting hardware, material specifications and required machining services are on page 9-20: Aluminum 6063-T6, Anodize, Milled; required machining service Manifold Access Profile Milling (machined: Mounting Profile), reference page 11-21; included 15-series hardware 2 x 3119 SHCS + 2 x 3278 Economy T-nut. Matching 15-series O-Ring for Pressure Manifold (2156, 1.000”) is listed on the same page."
+    },
+    {
+      "part_number": "2441",
+      "series": [
+        "15"
+      ],
+      "name": "Pressure Manifold Access Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-19",
+      "description": "Aluminum access plate with a 3/8\" NPT tapped hole that mounts to the side of a profile used as a pressure manifold, sealed with an O-ring. Mounting hardware is included.",
+      "features": [
+        "Includes tapped hole; mounts to profile side",
+        "O-ring to provide tight seal; mounting hardware included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".376 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F (Thread)": "3/8\" NPT",
+        "G (O-Ring Size)": "1\" OD",
+        "H (Bolt Size)": "5/16 SHCS",
+        "J": ".750”",
+        "K": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = spacing between the two mounting hole centers, B = end edge to first mounting hole center, C = overall width, D = side edge to hole center, E = end edge to center (tapped) hole center, F = tapped thread, G = O-ring size, H = mounting bolt size, J = plate thickness, K = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5-16/18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        }
+      ],
+      "notes": "Page 9-19 states included mounting hardware, material specifications and required machining services are on page 9-20: Aluminum 6063-T6, Anodize, Milled; required machining service Manifold Access Profile Milling (machined: Mounting Profile), reference page 11-21; included 15-series hardware 2 x 3119 SHCS + 2 x 3278 Economy T-nut. Matching 15-series O-Ring for Pressure Manifold (2156, 1.000”) is listed on the same page."
+    },
+    {
+      "part_number": "2441-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Pressure Manifold Access Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-19",
+      "description": "Black aluminum access plate with a 3/8\" NPT tapped hole that mounts to the side of a profile used as a pressure manifold, sealed with an O-ring. Mounting hardware is included.",
+      "features": [
+        "Includes tapped hole; mounts to profile side",
+        "O-ring to provide tight seal; mounting hardware included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".376 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F (Thread)": "3/8\" NPT",
+        "G (O-Ring Size)": "1\" OD",
+        "H (Bolt Size)": "5/16 SHCS",
+        "J": ".750”",
+        "K": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = spacing between the two mounting hole centers, B = end edge to first mounting hole center, C = overall width, D = side edge to hole center, E = end edge to center (tapped) hole center, F = tapped thread, G = O-ring size, H = mounting bolt size, J = plate thickness, K = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5-16/18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot), page 9-20"
+        }
+      ],
+      "notes": "Page 9-19 states included mounting hardware, material specifications and required machining services are on page 9-20: Aluminum 6063-T6, Anodize, Milled; required machining service Manifold Access Profile Milling (machined: Mounting Profile), reference page 11-21; included 15-series hardware 2 x 3119 SHCS + 2 x 3278 Economy T-nut. Matching 15-series O-Ring for Pressure Manifold (2156, 1.000”) is listed on the same page."
+    },
+    {
+      "part_number": "2156",
+      "series": [
+        "15"
+      ],
+      "name": "O-Ring for Pressure Manifold",
+      "category": "gasket_edge",
+      "section": "Accessories",
+      "catalog_page": "9-19",
+      "description": "Black nitrile O-ring for 15 series pressure manifold access plates.",
+      "material": "Nitrile",
+      "color": "Black",
+      "weight": ".0010 lb",
+      "specs": {
+        "Grade": "70 duro",
+        "A": "1.000”",
+        "B": ".100”"
+      },
+      "dimension_notes": "A = O-ring diameter (ø A), B = cross-section thickness",
+      "notes": "Size matches the 1\" OD O-ring size listed for the 15-series access plates 2440/2441 and tap ready access plate 2450."
+    },
+    {
+      "part_number": "2450",
+      "series": [
+        "15"
+      ],
+      "name": "Pressure Manifold Tap Ready Access Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-20",
+      "description": "Aluminum access plate with an untapped, tap-ready access point that mounts to the side of a profile used as a pressure manifold, sealed with an O-ring. Mounting hardware is included.",
+      "features": [
+        "Tap-ready access point; mounds to profile side",
+        "O-ring to provide tight seal; mounting hardware included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".397 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F (O-Ring Size)": "1\" OD",
+        "G (Bolt Size)": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = spacing between the two mounting hole centers, B = end edge to first mounting hole center, C = overall width, D = side edge to hole center, E = end edge to center (tap-ready) location, F = O-ring size, G = mounting bolt size, H = plate thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5-16/18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Required machining service: Manifold Access Profile Milling (machined: Mounting Profile), reference page 11-21. Included hardware for 15 series: 2 x 3119 SHCS + 2 x 3278 Economy T-nut. Feature text 'mounds to profile side' is printed as-is (likely 'mounts')."
+    },
+    {
+      "part_number": "2450-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Pressure Manifold Tap Ready Access Plate",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-20",
+      "description": "Black aluminum access plate with an untapped, tap-ready access point that mounts to the side of a profile used as a pressure manifold, sealed with an O-ring. Mounting hardware is included.",
+      "features": [
+        "Tap-ready access point; mounds to profile side",
+        "O-ring to provide tight seal; mounting hardware included",
+        "Maximum allowable pressure is 150 psi (1034.21 kPa)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".397 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "1.500”",
+        "F (O-Ring Size)": "1\" OD",
+        "G (Bolt Size)": "5/16 SHCS",
+        "H": ".750”",
+        "J": "3.000”",
+        "Process": "Milled"
+      },
+      "dimension_notes": "A = spacing between the two mounting hole centers, B = end edge to first mounting hole center, C = overall width, D = side edge to hole center, E = end edge to center (tap-ready) location, F = O-ring size, G = mounting bolt size, H = plate thickness, J = overall length",
+      "suggested_hardware": [
+        {
+          "part_number": "3119",
+          "qty": 2,
+          "description": "5-16/18 x 7/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3278",
+          "qty": 2,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Required machining service: Manifold Access Profile Milling (machined: Mounting Profile), reference page 11-21. Included hardware for 15 series: 2 x 3119 SHCS + 2 x 3278 Economy T-nut. Feature text 'mounds to profile side' is printed as-is (likely 'mounts')."
+    },
+    {
+      "part_number": "21003",
+      "series": [
+        "15"
+      ],
+      "name": "Tower Lights & Bracket - Tower Light, 3 color",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-21",
+      "description": "Three-color (green, yellow, red) LED tower light with audible option and M12 5-pin connection. Mounts to T-slot with the foldable bracket 20005, sold separately.",
+      "features": [
+        "Multi-color LED lights with audible option",
+        "Four color (blue, green, yellow, red)",
+        "Three color (green, yellow, red)",
+        "Adjustable audible up to 92db",
+        "IP67 (non-audible), IP50 (audible)",
+        "M12 5 pin connection",
+        "Compatible power supply (20002 and 20004), sold separately",
+        "Use with foldable bracket (20005), sold separately"
+      ],
+      "weight": ".528 lb (.2395 kg)",
+      "specs": {
+        "Description": "Tower Light, 3 color",
+        "LED Colors": "Green, Yellow, Red",
+        "Audible": "Yes",
+        "Connection": "M12 (5-pin)",
+        "Height": "285.75mm (11.250”)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-5516",
+          "qty": "2 to 4",
+          "description": "M5 x 16mm SHCS",
+          "context": "Suggested Hardware (Mount to Bracket to T-Slot)"
+        },
+        {
+          "part_number": "13023",
+          "qty": "2 to 4",
+          "description": "M5 Slide-in Self-Aligning T-Nut",
+          "context": "Suggested Hardware (Mount to Bracket to T-Slot)"
+        }
+      ],
+      "notes": "Series badge cell is shared by 10, 15, 20, 25, 30, 40 and 45 series. Foldable bracket 20005 and power supply (20002 or 20004) sold separately. Compatible accessories: 20030 M12 extension cable, 5 pin, .3m, 1ft; 20300 M12 extension cable, 5 pin, 5m, 16ft; 20450 M12 to fly lead cable, 5 pin, 5m, 16ft; 20900 M12 to fly lead cable, 5 pin, 9m, 30ft; 20002 2 amp power supply, 110V input, 24V output; 20004 4 amp power supply, 110V input, 24V output."
+    },
+    {
+      "part_number": "21004",
+      "series": [
+        "15"
+      ],
+      "name": "Tower Lights & Bracket - Tower Light, 4 color",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-21",
+      "description": "Four-color (blue, green, yellow, red) LED tower light with M12 5-pin connection. Mounts to T-slot with the foldable bracket 20005, sold separately.",
+      "features": [
+        "Multi-color LED lights with audible option",
+        "Four color (blue, green, yellow, red)",
+        "Three color (green, yellow, red)",
+        "Adjustable audible up to 92db",
+        "IP67 (non-audible), IP50 (audible)",
+        "M12 5 pin connection",
+        "Compatible power supply (20002 and 20004), sold separately",
+        "Use with foldable bracket (20005), sold separately"
+      ],
+      "weight": ".528 lb (.2395 kg)",
+      "specs": {
+        "Description": "Tower Light, 4 color",
+        "LED Colors": "Blue, Green, Yellow, Red",
+        "Audible": "No",
+        "Connection": "M12 (5-pin)",
+        "Height": "285.75mm (11.250”)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-5516",
+          "qty": "2 to 4",
+          "description": "M5 x 16mm SHCS",
+          "context": "Suggested Hardware (Mount to Bracket to T-Slot)"
+        },
+        {
+          "part_number": "13023",
+          "qty": "2 to 4",
+          "description": "M5 Slide-in Self-Aligning T-Nut",
+          "context": "Suggested Hardware (Mount to Bracket to T-Slot)"
+        }
+      ],
+      "notes": "Series badge cell is shared by 10, 15, 20, 25, 30, 40 and 45 series. Table lists Audible = No for this 4 color light. Foldable bracket 20005 and power supply (20002 or 20004) sold separately. Compatible accessories: 20030 M12 extension cable, 5 pin, .3m, 1ft; 20300 M12 extension cable, 5 pin, 5m, 16ft; 20450 M12 to fly lead cable, 5 pin, 5m, 16ft; 20900 M12 to fly lead cable, 5 pin, 9m, 30ft; 20002 2 amp power supply, 110V input, 24V output; 20004 4 amp power supply, 110V input, 24V output."
+    },
+    {
+      "part_number": "20005",
+      "series": [
+        "15"
+      ],
+      "name": "Tower Lights & Bracket - Foldable Bracket",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-21",
+      "description": "Foldable bracket used to mount the 21003 and 21004 tower lights to T-slot profile.",
+      "weight": ".277 lb (.1256 kg)",
+      "specs": {
+        "Description": "Foldable Bracket (used with 21003 & 21004)",
+        "LED Colors": "-",
+        "Audible": "-",
+        "Connection": "-",
+        "Height": "-"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-5516",
+          "qty": "2 to 4",
+          "description": "M5 x 16mm SHCS",
+          "context": "Suggested Hardware (Mount to Bracket to T-Slot)"
+        },
+        {
+          "part_number": "13023",
+          "qty": "2 to 4",
+          "description": "M5 Slide-in Self-Aligning T-Nut",
+          "context": "Suggested Hardware (Mount to Bracket to T-Slot)"
+        }
+      ],
+      "notes": "Series badge cell is shared by 10, 15, 20, 25, 30, 40 and 45 series. Sold separately from the tower lights."
+    },
+    {
+      "part_number": "21013",
+      "series": [
+        "15"
+      ],
+      "name": "Andon Light Assembly - 3 color, 3 button box",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-22",
+      "description": "Self-contained Andon/tower light assembly with three-color (green, yellow, red) LED lights, audible option and a 3 button box; no controller needed.",
+      "features": [
+        "Multi-color LED lights with audible option",
+        "Four color (blue, green, yellow, red)",
+        "Three color (green, yellow, red)",
+        "Adjustable audible up to 92db",
+        "IP67 (non-audible), IP50 (audible)",
+        "M12 5 pin connection",
+        "Self contained with no controller needed"
+      ],
+      "weight": "3.13 lb (1.419 kg)",
+      "specs": {
+        "Description": "Andon/Tower Light Assembly, 3 color, 3 button box",
+        "LED Colors": "Green, Yellow, Red",
+        "Audible": "Yes",
+        "Connection": "M12 (5-pin)",
+        "Height": "812.8mm (32.000”)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6316",
+          "qty": 2,
+          "description": "M6 x 16mm BHSCS",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "13024",
+          "qty": 2,
+          "description": "M6 Slide-in Self-Aligning T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Compatible accessories: 20030 M12 extension cable, 5 pin, .3m, 1ft; 20300 M12 extension cable, 5 pin, 5m, 16ft; 20450 M12 to fly lead cable, 5 pin, 5m, 16ft; 20900 M12 to fly lead cable, 5 pin, 9m, 30ft; 20002 2 amp power supply, 110V input, 24V output; 20004 4 amp power supply, 110V input, 24V output."
+    },
+    {
+      "part_number": "21014",
+      "series": [
+        "15"
+      ],
+      "name": "Andon Light Assembly - 4 color, 4 button box",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-22",
+      "description": "Self-contained Andon/tower light assembly with four-color (blue, green, yellow, red) LED lights and a 4 button box; no controller needed.",
+      "features": [
+        "Multi-color LED lights with audible option",
+        "Four color (blue, green, yellow, red)",
+        "Three color (green, yellow, red)",
+        "Adjustable audible up to 92db",
+        "IP67 (non-audible), IP50 (audible)",
+        "M12 5 pin connection",
+        "Self contained with no controller needed"
+      ],
+      "weight": "3.13 lb (1.419 kg)",
+      "specs": {
+        "Description": "Andon/Tower Light Assembly, 4 color, 4 button box",
+        "LED Colors": "Blue, Green, Yellow, Red",
+        "Audible": "No",
+        "Connection": "M12 (5-pin)",
+        "Height": "812.8mm (32.000”)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6316",
+          "qty": 2,
+          "description": "M6 x 16mm BHSCS",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "13024",
+          "qty": 2,
+          "description": "M6 Slide-in Self-Aligning T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Table lists Audible = No for this 4 color assembly. Compatible accessories: 20030 M12 extension cable, 5 pin, .3m, 1ft; 20300 M12 extension cable, 5 pin, 5m, 16ft; 20450 M12 to fly lead cable, 5 pin, 5m, 16ft; 20900 M12 to fly lead cable, 5 pin, 9m, 30ft; 20002 2 amp power supply, 110V input, 24V output; 20004 4 amp power supply, 110V input, 24V output."
+    },
+    {
+      "part_number": "21057",
+      "series": [
+        "15"
+      ],
+      "name": "LED Task Light 570mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-23",
+      "description": "570mm daylight-white LED task light (1500 lumens) with metal housing, snap clip installation and M12 4-pin connection; rated for 12 to 30 V DC.",
+      "features": [
+        "Ultra-bright LED fixture",
+        "Daylight white color",
+        "Energy efficient",
+        "Metal housing and shatter-resistant window",
+        "Snap clip installation",
+        "Rated for 12 to 30 V DC",
+        "High/Low/Off Switch",
+        "Daisy chain power to multiple lights"
+      ],
+      "weight": "1.215 lb (.5511 kg)",
+      "specs": {
+        "Description": "LED Task Light 570mm",
+        "LED Colors": "White",
+        "Lumens": "1500",
+        "Connection": "M12 (4-pin)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": "2 or 3",
+          "description": "M6 x 12mm BHSCS",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3836",
+          "qty": "2 or 3",
+          "description": "M6 Slide-in Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Compatible accessories: 20030 M12 extension cable, 5 pin, .3m, 1ft; 20300 M12 extension cable, 5 pin, 5m, 16ft; 20450 M12 to fly lead cable, 5 pin, 5m, 16ft; 20900 M12 to fly lead cable, 5 pin, 9m, 30ft; 20002 2 amp power supply, 110V input, 24V output; 20004 4 amp power supply, 110V input, 24V output."
+    },
+    {
+      "part_number": "21130",
+      "series": [
+        "15"
+      ],
+      "name": "LED Task Light 1130mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-23",
+      "description": "1130mm daylight-white LED task light (3000 lumens) with metal housing, snap clip installation and M12 4-pin connection; rated for 12 to 30 V DC.",
+      "features": [
+        "Ultra-bright LED fixture",
+        "Daylight white color",
+        "Energy efficient",
+        "Metal housing and shatter-resistant window",
+        "Snap clip installation",
+        "Rated for 12 to 30 V DC",
+        "High/Low/Off Switch",
+        "Daisy chain power to multiple lights"
+      ],
+      "weight": "1.703 lb (.7724 kg)",
+      "specs": {
+        "Description": "LED Task Light 1130mm",
+        "LED Colors": "White",
+        "Lumens": "3000",
+        "Connection": "M12 (4-pin)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": "2 or 3",
+          "description": "M6 x 12mm BHSCS",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3836",
+          "qty": "2 or 3",
+          "description": "M6 Slide-in Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Compatible accessories: 20030 M12 extension cable, 5 pin, .3m, 1ft; 20300 M12 extension cable, 5 pin, 5m, 16ft; 20450 M12 to fly lead cable, 5 pin, 5m, 16ft; 20900 M12 to fly lead cable, 5 pin, 9m, 30ft; 20002 2 amp power supply, 110V input, 24V output; 20004 4 amp power supply, 110V input, 24V output."
+    },
+    {
+      "part_number": "21055",
+      "series": [
+        "15"
+      ],
+      "name": "LED Task Light with Dimmer 550mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-24",
+      "description": "550mm daylight-white LED task light with on/off switch and dimmer (0-3510 lumens), metal housing, snap clip installation and M12 4-pin connection; rated for 24 V DC.",
+      "features": [
+        "Ultra-bright LED fixture",
+        "Daylight white color",
+        "Energy efficient",
+        "Metal housing and shatter-resistant window",
+        "Snap clip installation",
+        "Rated for 24 V DC",
+        "On/Off switch and dimmer"
+      ],
+      "weight": "5.600 lb (2.540 kg)",
+      "specs": {
+        "Description": "LED Task Light with Dimmer 550mm",
+        "LED Colors": "White",
+        "Lumens": "0-3510",
+        "Connection": "M12 (4-pin)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": 3,
+          "description": "M6 x 12mm BHSCS",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "40-1961",
+          "qty": 3,
+          "description": "M6 Slide-in Economy T-Nut",
+          "context": "Suggested Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Series badges printed: 10, 15, 25, 30, 40 and 45. Compatible accessories: 20030 M12 extension cable, 5 pin, .3m, 1ft; 20300 M12 extension cable, 5 pin, 5m, 16ft; 20450 M12 to fly lead cable, 5 pin, 5m, 16ft; 20900 M12 to fly lead cable, 5 pin, 9m, 30ft; 20002 2 amp power supply, 110V input, 24V output; 20004 4 amp power supply, 110V input, 24V output."
+    },
+    {
+      "part_number": "21060",
+      "series": [
+        "15"
+      ],
+      "name": "Color Rope Light 600mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-25",
+      "description": "600mm RGB multicolor LED rope light with silicone-encapsulated housing and M12 4-pin connection, 12 Volt; requires LED Controller 20001. Held in the T-slot with 3M peel-and-stick or a clear T-slot cover.",
+      "features": [
+        "White rope: 1,900 lumens per 2,000mm; daylight temperature 5,000K",
+        "Durable, silicone-encapsulated housing",
+        "Plug-and-play standard M12 connections",
+        "Held in place with 3M brand peel-and-stick or clear T-slot cover (15 & 40 series)",
+        "Can be cut in 50mm increments",
+        "Rated IP67 and IP69K per DIN 40050-9",
+        "Colors: White, Light Blue, Dark Blue, Yellow, Green, Red, Pink, selectable by using Three Position Switch (20003)",
+        "LED Controller (20001) required for colored rope lights, sold separately"
+      ],
+      "weight": ".280 lb (.1270 kg)",
+      "specs": {
+        "Description": "Color Rope Light",
+        "Requires Controller": "Yes",
+        "LED Colors": "RGB Multicolor",
+        "Voltage Input (Max)": "12 Volt",
+        "Length": "600mm",
+        "Connection": "M12 (4-pin)"
+      },
+      "notes": "Requires LED Controller PN 20001 (sold separately); colors selectable with 3 position switch 20003. 20010 1 position switch with dimmer is not compatible with color rope light. Lights do NOT go into T-slot of 10, 25 and 30 series profiles. Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Other compatible accessories: 20030, 20300 (M12 extension cables), 20450, 20900 (M12 to fly lead cables), 20002, 20004 (power supplies)."
+    },
+    {
+      "part_number": "21120",
+      "series": [
+        "15"
+      ],
+      "name": "Color Rope Light 1200mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-25",
+      "description": "1200mm RGB multicolor LED rope light with silicone-encapsulated housing and M12 4-pin connection, 12 Volt; requires LED Controller 20001. Held in the T-slot with 3M peel-and-stick or a clear T-slot cover.",
+      "features": [
+        "White rope: 1,900 lumens per 2,000mm; daylight temperature 5,000K",
+        "Durable, silicone-encapsulated housing",
+        "Plug-and-play standard M12 connections",
+        "Held in place with 3M brand peel-and-stick or clear T-slot cover (15 & 40 series)",
+        "Can be cut in 50mm increments",
+        "Rated IP67 and IP69K per DIN 40050-9",
+        "Colors: White, Light Blue, Dark Blue, Yellow, Green, Red, Pink, selectable by using Three Position Switch (20003)",
+        "LED Controller (20001) required for colored rope lights, sold separately"
+      ],
+      "weight": ".353 lb (.1601 kg)",
+      "specs": {
+        "Description": "Color Rope Light",
+        "Requires Controller": "Yes",
+        "LED Colors": "RGB Multicolor",
+        "Voltage Input (Max)": "12 Volt",
+        "Length": "1200mm",
+        "Connection": "M12 (4-pin)"
+      },
+      "notes": "Requires LED Controller PN 20001 (sold separately); colors selectable with 3 position switch 20003. 20010 1 position switch with dimmer is not compatible with color rope light. Lights do NOT go into T-slot of 10, 25 and 30 series profiles. Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Other compatible accessories: 20030, 20300 (M12 extension cables), 20450, 20900 (M12 to fly lead cables), 20002, 20004 (power supplies)."
+    },
+    {
+      "part_number": "21200",
+      "series": [
+        "15"
+      ],
+      "name": "Color Rope Light 2000mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-25",
+      "description": "2000mm RGB multicolor LED rope light with silicone-encapsulated housing and M12 4-pin connection, 12 Volt; requires LED Controller 20001. Held in the T-slot with 3M peel-and-stick or a clear T-slot cover.",
+      "features": [
+        "White rope: 1,900 lumens per 2,000mm; daylight temperature 5,000K",
+        "Durable, silicone-encapsulated housing",
+        "Plug-and-play standard M12 connections",
+        "Held in place with 3M brand peel-and-stick or clear T-slot cover (15 & 40 series)",
+        "Can be cut in 50mm increments",
+        "Rated IP67 and IP69K per DIN 40050-9",
+        "Colors: White, Light Blue, Dark Blue, Yellow, Green, Red, Pink, selectable by using Three Position Switch (20003)",
+        "LED Controller (20001) required for colored rope lights, sold separately"
+      ],
+      "weight": ".515 lb (.2336 kg)",
+      "specs": {
+        "Description": "Color Rope Light",
+        "Requires Controller": "Yes",
+        "LED Colors": "RGB Multicolor",
+        "Voltage Input (Max)": "12 Volt",
+        "Length": "2000mm",
+        "Connection": "M12 (4-pin)"
+      },
+      "notes": "Requires LED Controller PN 20001 (sold separately); colors selectable with 3 position switch 20003. 20010 1 position switch with dimmer is not compatible with color rope light. Lights do NOT go into T-slot of 10, 25 and 30 series profiles. Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Other compatible accessories: 20030, 20300 (M12 extension cables), 20450, 20900 (M12 to fly lead cables), 20002, 20004 (power supplies)."
+    },
+    {
+      "part_number": "21906",
+      "series": [
+        "15"
+      ],
+      "name": "White Rope Light 600mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-25",
+      "description": "600mm white LED rope light with silicone-encapsulated housing and M12 4-pin connection, 24 Volt; no controller required. Held in the T-slot with 3M peel-and-stick or a clear T-slot cover.",
+      "features": [
+        "White rope: 1,900 lumens per 2,000mm; daylight temperature 5,000K",
+        "Durable, silicone-encapsulated housing",
+        "Plug-and-play standard M12 connections",
+        "Held in place with 3M brand peel-and-stick or clear T-slot cover (15 & 40 series)",
+        "Can be cut in 50mm increments",
+        "Rated IP67 and IP69K per DIN 40050-9",
+        "Colors: White, Light Blue, Dark Blue, Yellow, Green, Red, Pink, selectable by using Three Position Switch (20003)",
+        "LED Controller (20001) required for colored rope lights, sold separately"
+      ],
+      "weight": ".280 lb (.1270 kg)",
+      "specs": {
+        "Description": "White Rope Light",
+        "Requires Controller": "No",
+        "LED Colors": "White",
+        "Voltage Input (Max)": "24 Volt",
+        "Length": "600mm",
+        "Connection": "M12 (4-pin)"
+      },
+      "notes": "Lights do NOT go into T-slot of 10, 25 and 30 series profiles. Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Compatible accessories include 20010 1 position switch with dimmer, 20003 3 position switch, 20030, 20300 (M12 extension cables), 20450, 20900 (M12 to fly lead cables), 20002, 20004 (power supplies)."
+    },
+    {
+      "part_number": "21912",
+      "series": [
+        "15"
+      ],
+      "name": "White Rope Light 1200mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-25",
+      "description": "1200mm white LED rope light with silicone-encapsulated housing and M12 4-pin connection, 24 Volt; no controller required. Held in the T-slot with 3M peel-and-stick or a clear T-slot cover.",
+      "features": [
+        "White rope: 1,900 lumens per 2,000mm; daylight temperature 5,000K",
+        "Durable, silicone-encapsulated housing",
+        "Plug-and-play standard M12 connections",
+        "Held in place with 3M brand peel-and-stick or clear T-slot cover (15 & 40 series)",
+        "Can be cut in 50mm increments",
+        "Rated IP67 and IP69K per DIN 40050-9",
+        "Colors: White, Light Blue, Dark Blue, Yellow, Green, Red, Pink, selectable by using Three Position Switch (20003)",
+        "LED Controller (20001) required for colored rope lights, sold separately"
+      ],
+      "weight": ".353 lb (.1601 kg)",
+      "specs": {
+        "Description": "White Rope Light",
+        "Requires Controller": "No",
+        "LED Colors": "White",
+        "Voltage Input (Max)": "24 Volt",
+        "Length": "1200mm",
+        "Connection": "M12 (4-pin)"
+      },
+      "notes": "Lights do NOT go into T-slot of 10, 25 and 30 series profiles. Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Compatible accessories include 20010 1 position switch with dimmer, 20003 3 position switch, 20030, 20300 (M12 extension cables), 20450, 20900 (M12 to fly lead cables), 20002, 20004 (power supplies)."
+    },
+    {
+      "part_number": "21920",
+      "series": [
+        "15"
+      ],
+      "name": "White Rope Light 2000mm",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-25",
+      "description": "2000mm white LED rope light with silicone-encapsulated housing and M12 4-pin connection, 24 Volt; no controller required. Held in the T-slot with 3M peel-and-stick or a clear T-slot cover.",
+      "features": [
+        "White rope: 1,900 lumens per 2,000mm; daylight temperature 5,000K",
+        "Durable, silicone-encapsulated housing",
+        "Plug-and-play standard M12 connections",
+        "Held in place with 3M brand peel-and-stick or clear T-slot cover (15 & 40 series)",
+        "Can be cut in 50mm increments",
+        "Rated IP67 and IP69K per DIN 40050-9",
+        "Colors: White, Light Blue, Dark Blue, Yellow, Green, Red, Pink, selectable by using Three Position Switch (20003)",
+        "LED Controller (20001) required for colored rope lights, sold separately"
+      ],
+      "weight": ".515 lb (.2336 kg)",
+      "specs": {
+        "Description": "White Rope Light",
+        "Requires Controller": "No",
+        "LED Colors": "White",
+        "Voltage Input (Max)": "24 Volt",
+        "Length": "2000mm",
+        "Connection": "M12 (4-pin)"
+      },
+      "notes": "Lights do NOT go into T-slot of 10, 25 and 30 series profiles. Series badge cell is shared by 10, 15, 25, 30, 40 and 45 series. Compatible accessories include 20010 1 position switch with dimmer, 20003 3 position switch, 20030, 20300 (M12 extension cables), 20450, 20900 (M12 to fly lead cables), 20002, 20004 (power supplies)."
+    }
+  ],
+  "page_notes": {
+    "716": "8-Hole Pressure Manifold Stopper Plate (9-18): 15-series rows 2163 and 2163-Black extracted; 10-series 2448 rows skipped; Included Hardware 3119 attached as suggested_hardware; required machining (Tap Profile End, p.11-3) has no service number, recorded in notes.",
+    "717": "Pressure Manifold Access Plate (9-19): 15-series 2440/2441 Clear and Black extracted; 10-series 2439 and metric 25-/40- rows skipped. O-Ring for Pressure Manifold: 15-series 2156 extracted; 2157 (10) and metric rows skipped. Material/hardware/machining for access plates taken from page 9-20 per the page footnote.",
+    "718": "Pressure Manifold Tap Ready Access Plate (9-20): 15-series 2450 and 2450-Black extracted; 10-series 2451 and metric rows skipped; 15-series Included Hardware (3119 + 3278) attached; required machining Manifold Access Profile Milling (p.11-21) has no service number, recorded in notes.",
+    "719": "Tower Lights & Bracket (9-21): 21003, 21004, 20005 extracted (merged series cell includes 15); 15-series suggested hardware (11-5516 + 13023) attached; Compatible Accessories table (20030, 20300, 20450, 20900, 20002, 20004) has no series badges and is recorded in notes only.",
+    "720": "Andon Light Assembly (9-22): 21013 and 21014 extracted (merged series cell includes 15); 15-series suggested hardware (11-6316 + 13024) attached; Compatible Accessories recorded in notes only.",
+    "721": "LED Task Light (9-23): 21057 and 21130 extracted (merged series cell includes 15); 15-series suggested hardware (11-6312 + 3836) attached; Compatible Accessories recorded in notes only.",
+    "722": "LED Task Light with Dimmer (9-24): 21055 extracted (series badges include 15); 15-series suggested hardware (11-6312 + 40-1961) attached; Compatible Accessories recorded in notes only.",
+    "723": "Color and White LED Rope Lights (9-25): 21060, 21120, 21200, 21906, 21912, 21920 extracted (merged series cell includes 15); Compatible Accessories (incl. 20003, 20010) and controller 20001 recorded in notes only; no suggested hardware table."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "9-20 Included Hardware prints the 15-series bolt 3119 as \"5-16/18 x 7/8” SHCS\" (kept verbatim on 2440/2441/2450); 9-18 prints the same part as 5/16-18 x 7/8” SHCS, so 9-20 is likely a typo.",
+      "9-20 feature text \"mounds to profile side\" kept verbatim (likely 'mounts').",
+      "2440/2441 material, finish, process, required machining and included hardware come from page 9-20 via the 9-19 footnote, not from the 9-19 table itself.",
+      "Light products on 9-21 to 9-25 are badged with a shared 10/15/metric series cell; only the 15 badge is recorded. Suggested-hardware T-nut descriptions add the word 'T-Nut' to the printed description for clarity.",
+      "Compatible Accessories rows (20030, 20300, 20450, 20900, 20002, 20004, 20003, 20010) and controller 20001 carry no series badge and are recorded only in notes, not as parts."
+    ]
+  }
+}

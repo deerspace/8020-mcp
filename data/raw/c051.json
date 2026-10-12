@@ -1,0 +1,1582 @@
+{
+  "chunk": "c051",
+  "pages": [
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    598,
+    599
+  ],
+  "parts": [
+    {
+      "part_number": "6866",
+      "series": [
+        "15"
+      ],
+      "name": "Double Long UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-35",
+      "description": "Double Long UniBearing™ that can move or be fixed, with pads mounted using stainless steel flathead socket cap screws; it comes with pre-drilled brake holes and tapped mounting holes for attaching accessories.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.272 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "4.750”",
+        "B": ".308”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": "3.125”",
+        "L": "4.134”",
+        "M": ".750”",
+        "N": ".750”",
+        "P": "1.500”",
+        "Q": "1.500”",
+        "R": "6.000”",
+        "S": "5/16 SHCS",
+        "T": "5/16-18",
+        "U": "10-24",
+        "V": ".328”"
+      },
+      "dimension_notes": "R = overall length; S (TYP) = SHCS size for the counterbored holes, T (TYP) and U (TYP) = tapped hole threads, øV (TYP) = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6866-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Double Long UniBearing™",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-35",
+      "description": "Double Long UniBearing™ that can move or be fixed, with pads mounted using stainless steel flathead socket cap screws; it comes with pre-drilled brake holes and tapped mounting holes for attaching accessories.",
+      "features": [
+        "Comes with pre-drilled brake holes and tapped mounting holes for attachment of accessories",
+        "Can move or be fixed; pads mounted using stainless steel flathead socket cap screws"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.272 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "4.750”",
+        "B": ".308”",
+        "C": ".120”",
+        "D": ".505”",
+        "E": ".245”",
+        "F": ".485”",
+        "G": ".616”",
+        "H": "1.625”",
+        "J": "2.375”",
+        "K": "3.125”",
+        "L": "4.134”",
+        "M": ".750”",
+        "N": ".750”",
+        "P": "1.500”",
+        "Q": "1.500”",
+        "R": "6.000”",
+        "S": "5/16 SHCS",
+        "T": "5/16-18",
+        "U": "10-24",
+        "V": ".328”"
+      },
+      "dimension_notes": "R = overall length; S (TYP) = SHCS size for the counterbored holes, T (TYP) and U (TYP) = tapped hole threads, øV (TYP) = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6870",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-36",
+      "description": "A short single-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.330 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "2.812”",
+        "C": "2.510”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6870-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-36",
+      "description": "A short single-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.330 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "2.812”",
+        "C": "2.510”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6871",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-36",
+      "description": "A short single-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.682 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "2.812”",
+        "C": "4.010”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6871-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-36",
+      "description": "A short single-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.682 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "2.812”",
+        "C": "4.010”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6872",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-36",
+      "description": "A short single-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.036 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "2.812”",
+        "C": "5.510”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6872-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-36",
+      "description": "A short single-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.036 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "2.812”",
+        "C": "5.510”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6873",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-37",
+      "description": "A long single-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.751 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "6.000”",
+        "C": "2.510”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6873-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-37",
+      "description": "A long single-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.751 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "6.000”",
+        "C": "2.510”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6874",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-37",
+      "description": "A long single-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "3.518 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "6.000”",
+        "C": "4.010”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6874-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-37",
+      "description": "A long single-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "3.518 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "6.000”",
+        "C": "4.010”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6875",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-37",
+      "description": "A long single-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "5.030 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "6.000”",
+        "C": "5.510”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6875-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Single Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-37",
+      "description": "A long single-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "5.030 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "3.125”",
+        "B": "6.000”",
+        "C": "5.510”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = housing height, B = length, C = overall depth including the mounted profile, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6876",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-38",
+      "description": "A short double-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.791 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "2.510”",
+        "B": "2.812”",
+        "C": "4.750”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6876-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-38",
+      "description": "A short double-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.791 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "2.510”",
+        "B": "2.812”",
+        "C": "4.750”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6877",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-38",
+      "description": "A short double-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.860 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "4.010”",
+        "B": "2.812”",
+        "C": "4.750”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6877-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-38",
+      "description": "A short double-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.860 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "4.010”",
+        "B": "2.812”",
+        "C": "4.750”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6878",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-38",
+      "description": "A short double-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.196 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "5.510”",
+        "B": "2.812”",
+        "C": "4.750”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6878-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Short - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-38",
+      "description": "A short double-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.196 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "5.510”",
+        "B": "2.812”",
+        "C": "4.750”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 4,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 2,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 4 x 3110 5/16-18 x 5/8” SHCS and 2 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6879",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-39",
+      "description": "A long double-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "3.608 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "2.510”",
+        "B": "6.000”",
+        "C": "4.750”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6879-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-39",
+      "description": "A long double-mount UniBearing™ assembly supplied with a 1515 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "3.608 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "2.510”",
+        "B": "6.000”",
+        "C": "4.750”",
+        "D": "1515"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1515. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6883",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-39",
+      "description": "A long double-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "4.568 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "4.010”",
+        "B": "6.000”",
+        "C": "4.750”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6883-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-39",
+      "description": "A long double-mount UniBearing™ assembly supplied with a 1530 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "4.568 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "4.010”",
+        "B": "6.000”",
+        "C": "4.750”",
+        "D": "1530"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1530. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6884",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-39",
+      "description": "A long double-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "5.577 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "5.510”",
+        "B": "6.000”",
+        "C": "4.750”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6884-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Long - Double Mount Unibearing™ Assembly",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-39",
+      "description": "A long double-mount UniBearing™ assembly supplied with a 1545 T-slot profile mounted to the bearing; pre-tapped holes in the profile ends and housing connect accessories, and skim kits are included.",
+      "features": [
+        "Comprised of short single mount UniBearing™ attached to a T-slot profile",
+        "Pre-tapped holes in profile ends and housing unit for connecting accessories",
+        "Includes skim kits"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "5.577 lb",
+      "specs": {
+        "Process": "Extrude",
+        "A": "5.510”",
+        "B": "6.000”",
+        "C": "4.750”",
+        "D": "1545"
+      },
+      "dimension_notes": "A = overall height including the mounted profile, B = length, C = housing width, D = mounted profile",
+      "suggested_hardware": [
+        {
+          "part_number": "3110",
+          "qty": 8,
+          "description": "5/16-18 x 5/8” SHCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3279",
+          "qty": 4,
+          "description": "Double Slide-in Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounted profile: 1545. Includes skim kits. Included hardware (Mount to T-Slot): 8 x 3110 5/16-18 x 5/8” SHCS and 4 x 3279 Double Slide-in Economy T-nuts."
+    },
+    {
+      "part_number": "6525",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 1, which takes pre-drilled or specified brake holes at locations LG / LH / LI.",
+      "specs": {
+        "Bearing Size": "Family 1",
+        "Pre-Drilled or Specified Brake Hole Locations": "LG / LH / LI"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6535",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 1, which takes pre-drilled or specified brake holes at locations LG / LH / LI.",
+      "specs": {
+        "Bearing Size": "Family 1",
+        "Pre-Drilled or Specified Brake Hole Locations": "LG / LH / LI"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6526",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 2, which takes pre-drilled or specified brake holes at locations LG / LH / LI / LJ / LK / LM.",
+      "specs": {
+        "Bearing Size": "Family 2",
+        "Pre-Drilled or Specified Brake Hole Locations": "LG / LH / LI / LJ / LK / LM"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6536",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 2, which takes pre-drilled or specified brake holes at locations LG / LH / LI / LJ / LK / LM.",
+      "specs": {
+        "Bearing Size": "Family 2",
+        "Pre-Drilled or Specified Brake Hole Locations": "LG / LH / LI / LJ / LK / LM"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6523",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 3, which takes pre-drilled or specified brake holes at locations LN / LO / LP / LQ.",
+      "specs": {
+        "Bearing Size": "Family 3",
+        "Pre-Drilled or Specified Brake Hole Locations": "LN / LO / LP / LQ"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6533",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 3, which takes pre-drilled or specified brake holes at locations LN / LO / LP / LQ.",
+      "specs": {
+        "Bearing Size": "Family 3",
+        "Pre-Drilled or Specified Brake Hole Locations": "LN / LO / LP / LQ"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6524",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 4, which takes pre-drilled or specified brake holes at locations LN / LO / LP / LQ / LR / LS / LT / LU.",
+      "specs": {
+        "Bearing Size": "Family 4",
+        "Pre-Drilled or Specified Brake Hole Locations": "LN / LO / LP / LQ / LR / LS / LT / LU"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6534",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 4, which takes pre-drilled or specified brake holes at locations LN / LO / LP / LQ / LR / LS / LT / LU.",
+      "specs": {
+        "Bearing Size": "Family 4",
+        "Pre-Drilled or Specified Brake Hole Locations": "LN / LO / LP / LQ / LR / LS / LT / LU"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6515",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 5, which takes pre-drilled or specified brake holes at locations LA / LB / LC.",
+      "specs": {
+        "Bearing Size": "Family 5",
+        "Pre-Drilled or Specified Brake Hole Locations": "LA / LB / LC"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6530",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 5, which takes pre-drilled or specified brake holes at locations LA / LB / LC.",
+      "specs": {
+        "Bearing Size": "Family 5",
+        "Pre-Drilled or Specified Brake Hole Locations": "LA / LB / LC"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6516",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 6, which takes pre-drilled or specified brake holes at locations LA / LB / LC / LD / LE / LF.",
+      "specs": {
+        "Bearing Size": "Family 6",
+        "Pre-Drilled or Specified Brake Hole Locations": "LA / LB / LC / LD / LE / LF"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6531",
+      "series": [
+        "15"
+      ],
+      "name": "Brake Ready Linear Bearing",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-40",
+      "description": "Brake ready linear bearing listed in the Linear Bearing Brake Hole Specifications table as bearing size Family 6, which takes pre-drilled or specified brake holes at locations LA / LB / LC / LD / LE / LF.",
+      "specs": {
+        "Bearing Size": "Family 6",
+        "Pre-Drilled or Specified Brake Hole Locations": "LA / LB / LC / LD / LE / LF"
+      },
+      "notes": "From the Linear Bearing Brake Hole Specifications reference table only; the bearing's own dimensions, material and name are not on this page. Brake hole location letters refer to the family drawings on page 7-40."
+    },
+    {
+      "part_number": "6590",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed Standard Linear Bearing Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-44",
+      "description": "Single-keyed UHMW PE bearing pad used with bearings to create linear motion; it has rounded corners, a low coefficient of friction and holes for mounting hardware and brake kits.",
+      "features": [
+        "Used with bearings to create linear motion",
+        "Low coefficient of friction; rounded corners",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "White",
+      "weight": ".029 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": ".375”",
+        "B": "2.770”",
+        "C": "1.250”",
+        "D": ".635”",
+        "E": ".594”",
+        "F": ".312”",
+        "G": ".625”",
+        "H": ".125”",
+        "J": "1.500”",
+        "K": ".243”",
+        "L": ".469”",
+        "M": ".312”"
+      },
+      "dimension_notes": "B = overall length, C = width, A = overall thickness, øH = mounting hole diameter, J = mounting hole center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3628",
+          "qty": 2,
+          "description": "#10 x 5/8” Bearing Pad Screw",
+          "context": "Mount Pad to Bearing Housing"
+        }
+      ]
+    },
+    {
+      "part_number": "6591",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed Standard Linear Bearing Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-44",
+      "description": "Single-keyed UHMW PE bearing pad used with bearings to create linear motion; it has rounded corners, a low coefficient of friction and holes for mounting hardware and brake kits.",
+      "features": [
+        "Used with bearings to create linear motion",
+        "Low coefficient of friction; rounded corners",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Black",
+      "weight": ".029 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": ".375”",
+        "B": "2.770”",
+        "C": "1.250”",
+        "D": ".635”",
+        "E": ".594”",
+        "F": ".312”",
+        "G": ".625”",
+        "H": ".125”",
+        "J": "1.500”",
+        "K": ".243”",
+        "L": ".469”",
+        "M": ".312”"
+      },
+      "dimension_notes": "B = overall length, C = width, A = overall thickness, øH = mounting hole diameter, J = mounting hole center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3628",
+          "qty": 2,
+          "description": "#10 x 5/8” Bearing Pad Screw",
+          "context": "Mount Pad to Bearing Housing"
+        }
+      ]
+    },
+    {
+      "part_number": "6595",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed High-Cycle Linear Bearing Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-45",
+      "description": "Single-keyed UHMW PE high-cycle bearing pad for linear motion applications with quick acceleration and deceleration; it mounts to the bearing housing with steel flathead socket cap screws and has holes for mounting hardware and brake kits.",
+      "features": [
+        "Ideal for quick acceleration and deceleration linear motion applications; low coefficient of friction",
+        "Rounded corners; mounts to housing with steel flathead socket cap screw that have Loctite®.",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "White",
+      "weight": ".033 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": ".375”",
+        "B": "2.770”",
+        "C": "1.250”",
+        "D": ".635”",
+        "E": ".594”",
+        "F": ".312”",
+        "G": ".625”",
+        "H": "10-32",
+        "J": "1.500”",
+        "K": ".243”",
+        "L": ".469”",
+        "M": ".312”",
+        "N": ".484”"
+      },
+      "dimension_notes": "B = overall length, C = width, A = overall thickness, H = mounting hole thread (10-32), J = mounting hole center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3022",
+          "qty": 2,
+          "description": "10-32 x 1/2” FHSCS",
+          "context": "Mount Pad to Bearing Housing"
+        }
+      ]
+    },
+    {
+      "part_number": "6596",
+      "series": [
+        "15"
+      ],
+      "name": "Single-Keyed High-Cycle Linear Bearing Pad",
+      "category": "linear_motion",
+      "section": "Motion Systems",
+      "catalog_page": "7-45",
+      "description": "Single-keyed UHMW PE high-cycle bearing pad for linear motion applications with quick acceleration and deceleration; it mounts to the bearing housing with steel flathead socket cap screws and has holes for mounting hardware and brake kits.",
+      "features": [
+        "Ideal for quick acceleration and deceleration linear motion applications; low coefficient of friction",
+        "Rounded corners; mounts to housing with steel flathead socket cap screw that have Loctite®.",
+        "Holes for mounting hardware and brake kits"
+      ],
+      "material": "UHMW PE",
+      "finish": "Smooth",
+      "color": "Black",
+      "weight": ".032 lb",
+      "specs": {
+        "Process": "Injection Molding",
+        "A": ".375”",
+        "B": "2.770”",
+        "C": "1.250”",
+        "D": ".635”",
+        "E": ".594”",
+        "F": ".312”",
+        "G": ".625”",
+        "H": "10-32",
+        "J": "1.500”",
+        "K": ".243”",
+        "L": ".469”",
+        "M": ".312”",
+        "N": ".484”"
+      },
+      "dimension_notes": "B = overall length, C = width, A = overall thickness, H = mounting hole thread (10-32), J = mounting hole center-to-center spacing",
+      "suggested_hardware": [
+        {
+          "part_number": "3022",
+          "qty": 2,
+          "description": "10-32 x 1/2” FHSCS",
+          "context": "Mount Pad to Bearing Housing"
+        }
+      ]
+    }
+  ],
+  "page_notes": {
+    "589": "Double Long UniBearing (7-35): 6866 and 6866-Black (15) extracted with material specs and included T-slot mounting hardware (3110, 3279); 10-series and metric rows skipped.",
+    "590": "Short - Single Mount Unibearing Assembly (7-36): 6870/6871/6872 Clear and Black (15) extracted; 10-series 6730/6731 and metric rows skipped; included hardware 3110 x4 and 3279 x2 attached.",
+    "591": "Long - Single Mount Unibearing Assembly (7-37): 6873/6874/6875 Clear and Black (15) extracted; 10-series and metric rows skipped; included hardware 3110 x8 and 3279 x4 attached.",
+    "592": "Short - Double Mount Unibearing Assembly (7-38): 6876/6877/6878 Clear and Black (15) extracted; 10-series and metric rows skipped; included hardware 3110 x4 and 3279 x2 attached.",
+    "593": "Long - Double Mount Unibearing Assembly (7-39): 6879/6883/6884 Clear and Black (15) extracted; 10-series and metric rows skipped; included hardware 3110 x8 and 3279 x4 attached.",
+    "594": "Linear Bearing Brake Hole Specifications (7-40): reference table mapping brake ready bearing part numbers to bearing size families and brake hole locations; the twelve 15-series bearing numbers were extracted with only family and hole-location data; 10-series and metric rows skipped.",
+    "598": "Single-Keyed Standard Linear Bearing Pad (7-44): 6590 (White) and 6591 (Black) (15) extracted with UHMW PE material specs and suggested hardware 3628; 10-series and metric rows skipped.",
+    "599": "Single-Keyed High-Cycle Linear Bearing Pad (7-45): 6595 (White) and 6596 (Black) (15) extracted with material specs and suggested hardware 3022; metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "6866: description 'Double-length UniBearing™ assembly with bearing pads that can move or be fixed; ...' -> 'Double Long UniBearing™ that can move or be fixed, with pads mounted using stainless steel flathead socket cap screws; ...' (removed wording not on the page)",
+      "6866-Black: description same correction as 6866"
+    ],
+    "remaining_doubts": [
+      "Page 594 (7-40) is a Linear Bearing Brake Hole Specifications cross-reference table, not a product table; its twelve 15-series bearing numbers (6515, 6516, 6523, 6524, 6525, 6526, 6530, 6531, 6533, 6534, 6535, 6536) are kept as stub parts carrying only bearing family and brake hole locations, under the derived name 'Brake Ready Linear Bearing'. Their real product names and dimensions are on other catalog pages, so a cross-chunk merge should prefer those entries' name and description.",
+      "Pages 7-38 and 7-39 (double mount assemblies) and 7-37 (long single mount) print the first bullet as 'Comprised of short single mount UniBearing™ attached to a T-slot profile'; it is kept verbatim in features although it looks like copy carried over from 7-36.",
+      "Dimension letter meanings for the assemblies (A/B/C) differ between the single mount pages (A = 3.125” housing, C = depth with profile) and the double mount pages (A = height with profile, C = 4.750” housing); dimension_notes follow each page's drawing."
+    ]
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "chunk": "c077",
+  "pages": [
+    796,
+    798,
+    799,
+    800,
+    801,
+    802,
+    803,
+    804
+  ],
+  "parts": [
+    {
+      "part_number": "7068",
+      "series": [
+        "15"
+      ],
+      "name": "Manifold Access Profile Milling",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-22",
+      "description": "Machining service that drills through one wall of a 15 series profile to access the center cavity. Required for pressure manifolds (pg. 9-54).",
+      "features": [
+        "Required for pressure manifolds (pg. 9-54); consists of drill through one wall of profile to access center cavity",
+        "When ordering, designate distance from left end of profile; reference hole location by specifying “between” T-slot designations"
+      ],
+      "specs": {
+        "Service Type": "Drill Thru One Profile Wall",
+        "Hole Diameter": ".374”"
+      },
+      "notes": "Reference page 11-22. Only drills thru one profile wall. Hole location is referenced with the lettered T-slot designations shown in the Manifold Access Drill Thru Designations diagram on page 11-22. Ordering Example: 1530: (1) @48.25” w/ #7068 btwn F and G @ 12.00” and 36.25” from left end."
+    },
+    {
+      "part_number": "7105",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Connector Rod End Tap - 5/16-18",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-24",
+      "description": "Machining service that adds 5/16-18 threads to the end of connector rod (pg. 8-56), profile part no. 9820.",
+      "features": [
+        "Adds threads to end of connector rod (pg. 8-56)",
+        "When ordering, designate profile end (left, right, or both) that requires tap"
+      ],
+      "specs": {
+        "Tap Size (Min. Depth)": "5/16-18 (1.25”)",
+        "Taps Per End": "1",
+        "Profile Part No.": "9820"
+      },
+      "notes": "Reference page 11-24. For connector rod profile part no. 9820; one tap per end."
+    },
+    {
+      "part_number": "7106",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Connector Rod End Tap - M8",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-24",
+      "description": "Machining service that adds M8 threads to the end of connector rod (pg. 8-56), profile part no. 9820.",
+      "features": [
+        "Adds threads to end of connector rod (pg. 8-56)",
+        "When ordering, designate profile end (left, right, or both) that requires tap"
+      ],
+      "specs": {
+        "Tap Size (Min. Depth)": "M8 x 1.25” (31.75mm)",
+        "Taps Per End": "1",
+        "Profile Part No.": "9820"
+      },
+      "notes": "Reference page 11-24. For connector rod profile part no. 9820; one tap per end. Badged F and RT although the tap size is metric (M8)."
+    },
+    {
+      "part_number": "7150",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Cut Plastic Panel to Size - ALL Sides ≤ 48” for Panels Up To .250” Thick",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts a plastic panel to size when all sides are 48” or less and the panel is up to .250” thick.",
+      "specs": {
+        "Panel Part No.": "7150",
+        "Aluminum Part No.": "7167",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ALL Sides ≤ 48” for Panels Up To .250” Thick",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Plastic panel service number; the aluminum plate equivalent is 7167."
+    },
+    {
+      "part_number": "7167",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Aluminum Plate to Size - ALL Sides ≤ 48” for Panels Up To .250” Thick",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts an aluminum plate to size when all sides are 48” or less and the plate is up to .250” thick.",
+      "specs": {
+        "Panel Part No.": "7150",
+        "Aluminum Part No.": "7167",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ALL Sides ≤ 48” for Panels Up To .250” Thick",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Aluminum plate service number; the plastic panel equivalent is 7150."
+    },
+    {
+      "part_number": "7155",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Cut Plastic Panel to Size - ANY Side > 48” for Panels Up To .250” Thick",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts a plastic panel to size when any side is greater than 48” and the panel is up to .250” thick.",
+      "specs": {
+        "Panel Part No.": "7155",
+        "Aluminum Part No.": "7168",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ANY Side > 48” for Panels Up To .250” Thick",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Plastic panel service number; the aluminum plate equivalent is 7168."
+    },
+    {
+      "part_number": "7168",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Aluminum Plate to Size - ANY Side > 48” for Panels Up To .250” Thick",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts an aluminum plate to size when any side is greater than 48” and the plate is up to .250” thick.",
+      "specs": {
+        "Panel Part No.": "7155",
+        "Aluminum Part No.": "7168",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ANY Side > 48” for Panels Up To .250” Thick",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Aluminum plate service number; the plastic panel equivalent is 7155."
+    },
+    {
+      "part_number": "7151",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Cut Plastic Panel to Size - ALL Sides ≤ 48” for Panels Thicker Than .250”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts a plastic panel to size when all sides are 48” or less and the panel is thicker than .250”.",
+      "specs": {
+        "Panel Part No.": "7151",
+        "Aluminum Part No.": "7169",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ALL Sides ≤ 48” for Panels Thicker Than .250”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Plastic panel service number; the aluminum plate equivalent is 7169."
+    },
+    {
+      "part_number": "7169",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Aluminum Plate to Size - ALL Sides ≤ 48” for Panels Thicker Than .250”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts an aluminum plate to size when all sides are 48” or less and the plate is thicker than .250”.",
+      "specs": {
+        "Panel Part No.": "7151",
+        "Aluminum Part No.": "7169",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ALL Sides ≤ 48” for Panels Thicker Than .250”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Aluminum plate service number; the plastic panel equivalent is 7151."
+    },
+    {
+      "part_number": "7153",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Cut Plastic Panel to Size - ANY Side > 48” for Panels Thicker Than .250”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts a plastic panel to size when any side is greater than 48” and the panel is thicker than .250”.",
+      "specs": {
+        "Panel Part No.": "7153",
+        "Aluminum Part No.": "7170",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ANY Side > 48” for Panels Thicker Than .250”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Plastic panel service number; the aluminum plate equivalent is 7170."
+    },
+    {
+      "part_number": "7170",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Aluminum Plate to Size - ANY Side > 48” for Panels Thicker Than .250”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that cuts an aluminum plate to size when any side is greater than 48” and the plate is thicker than .250”.",
+      "specs": {
+        "Panel Part No.": "7153",
+        "Aluminum Part No.": "7170",
+        "Service Type": "Cut Plastic Panel or Aluminum Plate ANY Side > 48” for Panels Thicker Than .250”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25. Aluminum plate service number; the plastic panel equivalent is 7153."
+    },
+    {
+      "part_number": "7095",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Shear Wire Mesh to Size - ALL Sides ≤ 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that shears wire mesh to size when all sides are 48” or less.",
+      "specs": {
+        "Service Type": "Shear Wire Mesh ALL Sides ≤ 48”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25."
+    },
+    {
+      "part_number": "7100",
+      "series": [
+        "F",
+        "RT"
+      ],
+      "name": "Shear Wire Mesh to Size - ANY Side > 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Service that shears wire mesh to size when any side is greater than 48”.",
+      "specs": {
+        "Service Type": "Shear Wire Mesh ANY Side > 48”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-25."
+    },
+    {
+      "part_number": "7532",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Access Routing (Plastic Panel) - ALL Sides ≤ 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Routing service that steps the edge of a 3/8” or 1/2” plastic panel so it can mount in a 15 series T-slot, for panels with all sides 48” or less.",
+      "specs": {
+        "Panel Part No.": "7532",
+        "Aluminum Part No.": "7208",
+        "Service Type": "Routing Plastic Panel or Aluminum Plate ALL Sides ≤ 48”",
+        "Description": "To Mount 3/8” or 1/2” Plastic Panels or Aluminum Plate",
+        "A": ".458”",
+        "B": ".236”",
+        "Cut Tolerance": "A +/- .015” B +/- .010”"
+      },
+      "dimension_notes": "A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)",
+      "notes": "Reference page 11-25. Plastic panel service number; the aluminum plate equivalent is 7208. Drawing shows a gasket in the T-slot alongside the routed edge (\"Gasket this side\")."
+    },
+    {
+      "part_number": "7208",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Access Routing (Aluminum Plate) - ALL Sides ≤ 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Routing service that steps the edge of a 3/8” or 1/2” aluminum plate so it can mount in a 15 series T-slot, for plates with all sides 48” or less.",
+      "specs": {
+        "Panel Part No.": "7532",
+        "Aluminum Part No.": "7208",
+        "Service Type": "Routing Plastic Panel or Aluminum Plate ALL Sides ≤ 48”",
+        "Description": "To Mount 3/8” or 1/2” Plastic Panels or Aluminum Plate",
+        "A": ".458”",
+        "B": ".236”",
+        "Cut Tolerance": "A +/- .015” B +/- .010”"
+      },
+      "dimension_notes": "A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)",
+      "notes": "Reference page 11-25. Aluminum plate service number; the plastic panel equivalent is 7532. Drawing shows a gasket in the T-slot alongside the routed edge (\"Gasket this side\")."
+    },
+    {
+      "part_number": "7533",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Access Routing (Plastic Panel) - ANY Side > 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Routing service that steps the edge of a 3/8” or 1/2” plastic panel so it can mount in a 15 series T-slot, for panels with any side greater than 48”.",
+      "specs": {
+        "Panel Part No.": "7533",
+        "Aluminum Part No.": "7209",
+        "Service Type": "Routing Plastic Panel or Aluminum Plate ANY Side > 48”",
+        "Description": "To Mount 3/8” or 1/2” Plastic Panels or Aluminum Plate",
+        "A": ".458”",
+        "B": ".236”",
+        "Cut Tolerance": "A +/- .015” B +/- .010”"
+      },
+      "dimension_notes": "A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)",
+      "notes": "Reference page 11-25. Plastic panel service number; the aluminum plate equivalent is 7209. Drawing shows a gasket in the T-slot alongside the routed edge (\"Gasket this side\")."
+    },
+    {
+      "part_number": "7209",
+      "series": [
+        "15"
+      ],
+      "name": "T-Slot Access Routing (Aluminum Plate) - ANY Side > 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-25",
+      "description": "Routing service that steps the edge of a 3/8” or 1/2” aluminum plate so it can mount in a 15 series T-slot, for plates with any side greater than 48”.",
+      "specs": {
+        "Panel Part No.": "7533",
+        "Aluminum Part No.": "7209",
+        "Service Type": "Routing Plastic Panel or Aluminum Plate ANY Side > 48”",
+        "Description": "To Mount 3/8” or 1/2” Plastic Panels or Aluminum Plate",
+        "A": ".458”",
+        "B": ".236”",
+        "Cut Tolerance": "A +/- .015” B +/- .010”"
+      },
+      "dimension_notes": "A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)",
+      "notes": "Reference page 11-25. Aluminum plate service number; the plastic panel equivalent is 7533. Drawing shows a gasket in the T-slot alongside the routed edge (\"Gasket this side\")."
+    },
+    {
+      "part_number": "7500",
+      "series": [
+        "F"
+      ],
+      "name": "Full Edge Radius (Plastic Panel) - ALL Sides Less Than Or Equal To 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds both edges of a plastic panel (full edge radius) for panels with all sides 48” or less.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7500",
+        "Aluminum Part No.": "7221",
+        "Service Type": "Full Edge Radius Plastic Panel or Aluminum Plate ALL Sides Less Than Or Equal To 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Plastic panel service number; the aluminum plate equivalent is 7221. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .500” (12.7mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7221",
+      "series": [
+        "F"
+      ],
+      "name": "Full Edge Radius (Aluminum Plate) - ALL Sides Less Than Or Equal To 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds both edges of an aluminum plate (full edge radius) for plates with all sides 48” or less.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7500",
+        "Aluminum Part No.": "7221",
+        "Service Type": "Full Edge Radius Plastic Panel or Aluminum Plate ALL Sides Less Than Or Equal To 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Aluminum plate service number; the plastic panel equivalent is 7500. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .500” (12.7mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7501",
+      "series": [
+        "F"
+      ],
+      "name": "Full Edge Radius (Plastic Panel) - ANY Side Greater Than 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds both edges of a plastic panel (full edge radius) for panels with any side greater than 48”.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7501",
+        "Aluminum Part No.": "7222",
+        "Service Type": "Full Edge Radius Plastic Panel or Aluminum Plate ANY Side Greater Than 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Plastic panel service number; the aluminum plate equivalent is 7222. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .500” (12.7mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7222",
+      "series": [
+        "F"
+      ],
+      "name": "Full Edge Radius (Aluminum Plate) - ANY Side Greater Than 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds both edges of an aluminum plate (full edge radius) for plates with any side greater than 48”.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7501",
+        "Aluminum Part No.": "7222",
+        "Service Type": "Full Edge Radius Plastic Panel or Aluminum Plate ANY Side Greater Than 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Aluminum plate service number; the plastic panel equivalent is 7501. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .500” (12.7mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7540",
+      "series": [
+        "F"
+      ],
+      "name": "Top Edge Radius (Plastic Panel) - ALL Sides Less Than Or Equal To 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds the top edge of a plastic panel (top edge radius) for panels with all sides 48” or less.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7540",
+        "Aluminum Part No.": "7542",
+        "Service Type": "Top Edge Radius Plastic Panel or Aluminum Plate ALL Sides Less Than Or Equal To 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Plastic panel service number; the aluminum plate equivalent is 7542. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .750” (19.05mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7542",
+      "series": [
+        "F"
+      ],
+      "name": "Top Edge Radius (Aluminum Plate) - ALL Sides Less Than Or Equal To 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds the top edge of an aluminum plate (top edge radius) for plates with all sides 48” or less.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7540",
+        "Aluminum Part No.": "7542",
+        "Service Type": "Top Edge Radius Plastic Panel or Aluminum Plate ALL Sides Less Than Or Equal To 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Aluminum plate service number; the plastic panel equivalent is 7540. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .750” (19.05mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7541",
+      "series": [
+        "F"
+      ],
+      "name": "Top Edge Radius (Plastic Panel) - ANY Side Greater Than 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds the top edge of a plastic panel (top edge radius) for panels with any side greater than 48”.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7541",
+        "Aluminum Part No.": "7543",
+        "Service Type": "Top Edge Radius Plastic Panel or Aluminum Plate ANY Side Greater Than 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Plastic panel service number; the aluminum plate equivalent is 7543. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .750” (19.05mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7543",
+      "series": [
+        "F"
+      ],
+      "name": "Top Edge Radius (Aluminum Plate) - ANY Side Greater Than 48”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that rounds the top edge of an aluminum plate (top edge radius) for plates with any side greater than 48”.",
+      "features": [
+        "Both edges rounded - the radius will be equal to the panel thickness; One edge rounded - radius will equal to half the panel thickness with a minimum panel thickness of .118” (3.00mm)",
+        "Less than all four sides requires drawing designating which sides receive the edge radius service"
+      ],
+      "specs": {
+        "Panels Part No.": "7541",
+        "Aluminum Part No.": "7543",
+        "Service Type": "Top Edge Radius Plastic Panel or Aluminum Plate ANY Side Greater Than 48”",
+        "Radius Tolerance": "+/- .040”"
+      },
+      "notes": "Reference page 11-26. Aluminum plate service number; the plastic panel equivalent is 7541. Minimum Panel Thickness is .118” (3.00mm). Maximum Panel Thickness is .750” (19.05mm). Full and Top Edge Radius not available with Part No. 2625 panel."
+    },
+    {
+      "part_number": "7179",
+      "series": [
+        "F"
+      ],
+      "name": "Corner Radius (Plastic Panel) - RADIUS ≤ 3.000” Up To .250” Thick",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that radiuses the corners of a plastic panel up to .250” thick, with a corner radius of 3.000” (76.20mm) or less.",
+      "specs": {
+        "Panel Part No.": "7179",
+        "Aluminum Part No.": "7176",
+        "Service Type": "Corner Radius Plastic Panel or Aluminum Plate RADIUS ≤ 3.000” Up To .250” Thick",
+        "Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-26. Plastic panel service number; the aluminum plate equivalent is 7176. Drawing: Corner Radius ≤ 3.000” (76.20mm)."
+    },
+    {
+      "part_number": "7176",
+      "series": [
+        "F"
+      ],
+      "name": "Corner Radius (Aluminum Plate) - RADIUS ≤ 3.000” Up To .250” Thick",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that radiuses the corners of an aluminum plate up to .250” thick, with a corner radius of 3.000” (76.20mm) or less.",
+      "specs": {
+        "Panel Part No.": "7179",
+        "Aluminum Part No.": "7176",
+        "Service Type": "Corner Radius Plastic Panel or Aluminum Plate RADIUS ≤ 3.000” Up To .250” Thick",
+        "Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-26. Aluminum plate service number; the plastic panel equivalent is 7179. Drawing: Corner Radius ≤ 3.000” (76.20mm)."
+    },
+    {
+      "part_number": "7187",
+      "series": [
+        "F"
+      ],
+      "name": "Corner Radius (Plastic Panel) - RADIUS ≤ 3.000” Thicker Than .250”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that radiuses the corners of a plastic panel thicker than .250”, with a corner radius of 3.000” (76.20mm) or less.",
+      "specs": {
+        "Panel Part No.": "7187",
+        "Aluminum Part No.": "7195",
+        "Service Type": "Corner Radius Plastic Panel or Aluminum Plate RADIUS ≤ 3.000” Thicker Than .250”",
+        "Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-26. Plastic panel service number; the aluminum plate equivalent is 7195. Drawing: Corner Radius ≤ 3.000” (76.20mm)."
+    },
+    {
+      "part_number": "7195",
+      "series": [
+        "F"
+      ],
+      "name": "Corner Radius (Aluminum Plate) - RADIUS ≤ 3.000” Thicker Than .250”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-26",
+      "description": "Service that radiuses the corners of an aluminum plate thicker than .250”, with a corner radius of 3.000” (76.20mm) or less.",
+      "specs": {
+        "Panel Part No.": "7187",
+        "Aluminum Part No.": "7195",
+        "Service Type": "Corner Radius Plastic Panel or Aluminum Plate RADIUS ≤ 3.000” Thicker Than .250”",
+        "Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-26. Aluminum plate service number; the plastic panel equivalent is 7187. Drawing: Corner Radius ≤ 3.000” (76.20mm)."
+    },
+    {
+      "part_number": "7505",
+      "series": [
+        "15"
+      ],
+      "name": "Profile Corner Clearance Notch (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-27",
+      "description": "Corner notch service for mesh or plastic panels that clears the corner of a perpendicularly mounted 15 series T-slot profile when the panel mounts inside the T-slot.",
+      "features": [
+        "Used to clear profile corner for perpendicularly mounted T-slot profiles when panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7505",
+        "Aluminum Part No.": "7203",
+        "Service Type": "Corner Notch",
+        "A": ".440”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = size of the notch cut from the panel corner (shown in both directions); notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-27. Panel & wire service number; the aluminum equivalent is 7203. Panel corners are designated A, B, C, D. Ordering Example: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7505 Horizontal on Corner B."
+    },
+    {
+      "part_number": "7203",
+      "series": [
+        "15"
+      ],
+      "name": "Profile Corner Clearance Notch (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-27",
+      "description": "Corner notch service for aluminum plate that clears the corner of a perpendicularly mounted 15 series T-slot profile when the plate mounts inside the T-slot.",
+      "features": [
+        "Used to clear profile corner for perpendicularly mounted T-slot profiles when panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7505",
+        "Aluminum Part No.": "7203",
+        "Service Type": "Corner Notch",
+        "A": ".440”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = size of the notch cut from the panel corner (shown in both directions); notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-27. Aluminum service number; the panel & wire equivalent is 7505. Aluminum up to .250” (6.35mm) thick. Panel corners are designated A, B, C, D."
+    },
+    {
+      "part_number": "7600",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Full Profile Corner Clearance Notch (Panel & Wire) - 1.560” x 1.560”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-28",
+      "description": "Corner notch service for mesh or plastic panels that clears the full T-slot profile of the listed 1501 through 1547 profiles when profiles are mounted perpendicularly.",
+      "features": [
+        "Used to clear a T-slot profile when profiles are mounted perpendicularly",
+        "Horizontal, vertical orientation designations required for rectangular profiles (see ordering example below)"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7600",
+        "Aluminum Part No.": "7234",
+        "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547",
+        "A": "1.560”",
+        "B": "1.560”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch height, B = notch width at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-28. Panel & wire service number; the aluminum equivalent is 7234. Panel corners are designated A, B, C, D."
+    },
+    {
+      "part_number": "7234",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Full Profile Corner Clearance Notch (Aluminum) - 1.560” x 1.560”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-28",
+      "description": "Corner notch service for aluminum plate that clears the full T-slot profile of the listed 1501 through 1547 profiles when profiles are mounted perpendicularly.",
+      "features": [
+        "Used to clear a T-slot profile when profiles are mounted perpendicularly",
+        "Horizontal, vertical orientation designations required for rectangular profiles (see ordering example below)"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7600",
+        "Aluminum Part No.": "7234",
+        "Applicable Profiles": "1501, 1501-LS, 1502, 1502-LS, 1503, 1503-LS, 1504, 1504-LS, 1515, 1515-S, 1515-Lite, 1515-LS, 1515-UL, 1515-ULS, 1517, 1517-LS, 1547",
+        "A": "1.560”",
+        "B": "1.560”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch height, B = notch width at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-28. Aluminum service number; the panel & wire equivalent is 7600. Panel corners are designated A, B, C, D."
+    },
+    {
+      "part_number": "7601",
+      "series": [
+        "15"
+      ],
+      "name": "Full Profile Corner Clearance Notch (Panel & Wire) - 1.560” x 3.060”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-28",
+      "description": "Corner notch service for mesh or plastic panels that clears the full 1530 family T-slot profile when profiles are mounted perpendicularly.",
+      "features": [
+        "Used to clear a T-slot profile when profiles are mounted perpendicularly",
+        "Horizontal, vertical orientation designations required for rectangular profiles (see ordering example below)"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7601",
+        "Aluminum Part No.": "7235",
+        "Applicable Profiles": "1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS",
+        "A": "1.560”",
+        "B": "3.060”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch height, B = notch width at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-28. Panel & wire service number; the aluminum equivalent is 7235. Rectangular profile: horizontal or vertical orientation must be designated. Panel corners are designated A, B, C, D. Ordering Example: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7601 Vertical on Corner B."
+    },
+    {
+      "part_number": "7235",
+      "series": [
+        "15"
+      ],
+      "name": "Full Profile Corner Clearance Notch (Aluminum) - 1.560” x 3.060”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-28",
+      "description": "Corner notch service for aluminum plate that clears the full 1530 family T-slot profile when profiles are mounted perpendicularly.",
+      "features": [
+        "Used to clear a T-slot profile when profiles are mounted perpendicularly",
+        "Horizontal, vertical orientation designations required for rectangular profiles (see ordering example below)"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7601",
+        "Aluminum Part No.": "7235",
+        "Applicable Profiles": "1530, 1530-Lite, 1530-LS, 1530-S, 1530-UL, 1530-ULS",
+        "A": "1.560”",
+        "B": "3.060”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch height, B = notch width at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-28. Aluminum service number; the panel & wire equivalent is 7601. Rectangular profile: horizontal or vertical orientation must be designated. Panel corners are designated A, B, C, D."
+    },
+    {
+      "part_number": "7602",
+      "series": [
+        "15"
+      ],
+      "name": "Full Profile Corner Clearance Notch (Panel & Wire) - 3.060” x 3.060”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-28",
+      "description": "Corner notch service for mesh or plastic panels that clears the full 3030 family T-slot profile when profiles are mounted perpendicularly.",
+      "features": [
+        "Used to clear a T-slot profile when profiles are mounted perpendicularly",
+        "Horizontal, vertical orientation designations required for rectangular profiles (see ordering example below)"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7602",
+        "Aluminum Part No.": "7236",
+        "Applicable Profiles": "3030, 3030-Lite, 3030-S, 3030-LS",
+        "A": "3.060”",
+        "B": "3.060”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch height, B = notch width at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-28. Panel & wire service number; the aluminum equivalent is 7236. Panel corners are designated A, B, C, D."
+    },
+    {
+      "part_number": "7236",
+      "series": [
+        "15"
+      ],
+      "name": "Full Profile Corner Clearance Notch (Aluminum) - 3.060” x 3.060”",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-28",
+      "description": "Corner notch service for aluminum plate that clears the full 3030 family T-slot profile when profiles are mounted perpendicularly.",
+      "features": [
+        "Used to clear a T-slot profile when profiles are mounted perpendicularly",
+        "Horizontal, vertical orientation designations required for rectangular profiles (see ordering example below)"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7602",
+        "Aluminum Part No.": "7236",
+        "Applicable Profiles": "3030, 3030-Lite, 3030-S, 3030-LS",
+        "A": "3.060”",
+        "B": "3.060”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch height, B = notch width at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-28. Aluminum service number; the panel & wire equivalent is 7602. Panel corners are designated A, B, C, D."
+    },
+    {
+      "part_number": "7503",
+      "series": [
+        "15"
+      ],
+      "name": "End Fastener Clearance Notch (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-29",
+      "description": "Corner notch service for mesh or plastic panels that clears the tab of a connecting 15 series end fastener (pg. 4-15) when the panel mounts inside the T-slot.",
+      "features": [
+        "Used to clear end fastener tab (pg. 4-15) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7503",
+        "Aluminum Part No.": "7214",
+        "Service Type": "Corner Notch",
+        "A": ".340”",
+        "B": ".650”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-29. Panel & wire service number; the aluminum equivalent is 7214. Stepped notch with inside radius R .125” (3.18mm). Panel corners are designated A, B, C, D. Ordering Example: 2609 (1) @ (AD) 22.000” x (AB) 18.000” w/ 7503 on Corner B."
+    },
+    {
+      "part_number": "7214",
+      "series": [
+        "15"
+      ],
+      "name": "End Fastener Clearance Notch (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-29",
+      "description": "Corner notch service for aluminum plate that clears the tab of a connecting 15 series end fastener (pg. 4-15) when the plate mounts inside the T-slot.",
+      "features": [
+        "Used to clear end fastener tab (pg. 4-15) when a panel mounts inside T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7503",
+        "Aluminum Part No.": "7214",
+        "Service Type": "Corner Notch",
+        "A": ".340”",
+        "B": ".650”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "notes": "Reference page 11-29. Aluminum service number; the panel & wire equivalent is 7503. Aluminum up to .250” (6.35mm) thick. Stepped notch with inside radius R .125” (3.18mm). Panel corners are designated A, B, C, D."
+    },
+    {
+      "part_number": "7312",
+      "series": [
+        "15"
+      ],
+      "name": "Anchor Fastener Clearance Notch (Panel & Wire)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-30",
+      "description": "Corner notch service for mesh or plastic panels that clears the cam of a connecting 15 series anchor fastener (pg. 4-12) when the panel mounts inside a T-slot.",
+      "features": [
+        "Used to clear an anchor fastener (pg. 4-12) when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7312",
+        "Aluminum Part No.": "7216",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "B": "1.750”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch width, B = notch height at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-30. Panel & wire service number; the aluminum equivalent is 7216. Specify vertical or horizontal orientation. Panel corners are designated A, B, C, D. Ordering Example: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7312 Vertical on Corner B."
+    },
+    {
+      "part_number": "7216",
+      "series": [
+        "15"
+      ],
+      "name": "Anchor Fastener Clearance Notch (Aluminum)",
+      "category": "machining_service",
+      "section": "Machining Services",
+      "catalog_page": "11-30",
+      "description": "Corner notch service for aluminum plate that clears the cam of a connecting 15 series anchor fastener (pg. 4-12) when the plate mounts inside a T-slot.",
+      "features": [
+        "Used to clear an anchor fastener (pg. 4-12) when a panel will mount inside a T-slot",
+        "Works with mesh, plastic panels, and aluminum up to .250” (6.35mm) thick",
+        "When ordering, specify a vertical or horizontal orientation"
+      ],
+      "specs": {
+        "Panel & Wire Part No.": "7312",
+        "Aluminum Part No.": "7216",
+        "Service Type": "Corner Notch",
+        "A": ".500”",
+        "B": "1.750”",
+        "Cut Tolerance": "+/- .060”"
+      },
+      "dimension_notes": "A = notch width, B = notch height at the panel corner; notch inside radius R .125” (3.18mm)",
+      "notes": "Reference page 11-30. Aluminum service number; the panel & wire equivalent is 7312. Aluminum up to .250” (6.35mm) thick. Specify vertical or horizontal orientation. Panel corners are designated A, B, C, D."
+    }
+  ],
+  "page_notes": {
+    "796": "11-22 Manifold Access Profile Milling: 7068 (15) extracted; 7062 (10) and metric 25-7062/40-7068 skipped; Manifold Access Drill Thru Designations diagram has no parts.",
+    "798": "11-24: 45 Degree Flange Milling 7300/7301/7302 are Quick Frame only (skipped); Connector Rod End Tap 7105 and 7106 (F/RT, for profile 9820) extracted.",
+    "799": "11-25: Cut Plastic Panel/Aluminum Plate to Size 7150/7167, 7155/7168, 7151/7169, 7153/7170 (F/RT), Shear Wire Mesh to Size 7095/7100 (F/RT) and T-Slot Access Routing 15-series rows 7532/7208, 7533/7209 extracted (panel and aluminum numbers as separate entries); 10-series 7530/7206, 7531/7207 and all metric rows skipped.",
+    "800": "11-26: Full Edge Radius 7500/7221, 7501/7222, Top Edge Radius 7540/7542, 7541/7543 and Corner Radius 7179/7176, 7187/7195 (all F) extracted; metric 65- rows skipped. Corner Radius service type '≤ 3.000”' restored from the image (missing from the text layer).",
+    "801": "11-27 Profile Corner Clearance Notch: 15-series 7505/7203 extracted; 10-series 7504/7202 and metric rows skipped; ordering example read from image.",
+    "802": "11-28 Full Profile Corner Clearance Notch: 15-series 7600/7234 (15/RT), 7601/7235, 7602/7236 extracted; 10-series 7597-7599 and metric rows skipped. Title and bullets absent from text layer (garbled glyphs), taken from image.",
+    "803": "11-29 End Fastener Clearance Notch: 15-series 7503/7214 extracted; 10-series 7502/7211 and metric rows skipped; ordering example read from image.",
+    "804": "11-30 Anchor Fastener Clearance Notch: 15-series 7312/7216 extracted; 10-series 7311/7215 and metric rows skipped; ordering example read from image."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "7532: dimension_notes 'A = length of the routed step along the panel edge, B = thickness of the remaining routed edge that goes into the T-slot (panel thickness .375” or .500”)' -> 'A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)' (A is measured perpendicular to the edge, not along it)",
+      "7208: dimension_notes 'A = length of the routed step along the panel edge, B = thickness of the remaining routed edge that goes into the T-slot (panel thickness .375” or .500”)' -> 'A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)' (A is measured perpendicular to the edge, not along it)",
+      "7533: dimension_notes 'A = length of the routed step along the panel edge, B = thickness of the remaining routed edge that goes into the T-slot (panel thickness .375” or .500”)' -> 'A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)' (A is measured perpendicular to the edge, not along it)",
+      "7209: dimension_notes 'A = length of the routed step along the panel edge, B = thickness of the remaining routed edge that goes into the T-slot (panel thickness .375” or .500”)' -> 'A = width of the routed tongue measured in from the panel edge, B = thickness of the tongue left at the panel edge that fits into the T-slot (full panel thickness .375” or .500” / 9.53mm or 12.70mm)' (A is measured perpendicular to the edge, not along it)",
+      "7221: notes added page footnote 'Full and Top Edge Radius not available with Part No. 2625 panel.' (footnote applies to the Full/Top Edge Radius services generally, was only on the plastic-panel numbers)",
+      "7222: notes added page footnote 'Full and Top Edge Radius not available with Part No. 2625 panel.' (footnote applies to the Full/Top Edge Radius services generally, was only on the plastic-panel numbers)",
+      "7542: notes added page footnote 'Full and Top Edge Radius not available with Part No. 2625 panel.' (footnote applies to the Full/Top Edge Radius services generally, was only on the plastic-panel numbers)",
+      "7543: notes added page footnote 'Full and Top Edge Radius not available with Part No. 2625 panel.' (footnote applies to the Full/Top Edge Radius services generally, was only on the plastic-panel numbers)"
+    ],
+    "remaining_doubts": [
+      "7106 is badged F/RT but its tap size is metric (M8 x 1.25” (31.75mm)); kept as printed.",
+      "Panel/plastic and aluminum service numbers that share one table row are extracted as separate parts carrying identical specs; downstream merge may prefer one object per row.",
+      "Page 11-28 title and bullets are not in the text layer; they were read from the image."
+    ]
+  }
+}

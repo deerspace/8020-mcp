@@ -1,0 +1,1070 @@
+{
+ "chunk": "c079",
+ "pages": [
+  814,
+  815,
+  816,
+  817,
+  818,
+  819,
+  820,
+  821
+ ],
+ "parts": [
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7580",
+   "series": [
+    "15"
+   ],
+   "name": "Adjustable Tension Hinge Plastic Panel Milling",
+   "catalog_page": "11-40",
+   "description": "Machining service that drills two through holes in a plastic panel for mounting the 15 series adjustable tension hinge 2080 (pg. 5-90). Holes are 1.880” apart (A), .688” from the panel edge (B), with .375” drill thru holes (C).",
+   "features": [
+    "Creates through holes for mounting adjustable tension hinge (pg. 5-90) and detent panel hinge (pg. 5-91)"
+   ],
+   "specs": {
+    "Hinge Part No.": "2080",
+    "Hinge Type": "Adjustable",
+    "A": "1.880”",
+    "B": ".688”",
+    "C": ".375”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = center-to-center distance between the two holes (centered on the reference center line measured from the top of the panel), B = distance from panel edge to hole centers, C = drill thru hole (2 holes)",
+   "notes": "Reference page 11-40. For hinge part 2080. Metric counterpart: 40-7580. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7581 on Side AB @ 5.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7583",
+   "series": [
+    "15"
+   ],
+   "name": "Detent Hinge Plastic Panel Milling",
+   "catalog_page": "11-40",
+   "description": "Machining service that drills two through holes in a plastic panel for mounting the 15 series detent panel hinge 2091 (pg. 5-91). Holes are 1.340” apart (A), .530” from the panel edge (B), with .250” drill thru holes (C).",
+   "features": [
+    "Creates through holes for mounting adjustable tension hinge (pg. 5-90) and detent panel hinge (pg. 5-91)"
+   ],
+   "specs": {
+    "Hinge Part No.": "2091",
+    "Hinge Type": "Detent",
+    "A": "1.340”",
+    "B": ".530”",
+    "C": ".250”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = center-to-center distance between the two holes (centered on the reference center line measured from the top of the panel), B = distance from panel edge to hole centers, C = drill thru hole (2 holes)",
+   "notes": "Reference page 11-40. For hinge part 2091. Metric counterpart: 40-7583. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7581 on Side AB @ 5.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7586",
+   "series": [
+    "F"
+   ],
+   "name": "Plastic Door Handle Plastic Panel Milling",
+   "catalog_page": "11-41",
+   "description": "Machining service that drills two through holes in a plastic panel for mounting plastic door handle 2062 / 2882 (pg. 5-108). Holes are 3.678” apart (A), 1.250” from the panel edge (B), with .313” drill thru holes (C).",
+   "features": [
+    "Provides through holes for mounting plastic door handle (pg. 5-108) and steel door handle (pg. 5-113)"
+   ],
+   "specs": {
+    "Handle Part No.": "2062 / 2882",
+    "A": "3.678”",
+    "B": "1.250”",
+    "C": ".313”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = center-to-center distance between the two holes (centered on the reference center line measured from the top of the panel), B = distance from panel edge to hole centers, C = drill thru hole (2 holes)",
+   "notes": "Reference page 11-41. For plastic door handle part 2062 / 2882. Metric counterpart: 25-7586. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7584 on Side AB @ 10.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7585",
+   "series": [
+    "F"
+   ],
+   "name": "Plastic Door Handle Plastic Panel Milling",
+   "catalog_page": "11-41",
+   "description": "Machining service that drills two through holes in a plastic panel for mounting plastic door handle 2061 / 2881 (pg. 5-108). Holes are 4.600” apart (A), 1.250” from the panel edge (B), with .375” drill thru holes (C).",
+   "features": [
+    "Provides through holes for mounting plastic door handle (pg. 5-108) and steel door handle (pg. 5-113)"
+   ],
+   "specs": {
+    "Handle Part No.": "2061 / 2881",
+    "A": "4.600”",
+    "B": "1.250”",
+    "C": ".375”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = center-to-center distance between the two holes (centered on the reference center line measured from the top of the panel), B = distance from panel edge to hole centers, C = drill thru hole (2 holes)",
+   "notes": "Reference page 11-41. For plastic door handle part 2061 / 2881. Metric counterpart: 40-7585. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7584 on Side AB @ 10.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7584",
+   "series": [
+    "F"
+   ],
+   "name": "Plastic Door Handle Plastic Panel Milling",
+   "catalog_page": "11-41",
+   "description": "Machining service that drills two through holes in a plastic panel for mounting plastic door handle 2060 / 2880 (pg. 5-108). Holes are 7.050” apart (A), 1.250” from the panel edge (B), with .375” drill thru holes (C).",
+   "features": [
+    "Provides through holes for mounting plastic door handle (pg. 5-108) and steel door handle (pg. 5-113)"
+   ],
+   "specs": {
+    "Handle Part No.": "2060 / 2880",
+    "A": "7.050”",
+    "B": "1.250”",
+    "C": ".375”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = center-to-center distance between the two holes (centered on the reference center line measured from the top of the panel), B = distance from panel edge to hole centers, C = drill thru hole (2 holes)",
+   "notes": "Reference page 11-41. For plastic door handle part 2060 / 2880. Metric counterpart: 40-7584. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7584 on Side AB @ 10.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7587",
+   "series": [
+    "F"
+   ],
+   "name": "Steel Door Handle Plastic Panel Milling",
+   "catalog_page": "11-41",
+   "description": "Machining service that drills two through holes in a plastic panel for mounting steel door handle 2070 (pg. 5-113). Holes are 3.000” apart (A), 1.000” from the panel edge (B), with .188” drill thru holes (C).",
+   "features": [
+    "Provides through holes for mounting plastic door handle (pg. 5-108) and steel door handle (pg. 5-113)"
+   ],
+   "specs": {
+    "Handle Part No.": "2070",
+    "A": "3.000”",
+    "B": "1.000”",
+    "C": ".188”",
+    "Hole Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = center-to-center distance between the two holes (centered on the reference center line measured from the top of the panel), B = distance from panel edge to hole centers, C = drill thru hole (2 holes)",
+   "notes": "Reference page 11-41. For steel door handle part 2070. Metric counterpart: 65-7587. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7584 on Side AB @ 10.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7588",
+   "series": [
+    "15"
+   ],
+   "name": "Panel Mount Block Plastic Panel Milling",
+   "catalog_page": "11-42",
+   "description": "Machining service that drills a through hole in a plastic panel for mounting the panel to a 15 series panel mount block (pg. 5-28). The hole is .375” from the panel edge (A) with a .375” drill thru (B).",
+   "features": [
+    "Provides through holes for mounting plastic panel to panel mount block (pg. 5-28)"
+   ],
+   "specs": {
+    "A": ".375”",
+    "B": ".375”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from panel edge to hole center (on the reference center line measured from the top of the panel), B = drill thru hole",
+   "notes": "Reference page 11-42. Side drawing shows a 1/4” thick panel on the panel mount block with a .062 gap. Metric counterpart: 40-7588. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7589 on Side AB @ 9.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7595",
+   "series": [
+    "15"
+   ],
+   "name": "Single Arm Narrow Panel Retainer Milling",
+   "catalog_page": "11-43",
+   "description": "Machining service that drills a through hole in a panel for mounting 15 series single arm narrow panel retainer 2434 / 2515 (pg. 5-40). The hole is 1.290” from the panel edge (A) with a .375” drill thru (B).",
+   "features": [
+    "Provides through holes for a single arm narrow or wide retainer (pg. 5-40)"
+   ],
+   "specs": {
+    "Retainer Part No.": "2434 / 2515",
+    "A": "1.290”",
+    "B": ".375”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from panel edge to hole center (on the reference center line measured from the top of the panel), B = drill thru hole",
+   "notes": "Reference page 11-43. For retainer parts 2434 / 2515. Metric counterparts: 30-7595, 40-7595, 45-7595. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7593 on Side AB @ 4.500”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7596",
+   "series": [
+    "15"
+   ],
+   "name": "Single Arm Wide Panel Retainer Milling",
+   "catalog_page": "11-43",
+   "description": "Machining service that drills two through holes in a panel for mounting 15 series single arm wide panel retainer 2433 / 2516 (pg. 5-40). Holes are 1.500” apart (A), 1.290” from the panel edge (B), with .375” drill thru holes (C).",
+   "features": [
+    "Provides through holes for a single arm narrow or wide retainer (pg. 5-40)"
+   ],
+   "specs": {
+    "Retainer Part No.": "2433 / 2516",
+    "A": "1.500”",
+    "B": "1.290”",
+    "C": ".375”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = center-to-center distance between the two holes (centered on the reference center line measured from the top of the panel), B = distance from panel edge to hole centers, C = drill thru hole (2 holes)",
+   "notes": "Reference page 11-43. For retainer parts 2433 / 2516. Metric counterparts: 30-7596, 40-7596, 45-7596. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 20.000” w/ 7594 on Side AB @ 8.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7162",
+   "series": [
+    "F",
+    "RT"
+   ],
+   "name": "2 Sided Cutout Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 2 sided opening (corner radius R .125”) in a plastic panel up to .250” thick, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Aluminum Part No.": "7171",
+    "Service Type": "2 Sided Cutout ANY Dimensions > 3.000” Up To .250” Thick",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Plastic Panel version of this service; the matching aluminum plate service is 7171. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7162. Row also badged Ready Tube (RT)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7171",
+   "series": [
+    "F",
+    "RT"
+   ],
+   "name": "2 Sided Cutout Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 2 sided opening (corner radius R .125”) in an aluminum plate up to .250” thick, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Panel Part No.": "7162",
+    "Service Type": "2 Sided Cutout ANY Dimensions > 3.000” Up To .250” Thick",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Aluminum Plate version of this service; the matching plastic panel service is 7162. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7171. Row also badged Ready Tube (RT)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7182",
+   "series": [
+    "F"
+   ],
+   "name": "2 Sided Cutout Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 2 sided opening (corner radius R .125”) in a plastic panel thicker than .250”, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Aluminum Part No.": "7190",
+    "Service Type": "2 Sided Cutout ANY Dimensions > 3.000” Thicker Than .250”",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Plastic Panel version of this service; the matching aluminum plate service is 7190. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7182."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7190",
+   "series": [
+    "F"
+   ],
+   "name": "2 Sided Cutout Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 2 sided opening (corner radius R .125”) in an aluminum plate thicker than .250”, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Panel Part No.": "7182",
+    "Service Type": "2 Sided Cutout ANY Dimensions > 3.000” Thicker Than .250”",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Aluminum Plate version of this service; the matching plastic panel service is 7182. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7190."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7163",
+   "series": [
+    "F",
+    "RT"
+   ],
+   "name": "3 Sided Cutout Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 3 sided opening (corner radius R .125”) in a plastic panel up to .250” thick, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Aluminum Part No.": "7172",
+    "Service Type": "3 Sided Cutout ANY Dimensions > 3.000” Up To .250” Thick",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Plastic Panel version of this service; the matching aluminum plate service is 7172. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7163. Row also badged Ready Tube (RT)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7172",
+   "series": [
+    "F",
+    "RT"
+   ],
+   "name": "3 Sided Cutout Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 3 sided opening (corner radius R .125”) in an aluminum plate up to .250” thick, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Panel Part No.": "7163",
+    "Service Type": "3 Sided Cutout ANY Dimensions > 3.000” Up To .250” Thick",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Aluminum Plate version of this service; the matching plastic panel service is 7163. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7172. Row also badged Ready Tube (RT)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7183",
+   "series": [
+    "F"
+   ],
+   "name": "3 Sided Cutout Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 3 sided opening (corner radius R .125”) in a plastic panel thicker than .250”, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Aluminum Part No.": "7191",
+    "Service Type": "3 Sided Cutout ANY Dimensions > 3.000” Thicker Than .250”",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Plastic Panel version of this service; the matching aluminum plate service is 7191. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7183."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7191",
+   "series": [
+    "F"
+   ],
+   "name": "3 Sided Cutout Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 3 sided opening (corner radius R .125”) in an aluminum plate thicker than .250”, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Panel Part No.": "7183",
+    "Service Type": "3 Sided Cutout ANY Dimensions > 3.000” Thicker Than .250”",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Aluminum Plate version of this service; the matching plastic panel service is 7183. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7191."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7164",
+   "series": [
+    "F",
+    "RT"
+   ],
+   "name": "4 Sided Cutout Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 4 sided opening (corner radius R .125”) in a plastic panel up to .250” thick, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Aluminum Part No.": "7173",
+    "Service Type": "4 Sided Cutout ANY Dimensions > 3.000” Up To .250” Thick",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Plastic Panel version of this service; the matching aluminum plate service is 7173. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7164. Row also badged Ready Tube (RT)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7173",
+   "series": [
+    "F",
+    "RT"
+   ],
+   "name": "4 Sided Cutout Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 4 sided opening (corner radius R .125”) in an aluminum plate up to .250” thick, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Panel Part No.": "7164",
+    "Service Type": "4 Sided Cutout ANY Dimensions > 3.000” Up To .250” Thick",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Aluminum Plate version of this service; the matching plastic panel service is 7164. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7173. Row also badged Ready Tube (RT)."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7184",
+   "series": [
+    "F"
+   ],
+   "name": "4 Sided Cutout Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 4 sided opening (corner radius R .125”) in a plastic panel thicker than .250”, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Aluminum Part No.": "7192",
+    "Service Type": "4 Sided Cutout ANY Dimensions > 3.000” Thicker Than .250”",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Plastic Panel version of this service; the matching aluminum plate service is 7192. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7184."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7192",
+   "series": [
+    "F"
+   ],
+   "name": "4 Sided Cutout Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-44",
+   "description": "Machining service that cuts a 4 sided opening (corner radius R .125”) in an aluminum plate thicker than .250”, with any dimension over 3.000”; commonly used for adding a door or access point.",
+   "features": [
+    "Provides opening commonly used for adding a door or access point",
+    "Drawing is required with this machining service; for project design assistance contact a Design Technician at 8020.net"
+   ],
+   "specs": {
+    "Panel Part No.": "7184",
+    "Service Type": "4 Sided Cutout ANY Dimensions > 3.000” Thicker Than .250”",
+    "Cut Tolerance": "+/- .040”"
+   },
+   "notes": "Reference page 11-44. Aluminum Plate version of this service; the matching plastic panel service is 7184. Drawing required. Cutout corners shown with R .125” (3.18mm) radius. Metric counterpart: 65-7192."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7508",
+   "series": [
+    "15"
+   ],
+   "name": "Top Mount Milling for Plastic Panel or Aluminum Plate",
+   "catalog_page": "11-45",
+   "description": "Machining service that drills a 0.328” through hole 3/4” from the edge of a plastic panel or aluminum plate so it can be top mounted to the face of a 15 series profile.",
+   "features": [
+    "Provides clearance to mount panel or plate to face of profile",
+    "Thickness of panel or plate must be .250” (6mm) or thicker"
+   ],
+   "specs": {
+    "Service Type": "Drill Thru 0.328” Panel 3/4” from Edge",
+    "A": ".750”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from panel edge to hole center (on the reference center line measured from the top of the panel)",
+   "notes": "Reference page 11-45. Panel or plate must be .250” (6mm) or thicker. Metric counterparts: 30-7508, 40-7508, 45-7508. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7589 on Side AB @ 9.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7511",
+   "series": [
+    "15"
+   ],
+   "name": "Top Mount Milling for Plastic Panel or Aluminum Plate",
+   "catalog_page": "11-45",
+   "description": "Machining service that drills and countersinks a hole for a 5/16” FHSCS 3/4” from the edge of a plastic panel or aluminum plate so it can be top mounted to the face of a 15 series profile.",
+   "features": [
+    "Provides clearance to mount panel or plate to face of profile",
+    "Thickness of panel or plate must be .250” (6mm) or thicker"
+   ],
+   "specs": {
+    "Service Type": "Drill Thru & Countersink for 5/16” FHSCS - 3/4” from Edge",
+    "A": ".750”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from panel edge to hole center (on the reference center line measured from the top of the panel)",
+   "notes": "Reference page 11-45. Panel or plate must be .250” (6mm) or thicker. Metric counterparts: 30-7511, 40-7511, 45-7511. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7589 on Side AB @ 9.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7512",
+   "series": [
+    "15"
+   ],
+   "name": "Top Mount Milling for Plastic Panel or Aluminum Plate",
+   "catalog_page": "11-45",
+   "description": "Machining service that drills and countersinks a hole for a 1/4” FHSCS 3/4” from the edge of a plastic panel or aluminum plate so it can be top mounted to the face of a 15 series profile.",
+   "features": [
+    "Provides clearance to mount panel or plate to face of profile",
+    "Thickness of panel or plate must be .250” (6mm) or thicker"
+   ],
+   "specs": {
+    "Service Type": "Drill Thru & Countersink for 1/4” FHSCS - 3/4” from Edge",
+    "A": ".750”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from panel edge to hole center (on the reference center line measured from the top of the panel)",
+   "notes": "Reference page 11-45. Panel or plate must be .250” (6mm) or thicker. Metric counterparts: 30-7512, 40-7512, 45-7512. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7589 on Side AB @ 9.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7545",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru Panel Mounting Hole for Flat Clamp Joint (Inset Mount)",
+   "catalog_page": "11-46",
+   "description": "Machining service that drills a .221 through hole in a panel for mounting it to a pipe HJ-15 flat clamp joint (pg. 13-11), inset mount. The hole is 1.353” from the panel edge (A).",
+   "features": [
+    "Provides access hole for mounting panels to pipe flat clamp joint (pg. 13-11)."
+   ],
+   "specs": {
+    "Service Type": ".221 Drill Thru for HJ-15 in Panel (Inset Mount)",
+    "A": "1.353”",
+    "B": ".221”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from panel edge to hole center (on the reference center line measured from the top of the panel), B = drill thru hole",
+   "notes": "Reference page 11-46. For pipe flat clamp joint HJ-15. Metric counterpart: 65-7545. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7545 on Side AB @ 9.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7546",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru Panel Mounting Hole for Flat Clamp Joint (Flush Mount)",
+   "catalog_page": "11-46",
+   "description": "Machining service that drills a .221 through hole in a panel for mounting it to a pipe HJ-15 flat clamp joint (pg. 13-11), flush mount. The hole is 2.303” from the panel edge (A).",
+   "features": [
+    "Provides access hole for mounting panels to pipe flat clamp joint (pg. 13-11)."
+   ],
+   "specs": {
+    "Service Type": ".221 Drill Thru for HJ-15 in Panel (Flush Mount)",
+    "A": "2.303”",
+    "B": ".221”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from panel edge to hole center (on the reference center line measured from the top of the panel), B = drill thru hole",
+   "notes": "Reference page 11-46. For pipe flat clamp joint HJ-15. Metric counterpart: 65-7546. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 18.000” w/ 7545 on Side AB @ 9.000”. All machining center lines are called out from point “A” on the panel."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7544",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru Panel Mounting Hole for Corner Reinforcing Bracket",
+   "catalog_page": "11-46",
+   "description": "Machining service that drills a .221 through hole near a panel corner for mounting the panel to a pipe AI-CORNER corner reinforcing bracket (pg. 13-35). The hole is 1.353” from both edges of the corner (A).",
+   "features": [
+    "Provides access hole for mounting panels to pipe corner reinforcing bracket (pg. 13-35)"
+   ],
+   "specs": {
+    "Service Type": ".221 Drill Thru for AI-CORNER in Panel",
+    "A": "1.353”",
+    "B": ".221”",
+    "Hole Location Tolerance": "+/- .010”"
+   },
+   "dimension_notes": "A = distance from each of the two corner edges to the hole center, B = drill thru hole",
+   "notes": "Reference page 11-46. For pipe corner reinforcing bracket AI-CORNER. Metric counterpart: 65-7544. Ordering example on page: 2609 (1) @ (AD) 18.000” x (AB) 21.000” w/ 7544 on Corner B."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7152",
+   "series": [
+    "F"
+   ],
+   "name": "Circular Cutout Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a circular opening larger than 1.000” and not to exceed 10” in a plastic panel up to .250” thick.",
+   "specs": {
+    "Aluminum Part No.": "7175",
+    "Service Type": "Circular Cutout Plastic Panel or Aluminum Plate > 1.000” Not to Exceed 10” Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7175. Metric counterpart: 65-7152."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7175",
+   "series": [
+    "F"
+   ],
+   "name": "Circular Cutout Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a circular opening larger than 1.000” and not to exceed 10” in an aluminum plate up to .250” thick.",
+   "specs": {
+    "Panel Part No.": "7152",
+    "Service Type": "Circular Cutout Plastic Panel or Aluminum Plate > 1.000” Not to Exceed 10” Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7152. Metric counterpart: 65-7175."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7186",
+   "series": [
+    "F"
+   ],
+   "name": "Circular Cutout Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a circular opening larger than 1.000” and not to exceed 10” in a plastic panel thicker than .250”.",
+   "specs": {
+    "Aluminum Part No.": "7194",
+    "Service Type": "Circular Cutout Plastic Panel or Aluminum Plate > 1.000” Not to Exceed 10” Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7194. Metric counterpart: 65-7186."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7194",
+   "series": [
+    "F"
+   ],
+   "name": "Circular Cutout Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a circular opening larger than 1.000” and not to exceed 10” in an aluminum plate thicker than .250”.",
+   "specs": {
+    "Panel Part No.": "7186",
+    "Service Type": "Circular Cutout Plastic Panel or Aluminum Plate > 1.000” Not to Exceed 10” Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7186. Metric counterpart: 65-7194."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7159",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills through holes in a plastic panel up to .250” thick.",
+   "specs": {
+    "Aluminum Part No.": "7180",
+    "Service Type": "Drill Thru Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7180. Metric counterpart: 65-7159."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7180",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills through holes in an aluminum plate up to .250” thick.",
+   "specs": {
+    "Panel Part No.": "7159",
+    "Service Type": "Drill Thru Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7159. Metric counterpart: 65-7180."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7200",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills through holes in a plastic panel thicker than .250”.",
+   "specs": {
+    "Aluminum Part No.": "7198",
+    "Service Type": "Drill Thru Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7198. Metric counterpart: 65-7200."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7198",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills through holes in an aluminum plate thicker than .250”.",
+   "specs": {
+    "Panel Part No.": "7200",
+    "Service Type": "Drill Thru Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7200. Metric counterpart: 65-7198."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7156",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Countersink Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and countersinks holes in a plastic panel up to .250” thick.",
+   "specs": {
+    "Aluminum Part No.": "7177",
+    "Service Type": "Drill Thru & Countersink Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7177. Metric counterpart: 65-7156."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7177",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Countersink Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and countersinks holes in an aluminum plate up to .250” thick.",
+   "specs": {
+    "Panel Part No.": "7156",
+    "Service Type": "Drill Thru & Countersink Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7156. Metric counterpart: 65-7177."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7188",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Countersink Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and countersinks holes in a plastic panel thicker than .250”.",
+   "specs": {
+    "Aluminum Part No.": "7196",
+    "Service Type": "Drill Thru & Countersink Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7196. Metric counterpart: 65-7188."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7196",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Countersink Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and countersinks holes in an aluminum plate thicker than .250”.",
+   "specs": {
+    "Panel Part No.": "7188",
+    "Service Type": "Drill Thru & Countersink Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7188. Metric counterpart: 65-7196."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7158",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Tap Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and taps holes in a plastic panel up to .250” thick.",
+   "specs": {
+    "Aluminum Part No.": "7178",
+    "Service Type": "Drill Thru & Tap Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7178. Metric counterpart: 65-7158."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7178",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Tap Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and taps holes in an aluminum plate up to .250” thick.",
+   "specs": {
+    "Panel Part No.": "7158",
+    "Service Type": "Drill Thru & Tap Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7158. Metric counterpart: 65-7178."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7189",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Tap Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and taps holes in a plastic panel thicker than .250”.",
+   "specs": {
+    "Aluminum Part No.": "7197",
+    "Service Type": "Drill Thru & Tap Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7197. Metric counterpart: 65-7189."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7197",
+   "series": [
+    "F"
+   ],
+   "name": "Drill Thru and Tap Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that drills and taps holes in an aluminum plate thicker than .250”.",
+   "specs": {
+    "Panel Part No.": "7189",
+    "Service Type": "Drill Thru & Tap Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7189. Metric counterpart: 65-7197."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7157",
+   "series": [
+    "F"
+   ],
+   "name": "Miter Cut Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that miter cuts a plastic panel up to .250” thick.",
+   "specs": {
+    "Aluminum Part No.": "7181",
+    "Service Type": "Miter Cut Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7181. Metric counterpart: 65-7157."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7181",
+   "series": [
+    "F"
+   ],
+   "name": "Miter Cut Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that miter cuts an aluminum plate up to .250” thick.",
+   "specs": {
+    "Panel Part No.": "7157",
+    "Service Type": "Miter Cut Plastic Panel or Aluminum Plate Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7157. Metric counterpart: 65-7181."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7201",
+   "series": [
+    "F"
+   ],
+   "name": "Miter Cut Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that miter cuts a plastic panel thicker than .250”.",
+   "specs": {
+    "Aluminum Part No.": "7199",
+    "Service Type": "Miter Cut Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7199. Metric counterpart: 65-7201."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7199",
+   "series": [
+    "F"
+   ],
+   "name": "Miter Cut Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that miter cuts an aluminum plate thicker than .250”.",
+   "specs": {
+    "Panel Part No.": "7201",
+    "Service Type": "Miter Cut Plastic Panel or Aluminum Plate Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7201. Metric counterpart: 65-7199."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7166",
+   "series": [
+    "F"
+   ],
+   "name": "Miscellaneous Notch Plastic Panel (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a notch (all dimensions 3.000” or less) in a plastic panel up to .250” thick.",
+   "specs": {
+    "Aluminum Part No.": "7174",
+    "Service Type": "Miscellaneous Plastic Panel or Aluminum Plate Notch ALL Dimensions ≤ 3.000” Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7174. Metric counterpart: 65-7166. Service Type text \"Dimensions ≤ 3.000”\" read from the page image; it is missing from the extracted PDF text."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7174",
+   "series": [
+    "F"
+   ],
+   "name": "Miscellaneous Notch Aluminum Plate (Up To .250” Thick)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a notch (all dimensions 3.000” or less) in an aluminum plate up to .250” thick.",
+   "specs": {
+    "Panel Part No.": "7166",
+    "Service Type": "Miscellaneous Plastic Panel or Aluminum Plate Notch ALL Dimensions ≤ 3.000” Up To .250” Thick",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7166. Metric counterpart: 65-7174. Service Type text \"Dimensions ≤ 3.000”\" read from the page image; it is missing from the extracted PDF text."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7185",
+   "series": [
+    "F"
+   ],
+   "name": "Miscellaneous Notch Plastic Panel (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a notch (all dimensions 3.000” or less) in a plastic panel thicker than .250”.",
+   "specs": {
+    "Aluminum Part No.": "7193",
+    "Service Type": "Miscellaneous Plastic Panel or Aluminum Plate Notch ALL Dimensions ≤ 3.000” Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Plastic Panel version of this service; the matching aluminum plate service is 7193. Metric counterpart: 65-7185. Service Type text \"Dimensions ≤ 3.000”\" read from the page image; it is missing from the extracted PDF text."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7193",
+   "series": [
+    "F"
+   ],
+   "name": "Miscellaneous Notch Aluminum Plate (Thicker Than .250”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that cuts a notch (all dimensions 3.000” or less) in an aluminum plate thicker than .250”.",
+   "specs": {
+    "Panel Part No.": "7185",
+    "Service Type": "Miscellaneous Plastic Panel or Aluminum Plate Notch ALL Dimensions ≤ 3.000” Thicker Than .250”",
+    "Tolerance": "+/- .010”"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum Plate version of this service; the matching plastic panel service is 7185. Metric counterpart: 65-7193. Service Type text \"Dimensions ≤ 3.000”\" read from the page image; it is missing from the extracted PDF text."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7513",
+   "series": [
+    "F"
+   ],
+   "name": "Mill Finish Sanding Aluminum Plate (ALL Dimensions ≤ 48”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that sands a mill finish aluminum plate with all dimensions 48” or less.",
+   "specs": {
+    "Service Type": "Mill Finish Sanding Aluminum Plate ALL Dimensions ≤ 48”",
+    "Tolerance": "—"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum plate only (no panel part number). Metric counterpart: 65-7513. Service Type text \"Dimensions ≤ 48”\" read from the page image; it is missing from the extracted PDF text."
+  },
+  {
+   "category": "machining_service",
+   "section": "Machining Services",
+   "part_number": "7514",
+   "series": [
+    "F"
+   ],
+   "name": "Mill Finish Sanding Aluminum Plate (ANY Dimensions > 48”)",
+   "catalog_page": "11-47",
+   "description": "Machining service that sands a mill finish aluminum plate with any dimension over 48”.",
+   "specs": {
+    "Service Type": "Mill Finish Sanding Aluminum Plate ANY Dimensions > 48”",
+    "Tolerance": "—"
+   },
+   "notes": "Reference page 11-47 (Miscellaneous Panel Milling Services). Panel drawings required. Aluminum plate only (no panel part number). Metric counterpart: 65-7514."
+  }
+ ],
+ "page_notes": {
+  "814": "11-40 Adjustable Tension and Detent Hinge Plastic Panel Milling: 15 series rows 7580 (Adjustable, hinge 2080) and 7583 (Detent, hinge 2091) extracted; 10 series 7581/7582 and metric 25-/40- rows skipped.",
+  "815": "11-41 Plastic Door Handle / Steel Door Handle Plastic Panel Milling: F rows 7586, 7585, 7584 (plastic handle) and 7587 (steel handle) extracted; M rows (25-/40-/65-) skipped.",
+  "816": "11-42 Panel Mount Block Plastic Panel Milling: 15 series 7588 extracted; 10 series 7589 and metric 25-7589/40-7588 skipped.",
+  "817": "11-43 Panel Retainer Milling: 15 series 7595 (single arm narrow) and 7596 (single arm wide) extracted; 10 series 7593/7594 and metric 20-/25-/30-/40-/45- rows skipped.",
+  "818": "11-44 Plastic Panel / Aluminum Plate Cutout (2, 3, 4 sided): F rows extracted as separate panel and aluminum service numbers (7162/7171, 7182/7190, 7163/7172, 7183/7191, 7164/7173, 7184/7192); Up To .250 rows also RT; 65- M rows skipped.",
+  "819": "11-45 Top Mount Milling for Plastic Panel or Aluminum Plate: 15 series 7508, 7511, 7512 extracted; 10 series 7507/7509 and metric 20-/25-/30-/40-/45- rows skipped.",
+  "820": "11-46 Drill Thru Panel Mounting Hole for Flat Clamp Joint (7545 inset, 7546 flush) and for Corner Reinforcing Bracket (7544), all F, extracted; 65- M rows skipped. Bullet text read from the image (not in PDF text).",
+  "821": "11-47 Miscellaneous Panel Milling Services: F rows of Circular Cutout, Drill Thru, Drill Thru and Countersink, Drill Thru and Tap, Miter Cut, Miscellaneous (notch) tables extracted as separate panel and aluminum service numbers, plus Mill Finish Sanding 7513/7514; 65- M rows skipped."
+ },
+ "verification": {
+  "added": [],
+  "removed": [],
+  "corrected": [],
+  "remaining_doubts": [
+   "7166/7174/7185/7193 and 7513 Service Type text 'Dimensions ≤ 3.000”' / 'Dimensions ≤ 48”' is absent from the PDF text layer; confirmed against a zoomed crop of the page image (11-47).",
+   "Descriptions of 7580/7583/7588/7595/7596/7508/7511/7512 call the mating hinge/block/retainer/profile '15 series'; this is inferred from the row's 15 badge rather than stated in words."
+  ]
+ }
+}

@@ -1,0 +1,653 @@
+{
+  "chunk": "c071",
+  "pages": [
+    750,
+    751,
+    752,
+    753,
+    754,
+    755,
+    756,
+    757
+  ],
+  "parts": [
+    {
+      "part_number": "14158",
+      "series": [
+        "15"
+      ],
+      "name": "Vertical Mount Hook",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-52",
+      "description": "Steel mount hook with a vertical two-hole mounting tab that bolts to T-slot profile.",
+      "material": "Steel",
+      "weight": ".290 lb",
+      "specs": {
+        "A": "2.810\"",
+        "B": ".810\"",
+        "C": ".310\"",
+        "D": ".310\"",
+        "E": ".620\"",
+        "F": ".260\"",
+        "G": "1.360\"",
+        "H": ".370\"",
+        "J": ".310\"",
+        "K": "1.000\"",
+        "L": ".820\"",
+        "M": ".170\""
+      },
+      "dimension_notes": "A = overall length; øF = mounting hole diameter; øH = hook rod diameter; R. J = hook bend radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3063",
+          "qty": 2,
+          "description": "1/4-20 x .625” BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "14165",
+          "qty": 2,
+          "description": "Drop-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Same row also badged 10 series and metric 25/30/40/45."
+    },
+    {
+      "part_number": "14155",
+      "series": [
+        "15"
+      ],
+      "name": "Horizontal Mount Hook",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-52",
+      "description": "Steel mount hook with a horizontal two-hole mounting plate that bolts to T-slot profile.",
+      "material": "Steel",
+      "weight": ".113 lb",
+      "specs": {
+        "A": "1.859\"",
+        "B": ".750\"",
+        "C": ".375\"",
+        "D": "1.515\"",
+        "E": ".359\"",
+        "F": ".813\"",
+        "G": ".204\"",
+        "H": "1.643\"",
+        "J": ".496\"",
+        "K": ".559\"",
+        "L": "1.194\"",
+        "M": "1.474\"",
+        "N": ".175\""
+      },
+      "dimension_notes": "D = mounting plate width; øG = mounting hole diameter; R. K = hook bend radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3050",
+          "qty": 2,
+          "description": "10-32 x .500” BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3932",
+          "qty": 2,
+          "description": "Drop-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Same row also badged 10 series and metric 25/30/40/45."
+    },
+    {
+      "part_number": "3959",
+      "series": [
+        "15"
+      ],
+      "name": "Magnetic Tool Holder",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-53",
+      "description": "Black steel magnetic tool holder bar that mounts to T-slot profile through two end holes.",
+      "material": "Steel",
+      "color": "Black",
+      "weight": "2.062 lb",
+      "specs": {
+        "A": ".950\"",
+        "B": ".236\"",
+        "C": ".475\"",
+        "D": ".233\"",
+        "E": "21.654\"",
+        "F": "23.160\"",
+        "G": "23.625\"",
+        "H": ".550\""
+      },
+      "dimension_notes": "G = overall length; øB = mounting hole diameter (TYP)",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6312",
+          "qty": 2,
+          "description": "M6 x 12mm BHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3931",
+          "qty": 2,
+          "description": "Drop-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Same row also badged 10 series and metric 25/30/40/45. Suggested 15-series bolt is metric (M6 x 12mm BHSCS)."
+    },
+    {
+      "part_number": "2851",
+      "series": [
+        "F"
+      ],
+      "name": "Light-Duty Adhesive Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-53",
+      "description": "Clear molded PVC clamp strip that snaps shut to hold documents, paper or vinyl and mounts with peel-and-stick adhesive backing.",
+      "features": [
+        "Snaps shut to secure documents, paper or vinyl up to .040” (1.016mm) thick",
+        "Mounts with adhesive peel and stick backing"
+      ],
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Clear",
+      "weight": ".017 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": ".800”",
+        "B": ".337”",
+        "C": ".282”",
+        "D": ".172”",
+        "E": "3.000”"
+      },
+      "dimension_notes": "E = length",
+      "notes": "Holds material up to .040” (1.016mm) thick. Row badged F and M (metric)."
+    },
+    {
+      "part_number": "65-2851",
+      "series": [
+        "F"
+      ],
+      "name": "Light-Duty Adhesive Clamp",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-53",
+      "description": "Clear molded PVC clamp strip that snaps shut to hold documents, paper or vinyl and mounts with peel-and-stick adhesive backing; listed with metric dimensions.",
+      "features": [
+        "Snaps shut to secure documents, paper or vinyl up to .040” (1.016mm) thick",
+        "Mounts with adhesive peel and stick backing"
+      ],
+      "material": "PVC",
+      "finish": "Matte",
+      "color": "Clear",
+      "weight": ".0076 kg",
+      "specs": {
+        "Process": "Molded",
+        "A": "20.32mm",
+        "B": "8.56mm",
+        "C": "7.16mm",
+        "D": "4.37mm",
+        "E": "76.20mm"
+      },
+      "dimension_notes": "E = length",
+      "notes": "Metric-dimensioned listing of the same clamp as 2851; row badged F and M (metric)."
+    },
+    {
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-54",
+      "material": "Nylon",
+      "color": "Black",
+      "part_number": "2286",
+      "series": [
+        "15"
+      ],
+      "name": "Tool Holder - Open Bottom",
+      "description": "Black molded nylon tool holder with an open bottom that mounts to T-slot profile with two screws.",
+      "weight": ".321 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "4.606\"",
+        "B": "3.874\"",
+        "C": "3.594\"",
+        "D": ".228\"",
+        "E": "4.449\"",
+        "F": "1.023\"",
+        "G": "2.756\"",
+        "H": "2.913\"",
+        "J": "2.303\"",
+        "K": "4.045\""
+      },
+      "dimension_notes": "A = height; øD = mounting hole diameter (TYP); øH = bottom opening diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5716",
+          "qty": 2,
+          "description": "M5 x 16mm FHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3844",
+          "qty": 2,
+          "description": "Roll-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Same row also badged 10 series and metric 25/30/40. Companion closed-bottom version is 2287 Cup Holder."
+    },
+    {
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-54",
+      "material": "Nylon",
+      "color": "Black",
+      "part_number": "2287",
+      "series": [
+        "15"
+      ],
+      "name": "Cup Holder - Closed Bottom",
+      "description": "Black molded nylon cup holder with a closed bottom that mounts to T-slot profile with two screws.",
+      "weight": ".346 lb",
+      "specs": {
+        "Process": "Molded",
+        "A": "4.606\"",
+        "B": "3.874\"",
+        "C": "3.594\"",
+        "D": ".228\"",
+        "E": "4.449\"",
+        "F": "1.023\"",
+        "G": "2.756\"",
+        "H": ".315\"",
+        "J": "2.303\"",
+        "K": "4.045\""
+      },
+      "dimension_notes": "A = height; øD = mounting hole diameter (TYP); øH = bottom hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "11-5716",
+          "qty": 2,
+          "description": "M5 x 16mm FHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3844",
+          "qty": 2,
+          "description": "Roll-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Same row also badged 10 series and metric 25/30/40. Companion open-bottom version is 2286 Tool Holder."
+    },
+    {
+      "part_number": "13099",
+      "series": [
+        "F"
+      ],
+      "name": "Tabletop Mounting Tape",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-54",
+      "description": "Square white acrylic double-sided tape pads that use a high-strength bonding method.",
+      "features": [
+        "Double-sided tape that uses a high-strength bonding method",
+        "Sold in packs of 10"
+      ],
+      "material": "Acrylic",
+      "color": "White",
+      "weight": ".023 lb (.0104 kg)",
+      "specs": {
+        "A": "1.181” (30.00mm)",
+        "B": ".039” (1.00mm)"
+      },
+      "dimension_notes": "A = side length (TYP); B = thickness",
+      "notes": "Sold in packs of 10. Row badged F and M (metric)."
+    },
+    {
+      "part_number": "CO-SLM",
+      "series": [
+        "15",
+        "P"
+      ],
+      "name": "Spring Loaded Tow Bar Male",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-55",
+      "description": "Zinc-finished steel spring loaded tow bar (male) with a max towing capacity of 1,570 lbs; combined with the female CO-SLF it provides a lean tugger-train method for material handling.",
+      "features": [
+        "Combined CO-SLM and SO-SLF provide a lean tugger-train method for material handling solutions",
+        "Eliminates the use of pallet trucks and helps reduce forklift related accidents with solutions like pallet carts and trolleys",
+        "Operates with a max towing capacity of 1,570 lbs",
+        "U-Bolt hardware included to attached to pipe and joint system (Flexpipe)"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": "3.204 lbs",
+      "specs": {
+        "Description": "Spring Loaded Tow Bar Male",
+        "A": "6.000” (152.4mm)",
+        "B": "4.875” (123.82mm)",
+        "C": "2.250” (57.15mm)",
+        "D": "10.000” (254.00mm)",
+        "Max Towing Capacity": "1,570.00 lbs"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6516",
+          "qty": 12,
+          "description": "M6 x 16mm SHCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3866",
+          "qty": 12,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "11-6041",
+          "qty": 12,
+          "description": "Washer",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Max towing capacity 1,570.00 lbs. Use with female CO-SLF. U-Bolt hardware included for attaching to pipe and joint system (Flexpipe); P-series row: qty 4, attach to pipe using included U-Bolts. Suggested hardware qty (12) printed once per row and applied here to bolt, T-nut and washer. Same row also badged 10 series and metric 25/30/40/45."
+    },
+    {
+      "part_number": "CO-SLF",
+      "series": [
+        "15",
+        "P"
+      ],
+      "name": "Spring Loaded Tow Bar Female",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-55",
+      "description": "Zinc-finished steel spring loaded tow bar (female) with a max towing capacity of 1,570 lbs; combined with the male CO-SLM it provides a lean tugger-train method for material handling.",
+      "features": [
+        "Combined CO-SLM and SO-SLF provide a lean tugger-train method for material handling solutions",
+        "Eliminates the use of pallet trucks and helps reduce forklift related accidents with solutions like pallet carts and trolleys",
+        "Operates with a max towing capacity of 1,570 lbs",
+        "U-Bolt hardware included to attached to pipe and joint system (Flexpipe)"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "weight": "11.604 lbs",
+      "specs": {
+        "Description": "Spring Loaded Tow Bar Female",
+        "A": "3.875” (98.42mm)",
+        "B": "3.125” (79.38mm)",
+        "C": "7.000” (177.80mm)",
+        "D": "30.421” (772.69mm)",
+        "Max Towing Capacity": "1,570.00 lbs"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-6516",
+          "qty": 8,
+          "description": "M6 x 16mm SHCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3866",
+          "qty": 8,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "11-6041",
+          "qty": 8,
+          "description": "Washer",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Max towing capacity 1,570.00 lbs. Use with male CO-SLM. U-Bolt hardware included for attaching to pipe and joint system (Flexpipe); P-series row: qty 4, attach to pipe using included U-Bolts. Suggested hardware qty (8) printed once per row and applied here to bolt, T-nut and washer. Same row also badged 10 series and metric 25/30/40/45."
+    },
+    {
+      "part_number": "2849",
+      "series": [
+        "15"
+      ],
+      "name": "Rubber Bumper",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-56",
+      "description": "Black rubber bumper used as a door stop or shock mount; mounting hardware for T-slot is included.",
+      "features": [
+        "Used as a door stop or shock mount",
+        "Mounting hardware included"
+      ],
+      "material": "Rubber",
+      "color": "Black",
+      "weight": ".089 lb",
+      "specs": {
+        "A": "1.500”",
+        "B": "1.031”",
+        "C": ".625”",
+        "D": ".344”",
+        "E": ".750”"
+      },
+      "dimension_notes": "øA = bumper diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3330",
+          "qty": 1,
+          "description": "5/16-18 x 11/16” FBHSCS",
+          "context": "Included Hardware (Mount to T-Slot)"
+        },
+        {
+          "part_number": "3278",
+          "qty": 1,
+          "description": "Economy T-Nut",
+          "context": "Included Hardware (Mount to T-Slot)"
+        }
+      ],
+      "notes": "Mounting hardware included (1 bolt 3330 and 1 Economy T-nut 3278 for 15 series)."
+    },
+    {
+      "part_number": "2679",
+      "series": [
+        "15"
+      ],
+      "name": "21U Rack Rail",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-57",
+      "description": "Black E-coated steel angle rack rail, sold in pairs, compatible with industry standard 19.00” rack-mounted hardware.",
+      "features": [
+        "Steel rail sold in pairs",
+        "Compatible with industry standard 19.00” rack-mounted hardware"
+      ],
+      "material": "Steel",
+      "finish": "E-coat",
+      "color": "Black",
+      "weight": "5.20 lb (.1930 kg)",
+      "specs": {
+        "A": "1.530” (39.00mm)",
+        "B": ".680” (17.00mm)",
+        "C": "36.750” (.93m)",
+        "D": "1.500” (38.00mm)",
+        "E": ".875” (22.00mm)",
+        "F": ".250” (6.00mm)",
+        "G": ".870” (22.00mm)",
+        "H": ".218” (6.00mm)",
+        "J": ".312” (8.00mm)",
+        "K": ".218” (6.00mm)",
+        "L": ".250” (6.00mm)",
+        "M": ".875” (22.00mm)",
+        "N": "1.500” (38.00mm)",
+        "P": ".410” (10.00mm)"
+      },
+      "dimension_notes": "A and B = angle leg dimensions; C = overall rail length; hole pattern repeats every 1.750” (45mm) (1 Space); the holes in the lower view (dimensions L-P) are 10-32 threads",
+      "suggested_hardware": [
+        {
+          "part_number": "3342",
+          "qty": 10,
+          "description": "Bolt",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3933",
+          "qty": 10,
+          "description": "T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Sold in pairs. Suggested hardware qty 10 is printed once (merged cell) for all series rows. Metric weight printed as .1930 kg, which does not match 5.20 lb. Same row also badged 10 series and metric 25/30/40/45. Rack Screws 2680 (10-32) listed on the same page."
+    },
+    {
+      "part_number": "2680",
+      "series": [
+        "F"
+      ],
+      "name": "Rack Screws",
+      "category": "screw_bolt",
+      "section": "Accessories",
+      "catalog_page": "9-57",
+      "description": "Black zinc-finished steel 10-32 rack screws with a self-guiding pilot point and plastic washer, sold in packs of 25.",
+      "features": [
+        "Sold in packs of 25",
+        "Self-guiding pilot point with plastic washer"
+      ],
+      "material": "Steel",
+      "finish": "Zinc",
+      "color": "Black",
+      "weight": ".193 lb",
+      "specs": {
+        "Thread": "10-32",
+        "Length": ".866”",
+        "Width": ".433”",
+        "Height": "433”"
+      },
+      "notes": "Sold in packs of 25. Height printed as 433” (no decimal point; Width is .433”). Shown with the 21U Rack Rail (2679), whose flange holes are labeled 10-32 threads. Row badged F and M (metric)."
+    },
+    {
+      "part_number": "12335",
+      "series": [
+        "F"
+      ],
+      "name": "Overhead Ionizer with Light, 3-Fan, 120VAC",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-58",
+      "description": "120VAC overhead three-fan ionizer with light whose discharge time and offset voltage meet the limits for ionization use in electronics manufacturing areas; NIST calibrated.",
+      "features": [
+        "3 Seconds or Less Discharge Time with ±10 Volts Offset Voltage (Balance) meets the required limits for ionization use in electronics manufacturing areas per ANSI/ESD S20.20 and ESD TR53",
+        "Ionization performance is consistent at all three speeds and allows for use with sensitive applications, such as calibration, test, or repair procedures",
+        "Sealed Plenum Air Flow prevents contamination from being introduced to workstation",
+        "NIST Calibrated"
+      ],
+      "weight": "16.25 lb (7.370 kg)",
+      "specs": {
+        "Height": "3.90” (99.00mm)",
+        "Width": "6.60” (168.00mm)",
+        "Length": "37.30” (947.00mm)"
+      },
+      "notes": "120VAC. Row badged F and M (metric)."
+    },
+    {
+      "part_number": "12336",
+      "series": [
+        "F"
+      ],
+      "name": "Benchtop Ionizer, 120VAC",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-58",
+      "description": "120VAC benchtop steady state DC ionizer with active balancing and audible/visual alarm; NIST calibrated.",
+      "features": [
+        "Benchtop steady state DC ionizer specially designed fan modules create better coverage (16” x 24”), consistent offset voltage (balance) ±3 volts, and superior discharge times(<1 second at 12”) tested per ANSI/ESD STM 3.1",
+        "Ionization performance is consistent at all three speeds and allows for use with sensitive applications, such as calibration, test, or repair procedures",
+        "Active balancing system with audible and visual alarm",
+        "NIST Calibrated"
+      ],
+      "weight": "4.50 lb (2.000 kg)",
+      "specs": {
+        "Height": "9.50” (241.00mm)",
+        "Width": "6.00” (152.00mm)",
+        "Depth": "3.10” (79.00mm)"
+      },
+      "notes": "120VAC. Row badged F and M (metric)."
+    },
+    {
+      "part_number": "12333",
+      "series": [
+        "F"
+      ],
+      "name": "Mini Monitor",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-59",
+      "description": "ESD monitor that continuously checks the path-to-ground integrity of one operator and one ESD work surface, with color indicator lights and an audible alarm.",
+      "features": [
+        "Continuously monitors the path-to-ground integrity of one operator and one ESD work surface",
+        "Illuminates green to indicate proper grounding; illuminates red and sounds audible alarm when intermittent or failed connection occurs; illuminates blue to indicate standby mode",
+        "Single-wire impedance design grounds and monitors the work surface",
+        "<50 millisecond alarm response time identifies failures and intermittencies that inferior technologies miss",
+        "Park delay timer and ParkSnap™ indicates the 8-second delay to disconnect and park the operator wrist cord without creating a false alarm",
+        "Included with monitor: 100-240VAC NRTL power adapter with North American plug, washers (2), and flat head screws 6-32 x 3/8” (2)"
+      ],
+      "weight": ".60 lb (.2721 kg)",
+      "specs": {
+        "Diameter": "2.49” (63.00mm)",
+        "Height": ".840” (21.00mm)"
+      },
+      "notes": "Included with monitor: 100-240VAC NRTL power adapter with North American plug, washers (2), and flat head screws 6-32 x 3/8” (2). Row badged F and M (metric)."
+    },
+    {
+      "part_number": "12334",
+      "series": [
+        "F"
+      ],
+      "name": "Adjustable Wrist Strap with 6’ Coil Cord",
+      "category": "accessory",
+      "section": "Accessories",
+      "catalog_page": "9-59",
+      "description": "Adjustable wrist strap with an extra wide, soft elastic band knitted inside with silver impregnated polypropylene for conductivity, and a 6’ coil cord with a spring supported banana plug.",
+      "features": [
+        "Extra wide, soft elastic band",
+        "Silver impregnated polypropylene knitted on inside for superior conductivity",
+        "Adjustable one size fits most",
+        "Coil cord strain relief tests in excess of 1,000,000 cycles eliminates intermittent failures",
+        "Contoured spring supported banana plug prevents unnecessary wear to banana spring",
+        "Low profile snap design keeps cord from disconnecting"
+      ],
+      "weight": ".110 lb (.0498 kg)",
+      "specs": {
+        "Nonextended Coils": "10.00” (254.00mm)"
+      },
+      "notes": "6’ coil cord. Row badged F and M (metric)."
+    }
+  ],
+  "page_notes": {
+    "750": "9-52 Mount Hooks: Vertical 14158 and Horizontal 14155 (both badged 10/15/metric) extracted with 15-series suggested hardware.",
+    "751": "9-53 Magnetic Tool Holder 3959 (10/15/metric) extracted with 15-series suggested hardware; Light-Duty Adhesive Clamp 2851 and 65-2851 (F/M) extracted.",
+    "752": "9-54 Tool Holder 2286 and Cup Holder 2287 (10/15/metric) extracted with 15-series suggested hardware; Tabletop Mounting Tape 13099 (F/M) extracted.",
+    "753": "9-55 Spring Loaded Tow Bar CO-SLM and CO-SLF (10/15/P/metric) extracted with 15-series male/female suggested hardware.",
+    "754": "9-56 Rubber Bumper: only 2849 is 15 series (2850 is 10, 25-2850/40-2849 metric), extracted with included hardware; Connector Rod Profile 9820 is RT only, skipped along with its machining/hardware tables (3754 F bolt applies only to the RT rod).",
+    "755": "9-57 21U Rack Rail 2679 (10/15/metric) extracted with 15-series suggested hardware; Rack Screws 2680 (F/M) extracted.",
+    "756": "9-58 Overhead Ionizer 12335 and Benchtop Ionizer 12336 (F/M) extracted.",
+    "757": "9-59 Mini Monitor 12333 and Adjustable Wrist Strap 12334 (F/M) extracted."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "CO-SLM: description \"Zinc-finished steel male half of a spring loaded tow bar; combined with the female CO-SLF it links carts into a tugger train for material handling.\" -> \"Zinc-finished steel spring loaded tow bar (male) with a max towing capacity of 1,570 lbs; combined with the female CO-SLF it provides a lean tugger-train method for material handling.\"",
+      "CO-SLF: description \"Zinc-finished steel female half of a spring loaded tow bar; combined with the male CO-SLM it links carts into a tugger train for material handling.\" -> \"Zinc-finished steel spring loaded tow bar (female) with a max towing capacity of 1,570 lbs; combined with the male CO-SLM it provides a lean tugger-train method for material handling.\"",
+      "12335: description \"120VAC overhead three-fan ionizer with light for static control in electronics manufacturing areas; NIST calibrated.\" -> \"120VAC overhead three-fan ionizer with light whose discharge time and offset voltage meet the limits for ionization use in electronics manufacturing areas; NIST calibrated.\"",
+      "12334: description \"Adjustable ESD wrist strap with an extra wide elastic band and a 6’ coil cord ending in a banana plug.\" -> \"Adjustable wrist strap with an extra wide, soft elastic band knitted inside with silver impregnated polypropylene for conductivity, and a 6’ coil cord with a spring supported banana plug.\"",
+      "2679: dimension_notes \"A and B = angle leg dimensions; C = overall rail length; hole pattern repeats every 1.750” (45mm) (1 Space); the rack-mounting flange holes are 10-32 threads\" -> \"A and B = angle leg dimensions; C = overall rail length; hole pattern repeats every 1.750” (45mm) (1 Space); the holes in the lower view (dimensions L-P) are 10-32 threads\""
+    ],
+    "remaining_doubts": [
+      "65-2851 (Light-Duty Adhesive Clamp, metric-dimensioned listing) is kept because its row is printed with the F and M badges, although its 65- part number and mm/kg values mark it as the metric variant of 2851.",
+      "2679 metric weight is printed as .1930 kg, which does not match 5.20 lb; both kept verbatim.",
+      "2680 Height is printed as 433” (no decimal point); kept verbatim.",
+      "CO-SLM/CO-SLF feature text says 'SO-SLF' (catalog typo); kept verbatim. The P-series hardware row (qty 4, attach to pipe using included U-Bolts) is in notes, not suggested_hardware.",
+      "Page 754 Connector Rod Profile 9820 is RT only; its suggested bolt 3754 (F badge) appears only in a suggested-hardware table, so no standalone part was made."
+    ]
+  }
+}

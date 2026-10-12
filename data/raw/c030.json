@@ -1,0 +1,848 @@
+{
+  "chunk": "c030",
+  "pages": [
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404
+  ],
+  "parts": [
+    {
+      "part_number": "14139",
+      "series": [
+        "15"
+      ],
+      "name": "Drop-In Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-31",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface. A molded extension drops into the T-slot and serves as a T-slot stud; this version has a M6 x 1.0 thread.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Spacer block can be used (pg. 5-33)"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0100 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "13.00mm",
+        "C": "9.00mm",
+        "D": "25.00mm",
+        "E": "8.50mm",
+        "F": "12.50mm",
+        "G": "18.50mm",
+        "H": "34.00mm",
+        "J": "9.00mm",
+        "K": "M6 x 1.0",
+        "L": "6.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "F = slot length, K = thread",
+      "notes": "Row is badged 15 and 40 (metric 40 series). Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42). A spacer block can be used (pg. 5-33)."
+    },
+    {
+      "part_number": "14186",
+      "series": [
+        "15"
+      ],
+      "name": "Drop-In Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-31",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface. A molded extension drops into the T-slot and serves as a T-slot stud; this version has a 1/4-20 thread.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Spacer block can be used (pg. 5-33)"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0998 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "13.00mm",
+        "C": "9.00mm",
+        "D": "25.00mm",
+        "E": "8.50mm",
+        "F": "12.50mm",
+        "G": "18.50mm",
+        "H": "34.00mm",
+        "J": "9.00mm",
+        "K": "1/4-20",
+        "L": "6.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "F = slot length, K = thread",
+      "notes": "Row is badged 15 and 40 (metric 40 series). Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42). A spacer block can be used (pg. 5-33). Weight printed as .0998 kg, which is about ten times the other rows; copied verbatim."
+    },
+    {
+      "part_number": "14142",
+      "series": [
+        "15"
+      ],
+      "name": "Drop-In Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-31",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface. A molded extension drops into the T-slot and serves as a T-slot stud; this version has a M6 x 1.0 thread.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Spacer block can be used (pg. 5-33)"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0181 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "13.00mm",
+        "C": "9.00mm",
+        "D": "25.00mm",
+        "E": "12.50mm",
+        "F": "12.50mm",
+        "G": "18.50mm",
+        "H": "34.00mm",
+        "J": "9.00mm",
+        "K": "M6 x 1.0",
+        "L": "6.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "F = slot length, K = thread",
+      "notes": "Row is badged 15 and 40 (metric 40 series). Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42). A spacer block can be used (pg. 5-33)."
+    },
+    {
+      "part_number": "14143",
+      "series": [
+        "15"
+      ],
+      "name": "Drop-In Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-31",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface. A molded extension drops into the T-slot and serves as a T-slot stud; this version has a M6 x 1.0 thread.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Spacer block can be used (pg. 5-33)"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0100 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "13.00mm",
+        "C": "9.00mm",
+        "D": "25.00mm",
+        "E": "14.50mm",
+        "F": "12.50mm",
+        "G": "18.50mm",
+        "H": "34.00mm",
+        "J": "9.00mm",
+        "K": "M6 x 1.0",
+        "L": "6.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "F = slot length, K = thread",
+      "notes": "Row is badged 15 and 40 (metric 40 series). Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42). A spacer block can be used (pg. 5-33)."
+    },
+    {
+      "part_number": "14167",
+      "series": [
+        "15"
+      ],
+      "name": "Drop-In Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-31",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface. A molded extension drops into the T-slot and serves as a T-slot stud; this version has a 1/4-20 thread.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Spacer block can be used (pg. 5-33)"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0100 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "13.00mm",
+        "C": "9.00mm",
+        "D": "25.00mm",
+        "E": "12.50mm",
+        "F": "12.50mm",
+        "G": "18.50mm",
+        "H": "34.00mm",
+        "J": "9.00mm",
+        "K": "1/4-20",
+        "L": "6.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "F = slot length, K = thread",
+      "notes": "Row is badged 15 and 40 (metric 40 series). Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42). A spacer block can be used (pg. 5-33)."
+    },
+    {
+      "part_number": "14191",
+      "series": [
+        "15"
+      ],
+      "name": "Drop-In Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-31",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface. A molded extension drops into the T-slot and serves as a T-slot stud; this version has a 1/4-20 thread.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Spacer block can be used (pg. 5-33)"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0100 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "13.00mm",
+        "C": "9.00mm",
+        "D": "25.00mm",
+        "E": "14.50mm",
+        "F": "15.60mm",
+        "G": "18.50mm",
+        "H": "34.00mm",
+        "J": "9.00mm",
+        "K": "1/4-20",
+        "L": "6.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "F = slot length, K = thread",
+      "notes": "Row is badged 15 and 40 (metric 40 series). Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42). A spacer block can be used (pg. 5-33)."
+    },
+    {
+      "part_number": "12050",
+      "series": [
+        "15"
+      ],
+      "name": "Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-32",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface; it is bolted to the T-slot and has a M6 x 1.0 thread. Panel type and thickness determine the hardware used to mount the panel.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Panel type/thickness determines hardware to mount panel",
+        "Spacer block can be used (pg. 5-33)",
+        "Hardware not included"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0037 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "15.00mm",
+        "C": "8.00mm",
+        "D": "25.00mm",
+        "E": "10.00mm",
+        "F": "18.50mm",
+        "G": "9.50mm",
+        "H": "M6 x 1.0",
+        "J": "6.30mm",
+        "K": "11.65mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "E = slot length, H = thread diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3408",
+          "qty": 1,
+          "description": "1/4-20 x 1/2 BHSCS, Drop-in T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge (15, 30, 40, 45) is printed once for both rows. Hardware not included. Footnote: this block mounted to a 30 series bar will NOT flush mount to the edge of the profile. Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42)."
+    },
+    {
+      "part_number": "14192",
+      "series": [
+        "15"
+      ],
+      "name": "Lite Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-32",
+      "description": "Black injection-molded nylon block that mounts a panel either flush with the profile edge or on the profile surface; it is bolted to the T-slot and has a 1/4-20 thread. Panel type and thickness determine the hardware used to mount the panel.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Panel type/thickness determines hardware to mount panel",
+        "Spacer block can be used (pg. 5-33)",
+        "Hardware not included"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0086 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "15.00mm",
+        "C": "8.00mm",
+        "D": "25.00mm",
+        "E": "10.00mm",
+        "F": "18.50mm",
+        "G": "9.50mm",
+        "H": "1/4-20",
+        "J": "6.30mm",
+        "K": "11.65mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "E = slot length, H = thread diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3408",
+          "qty": 1,
+          "description": "1/4-20 x 1/2 BHSCS, Drop-in T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Series badge (15, 30, 40, 45) is printed once for both rows. Hardware not included. Footnote: this block mounted to a 30 series bar will NOT flush mount to the edge of the profile. Required machining service: Panel Mount Block Milling on the mounting panel (reference page 11-42)."
+    },
+    {
+      "part_number": "12051",
+      "series": [
+        "15"
+      ],
+      "name": "Lite Panel Mount Block Spacer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-33",
+      "description": "Black injection-molded nylon spacer placed between a lite or drop-in lite panel mount block and the panel to increase thickness and allow offset panel mounting; this size has F = 4.00mm.",
+      "features": [
+        "Increases thickness, allows offset panel mounting",
+        "Works with lite or drop-in lite panel mount block"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0009 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "6.50mm",
+        "C": "15.00mm",
+        "D": "18.00mm",
+        "E": "3.00mm",
+        "F": "4.00mm",
+        "G": "2.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "A = overall length, D = overall width, B = slot width, C = slot length",
+      "notes": "Series badge (15, 30, 40, 45), material, color and process are printed once for all three spacer rows. Drawing labels F twice (side-view thickness and a corner 'TYP (RADIUS)' callout) and shows no E label, so the meanings of E, F and G are not stated here."
+    },
+    {
+      "part_number": "12053",
+      "series": [
+        "15"
+      ],
+      "name": "Lite Panel Mount Block Spacer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-33",
+      "description": "Black injection-molded nylon spacer placed between a lite or drop-in lite panel mount block and the panel to increase thickness and allow offset panel mounting; this size has F = 5.00mm.",
+      "features": [
+        "Increases thickness, allows offset panel mounting",
+        "Works with lite or drop-in lite panel mount block"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0012 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "6.50mm",
+        "C": "15.00mm",
+        "D": "18.00mm",
+        "E": "3.00mm",
+        "F": "5.00mm",
+        "G": "3.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "A = overall length, D = overall width, B = slot width, C = slot length",
+      "notes": "Series badge (15, 30, 40, 45), material, color and process are printed once for all three spacer rows. Drawing labels F twice (side-view thickness and a corner 'TYP (RADIUS)' callout) and shows no E label, so the meanings of E, F and G are not stated here."
+    },
+    {
+      "part_number": "12055",
+      "series": [
+        "15"
+      ],
+      "name": "Lite Panel Mount Block Spacer",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-33",
+      "description": "Black injection-molded nylon spacer placed between a lite or drop-in lite panel mount block and the panel to increase thickness and allow offset panel mounting; this size has F = 7.00mm.",
+      "features": [
+        "Increases thickness, allows offset panel mounting",
+        "Works with lite or drop-in lite panel mount block"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".0023 kg",
+      "specs": {
+        "A": "25.00mm",
+        "B": "6.50mm",
+        "C": "15.00mm",
+        "D": "18.00mm",
+        "E": "3.00mm",
+        "F": "7.00mm",
+        "G": "5.00mm",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "A = overall length, D = overall width, B = slot width, C = slot length",
+      "notes": "Series badge (15, 30, 40, 45), material, color and process are printed once for all three spacer rows. Drawing labels F twice (side-view thickness and a corner 'TYP (RADIUS)' callout) and shows no E label, so the meanings of E, F and G are not stated here."
+    },
+    {
+      "part_number": "12057",
+      "series": [
+        "15"
+      ],
+      "name": "Adjustable Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-34",
+      "description": "Die-cast zinc block that mounts a panel flush with the profile edge or on the profile surface; it is slotted for a variety of panel thicknesses and provides three options to mount the panel. This version is the block without the anti-rotation clip (no M, U or V dimension).",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Option available with adjustable anti-rotation clip",
+        "Slotted for variety of panel thicknesses",
+        "Provides three options to mount the panel"
+      ],
+      "material": "Zinc",
+      "finish": "Smooth Black",
+      "weight": ".0653 kg",
+      "specs": {
+        "A": "8.20mm",
+        "B": "30.00mm",
+        "C": "14.40mm",
+        "D": "7.80mm",
+        "E": "10.00mm",
+        "F": "10.00mm",
+        "G": "7.00mm",
+        "H": "M8 x 1.25",
+        "J": "4.20mm",
+        "K": "8.00mm",
+        "L": "M6 x 1.0",
+        "M": "—",
+        "N": "8.20mm",
+        "P": "5.20mm",
+        "Q": "7.70mm",
+        "R": "30.00mm",
+        "S": "9.00mm",
+        "T": "30.00mm",
+        "U": "—",
+        "V": "—",
+        "W": "9.00mm",
+        "Process": "Die Cast"
+      },
+      "dimension_notes": "A = hole diameter, N = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3627",
+          "qty": 1,
+          "description": "M8 x 18mm SHCS, Slide-in T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Row is badged 15 and 40 (metric 40 series). Required machining service: Drill Thru on the mounting panel (reference page 11-46). Process: Die Cast."
+    },
+    {
+      "part_number": "12058",
+      "series": [
+        "15"
+      ],
+      "name": "Adjustable Panel Mount Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-34",
+      "description": "Die-cast zinc block that mounts a panel flush with the profile edge or on the profile surface; it is slotted for a variety of panel thicknesses and provides three options to mount the panel. This version comes with an adjustable anti-rotation clip.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Option available with adjustable anti-rotation clip",
+        "Slotted for variety of panel thicknesses",
+        "Provides three options to mount the panel"
+      ],
+      "material": "Zinc",
+      "finish": "Smooth Black",
+      "weight": ".0694 kg",
+      "specs": {
+        "A": "8.20mm",
+        "B": "30.00mm",
+        "C": "14.40mm",
+        "D": "7.80mm",
+        "E": "10.00mm",
+        "F": "10.00mm",
+        "G": "7.00mm",
+        "H": "M8 x 1.25",
+        "J": "4.20mm",
+        "K": "8.00mm",
+        "L": "M6 x 1.0",
+        "M": "20.50mm",
+        "N": "8.20mm",
+        "P": "5.20mm",
+        "Q": "7.70mm",
+        "R": "30.00mm",
+        "S": "9.00mm",
+        "T": "30.00mm",
+        "U": "8.00mm",
+        "V": "4.00mm",
+        "W": "9.00mm",
+        "Process": "Die Cast"
+      },
+      "dimension_notes": "A = hole diameter, N = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3627",
+          "qty": 1,
+          "description": "M8 x 18mm SHCS, Slide-in T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Printed as 12058* in the table; the asterisk footnote reads: This block comes with an adjustable anti-rotation clip. Row is badged 15 and 40 (metric 40 series). Required machining service: Drill Thru on the mounting panel (reference page 11-46). Process: Die Cast."
+    },
+    {
+      "part_number": "2421",
+      "series": [
+        "15"
+      ],
+      "name": "Quick Change Panel Clamp - Block & Clip",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-35",
+      "description": "Black nylon panel clamp made of a block and a removable clip; it mounts a panel flush with the profile edge or on the profile surface, and its molded extension serves as a T-slot stud. This part number is the block & clip.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Requires no machining or hardware",
+        "Clip removed with flat tip screwdriver"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".018 lb",
+      "specs": {
+        "Type": "Block & Clip",
+        "A": ".775\"",
+        "B": ".640\"",
+        "C": ".980\"",
+        "D": ".785\"",
+        "E": ".870\"",
+        "F": ".920\""
+      },
+      "notes": "Sold as block and clip together. The 15 badge, material and color are printed once for the 2421-2423 rows."
+    },
+    {
+      "part_number": "2422",
+      "series": [
+        "15"
+      ],
+      "name": "Quick Change Panel Clamp - Block",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-35",
+      "description": "Black nylon panel clamp made of a block and a removable clip; it mounts a panel flush with the profile edge or on the profile surface, and its molded extension serves as a T-slot stud. This part number is the block.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Requires no machining or hardware",
+        "Clip removed with flat tip screwdriver"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".014 lb",
+      "specs": {
+        "Type": "Block",
+        "A": ".775\"",
+        "B": ".640\"",
+        "C": "—",
+        "D": "—",
+        "E": "—",
+        "F": ".920\""
+      },
+      "notes": "Block only; clip sold separately as 2423. The 15 badge, material and color are printed once for the 2421-2423 rows."
+    },
+    {
+      "part_number": "2423",
+      "series": [
+        "15"
+      ],
+      "name": "Quick Change Panel Clamp - Clip",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-35",
+      "description": "Black nylon panel clamp made of a block and a removable clip; it mounts a panel flush with the profile edge or on the profile surface, and its molded extension serves as a T-slot stud. This part number is the clip.",
+      "features": [
+        "Mounts panel flush with profile edge or on profile surface",
+        "Molded extension serves as T-slot stud",
+        "Requires no machining or hardware",
+        "Clip removed with flat tip screwdriver"
+      ],
+      "material": "Nylon",
+      "color": "Black",
+      "weight": ".004 lb",
+      "specs": {
+        "Type": "Clip",
+        "A": "—",
+        "B": "—",
+        "C": ".980\"",
+        "D": ".785\"",
+        "E": ".870\"",
+        "F": "—"
+      },
+      "notes": "Clip only; block sold separately as 2422. The 15 badge, material and color are printed once for the 2421-2423 rows."
+    },
+    {
+      "part_number": "2488",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In Panel Mount Bracket",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-36",
+      "description": "Anodized 6063-T6 aluminum bracket that rolls into the T-slot and mounts a panel flush with the profile. Panel type and thickness determine the hardware used to mount the panel.",
+      "features": [
+        "Panel type/thickness determines hardware to mount panel",
+        "Mounts panel flush with profile",
+        "Requires drill through / drill through and tap machining (pg. 11-46)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".053 lb",
+      "specs": {
+        "A": "1.805”",
+        "B": ".750”",
+        "C": ".745”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": "1.305”",
+        "G": ".610”",
+        "H": ".130”",
+        "J": ".476”",
+        "K": ".304”",
+        "L": ".782”",
+        "M": "1.500”",
+        "Color": "Clear"
+      },
+      "dimension_notes": "D = hole diameter",
+      "notes": "Required machining service: Drill Thru on the mounting panel (reference page 11-46)."
+    },
+    {
+      "part_number": "2488-Black",
+      "series": [
+        "15"
+      ],
+      "name": "Roll-In Panel Mount Bracket",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-36",
+      "description": "Anodized 6063-T6 aluminum bracket that rolls into the T-slot and mounts a panel flush with the profile. Panel type and thickness determine the hardware used to mount the panel.",
+      "features": [
+        "Panel type/thickness determines hardware to mount panel",
+        "Mounts panel flush with profile",
+        "Requires drill through / drill through and tap machining (pg. 11-46)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".053 lb",
+      "specs": {
+        "A": "1.805”",
+        "B": ".750”",
+        "C": ".745”",
+        "D": ".328”",
+        "E": "1.500”",
+        "F": "1.305”",
+        "G": ".610”",
+        "H": ".130”",
+        "J": ".476”",
+        "K": ".304”",
+        "L": ".782”",
+        "M": "1.500”",
+        "Color": "Black"
+      },
+      "dimension_notes": "D = hole diameter",
+      "notes": "Required machining service: Drill Thru on the mounting panel (reference page 11-46)."
+    },
+    {
+      "part_number": "2430",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Panel Mount Bracket",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-37",
+      "description": "Anodized 6063-T6 aluminum L-bracket that surface mounts a panel to the profile, fastened to the T-slot or to Ready Tube. Panel type and thickness determine the hardware used to mount the panel.",
+      "features": [
+        "Panel type/thickness determines hardware to mount panel",
+        "Surface mounts panel to profile",
+        "Requires drill through / drill through and tap machining (pg. 11-46)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".019 lb",
+      "specs": {
+        "A": ".500”",
+        "B": ".328”",
+        "C": ".500”",
+        "D": ".125”",
+        "E": "1.000”",
+        "F": "1.000”",
+        "G": ".500”",
+        "H": ".281”",
+        "J": ".250”",
+        "K": ".328”",
+        "Color": "Clear"
+      },
+      "dimension_notes": "B = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 1,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Drill Thru on the mounting panel (reference page 11-46). For mounting to Ready Tube the page suggests 3961 (RT), qty 1, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut."
+    },
+    {
+      "part_number": "2430-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "Panel Mount Bracket",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-37",
+      "description": "Anodized 6063-T6 aluminum L-bracket that surface mounts a panel to the profile, fastened to the T-slot or to Ready Tube. Panel type and thickness determine the hardware used to mount the panel.",
+      "features": [
+        "Panel type/thickness determines hardware to mount panel",
+        "Surface mounts panel to profile",
+        "Requires drill through / drill through and tap machining (pg. 11-46)"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".019 lb",
+      "specs": {
+        "A": ".500”",
+        "B": ".328”",
+        "C": ".500”",
+        "D": ".125”",
+        "E": "1.000”",
+        "F": "1.000”",
+        "G": ".500”",
+        "H": ".281”",
+        "J": ".250”",
+        "K": ".328”",
+        "Color": "Black"
+      },
+      "dimension_notes": "B = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 1,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Required machining service: Drill Thru on the mounting panel (reference page 11-46). For mounting to Ready Tube the page suggests 3961 (RT), qty 1, 5/16-18 x 2.00” BHSCS w/ Washer & Flanged Hex Nut."
+    },
+    {
+      "part_number": "4490",
+      "series": [
+        "15"
+      ],
+      "name": "Single Panel Holder",
+      "category": "panel_mount",
+      "section": "Panels & Doors",
+      "catalog_page": "5-38",
+      "description": "Die-cast zinc, powder-coated clamp that holds a single panel; it includes two sides and the bolt that connects them, and mounts to the T-slot with separately purchased hardware.",
+      "features": [
+        "Includes two sides and bolt to connect them",
+        "Hardware to mount to T-slot not included"
+      ],
+      "material": "Die Cast Zinc",
+      "finish": "Powder Coat",
+      "weight": ".169 lbs",
+      "specs": {
+        "Type": "Single Panel",
+        "A": "1.772”",
+        "B": ".531”",
+        "C": ".492",
+        "D": ".948”",
+        "E": "M4 hex",
+        "F": ".350”",
+        "G": "1.280”",
+        "H": ".650”",
+        "J": ".787”",
+        "K": ".394”",
+        "L": ".492”",
+        "M": "Ø.217”",
+        "Process": "Die Casting"
+      },
+      "dimension_notes": "E = bolt hex size, M = hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3051",
+          "qty": 1,
+          "description": "10-32 x 5/8” BHSCS",
+          "context": "Mount Clamp to T-Slot"
+        },
+        {
+          "part_number": "3201",
+          "qty": 1,
+          "description": "10-32 Standard T-nut",
+          "context": "Mount Clamp to T-Slot"
+        }
+      ],
+      "notes": "Row is badged 10 and 15; the 15-series mounting hardware is listed above (10 series uses 3050 bolt and 3205 T-nut). Hardware to mount to T-slot not included. C is printed as .492 without an inch mark. Weight .169 lbs is printed once in the material table shared with 65-4490."
+    }
+  ],
+  "page_notes": {
+    "397": "5-31 Drop-In Lite Panel Mount Block: six 15/40-badged rows extracted (14139, 14186, 14142, 14143, 14167, 14191); metric-only rows skipped.",
+    "398": "5-32 Lite Panel Mount Block: 12050 and 14192 (merged 15/30/40/45 badge) extracted with suggested hardware 3408; metric hardware rows skipped.",
+    "399": "5-33 Lite Panel Mount Block Spacer: 12051, 12053, 12055 (merged 15/30/40/45 badge) extracted.",
+    "400": "5-34 Adjustable Panel Mount Block: 12057 and 12058 (15/40 badge, two-part table merged) extracted with suggested hardware 75-3627.",
+    "401": "5-35 Quick Change Panel Clamp: 2421, 2422, 2423 (15) extracted; 40-24xx metric rows skipped.",
+    "402": "5-36 Roll-In Panel Mount Bracket: 2488 and 2488-Black (15) extracted; 10-series and metric rows skipped.",
+    "403": "5-37 Panel Mount Bracket: 2430 and 2430-Black (15/RT) extracted with suggested hardware 3319; 10-series, metric and metric/RT rows skipped.",
+    "404": "5-38 Single Panel Holder: 4490 (10/15) extracted with 15-series hardware 3051 and 3201; 65-4490 metric skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "14139: specs key 'K (Thread)' -> 'K' (table column header is 'K'; 'Thread' is the drawing callout)",
+      "14186: specs key 'K (Thread)' -> 'K' (table column header is 'K'; 'Thread' is the drawing callout)",
+      "14142: specs key 'K (Thread)' -> 'K' (table column header is 'K'; 'Thread' is the drawing callout)",
+      "14143: specs key 'K (Thread)' -> 'K' (table column header is 'K'; 'Thread' is the drawing callout)",
+      "14167: specs key 'K (Thread)' -> 'K' (table column header is 'K'; 'Thread' is the drawing callout)",
+      "14191: specs key 'K (Thread)' -> 'K' (table column header is 'K'; 'Thread' is the drawing callout)",
+      "12050: specs key 'H (Thread)' -> 'H' (table column header is 'H'; 'Thread' is the drawing callout)",
+      "14192: specs key 'H (Thread)' -> 'H' (table column header is 'H'; 'Thread' is the drawing callout)",
+      "12057: specs.Process (missing) -> 'Die Cast' (from Material Specifications table, consistent with other parts in chunk)",
+      "12058: specs.Process (missing) -> 'Die Cast' (from Material Specifications table, consistent with other parts in chunk)"
+    ],
+    "remaining_doubts": [
+      "12058 is printed as '12058*'; the asterisk is a footnote marker (comes with adjustable anti-rotation clip) and was dropped from part_number, noted in notes.",
+      "14186 weight printed as .0998 kg, about ten times the sibling rows; kept verbatim as printed.",
+      "5-33 spacer drawing labels F twice (thickness and 'TYP (RADIUS)') and has no E label; E/F/G meanings left undefined.",
+      "5-37 Ready Tube hardware 3961 is RT-only, so it is kept in notes of 2430/2430-Black rather than suggested_hardware, even though those parts carry an RT badge.",
+      "Panel Mount Block Milling and Drill Thru machining services on these pages have no service number and no 15 badge, so no machining_service parts were created."
+    ]
+  }
+}

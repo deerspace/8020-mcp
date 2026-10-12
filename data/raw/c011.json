@@ -1,0 +1,697 @@
+{
+  "chunk": "c011",
+  "pages": [
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233
+  ],
+  "parts": [
+    {
+      "part_number": "4312",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "7 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-62",
+      "description": "7-hole tee-shaped flat plate in 6063-T6 aluminum with clear anodize finish, 6.000” x 6.000”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 7 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".604 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "6.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 7,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 7 suggested bolt and T-nut sets (one per hole). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 7, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4312-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "7 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-62",
+      "description": "7-hole tee-shaped flat plate in 6063-T6 aluminum with black anodize finish, 6.000” x 6.000”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 7 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".604 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "6.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 7,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 7 suggested bolt and T-nut sets (one per hole). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 7, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4355",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-63",
+      "description": "8-hole tee-shaped flat plate in 6063-T6 aluminum with clear anodize finish, 4.500” x 6.000”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 8 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".514 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "6.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "3.000”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 8 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4355-Black",
+      "series": [
+        "15"
+      ],
+      "name": "8 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-63",
+      "description": "8-hole tee-shaped flat plate in 6063-T6 aluminum with black anodize finish, 4.500” x 6.000”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 8 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".514 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "6.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "3.000”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 8,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 8 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4421",
+      "series": [
+        "15"
+      ],
+      "name": "11 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-64",
+      "description": "11-hole tee-shaped flat plate in 6063-T6 aluminum with clear anodize finish, 4.500” x 7.500”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 11 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".671 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "4.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 11,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 11 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4421-Black",
+      "series": [
+        "15"
+      ],
+      "name": "11 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-64",
+      "description": "11-hole tee-shaped flat plate in 6063-T6 aluminum with black anodize finish, 4.500” x 7.500”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 11 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".671 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "4.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 11,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 11 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4325",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-65",
+      "description": "12-hole tee-shaped flat plate in 6063-T6 aluminum with clear anodize finish, 6.000” x 6.000”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 12 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".728 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "6.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "3.000”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 12 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4325-Black",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-65",
+      "description": "12-hole tee-shaped flat plate in 6063-T6 aluminum with black anodize finish, 6.000” x 6.000”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 12 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".728 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "6.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "3.000”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 12 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4422",
+      "series": [
+        "15"
+      ],
+      "name": "16 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-66",
+      "description": "16-hole tee-shaped flat plate in 6063-T6 aluminum with clear anodize finish, 6.000” x 7.500”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 16 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".935 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "4.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 16,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 16 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4422-Black",
+      "series": [
+        "15"
+      ],
+      "name": "16 Hole - Tee Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-66",
+      "description": "16-hole tee-shaped flat plate in 6063-T6 aluminum with black anodize finish, 6.000” x 7.500”, for joining 15 series T-slot profiles; mounts to 15 series T-slots with 16 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".935 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "4.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width (base), C = hole center-to-center spacing (typ), D = hole center to edge (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edge of the base section, H = width of the top (narrow) edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 16,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 16 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4335",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "7 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-67",
+      "description": "7-hole cross-shaped (4-way) flat plate in 6063-T6 aluminum with clear anodize finish, 4.500” x 7.500”, for joining 15 series T-slot profiles at a 4-way connection hub; mounts to 15 series T-slots with 7 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".569 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = distance from the end of a straight side edge to the nearest hole row center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the top edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 7,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 7 suggested bolt and T-nut sets (one per hole). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 7, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4335-Black",
+      "series": [
+        "15",
+        "RT"
+      ],
+      "name": "7 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-67",
+      "description": "7-hole cross-shaped (4-way) flat plate in 6063-T6 aluminum with black anodize finish, 4.500” x 7.500”, for joining 15 series T-slot profiles at a 4-way connection hub; mounts to 15 series T-slots with 7 suggested 3320 bolt and economy T-nut assemblies or to Ready Tube.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".569 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "1.500”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = distance from the end of a straight side edge to the nearest hole row center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the top edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 7,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 7 suggested bolt and T-nut sets (one per hole). Suggested Hardware (Mount to Ready Tube): 3960 (RT), qty 7, 5/16-18 x 2.00” Flange Hex Head Bolt w/ Flanged Hex Nut."
+    },
+    {
+      "part_number": "4360",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-68",
+      "description": "12-hole cross-shaped (4-way) flat plate in 6063-T6 aluminum with clear anodize finish, 6.000” x 7.500”, for joining 15 series T-slot profiles at a 4-way connection hub; mounts to 15 series T-slots with 12 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": ".860 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = distance from the end of a straight side edge to the nearest hole row center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the top edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 12 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4360-Black",
+      "series": [
+        "15"
+      ],
+      "name": "12 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-68",
+      "description": "12-hole cross-shaped (4-way) flat plate in 6063-T6 aluminum with black anodize finish, 6.000” x 7.500”, for joining 15 series T-slot profiles at a 4-way connection hub; mounts to 15 series T-slots with 12 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": ".860 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "7.500”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "1.500”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = distance from the end of a straight side edge to the nearest hole row center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the top edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 12,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 12 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4370",
+      "series": [
+        "15"
+      ],
+      "name": "16 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-69",
+      "description": "16-hole cross-shaped (4-way) flat plate in 6063-T6 aluminum with clear anodize finish, 6.000” x 9.000”, for joining 15 series T-slot profiles at a 4-way connection hub; mounts to 15 series T-slots with 16 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Clear Anodize",
+      "weight": "1.040 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "9.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "3.000”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = distance from the end of a straight side edge to the nearest hole row center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the top edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 16,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 16 suggested bolt and T-nut sets (one per hole)."
+    },
+    {
+      "part_number": "4370-Black",
+      "series": [
+        "15"
+      ],
+      "name": "16 Hole - Cross Flat Plate",
+      "category": "bracket_plate",
+      "section": "External Fasteners",
+      "catalog_page": "4-69",
+      "description": "16-hole cross-shaped (4-way) flat plate in 6063-T6 aluminum with black anodize finish, 6.000” x 9.000”, for joining 15 series T-slot profiles at a 4-way connection hub; mounts to 15 series T-slots with 16 suggested 3320 bolt and economy T-nut assemblies.",
+      "features": [
+        "No machining required",
+        "Pre-load to simplify assembly",
+        "Reconfigurable, reusable",
+        "Join more than two profiles",
+        "Creates 4-way connection hub"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Black Anodize",
+      "weight": "1.040 lb",
+      "specs": {
+        "A": "6.000”",
+        "B": "9.000”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": ".328”",
+        "F": ".250”",
+        "G": "3.000”",
+        "H": "3.000”"
+      },
+      "dimension_notes": "A = overall height, B = overall width, C = hole center-to-center spacing (typ), D = distance from the end of a straight side edge to the nearest hole row center (typ), E = hole diameter (typ), F = plate thickness, G = height of the straight side edges, H = width of the top edge",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 16,
+          "description": "5/16-18 x 11/16” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Mount to T-Slot uses 16 suggested bolt and T-nut sets (one per hole)."
+    }
+  ],
+  "page_notes": {
+    "226": "7 Hole - Tee Flat Plate (4-62): extracted 15/RT rows 4312, 4312-Black; skipped 10-series 4112/4112-Black and metric rows; 3320 (15) T-slot hardware attached, 3960 (RT) Ready Tube hardware noted.",
+    "227": "8 Hole - Tee Flat Plate (4-63): extracted 15 rows 4355, 4355-Black; skipped 10-series 4155/4155-Black and metric rows; 3320 (15) qty 8 attached.",
+    "228": "11 Hole - Tee Flat Plate (4-64): extracted 15 rows 4421, 4421-Black; skipped 10-series 4021/4021-Black; 3320 (15) qty 11 attached.",
+    "229": "12 Hole - Tee Flat Plate (4-65): extracted 15 rows 4325, 4325-Black; skipped 10-series 4125/4125-Black and metric rows; 3320 (15) qty 12 attached.",
+    "230": "16 Hole - Tee Flat Plate (4-66): extracted 15 rows 4422, 4422-Black; skipped 10-series 4022/4022-Black; 3320 (15) qty 16 attached.",
+    "231": "7 Hole - Cross Flat Plate (4-67): extracted 15/RT rows 4335, 4335-Black; skipped 10-series 4135/4135-Black and metric rows; 3320 (15) T-slot hardware attached, 3960 (RT) Ready Tube hardware noted.",
+    "232": "12 Hole - Cross Flat Plate (4-68): extracted 15 rows 4360, 4360-Black; skipped 10-series 4160/4160-Black; 3320 (15) qty 12 attached.",
+    "233": "16 Hole - Cross Flat Plate (4-69): extracted 15 rows 4370, 4370-Black; skipped 10-series 4170/4170-Black and metric rows; 3320 (15) qty 16 attached."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4335: dimension_notes D 'hole center to edge (typ)' -> 'distance from the end of a straight side edge to the nearest hole row center (typ)'; H 'width of the top and bottom edges' -> 'width of the top edge' (drawing dimensions D from the side-edge corner and H only on the top edge)",
+      "4335-Black: dimension_notes D 'hole center to edge (typ)' -> 'distance from the end of a straight side edge to the nearest hole row center (typ)'; H 'width of the top and bottom edges' -> 'width of the top edge' (drawing dimensions D from the side-edge corner and H only on the top edge)",
+      "4360: dimension_notes D 'hole center to edge (typ)' -> 'distance from the end of a straight side edge to the nearest hole row center (typ)'; H 'width of the top and bottom edges' -> 'width of the top edge' (drawing dimensions D from the side-edge corner and H only on the top edge)",
+      "4360-Black: dimension_notes D 'hole center to edge (typ)' -> 'distance from the end of a straight side edge to the nearest hole row center (typ)'; H 'width of the top and bottom edges' -> 'width of the top edge' (drawing dimensions D from the side-edge corner and H only on the top edge)",
+      "4370: dimension_notes D 'hole center to edge (typ)' -> 'distance from the end of a straight side edge to the nearest hole row center (typ)'; H 'width of the top and bottom edges' -> 'width of the top edge' (drawing dimensions D from the side-edge corner and H only on the top edge)",
+      "4370-Black: dimension_notes D 'hole center to edge (typ)' -> 'distance from the end of a straight side edge to the nearest hole row center (typ)'; H 'width of the top and bottom edges' -> 'width of the top edge' (drawing dimensions D from the side-edge corner and H only on the top edge)"
+    ],
+    "remaining_doubts": [
+      "3960 (RT-only) Ready Tube mounting hardware for 4312/4312-Black and 4335/4335-Black is recorded in notes rather than suggested_hardware, since only 15/F hardware rows are attached.",
+      "'one per hole' in notes is inferred from the suggested qty matching the hole count in the title; the page does not state it explicitly."
+    ]
+  }
+}

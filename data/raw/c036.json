@@ -1,0 +1,865 @@
+{
+  "chunk": "c036",
+  "pages": [
+    447,
+    448,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455
+  ],
+  "parts": [
+    {
+      "part_number": "2842",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Lift-Off Hinge Assembly - Right Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-81",
+      "description": "Economy lift-off hinge assembly, right-hand version, for 15 series T-slot profiles. Aluminum leaves and pin, mounted to the T-slot.",
+      "material": "Aluminum",
+      "alloy": "5052-H32 = Leaf, 6061-T6 = Pin",
+      "finish": "Clear Anodize",
+      "weight": ".270 lb",
+      "specs": {
+        "Orientation": "Right Hinge",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 8,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "* Hinge assemblies include (2) hinges; one long pin, and one short pin. Left-hand counterpart is 2836; metric equivalent shown as 40-2842."
+    },
+    {
+      "part_number": "2836",
+      "series": [
+        "15"
+      ],
+      "name": "Economy Lift-Off Hinge Assembly - Left Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-81",
+      "description": "Economy lift-off hinge assembly, left-hand version, for 15 series T-slot profiles. Aluminum leaves and pin, mounted to the T-slot.",
+      "material": "Aluminum",
+      "alloy": "5052-H32 = Leaf, 6061-T6 = Pin",
+      "finish": "Clear Anodize",
+      "weight": ".270 lb",
+      "specs": {
+        "Orientation": "Left Hinge",
+        "Process": "Milled"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "3319",
+          "qty": 8,
+          "description": "5/16-18 x 1/2 FBHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "* Hinge assemblies include (2) hinges; one long pin, and one short pin. Right-hand counterpart is 2842; metric equivalent shown as 40-2836."
+    },
+    {
+      "part_number": "2327",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Concealed Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-82",
+      "description": "Four-hole concealed aluminum hinge that mounts to the inside of the frame. It cannot be dismantled while the door is shut.",
+      "features": [
+        "Hinge mounts to inside of frame and is not able to be dismantled when door is shut"
+      ],
+      "material": "Aluminum",
+      "alloy": "6060",
+      "finish": "Clear Anodize",
+      "weight": ".055 lb",
+      "specs": {
+        "A": "3.976\"",
+        "B": "1.969\"",
+        "C": "1.181\"",
+        "D": ".252\"",
+        "E": ".984\"",
+        "F": "1.654\"",
+        "G": "3.307\"",
+        "H": ".394\"",
+        "J*": ".157\"",
+        "Process": "Extruded"
+      },
+      "dimension_notes": "A = overall length, B = leaf length (TYP), C = hole spacing (TYP), G = overall height, ø D = hole diameter (TYP), ø H = knuckle diameter, J = leaf thickness / hinge gap",
+      "suggested_hardware": [
+        {
+          "part_number": "11-6714",
+          "qty": 4,
+          "description": "M6 x 14mm FHSCS",
+          "context": "Mount to T-Slot"
+        },
+        {
+          "part_number": "3836",
+          "qty": 4,
+          "description": "Slide-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "*Dimension “J” also defines the hinge gap between two profiles. Row is badged both 15 and metric 40."
+    },
+    {
+      "part_number": "12119",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, left hand, without slot tab. Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0404 kg",
+      "specs": {
+        "Orientation": "Left Hand",
+        "Max Load": "25 ft-Lbs.",
+        "Slot Tab": "—",
+        "A": "40.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "35.50mm",
+        "E": "20.00mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "8.70mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Left Hand: pin on the left, door opens right to left. Max Load cell for this group is printed only as 25 ft-Lbs. (no Nm value). Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12120",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, left hand, with 8.00mm slot tab for alignment. Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0399 kg",
+      "specs": {
+        "Orientation": "Left Hand",
+        "Max Load": "25 ft-Lbs.",
+        "Slot Tab": "8.00mm",
+        "A": "40.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "35.50mm",
+        "E": "20.00mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.90mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Left Hand: pin on the left, door opens right to left. Max Load cell for this group is printed only as 25 ft-Lbs. (no Nm value). Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12122",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, right hand, without slot tab. Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0403 kg",
+      "specs": {
+        "Orientation": "Right Hand",
+        "Max Load": "25 ft-Lbs.",
+        "Slot Tab": "—",
+        "A": "40.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "35.50mm",
+        "E": "20.00mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.90mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Right Hand: pin on the right, door opens left to right. Max Load cell for this group is printed only as 25 ft-Lbs. (no Nm value). Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12123",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, right hand, with 8.00mm slot tab for alignment. Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0399 kg",
+      "specs": {
+        "Orientation": "Right Hand",
+        "Max Load": "25 ft-Lbs.",
+        "Slot Tab": "8.00mm",
+        "A": "40.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "35.50mm",
+        "E": "20.00mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.90mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Right Hand: pin on the right, door opens left to right. Max Load cell for this group is printed only as 25 ft-Lbs. (no Nm value). Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12128",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, left hand, without slot tab (A = 45.00mm). Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0429 kg",
+      "specs": {
+        "Orientation": "Left Hand",
+        "Max Load": "35 Nm / 25 ft-Lbs.",
+        "Slot Tab": "—",
+        "A": "45.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "38.50mm",
+        "E": "22.50mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.90mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Left Hand: pin on the left, door opens right to left. Row is badged both 15 and metric 40. Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12129",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, left hand, with 8.00mm slot tab for alignment (A = 45.00mm). Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0437 kg",
+      "specs": {
+        "Orientation": "Left Hand",
+        "Max Load": "35 Nm / 25 ft-Lbs.",
+        "Slot Tab": "8.00mm",
+        "A": "45.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "38.50mm",
+        "E": "22.50mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.50mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Left Hand: pin on the left, door opens right to left. Row is badged both 15 and metric 40. Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12131",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, right hand, without slot tab (A = 45.00mm). Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0438 kg",
+      "specs": {
+        "Orientation": "Right Hand",
+        "Max Load": "35 Nm / 25 ft-Lbs.",
+        "Slot Tab": "—",
+        "A": "45.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "38.50mm",
+        "E": "22.50mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.60mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Right Hand: pin on the right, door opens left to right. Row is badged both 15 and metric 40. Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12132",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-84",
+      "description": "Four-hole glass-fiber reinforced nylon lift-off hinge, right hand, with 8.00mm slot tab for alignment (A = 45.00mm). Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors",
+        "Available in options with slot tabs for alignment"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".0449 kg",
+      "specs": {
+        "Orientation": "Right Hand",
+        "Max Load": "35 Nm / 25 ft-Lbs.",
+        "Slot Tab": "8.00mm",
+        "A": "45.00mm",
+        "B": "48.00mm",
+        "C": "28.00mm",
+        "D": "38.50mm",
+        "E": "22.50mm",
+        "F": "6.60mm",
+        "G": "8.90mm",
+        "H": "7.00mm",
+        "J": "7.50mm",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel, per leaf"
+        }
+      ],
+      "notes": "Right Hand: pin on the right, door opens left to right. Row is badged both 15 and metric 40. Material specs and hardware on page 5-85."
+    },
+    {
+      "part_number": "12072",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-86",
+      "description": "Two-hole glass-fiber reinforced nylon lift-off hinge, left orientation, for 15 series profiles. Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".046 lb",
+      "specs": {
+        "Orientation": "Left",
+        "Max Load": "20 ft-Lbs.",
+        "A": "1.575”",
+        "B": "1.260”",
+        "C": ".630”",
+        "D": "1.181”",
+        "E": ".787”",
+        "F": ".252”",
+        "G": ".295”",
+        "H": ".295”",
+        "J": ".236”",
+        "K": ".323”",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius, B = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "*The gap distance between profiles is .075” (1.90mm). Right-hand counterpart is 12073."
+    },
+    {
+      "part_number": "12073",
+      "series": [
+        "15"
+      ],
+      "name": "2 Hole - Plastic Lift-Off Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-86",
+      "description": "Two-hole glass-fiber reinforced nylon lift-off hinge, right orientation, for 15 series profiles. Used to connect plastic panels and lightweight doors.",
+      "features": [
+        "Used to connect plastic panels and lightweight doors"
+      ],
+      "material": "Nylon PA Glass Fiber Reinforced",
+      "color": "Black",
+      "weight": ".048 lb",
+      "specs": {
+        "Orientation": "Right",
+        "Max Load": "20 ft-Lbs.",
+        "A": "1.575”",
+        "B": "1.260”",
+        "C": ".630”",
+        "D": "1.181”",
+        "E": ".787”",
+        "F": ".252”",
+        "G": ".295”",
+        "H": ".295”",
+        "J": ".236”",
+        "K": ".323”",
+        "Grade": "PA6GF30",
+        "Process": "Injection Molding"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius, B = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-in T-Nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "*The gap distance between profiles is .075” (1.90mm). Left-hand counterpart is 12072."
+    },
+    {
+      "part_number": "12068",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Adjustable Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-87",
+      "description": "Four-hole die-cast zinc adjustable hinge, universal version. Slotted holes allow fastening adjustments.",
+      "features": [
+        "Universal, vertical and horizontal versions available",
+        "Slotted holes support fastening adjustments"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coated",
+      "weight": ".2082 kg",
+      "specs": {
+        "Orientation": "Universal",
+        "Max Load": "300 Nm / 221 ft-Lbs.",
+        "A": "42.00mm",
+        "B": "60.00mm",
+        "C": "34.00mm",
+        "D": "38.00mm",
+        "E": "21.15mm",
+        "F": "6.50mm",
+        "G": "8.50mm",
+        "H": "8.00mm",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "ø F = hole diameter, B = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-In T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel ≤ .250” / 6mm, per leaf"
+        }
+      ],
+      "notes": "Row is badged both 15 and metric 40. Max Load cell is shared by 12068, 12069 and 12070."
+    },
+    {
+      "part_number": "12069",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Adjustable Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-87",
+      "description": "Four-hole die-cast zinc adjustable hinge, vertical version. Slotted holes allow fastening adjustments.",
+      "features": [
+        "Universal, vertical and horizontal versions available",
+        "Slotted holes support fastening adjustments"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coated",
+      "weight": ".2075 kg",
+      "specs": {
+        "Orientation": "Vertical",
+        "Max Load": "300 Nm / 221 ft-Lbs.",
+        "A": "42.00mm",
+        "B": "60.00mm",
+        "C": "34.00mm",
+        "D": "38.00mm",
+        "E": "21.00mm",
+        "F": "6.00mm",
+        "G": "8.50mm",
+        "H": "8.00mm",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "ø F = hole diameter, B = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-In T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel ≤ .250” / 6mm, per leaf"
+        }
+      ],
+      "notes": "Row is badged both 15 and metric 40. Max Load cell is shared by 12068, 12069 and 12070."
+    },
+    {
+      "part_number": "12070",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Adjustable Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-87",
+      "description": "Four-hole die-cast zinc adjustable hinge, horizontal version. Slotted holes allow fastening adjustments.",
+      "features": [
+        "Universal, vertical and horizontal versions available",
+        "Slotted holes support fastening adjustments"
+      ],
+      "material": "Zinc",
+      "finish": "Black Powder Coated",
+      "weight": ".2048 kg",
+      "specs": {
+        "Orientation": "Horizontal",
+        "Max Load": "300 Nm / 221 ft-Lbs.",
+        "A": "42.00mm",
+        "B": "60.00mm",
+        "C": "34.00mm",
+        "D": "38.00mm",
+        "E": "21.00mm",
+        "F": "6.50mm",
+        "G": "8.50mm",
+        "H": "8.00mm",
+        "Grade": "Die-Cast",
+        "Process": "Die-Casting"
+      },
+      "dimension_notes": "ø F = hole diameter, B = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "75-3628",
+          "qty": 2,
+          "description": "M6 x 18mm FHSCS, Drop-In T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "75-3589",
+          "qty": 2,
+          "description": "M6 x 20mm FHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel ≤ .250” / 6mm, per leaf"
+        }
+      ],
+      "notes": "Row is badged both 15 and metric 40. Max Load cell is shared by 12068, 12069 and 12070."
+    },
+    {
+      "part_number": "2080",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Adjustable Tension Panel Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-88",
+      "description": "Four-hole engineered polymer panel hinge with adjustable pins that set the pivot tension when opening or closing an access point. Intended for mounting a panel to a T-slot profile, not for joining two profiles.",
+      "features": [
+        "Adjustable pins for pivot tension when opening or closing an access point",
+        "Not suitable for connecting multiple T-slot profiles"
+      ],
+      "material": "Engineered Polymer",
+      "finish": "Matte Black",
+      "weight": ".094 lb",
+      "specs": {
+        "Process": "Injection Molded",
+        "A": "1.500”",
+        "B": "2.500”",
+        "C": "1.875”",
+        "D": "1.125”",
+        "E": ".750”",
+        "F": ".328”",
+        "G": ".406”",
+        "H": ".360”",
+        "J": ".203”"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius, B = overall width",
+      "suggested_hardware": [
+        {
+          "part_number": "3365",
+          "qty": 2,
+          "description": "5/16-18 x 5/8 BHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "3442",
+          "qty": 2,
+          "description": "5/16-18 x 3/4 BHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel ≤ .250” / 6mm, per leaf"
+        }
+      ],
+      "notes": "Not suitable for connecting multiple T-slot profiles. Material, Finish and Process cells are shared with 2081, 25-2081 and 40-2080."
+    },
+    {
+      "part_number": "2091",
+      "series": [
+        "15"
+      ],
+      "name": "4 Hole - Detent Hinge",
+      "category": "hinge",
+      "section": "Panels & Doors",
+      "catalog_page": "5-89",
+      "description": "Four-hole detent hinge with block for connecting plastic panels and doors to 15 series T-slot profiles. The detent holds doors open at 120 or 170 degrees.",
+      "features": [
+        "Used to connect plastic panels and doors to T-slot profiles",
+        "Holds doors open at 120 or 170 degrees",
+        "Not suitable for connecting multiple T-slot profiles"
+      ],
+      "material": "Acetal/SS ball/Spring Detent; Aluminum",
+      "color": "Black",
+      "weight": ".137 lb",
+      "specs": {
+        "A": "1.339”",
+        "B": "1.957”",
+        "C": "1.339”",
+        "D": "1.122”",
+        "E": ".677”",
+        "F": ".205”",
+        "G": ".358”",
+        "H": ".350”",
+        "J": "1.122”",
+        "K": "2.047”"
+      },
+      "dimension_notes": "ø F = hole diameter, R. H = knuckle radius",
+      "suggested_hardware": [
+        {
+          "part_number": "3487",
+          "qty": 2,
+          "description": "10-32 x 1/2 BHSCS, Economy T-Nut",
+          "context": "Mount to T-Slot, per leaf"
+        },
+        {
+          "part_number": "3488",
+          "qty": 2,
+          "description": "10-32 x 5/8 BHSCS, Hex Nut, Washer",
+          "context": "Mount to Panel ≤ .250” / 6mm, per leaf"
+        }
+      ],
+      "notes": "Material Specifications for Hinge & Block: Acetal/SS ball/Spring Detent, Alloy -, Finish Plastic, Process Injection Molded; Aluminum, Alloy 6063-T6, Finish Anodize, Process Extruded (the table does not label which row is the hinge and which the block). Drawing shows the 15 & 40 Series design. Not suitable for connecting multiple T-slot profiles."
+    }
+  ],
+  "page_notes": {
+    "447": "Economy Lift-Off Hinge Assembly (5-81): 15 series rows 2842 (right) and 2836 (left) extracted with suggested hardware 3319; 10-series and metric rows skipped.",
+    "448": "4 Hole - Concealed Hinge (5-82): only 2327 carries a 15 badge (with 40); extracted with 15-series suggested hardware 11-6714 + 3836; other rows are 10/metric only.",
+    "450": "4 Hole - Plastic Lift-Off Hinge (5-84): 15 series rows 12119, 12120, 12122, 12123 and 15/40 rows 12128, 12129, 12131, 12132 extracted; 10/25, 30 and 45 rows skipped.",
+    "451": "4 Hole - Plastic Lift-Off Hinge (Continued) (5-85): material specs and suggested hardware only (75-3628 T-slot, 75-3589 panel); applied to the 15 series hinges from 5-84, no standalone parts.",
+    "452": "2 Hole - Plastic Lift-Off Hinge (5-86): 15 series 12072 (left) and 12073 (right) extracted with suggested hardware 75-3628.",
+    "453": "4 Hole - Adjustable Hinge (5-87): 15/40 rows 12068 (universal), 12069 (vertical), 12070 (horizontal) extracted with suggested hardware 75-3628 and 75-3589.",
+    "454": "4 Hole - Adjustable Tension Panel Hinge (5-88): 15 series 2080 extracted with suggested hardware 3365 and 3442; 2081 (10) and metric rows skipped.",
+    "455": "4 Hole - Detent Hinge (5-89): 15 series 2091 extracted with suggested hardware 3487 and 3488; 2071 (10) and metric rows skipped."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "12128: description '45mm size' -> '(A = 45.00mm)' (avoid implying 45 series)",
+      "12129: description '45mm size' -> '(A = 45.00mm)' (avoid implying 45 series)",
+      "12131: description '45mm size' -> '(A = 45.00mm)' (avoid implying 45 series)",
+      "12132: description '45mm size' -> '(A = 45.00mm)' (avoid implying 45 series)"
+    ],
+    "remaining_doubts": [
+      "12119/12120/12122/12123: the merged Max Load cell on 5-84 prints only '25 ft-Lbs.' with no Nm value (other groups show 'Nm / ft-Lbs.'); kept verbatim.",
+      "2091: Material Specifications for Hinge & Block lists two rows (Acetal/SS ball/Spring Detent; Aluminum 6063-T6 Anodize) without saying which is the hinge and which the block; kept both in material/notes.",
+      "dimension_notes letter meanings (e.g. 2327 J = leaf thickness / hinge gap, R. H = knuckle radius) are read from the drawings, not stated in text."
+    ]
+  }
+}

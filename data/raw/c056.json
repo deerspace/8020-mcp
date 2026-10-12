@@ -1,0 +1,785 @@
+{
+  "chunk": "c056",
+  "pages": [
+    632,
+    633,
+    634,
+    635,
+    636,
+    637,
+    638,
+    639
+  ],
+  "parts": [
+    {
+      "part_number": "4333",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Left Hand Bracket Plate",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-78",
+      "description": "Left hand 90 degree bracket plate with a lubricated bronze bushing and a curved slot, providing a full 90 degrees of axial motion.",
+      "features": [
+        "Includes lubricated bronze bushing",
+        "Provides a full 90 degrees of axial motion"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".335 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".328”",
+        "E": ".375”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".220”"
+      },
+      "dimension_notes": "A = overall plate width (TYP), C = hole spacing (TYP), D = mounting hole diameter, ø E = bushing/pivot hole diameter, F = slot width, G = plate thickness (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Component plate used in the 4339, 4342, 4317, 4319 and 4318 pivot bracket assemblies. Right hand version is 4337."
+    },
+    {
+      "part_number": "4333-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Left Hand Bracket Plate",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-78",
+      "description": "Black left hand 90 degree bracket plate with a lubricated bronze bushing and a curved slot, providing a full 90 degrees of axial motion.",
+      "features": [
+        "Includes lubricated bronze bushing",
+        "Provides a full 90 degrees of axial motion"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".335 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".328”",
+        "E": ".375”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".220”"
+      },
+      "dimension_notes": "A = overall plate width (TYP), C = hole spacing (TYP), D = mounting hole diameter, ø E = bushing/pivot hole diameter, F = slot width, G = plate thickness (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4333. Right hand version is 4337-Black."
+    },
+    {
+      "part_number": "4337",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Hand Bracket Plate",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-78",
+      "description": "Right hand 90 degree bracket plate with a lubricated bronze bushing and a curved slot, providing a full 90 degrees of axial motion.",
+      "features": [
+        "Includes lubricated bronze bushing",
+        "Provides a full 90 degrees of axial motion"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".334 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".328”",
+        "E": ".375”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".220”"
+      },
+      "dimension_notes": "A = overall plate width (TYP), C = hole spacing (TYP), D = mounting hole diameter, ø E = bushing/pivot hole diameter, F = slot width, G = plate thickness (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Component plate used in the 4348, 4347, 4317, 4319 and 4318 pivot bracket assemblies. Left hand version is 4333."
+    },
+    {
+      "part_number": "4337-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Hand Bracket Plate",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-78",
+      "description": "Black right hand 90 degree bracket plate with a lubricated bronze bushing and a curved slot, providing a full 90 degrees of axial motion.",
+      "features": [
+        "Includes lubricated bronze bushing",
+        "Provides a full 90 degrees of axial motion"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".334 lb",
+      "specs": {
+        "A": "4.500”",
+        "B": ".750”",
+        "C": "1.500”",
+        "D": ".328”",
+        "E": ".375”",
+        "F": ".328”",
+        "G": ".250”",
+        "H": ".220”"
+      },
+      "dimension_notes": "A = overall plate width (TYP), C = hole spacing (TYP), D = mounting hole diameter, ø E = bushing/pivot hole diameter, F = slot width, G = plate thickness (side view)",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4337. Left hand version is 4333-Black."
+    },
+    {
+      "part_number": "4339",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Left Hand Pivot Bracket Assembly with “L” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-79",
+      "description": "Left hand 90 degree pivot bracket assembly made of a bracket plate, nub and “L” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.029 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (1)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "4.015”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly contains 4333 plate (1), 4387 nub (1) and 2797 handle (1). Right hand version is 4348."
+    },
+    {
+      "part_number": "4339-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Left Hand Pivot Bracket Assembly with “L” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-79",
+      "description": "Black left hand 90 degree pivot bracket assembly made of a bracket plate, nub and “L” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.029 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (1)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "4.015”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4339. The table lists the same component numbers as the clear version: 4333 plate (1), 4387 nub (1), 2797 handle (1). Right hand version is 4348-Black."
+    },
+    {
+      "part_number": "4342",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Left Hand Pivot Bracket Assembly with “T” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-80",
+      "description": "Left hand 90 degree pivot bracket assembly made of a bracket plate, nub and “T” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".789 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2799 (1)",
+        "A": "2.490”",
+        "B": "3.102”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly contains 4333 plate (1), 4387 nub (1) and 2799 handle (1). Right hand version is 4347."
+    },
+    {
+      "part_number": "4342-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Left Hand Pivot Bracket Assembly with “T” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-80",
+      "description": "Black left hand 90 degree pivot bracket assembly made of a bracket plate, nub and “T” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".789 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2799 (1)",
+        "A": "2.490”",
+        "B": "3.102”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4342. The table lists the same component numbers as the clear version: 4333 plate (1), 4387 nub (1), 2799 handle (1). Right hand version is 4347-Black."
+    },
+    {
+      "part_number": "4348",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Hand Pivot Bracket Assembly with “L” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-81",
+      "description": "Right hand 90 degree pivot bracket assembly made of a bracket plate, nub and “L” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.018 lb",
+      "specs": {
+        "Plate (Qty.)": "4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (1)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "4.015”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly contains 4337 plate (1), 4387 nub (1) and 2797 handle (1). Left hand version is 4339."
+    },
+    {
+      "part_number": "4348-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Hand Pivot Bracket Assembly with “L” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-81",
+      "description": "Black right hand 90 degree pivot bracket assembly made of a bracket plate, nub and “L” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.018 lb",
+      "specs": {
+        "Plate (Qty.)": "4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (1)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "4.015”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4348. The table lists the same component numbers as the clear version: 4337 plate (1), 4387 nub (1), 2797 handle (1). Left hand version is 4339-Black."
+    },
+    {
+      "part_number": "4347",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Hand Pivot Bracket Assembly with “T” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-82",
+      "description": "Right hand 90 degree pivot bracket assembly made of a bracket plate, nub and “T” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".789 lb",
+      "specs": {
+        "Plate (Qty.)": "4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2799 (1)",
+        "A": "2.490”",
+        "B": "3.102”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly contains 4337 plate (1), 4387 nub (1) and 2799 handle (1). Left hand version is 4342."
+    },
+    {
+      "part_number": "4347-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Right Hand Pivot Bracket Assembly with “T” Handle",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-82",
+      "description": "Black right hand 90 degree pivot bracket assembly made of a bracket plate, nub and “T” handle; it includes a lubricated bronze bushing, nylon thrust washers and shoulder bolt.",
+      "features": [
+        "Includes lubricated bronze bushing, nylon thrust washers and shoulder bolt"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".789 lb",
+      "specs": {
+        "Plate (Qty.)": "4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2799 (1)",
+        "A": "2.490”",
+        "B": "3.102”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 3,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4347. The table lists the same component numbers as the clear version: 4337 plate (1), 4387 nub (1), 2799 handle (1). Left hand version is 4342-Black."
+    },
+    {
+      "part_number": "4317",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-83",
+      "description": "Double 90 degree pivot bracket assembly with a left and a right hand bracket plate on one nub and two “L” handles; it includes lubricated bronze bushings, nylon thrust washers and shoulder bolts.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "1.721 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "6.530”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly contains 4333 plate (1), 4337 plate (1), 4387 nub (1) and 2797 handles (2)."
+    },
+    {
+      "part_number": "4317-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-83",
+      "description": "Black double 90 degree pivot bracket assembly with a left and a right hand bracket plate on one nub and two “L” handles; it includes lubricated bronze bushings, nylon thrust washers and shoulder bolts.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "1.721 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "1.500”",
+        "C": "6.530”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4317. The table lists the same component numbers as the clear version: 4333 plate (1), 4337 plate (1), 4387 nub (1), 2797 handles (2)."
+    },
+    {
+      "part_number": "4319",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Double Pivot Bracket Assembly with “T” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-84",
+      "description": "Double 90 degree pivot bracket assembly with a left and a right hand bracket plate on one nub and two “T” handles; it includes lubricated bronze bushings, nylon thrust washers and shoulder bolts.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": ".964 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2799 (2)",
+        "A": "2.490”",
+        "B": "4.704”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly contains 4333 plate (1), 4337 plate (1), 4387 nub (1) and 2799 handles (2). Printed weight (.964 lb) is lower than the single T handle assemblies 4342/4347 (.789 lb each) would suggest; copied as printed."
+    },
+    {
+      "part_number": "4319-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Double Pivot Bracket Assembly with “T” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-84",
+      "description": "Black double 90 degree pivot bracket assembly with a left and a right hand bracket plate on one nub and two “T” handles; it includes lubricated bronze bushings, nylon thrust washers and shoulder bolts.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": ".964 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4387 (1)",
+        "Handle (Qty.)": "2799 (2)",
+        "A": "2.490”",
+        "B": "4.704”",
+        "C": "1.500”",
+        "D": ".750”",
+        "E": "4.500”",
+        "F": "5.245”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4319. The table lists the same component numbers as the clear version: 4333 plate (1), 4337 plate (1), 4387 nub (1), 2799 handles (2)."
+    },
+    {
+      "part_number": "4318",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Wide Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-85",
+      "description": "Wide double 90 degree pivot bracket assembly with a left and a right hand bracket plate on one 4386 nub and two “L” handles; it includes lubricated bronze bushings, nylon thrust washers and shoulder bolts.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Clear",
+      "weight": "2.053 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4386 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "3.000”",
+        "C": "8.030”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Assembly contains 4333 plate (1), 4337 plate (1), 4386 nub (1) and 2797 handles (2). Uses the 4386 nub instead of the 4387 nub used in 4317."
+    },
+    {
+      "part_number": "4318-Black",
+      "series": [
+        "15"
+      ],
+      "name": "90 Degree Wide Double Pivot Bracket Assembly with “L” Handles",
+      "category": "bracket_plate",
+      "section": "Motion Systems",
+      "catalog_page": "7-85",
+      "description": "Black wide double 90 degree pivot bracket assembly with a left and a right hand bracket plate on one 4386 nub and two “L” handles; it includes lubricated bronze bushings, nylon thrust washers and shoulder bolts.",
+      "features": [
+        "Includes lubricated bronze bushings, nylon thrust washers and shoulder bolts"
+      ],
+      "material": "Aluminum",
+      "alloy": "6063-T6",
+      "finish": "Anodize",
+      "color": "Black",
+      "weight": "2.053 lb",
+      "specs": {
+        "Plate (Qty.)": "4333 (1) 4337 (1)",
+        "Nub (Qty.)": "4386 (1)",
+        "Handle (Qty.)": "2797 (2)",
+        "A": "3.505”",
+        "B": "3.000”",
+        "C": "8.030”",
+        "D": ".871”",
+        "E": "4.500”",
+        "F": "6.820”",
+        "G": ".328”",
+        "H": "3.750”"
+      },
+      "dimension_notes": "ø G = mounting hole diameter",
+      "suggested_hardware": [
+        {
+          "part_number": "3320",
+          "qty": 6,
+          "description": "5/16-18 x 5/8” FBHSCS, Economy T-nut",
+          "context": "Mount to T-Slot"
+        }
+      ],
+      "notes": "Black version of 4318. The table lists the same component numbers as the clear version: 4333 plate (1), 4337 plate (1), 4386 nub (1), 2797 handles (2)."
+    }
+  ],
+  "page_notes": {
+    "632": "90 Degree Bracket Plate (Motion Systems): left hand 4333/4333-Black and right hand 4337/4337-Black are 15 series; 10 series and metric rows skipped; suggested hardware 3320 attached.",
+    "633": "90 Degree Left Hand Pivot Bracket Assembly with L Handle: 4339 and 4339-Black (15 series) extracted; 10 series and metric rows skipped.",
+    "634": "90 Degree Left Hand Pivot Bracket Assembly with T Handle: 4342 and 4342-Black (15 series) extracted; 10 series rows skipped.",
+    "635": "90 Degree Right Hand Pivot Bracket Assembly with L Handle: 4348 and 4348-Black (15 series) extracted; 10 series and metric rows skipped.",
+    "636": "90 Degree Right Hand Pivot Bracket Assembly with T Handle: 4347 and 4347-Black (15 series) extracted; 10 series rows skipped.",
+    "637": "90 Degree Double Pivot Bracket Assembly with L Handles: 4317 and 4317-Black (15 series) extracted; 10 series and metric rows skipped; suggested hardware qty 6.",
+    "638": "90 Degree Double Pivot Bracket Assembly with T Handles: 4319 and 4319-Black (15 series) extracted; 10 series rows skipped; suggested hardware qty 6.",
+    "639": "90 Degree Wide Double Pivot Bracket Assembly with L Handles: 4318 and 4318-Black (15 series) extracted; 10 series and metric rows skipped; suggested hardware qty 6."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [
+      "4318: description 'on one wide nub' -> 'on one 4386 nub' (the page does not say the nub is wide)",
+      "4318-Black: description 'on one wide nub' -> 'on one 4386 nub' (the page does not say the nub is wide)"
+    ],
+    "remaining_doubts": [
+      "4319/4319-Black: printed weight .964 lb looks low compared with 4342 (.789 lb) plus a second 4333/4337 plate and 2799 handle; kept as printed.",
+      "Category bracket_plate used for the pivot bracket assemblies (4339, 4342, 4348, 4347, 4317, 4319, 4318); hinge would also be defensible."
+    ]
+  }
+}

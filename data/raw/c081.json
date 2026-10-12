@@ -1,0 +1,104 @@
+{
+  "chunk": "c081",
+  "pages": [
+    867
+  ],
+  "parts": [
+    {
+      "part_number": "AF-TSM",
+      "series": [
+        "15",
+        "P"
+      ],
+      "name": "Stanchion Pipe Mounts - Tee Mount",
+      "category": "pipe_joint",
+      "section": "Pipe & Joint",
+      "catalog_page": "13-38",
+      "description": "Steel tee pipe mount that attaches 28mm Flexpipe piping to 80/20 T-slot profiles. It can be used in horizontal or vertical orientation to mount to flat surfaces, with a self drilling screw securing the pipe.",
+      "features": [
+        "Attaches 28mm piping to 15, 30, 40 & 45 series 80/20 T-slot",
+        "Use self drilling screw to secure pipe",
+        "Use in horizontal or vertical orientation to mount to flat surfaces"
+      ],
+      "material": "Steel",
+      "color": "Bright Zinc",
+      "weight": ".370 lbs (.170 kg)",
+      "specs": {
+        "Description": "Tee Pipe Mount",
+        "Length": "2.756” (70.00mm)",
+        "Width": "1.378” (35.00mm)",
+        "Height": "2.000” (50.80mm)",
+        "Thickness": ".118” (3.00mm)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-8312",
+          "qty": 2,
+          "description": "M8 x 12mm BHSCS",
+          "context": "Mount to T-Slot (15 & 40 series), bolt"
+        },
+        {
+          "part_number": "3842",
+          "qty": 2,
+          "description": "Roll-in Flex Handle",
+          "context": "Mount to T-Slot (15 & 40 series), T-nut"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 and P (Flexpipe). Mount to T-Slot hardware for 15 series: Washer PN column shows \"--\" with Qty. 2 (no washer part number given). Secure to pipe with 1 x F-A858 Self Drilling Screw (sold in box of 100), listed as P-series hardware."
+    },
+    {
+      "part_number": "AF-CSM",
+      "series": [
+        "15",
+        "P"
+      ],
+      "name": "Stanchion Pipe Mounts - Corner Mount",
+      "category": "pipe_joint",
+      "section": "Pipe & Joint",
+      "catalog_page": "13-38",
+      "description": "Steel corner pipe mount that attaches 28mm Flexpipe piping to 80/20 T-slot profiles. It can be used in horizontal or vertical orientation to mount to flat surfaces, with a self drilling screw securing the pipe.",
+      "features": [
+        "Attaches 28mm piping to 15, 30, 40 & 45 series 80/20 T-slot",
+        "Use self drilling screw to secure pipe",
+        "Use in horizontal or vertical orientation to mount to flat surfaces"
+      ],
+      "material": "Steel",
+      "color": "Bright Zinc",
+      "weight": ".520 lbs (0.235 kg)",
+      "specs": {
+        "Description": "Corner Pipe Mount",
+        "Length": "2.480” (63.00mm)",
+        "Width": "2.480” (63.00mm)",
+        "Height": "2.875” (73.03mm)",
+        "Thickness": ".118” (3.00mm)"
+      },
+      "suggested_hardware": [
+        {
+          "part_number": "11-8312",
+          "qty": 2,
+          "description": "M8 x 12mm BHSCS",
+          "context": "Mount to T-Slot (15 & 40 series), bolt"
+        },
+        {
+          "part_number": "3842",
+          "qty": 2,
+          "description": "Roll-in Flex Handle",
+          "context": "Mount to T-Slot (15 & 40 series), T-nut"
+        }
+      ],
+      "notes": "Series badges printed: 15, 30, 40, 45 and P (Flexpipe). Mount to T-Slot hardware for 15 series: Washer PN column shows \"--\" with Qty. 2 (no washer part number given). Secure to pipe with 1 x F-A858 Self Drilling Screw (sold in box of 100), listed as P-series hardware."
+    }
+  ],
+  "page_notes": {
+    "867": "Pipe & Joint (Flexpipe) page 13-38: Stanchion Pipe Mounts AF-TSM / AF-CSM (badged 15/30/40/45/P) extracted; Stanchion Mounts AF-OTM / AF-OSM are P-only and skipped; metric-only (30/45) suggested hardware rows and P-only screw F-A858 not attached as 15/F hardware."
+  },
+  "verification": {
+    "added": [],
+    "removed": [],
+    "corrected": [],
+    "remaining_doubts": [
+      "Mount to T-Slot hardware row for 15/40 series shows Washer PN '--' with Qty. 2; no washer part number is printed, so no washer entry was attached (recorded in notes).",
+      "F-A858 Self Drilling Screw (Secure to Pipe) is badged P only, so it is mentioned in notes but not attached as 15/F suggested_hardware."
+    ]
+  }
+}
